@@ -6460,6 +6460,18 @@
 
     move-result-object p2
 
+    const-string v4, "4"
+
+    invoke-virtual {p2, v4}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v4
+
+    if-eqz v4, :cond_skip_spoof
+
+    const-string p2, "3"
+
+    :cond_skip_spoof
+
     .line 683
     invoke-virtual {p1, p2}, Landroid/hardware/camera2/CameraManager;->getCameraCharacteristics(Ljava/lang/String;)Landroid/hardware/camera2/CameraCharacteristics;
 
