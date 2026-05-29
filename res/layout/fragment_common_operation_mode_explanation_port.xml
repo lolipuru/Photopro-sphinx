@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.Guideline android:orientation="horizontal" android:id="@id/guide" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintGuide_percent="0.33" />
+    <Space android:id="@id/width_guide" android:layout_width="0.0dip" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintDimensionRatio="1:1" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHeight_percent="0.32" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <TextView android:textAppearance="@style/TextAppearance.PhotoPro.Mode.Name" android:id="@id/name" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="@id/width_guide" app:layout_constraintStart_toStartOf="@id/width_guide" app:layout_constraintTop_toTopOf="@id/guide" />
+    <TextView android:textAppearance="@style/TextAppearance.PhotoPro.Mode.Explain" android:id="@id/explanation" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="@dimen/mode_explanation_name_bottom_margin" app:layout_constraintEnd_toEndOf="@id/width_guide" app:layout_constraintStart_toStartOf="@id/width_guide" app:layout_constraintTop_toBottomOf="@id/name" />
+</androidx.constraintlayout.widget.ConstraintLayout>

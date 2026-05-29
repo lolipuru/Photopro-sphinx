@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Réseau
+Pour se connecter au WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Le WLAN est désactivé et le mode Avion est activé.
+Veuillez modifier ces paramètres en tapant sur PARAMÈTRES."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Le WLAN est désactivé.
+Veuillez activer le WLAN dans PARAMÈTRES."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Impossible de se connecter au WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Vous pouvez rapidement accéder au Web ou vous connecter au WLAN en balayant le QR Code.
+Cette fonction est active en mode (photo) de base. Cette fonction peut être activée ou désactivée depuis MENU > Lecteur de QR Code"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Taper pour se conn. au rés. WLAN « %1$s »</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Vous pouvez rapidement accéder au Web ou vous connecter au WLAN en balayant le QR Code.
+Cette fonction est active en mode (photo) de base."</string>
+</resources>

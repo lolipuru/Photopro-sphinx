@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonymobile.photopro.view.feedback.CaptureProgressView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/capture_progress_layout" android:background="@color/photopro_dim" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <Space android:id="@id/anchor" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_marginBottom="@dimen/photopro_camera_status_bar_height" android:layout_marginStart="@dimen/photopro_left_area_width" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintDimensionRatio="4:3" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+        <RelativeLayout android:id="@id/layout" android:layout_width="0.0dip" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="@id/anchor" app:layout_constraintDimensionRatio="1:1" app:layout_constraintEnd_toEndOf="@id/anchor" app:layout_constraintStart_toStartOf="@id/anchor" app:layout_constraintTop_toTopOf="@id/anchor">
+            <FrameLayout android:id="@id/capturing_count_down_base" android:background="@drawable/selftimer_countdown_bg" android:layout_width="@dimen/viewfinder_countdown_outside_diameter" android:layout_height="@dimen/viewfinder_countdown_outside_diameter" android:layout_centerInParent="true">
+                <com.sonymobile.photopro.view.feedback.CaptureProgressCircleView android:layout_gravity="center" android:id="@id/capture_progress_circle" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </FrameLayout>
+            <TextView android:textSize="16.0dip" android:textColor="?android:textColorPrimary" android:gravity="center" android:id="@id/capture_progress_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="18.0dip" android:text="@string/photopro_strings_processing_capturing_photo_txt" android:layout_above="@id/capturing_count_down_base" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.sonymobile.photopro.view.feedback.CaptureProgressView>

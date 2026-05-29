@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Idi na početnu</string>
+    <string name="abc_action_bar_up_description">Natrag</string>
+    <string name="abc_action_menu_overflow_description">Više opcija</string>
+    <string name="abc_action_mode_done">Gotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+    <string name="abc_activitychooserview_choose_application">Odabir aplikacije</string>
+    <string name="abc_capital_off">ISKLJUČENO</string>
+    <string name="abc_capital_on">UKLJUČENO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">svemir</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pretražite…</string>
+    <string name="abc_searchview_description_clear">Izbriši upit</string>
+    <string name="abc_searchview_description_query">Upit za pretraživanje</string>
+    <string name="abc_searchview_description_search">Pretraži</string>
+    <string name="abc_searchview_description_submit">Pošalji upit</string>
+    <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+    <string name="abc_shareactionprovider_share_with">Dijeli s</string>
+    <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Sažmi</string>
+    <string name="ble_remote_control_button_any_problem_txt">Rješavanje problema</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Upari novi upravljač</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Gumbu C1 možete dodijeliti drugu funkciju na Bluetooth dalj. upr.</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">Prilagodba gumba C1</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Način izoštravanja</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Objektiv</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Način snimanja</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Prijelaz između gl. i pred. fotoaparata</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Prijelaz između foto./video.</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Objektiv</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Prijelaz između AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Prijelaz između gl. i pred. fotoaparata</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Dopusti</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Uskrati</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Želite li dopustiti aplikaciji da koristi Bluetooth za potrebe ove značajke?</string>
+    <string name="ble_remote_control_description_txt">"Možete upariti Sony daljinski upravljač putem Bluetooth veze kako biste daljinski koristili funkcije u %1$s.
+Dotaknite Upari novi upravljač da biste započeli uparivanje novog uređaja."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Već uparen</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Ako daljinski upravljač nije moguće upariti pomoću uređaja, uđite u postavke i provjerite je li daljinski upravljač već registriran na popisu Bluetooth uređaja. Ako je već registriran, uklonite daljinski upravljač s popisa i pokušajte ga ponovno upariti.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Rješavanje problema</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Potvrdi i uključi</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Odbijanje</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Izlaz</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Idi u Postavke</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">U redu</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Uparivanje je otkazano jer je Bluetooth veza isključena</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Uparivanje nije uspjelo zbog isteka vremena. Pokušajte ponovno kasnije.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Uređaj može ograničiti određene funkcije kao mjeru opreza prilikom intenzivne upotrebe. Ako uključite Način izdržljivosti kamere, prikazat će se ikona koja označava da će aplikacija zadržati visoke performanse. Kada je prikazana ova ikona, možete koristiti aplikaciju tijekom duljeg razdoblja.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Način izdržljivosti kamere dostupan je samo kada koristite %1$s s daljinskim upravljačem povezanim putem Bluetooth veze. Ako zatvorite %1$s, ta će se funkcija onemogućiti.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Temperatura uređaja može narasti iznad uobičajene radne temperature. Kada temperatura naraste, o tome će vas upozoriti odgovarajuća obavijest i ikona. U tom slučaju nemojte stalno držati uređaj u ruci. Pobrinite se da je daljinski upravljač povezan putem Bluetooth veze, tek tada nastavite s radom.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Pozor</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Temperatura uređaja je previsoka. %1$s će se privremeno zatvoriti zbog hlađenja.
+Ako povežete Bluetooth daljinski upravljač, moći ćete nastaviti koristiti %1$s s Načinom izdržljivosti kamere."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Temperatura uređaja je previsoka. %1$s će se privremeno zatvoriti zbog hlađenja.
+Ako povežete Bluetooth daljinski upravljač, moći ćete koristiti %1$s s Načinom izdržljivosti kamere."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Za korištenje ove funkcije potrebno je omogućiti opciju [Upotreba dalj. upr.] nakon uparivanja daljinskog upravljača putem Bluetooth veze.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Temperatura uređaja je previsoka. %1$s će se privremeno zatvoriti zbog hlađenja.
+Ako uključite Način izdržljivosti kamere, moći ćete koristiti %1$s s Bluetooth daljinskim upravljačem."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Da biste omogućili ovu funkciju, potrebno je ostvariti interakciju s povezanim daljinskim upravljačem.
+Ako želite odustati, dotaknite ZATVORI."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Način izdržljivosti kamere je omogućen</string>
+    <string name="ble_remote_control_endurance_mode_txt">Način izdržljivosti kamere</string>
+    <string name="ble_remote_control_off_txt">Isključi</string>
+    <string name="ble_remote_control_on_txt">Uključi</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Za početak uparivanja ostvarite interakciju s daljinskim upravljačem.
+U dva će se navrata prikazati obavijesti i dijaloški okviri. Odaberite opciju UPARI u svima, a zatim pritisnite bilo koju tipku na uparenom uređaju da biste dovršili postupak uparivanja."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Upari novi upravljač</string>
+    <string name="ble_remote_control_title_txt">Bluetooth dalj. upr.</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Upotreba dalj. upr.</string>
+    <string name="expand_button_title">Napredno</string>
+    <string name="external_display_connected_description_txt">Možete pogledati tražilo u Monitoru za vloganje</string>
+    <string name="external_display_connected_title_txt">Monitor za vloganje je povezan</string>
+    <string name="external_display_note_about_external_mic_txt">Napomena: za upotrebu vanjskog mikrofona povežite se s Monitorom za vloganje prije snimanja. Ako se povežete kasnije, trebat ćete ponovno povezati Monitor za vloganje.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Već ste prihvatili pravilnik o zaštiti privatnosti, no uvijek se možete predomisliti.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Strelica ulijevo</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Strelica udesno</string>
+    <string name="photopro_strings_accessibility_back_txt">Natrag</string>
+    <string name="photopro_strings_accessibility_close_txt">Zatvori</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Pristupačnost: &lt;a href=\"%s\">Djelomično usklađeno&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Pročitajte više</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Gumb objektiva</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Nije moguće konfigurirati</string>
+    <string name="photopro_strings_accessibility_previous_txt">Prethodno</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Stog najnovijih fotografija</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Započni snimanje videozapisa</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Pauziraj snimanje videozapisa</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Nastavi snimanje videozapisa</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Napravite snimku zaslona prilikom snimanja videozapisa</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Zaustavi snimanje videozapisa</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Zaustavi odbrojavanje</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Zatvarač</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Prijelaz između glavnog i prednjeg fotoaparata</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Prijelaz između fotografije i videozapisa</string>
+    <string name="photopro_strings_accessibility_title_txt">Pristupačnost</string>
+    <string name="photopro_strings_addon_button_menu_txt">Još</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Kreativni efekt</string>
+    <string name="photopro_strings_addon_panorama_txt">Panorama</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Okomiti autoportret</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Usporeno</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Da biste spremali lokacije, morate omogućiti GPS i/ili bežične mreže. Omogućiti sad?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Spremi lokaciju</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Anonimna analitika</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Prednja foto.</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Prednji video</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Videozapisi</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Odaberite proporcije fotografija</string>
+    <string name="photopro_strings_aspect_ratio_txt">Proporcije</string>
+    <string name="photopro_strings_audio_on_all_txt">Uključeno: sve</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Uključeno: samo zatvarač</string>
+    <string name="photopro_strings_audio_signals_description_txt">Odaberite koje će zvukove kamera reproducirati, primjerice prilikom odbrojavanja samookidača ili prilikom izoštravanja. Možete odabrati da se reproducira samo zvuka zatvarača.</string>
+    <string name="photopro_strings_audio_signals_txt">Zvučni signali</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro nije aktivan i uskoro će se zatvoriti</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Pozadinski osvijetljen portret</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Pozadinsko osvjetljenje</string>
+    <string name="photopro_strings_auto_scene_document_txt">Dokument</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Gastronomija</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Bebe</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Krajolik</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Slabo osvjetljenje</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Makrosnimanje</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Noćni portret</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Noćni prizor</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Automatsko prepoznavanje scene</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Meko snimanje</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Reflektorska rasvjeta</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Provjerite je li objektiv čist te ne držite li prst na njemu</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Presvijetlo</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Udaljite se od objekta</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Potrebno je više svjetla</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Približite se objektu</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Bokeh trenutno nije dostupan</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Bokeh uključen</string>
+    <string name="photopro_strings_bokeh_txt">Zamućenje pozadine (bokeh)</string>
+    <string name="photopro_strings_bt_remote_control_txt">Bluetooth dalj. upr.</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Fotografije iz nač. neprek. snimanja spremljene su u internu memoriju</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Neprekidno snimanje nije moguće koristiti uz nisku brzinu zatvarača</string>
+    <string name="photopro_strings_button_continue_txt">Nastavi</string>
+    <string name="photopro_strings_button_quit_txt">ODUSTANI</string>
+    <string name="photopro_strings_cancel_txt">Poništi</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Usporeno</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K videozapis</string>
+    <string name="photopro_strings_change_txt">Promijeni</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Reset.</string>
+    <string name="photopro_strings_color_and_brightness_txt">Boja i svjetlina</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Interna je memorija puna. Želite li podatke umjesto na nju spremiti na SD karticu?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Interna je memorija oštećena ili zaštićena od pisanja. Želite li podatke umjesto na nju spremiti na SD karticu?</string>
+    <string name="photopro_strings_common_error_open_txt">%1$s se ne može otv.</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">Puna je SD kartica. Želite li podatke umjesto na nju spremiti u internu memoriju?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">SD karticu nije moguće koristiti. Želite li podatke umjesto na nju spremiti u internu memoriju?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Povratne informacije o neprekinutom snimanju</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Sljedeće su funkcije trenutno onemogućene.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Pričekajte da se uređaj ohladi pa ponovno pokrenite kameru.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Sljedeće su funkcije onemogućene</string>
+    <string name="photopro_strings_cooling_mode_txt">Neke su funkcije onemogućene radi sprječavanja povećanja temperature</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Dodijelite drugu funkciju gumbu AEL</string>
+    <string name="photopro_strings_custom_ael_txt">Prilagodba gumba AEL</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Dodirnite gumb DISP ako želite prikazati ili sakriti informacije u tražilu.
+Odznačite bilo koju stavku u ovom izborniku za koju želite da se nikada ne prikaže kada prikazujete informacije pomoću gumba DISP."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histogram</string>
+    <string name="photopro_strings_custom_disp_level_txt">Libela</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Informacije u zaglavlju</string>
+    <string name="photopro_strings_custom_disp_txt">Prilagodba gumba DISP</string>
+    <string name="photopro_strings_custom_fn_description_txt">"U funkcijskom izborniku možete ponovno dodijeliti ili promijeniti redoslijed postavki.
+Dodirnite neku od stavki funkcija u nastavku da biste dodijeliti drugu željenu funkciju s popisa na lijevoj strani.
+Povucite i ispustite stavku funkcije u nastavku kojoj želite promijeniti položaj u redoslijedu."</string>
+    <string name="photopro_strings_custom_fn_txt">Prilagodba funkcijskog izbornika</string>
+    <string name="photopro_strings_custom_none_txt">Nedodijeljeno</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Prije ste odbili pravilnik o zaštiti privatnosti.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Zaključaj automatsku ekspoziciju</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Postavi ISO na Automatski</string>
+    <string name="photopro_strings_description_custom_none_txt">Onemogućuje gumb AEL</string>
+    <string name="photopro_strings_device_id_txt">ID uređaja</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Baterija je skoro ispražnjena. Kada je razina napunjenosti baterije preniska, kamera se automatski isključuje.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Snimanje je zaustavljeno zbog slabe baterije. Napunite uređaj i pokušajte ponovno.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Kamera se ne može koristiti jer je baterija slaba. Napunite uređaj i pokušajte ponovno.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Aplikacija treba sljedeća dopuštenja za izvršavanje ove radnje.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Mreža
+Povezivanje s Wi-Fi mrežom"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Uključen je Zrakoplovni način.
+Isključite Zrakoplovni način u odjeljku POSTAVKE."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Naziv mreže: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi je isključen, a Zrakoplovni način uključen.
+Promijenite te postavke tako da dodirnete POSTAVKE."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi je isključen.
+Uključite Wi-Fi u odjeljku POSTAVKE."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Postavke</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Dopusti</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Uskrati</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Napomena</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Kalibriraj</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Resetiraj</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Nema dovoljno internog mjesta za pohranu. Neprekidno je snimanje zaustavljeno. Da biste oslobodili prostor za pohranu, izbrišite neke datoteke.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Davanje dopuštenja</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Povezivanje...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Zaštita lozinkom: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Zaštita: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Povezivanje s Wi-Fi mrežom nije moguće</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Ako se u nastavku s time složite, tvrtka Sony će prikupljati vaše &lt;b>&lt;a href=#personal-data>osobne podatke&lt;/a>&lt;/b> radi pružanja prilagođene podrške i poboljšanja uređaja i usluga. Sony će upotrebljavati vaše podatke u skladu s našim &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>Pravilnikom o zaštiti privatnosti&lt;/a>&lt;/b>.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Možete snimati videozapise u prizorima s visokim kontrastima te ih učiniti dramatičnijima i vjernijima onome što vidite u stvarnom životu. Koristite podržane uređaje/servise da biste uživali u sadržaju s izvornim bojama i svjetlinom.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Ne prikazuj ponovno</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">HDR neprekinuto snimanje: visoko</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">HDR neprekinuto snimanje: nisko</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Neprekinuto snimanje: visoko</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Neprekinuto snimanje: nisko</string>
+    <string name="photopro_strings_drive_continuous_txt">Neprekidno snimanje</string>
+    <string name="photopro_strings_drive_mode_txt">Način okidanja</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Samookidač: 10 s</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Samookidač: 3 s</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Samookidač: isključen</string>
+    <string name="photopro_strings_drive_single_txt">Pojedinačno snimanje</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">Automatski HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Tom će se postavkom optimizirati raspon vrijednosti. Pri obradi DRO koristi samo jednu sliku, dok automatski HDR kombinira višestruke ekspozicije da bi se dobio takav rezultat.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Optimizator D-raspona</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO / automatski HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">Fotoaparat nije moguće pokrenuti. Fotoaparat ili uređaj ponovno pokrenite.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Pogreška</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Spremanje fotografija nije moguće. Možda je problem u prostoru za pohranu podataka. Ako je Pohrana podataka postavljena na SD karticu, provjerite SD karticu.</string>
+    <string name="photopro_strings_error_fatal_txt">Nepoznata pogreška.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Ne</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Da</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Fotoaparat će se sada privremeno isključiti da bi se ohladio. Snimka će biti spremljena. Kada se uređaj ohladi, ponovno pokrenite aplikaciju.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Memorija je puna. Izbrišite neke datoteke sa SD kartice ili iz interne memorije.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Memorija nije dostupna</string>
+    <string name="photopro_strings_error_memory_title_txt">Pogreška u memoriji</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD kartica nije dostupna</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Kompenzacija ekspozicije</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Možete snimati portretne fotografije s izoštrenim licem ili očima ljudi i životinja.
+Ako želite promijeniti cilj izoštravanja, dodirnite lice subjekta koje želite izoštriti."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Možete snimati videozapise s izoštrenim licem ili očima ljudi i životinja.
+Ako želite promijeniti cilj izoštravanja, dodirnite lice subjekta koje želite izoštriti.
+Bilješka: Kada je ova postavka omogućena, trajanje snimanja može biti skraćeno zbog povećane temperature uređaja."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Otkrivanje lica / AF oka uključeno</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">Automatsko izoštravanje lice/oči</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">Autom. izoštr. lica/očiju Isključi</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">Autom. izoštr. lica/očiju Uključeno</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Otključajte zaslon da biste koristili ovu funkciju</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Da biste otvorili postavke, otključajte zaslon.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Zaslon je zaključan</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Za podešavanje efekta bokeh, dodirnite ikonu bokeha u tražilu i pomaknite klizač.
+Ova funkcija podržana je u načinu rada Osnovni (foto).
+Zamutite pozadinu i pobrinite se da se vaši subjekti ističu impresivnim kontrastom."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Snimanje fotografija s efektom bokeh</string>
+    <string name="photopro_strings_feature_bokeh_txt">Efekt bokeh</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Način snimanja možete promijeniti na pojedinačno ili kontinuirano snimanja ili samookidač.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Način okidanja</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Kada snimate prednjim fotoaparatom, držite pogled na objektivu prednjeg fotoaparata blizu zvučnika slušalice.
+Vaše oči gledat će u pravom smjeru na fotografiji."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Smjer pogleda</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Možete snimati portretne fotografije s izoštrenim licem ili očima ljudi i životinja.
+Ako želite promijeniti cilj izoštravanja, dodirnite lice subjekta koje želite izoštriti. Ovu funkciju možete omogućiti i onemogućiti u području IZBORNIK > Automatsko izoštravanje za lice/oči."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">Automatsko izoštravanje lice/oči</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Okrenite dlan prema fotoaparatu. Samookidač će započeti s odbrojavanjem kada se prepozna vaš dlan. Kako bi ga bilo lakše prepoznati, ispružite prste prema gore.
+Da biste omogućili ovu funkciju, prijeđite na prednji fotoaparat kada ste u osnovnom (fotografskom) načinu rada i uključite Snimanje rukom u IZBORNIKU."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Snimanje rukom</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Pri upotrebi ultra širokokutnog objektiva (0,7x) možete odabrati prioritet. Odabirom mogućnosti Prioritet kvalitete slike snimat ćete dinamične slike visoke kvalitete. Ako odaberete Prioritet ispravka zbog izobličenja, smanjit ćete vizualno izobličenje.
+Ta je funkcija aktivna prilikom snimanja fotografija pomoću ultra širokokutnog objektiva. Nakon prijelaza na ultra širokokutni objektiv, možete konfigurirati prioritet u području IZBORNIK > Korekcija ultra širokokutnog objektiva."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Korekcija objektiva (fotografija)</string>
+    <string name="photopro_strings_feature_list_title_txt">Uvod u značajke</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Bokeh i efekti uljepšavanja olakšavaju snimanje umjetničkog autoportreta.
+Za korištenje ove funkcije dodirnite Još u tražilu i odaberite Okomiti autoportret.
+Stilski uredite autoportret i uživajte u kreativnim rezultatima."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Okomiti autoportret</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Skeniranjem QR Codea možete brzo pristupiti internetu ili se povezati s Wi-Fi mrežom.
+Ova funkcija aktivna je u osnovnom (fotografskom) načinu rada. Funkciju možete omogućiti i onemogućiti u području IZBORNIK > Čitač za QR Code."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">Čitač za QR Code</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">Čitač za QR Code</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Označavajte fotografije i videozapise lokacijama na kojima su snimljene. Ovu postavku možete promijeniti kasnije u području IZBORNIK > Spremi lokaciju.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Spremiti lokaciju?</string>
+    <string name="photopro_strings_feature_selfie_txt">Prednji fotoaparat</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Možete snimiti usporeni videozapis u HD kvaliteti sa 120 fps</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Usporeno</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Možete jednostavno prelaziti između objektiva fotoaparata, snimati bilo koju situaciju i tako testirati svoju kreativnost.
+Dotaknite gumb u tražilu da odaberete 0,7x (ultra širokokutni), 1,0x (širokokutni), 2,9x (telefoto) ili 4,4x (telefoto) objektiv.
+Ovu funkciju možete koristiti u osnovnom (fotografija) i osnovnom (videozapis) načinu rada."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Promjena kuta gumbom</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Možete jednostavno prelaziti između objektiva fotoaparata, snimati bilo koju situaciju i tako testirati svoju kreativnost.
+Dotaknite gumb u tražilu da odaberete 0,7x (ultra širokokutni), 1,0x (širokokutni) ili 2,1x (standardni) objektiv.
+Ovu funkciju možete koristiti u osnovnom (fotografija) i osnovnom (videozapis) načinu rada."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Trostruka kamera</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Dodirom na gumb objektiva prikazuje se klizač koji možete koristiti za podešavanje razine zumiranja.
+Osim toga, zumirati možete privlačenjem prstiju i upotrebom gumba za regulaciju glasnoće."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Kako povećavati/ smanjivati zumom</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Brisanje</string>
+    <string name="photopro_strings_file_format_description_txt">"Odaberite oblik datoteke za fotografije.
+
+RAW: potreban je poseban softver za naknadnu obradu fotografija. Na taj se način omogućuje prilagođavanje i istovremeno ograničava smanjenje kvalitete slike. Ispis je moguć nakon obrade.
+RAW i JPEG: sprema i RAW slike koje je potrebno naknadno obraditi i JPEG slike.
+JPEG: sprema JPEG slike.
+
+Napomene:
+datoteke oblika RAW uvijek se spremaju u internu pohranu u veličini 4:3.
+Kad je odabran RAW ili RAW i JPEG, onemogućeni su Neprekidno snimanje i Automatski HDR."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW i JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Format datoteke</string>
+    <string name="photopro_strings_flash_auto_txt">Automatski</string>
+    <string name="photopro_strings_flash_description_txt">Postavite način rada bljeskalice na Automatska bljeskalica, Dodatna bljeskalica i sl.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Dodatna bljeskalica</string>
+    <string name="photopro_strings_flash_off_txt">Isključi</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Ublaž. efekta crv. očiju</string>
+    <string name="photopro_strings_flash_torch_description_txt">Uključite svjetiljku</string>
+    <string name="photopro_strings_flash_torch_off_txt">Svjetiljka: isključeno</string>
+    <string name="photopro_strings_flash_torch_on_txt">Svjetiljka: uključeno</string>
+    <string name="photopro_strings_flash_torch_txt">Svjetiljka</string>
+    <string name="photopro_strings_flash_txt">Način rada bljeskalice</string>
+    <string name="photopro_strings_focus_area_center_txt">Sredina</string>
+    <string name="photopro_strings_focus_area_txt">Područje izoštravanja</string>
+    <string name="photopro_strings_focus_area_wide_txt">Široko</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Postavite boju okvira područja izoštravanja</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Crvena</string>
+    <string name="photopro_strings_focus_frame_color_txt">Boja područja izoštravanja</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Bijela</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">Kontinuirani AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">AF jedna fotografija</string>
+    <string name="photopro_strings_focus_mode_description_txt">Odaberite način izoštravanja</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Prepoznavanje lica</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Ručno izoštravanje</string>
+    <string name="photopro_strings_focus_mode_txt">Način izoštravanja</string>
+    <string name="photopro_strings_geotagging_description_txt">Spremajte fotografije i videozapise s označenim lokacijama na kojima su snimljene</string>
+    <string name="photopro_strings_geotagging_txt">Spremi lokaciju</string>
+    <string name="photopro_strings_gridline_description_txt">Odaberite želite li da budu prikazane crte rešetke koje pomažu u kompoziciji slike</string>
+    <string name="photopro_strings_gridline_txt">Crte rešetke</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Odbrojavanje samookidača započnite tako da okrenete dlan prema prednjoj kameri. Kako bi ga bilo lakše prepoznati, ispružite prste prema gore.</string>
+    <string name="photopro_strings_hand_shutter_txt">Snimanje rukom</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Postavite hoćete li dobivati dodirne povratne informacije prilikom interakcije sa zaslonom, npr. pri korištenju birača načina</string>
+    <string name="photopro_strings_haptic_feedback_txt">Dod. povr. info.</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: isključeno</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: uključeno</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Inteligentni filtar vjetra</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO osjetljivost</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Aplikaciju Photography Pro pokrenite tako da pritisnete i zadržite gumb zatvarača na uređaju. To funkcionira čak i ako je telefon zaključan ili u stanju mirovanja.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Pokreni Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Pokreni gumbom zatvarača</string>
+    <string name="photopro_strings_lens_correction_description_txt">Pri upotrebi ultra širokokutnog objektiva možete odabrati prioritet. Odabirom mogućnosti Prioritet kvalitete slike snimat ćete dinamične slike visoke kvalitete. Ako odaberete Prioritet ispravka zbog izobličenja, smanjit ćete vizualno izobličenje.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Prioritet kvalitete slike</string>
+    <string name="photopro_strings_lens_correction_on_txt">Prioritet ispravka zbog izobličenja</string>
+    <string name="photopro_strings_lens_correction_txt">Korekcija objektiva</string>
+    <string name="photopro_strings_lens_txt">Obj.</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Kalibriraj</string>
+    <string name="photopro_strings_level_calibration_description_txt">Ako je potrebno, možete kalibrirati libelu radi rješavanja odstupanja u smjeru nagiba. Fotoaparat obavezno postavite vodoravno, a zatim odaberite Kalibriraj.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Kalibracija je dovršena</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Postavka kalibracije je resetirana</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Kalibracija libele</string>
+    <string name="photopro_strings_lock_switch_txt">Zaklj.</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Snimanje stalo zbog ograničenja veličine datoteke</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Snimanje je stalo zbog ograničenja maksimalnog vremena snimanja</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Spremanje nije moguće. Memorija je puna.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Primij.</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Spremi</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Postavi</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Želite li spremiti trenutnu kombinaciju načina i postavki?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Postavke fotoaparata su spremljene.
+Te postavke možete jednostavno pozvati koristeći način snimanja MR."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Memorija postavki fotoaparata</string>
+    <string name="photopro_strings_memory_recall_txt">Pozivanje post. fotoap.</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Fotografija (prednji)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Fotografija</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Usporeno</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Videozapis (prednji)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Videozapis</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Ekspozicija/boja</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Izoštravanje</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Postavljanje</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Snimanje</string>
+    <string name="photopro_strings_menu_title_txt">Izbornik</string>
+    <string name="photopro_strings_metering_center_txt">Središnje</string>
+    <string name="photopro_strings_metering_multi_txt">Višestruko</string>
+    <string name="photopro_strings_metering_spot_txt">Točka</string>
+    <string name="photopro_strings_metering_txt">Način mjerenja svjetla</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Odaberite mikrofon koji ćete koristiti tijekom snimanja videozapisa:
+1. LD mikrofon: snima stereo zvuk koristeći lijevi i desni mikrofon (gornji i donji u portretnoj orijentaciji)
+2. Stražnji mikrofon: snima se mono zvuk pomoću stražnjeg mikrofona"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Vanjski mikrofon</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">LD mikrofon (stereo)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Stražnji mikrofon (mono)</string>
+    <string name="photopro_strings_mic_setting_txt">Mikrofon</string>
+    <string name="photopro_strings_mode_auto_description_txt">Fotoaparat će automatski prepoznati vrstu prizora i snimati fotografije s automatskim postavkama koje smanjuju smetnje i trešnju fotoaparata.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Automatski način</string>
+    <string name="photopro_strings_mode_basic_description_txt">"U ovom načinu rada možete snimati fotografije pomoću gumba zatvarača na zaslonu, slično kao na uobičajenom fotoaparatu pametnog telefona.
+Koristite ovaj način rada za snimanje autoportreta, videozapisa i za skeniranje QR Codeova."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Osnovni način rada</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Prikazuje objašnjenje za svaki način snimanja prilikom promjene načina pomoću pripadajućeg birača</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Vodič za birač načina</string>
+    <string name="photopro_strings_mode_m_description_txt">"Ručno upravljajte brzinom zatvarača i ISO osjetljivošću.
+Dulja ekspozicija omogućuje snimanje fotografija sa zamućenjem pokreta na kojima će biti vidljivi tragovi predmeta u pokretu."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Ručna ekspozicija</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Inteligentno automatski (Pozivanje memorije)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Snimajte fotografije uz postavke koje ste spremili.
+Možete registrirati često korištene kombinacije načina rada i postavki."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Pozivanje memorije</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Ručno podešavanje ekspozicije (Pozivanje memorije)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Programirano automatski (Pozivanje memorije)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Prednost brzine zatvarača (Pozivanje memorije)</string>
+    <string name="photopro_strings_mode_p_description_txt">Fotoaparat automatski upravlja brzinom zatvarača, ali ostale postavke prepuštene su vama.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Automatski odabir programa</string>
+    <string name="photopro_strings_mode_s_description_txt">"Ručno upravljajte brzinom zatvarača i promijenite način snimanja predmeta uz pokretu.
+Uz veliku brzinu zatvarača, predmet će se zamrznuti u pokretu, dok će se s malom brzinom zatvarača bolje snimiti zamućenost pri pokretu."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Prioritet brzine zatvarača</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Način okidanja automatski je postavljen na Pojedinačno snimanje jer je uključen način rada Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Format datoteke automatski je postavljen na JPEG jer je uključen način rada Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Fotoaparat nije moguće koristiti u prikazu više prozora ili u skočnom prozoru. Zatvorite prozor i pokušajte ponovno. Ako koristite prikaz više prozora, povucite sredinu razdjelne trake kako biste prikazali fotoaparat preko cijelog zaslona.</string>
+    <string name="photopro_strings_multi_window_txt">Povucite sredinu trake razdvajanja na prikaz preko cijelog zaslona da biste koristili %1$s</string>
+    <string name="photopro_strings_ok_txt">U redu</string>
+    <string name="photopro_strings_personal_data_txt">Osobni podaci</string>
+    <string name="photopro_strings_privacy_policy_txt">Pravila privatnosti</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">U tijeku je snimanje fotografije. Pričekajte.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Taj QR Code nije podržan</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Dod. da biste otv.\"%1$s\" u pregledniku</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Povezivanje s ovom Wi-Fi mrežom nije moguće</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Dotak. za povez. s Wi-Fi mrežom \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">Čitač za QR Code</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Skeniranjem QR Codea možete brzo pristupiti internetu ili se povezati s Wi-Fi mrežom.
+Ova funkcija aktivna je u osnovnom (fotografskom) načinu rada."</string>
+    <string name="photopro_strings_qrcode_detection_txt">Čitač za QR Code</string>
+    <string name="photopro_strings_rec_txt">Snimanje</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Želite li vratiti Photo Pro na zadane postavke?</string>
+    <string name="photopro_strings_reset_settings_txt">Resetiraj postavke</string>
+    <string name="photopro_strings_reset_txt">Resetiraj</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Nije moguće mijenjati format prikaza kada je oblik datoteke postavljen na RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Nije moguće odabrati automatski HDR kada je odabrano Neprekidno snimanje</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Nije moguće odabrati automatski HDR kada je odabran bilo koji format datoteke osim JPEG</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Efekt bokeh nije dostupan s trenutačno odabranim objektivom</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Efekt bokeh (zamućenje pozadine) nije dostupan kada je uključen način rada Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Uz trenutni objektiv nije moguće koristiti Neprekinuto snimanje: visoko</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Nije moguće koristiti neprekidno snimanje kada je uključen efekt bokeh</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Kontinuirano snimanje nije dostupno ako ste odabrali AI zumiranje u super razlučivosti</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Ne može se upotrebljavati Neprekidno snimanje kada je odabran format datoteke različit od JPEG-a</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Neprekidno snimanje nije dostupno kada je uključen način rada Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Promjena nije moguća</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Ako je odabrano Neprekidno snimanje, ne možete koristiti Način bljeskalice</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Uz trenutni objektiv nije moguće koristiti način s bljeskalicom</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Nije moguće koristiti svjetiljku uz trenutačno odabrani objektiv</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Nije moguće promijeniti format datoteke na bilo koji osim JPEG kada je odabran automatski HDR</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Prilikom Neprekidnog snimanja format datoteke ne može se promijeniti na različit od JPEG-a</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Nije moguće promijeniti format datoteke na bilo koji osim JPEG kada je uključen način rada Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Ovu postavku nije moguće promijeniti kada je priključen vanjski mikrofon</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Ta postavka ne podržava trenutačnu brzinu zatvarača. Da biste konfigurirali postavku, promijenite brzinu zatvarača na 1 sekundu ili manje.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Ne može se odabrati RAW kada je odabrana proporcija 4:3</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Nije moguće promijeniti veličinu videozapisa pri usporenom snimanju. Za promjenu ove postavke, zatvorite usporeni način rada.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Ta je postavka dostupna samo ako koristite ultra širokokutni objektiv</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Postavka nije dostupna kada je HDR uključen. Da biste je konfigurirali, isključite HDR.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Ova postavka nije podržana za trenutnu veličinu videozapisa. Da biste konfigurirali postavku, promijenite veličinu videozapisa.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Zumiranje nije moguće dok je primijenjen bokeh efekt</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">PODACI O APL.</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">Dopuštenje za %1$s</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Aplikacija treba sljedeća dopuštenja za izvršavanje ove radnje.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Da biste dodijelili dopuštenja, otvorite Podaci o aplikaciji > Dopuštenja.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Nastavak nije moguć</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Za snimanje fotografija</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Za snimanje fotografija i videozapisa</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Za dohvaćanje lokacije</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Za snimanje zvuka</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Za povezivanje s uređajima u blizini</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Za očitavanje i spremanje fotografija i videozapisa</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Za spremanje fotografija</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Za spremanje fotografija i videozapisa</string>
+    <string name="photopro_strings_save_destination_description_txt">Odaberite hoće li se fotografije i videozapisi pohranjivati u unutarnju memoriju uređaja ili na SD karticu</string>
+    <string name="photopro_strings_save_destination_internal_txt">Interna memorija</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD kartica</string>
+    <string name="photopro_strings_save_destination_title_txt">Pohrana podataka</string>
+    <string name="photopro_strings_save_destination_txt">Pohrana podataka</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD kartica nije dostupna</string>
+    <string name="photopro_strings_selftimer_10_txt">10 s</string>
+    <string name="photopro_strings_selftimer_3_txt">3 s</string>
+    <string name="photopro_strings_selftimer_description_txt">Postavite samookidač za automatsko snimanje fotografije nakon isteka zadanog broja sekundi</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Gledajte fotoaparat</string>
+    <string name="photopro_strings_selftimer_txt">Samookidač</string>
+    <string name="photopro_strings_settings_off_txt">Isključi</string>
+    <string name="photopro_strings_settings_on_txt">Uključi</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Uvijek koristite osnovni način rada</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Odaberite zadani način snimanja pri pokretanju aplikacije Photography Pro</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Posljednji korišteni način rada</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Način snimanja pri pokretanju</string>
+    <string name="photopro_strings_shooting_mode_txt">Način snimanja</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Videokamera</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Brzina zatvarača</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Nije moguće stvarati snimke zaslona kada je uključen HDR način rada</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Uključite efekt zbog kojeg koža djeluje glađom</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Efekt nježnog tena</string>
+    <string name="photopro_strings_status_mic_external_txt">Vanjski</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">LD (stereo)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Stražnji (mono)</string>
+    <string name="photopro_strings_store_fail_txt">Nije bilo moguće spremiti</string>
+    <string name="photopro_strings_sw_license_txt">Licenca softvera</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Prihvaćam</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Odbijam</string>
+    <string name="photopro_strings_tips_txt">Savjeti</string>
+    <string name="photopro_strings_title_permissions_txt">Dopuštenje za Photo Pro</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Poništavanje izoštravanja dodirom</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Automatsko izoštravanje</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Odaberite što želite prilagoditi kada dotaknete tražilo.
+
+Praćenje predmeta: Najbolja funkcija za snimanje predmeta u pokretu. Održava izoštrenim predmet koji ste dodirnuli u tražilu, što vam omogućuje jasno snimanje predmeta u pokretu.
+Automatsko izoštravanje: Dodirnite područje u tražilu koje želite izoštriti.
+Fokus i svjetlina: Izoštrite i prilagodite svjetlinu na željenom položaju tako da dodirnete tražilo."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Fokus i svjetlina</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Praćenje objekta</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Dodirnite radi prilagodbe</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Otkaži Praćenje objekta</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Ako uključite ovu funkciju, Transfer &amp; Tagging add-on moći će prikazivati fotografije snimljene fotoaparatom Xperia. Fotografije se spremaju u unutarnju memoriju.
+Ova funkcija kompatibilna je s fotografijama snimljenima pomoću aplikacije Photography Pro.
+Ako uključite ovu funkciju, automatski će se odabrati JPEG format datoteke, a način okidanja bit će postavljen na Pojedinačno snimanje."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Način za Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Razumijem</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Sljedeće</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Preskoči</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony je omiljena robna marka fotografa koji stvaraju sadržaj kojim šire beskrajnu sreću i čudesne fotografije.
+Korisnici širom svijeta i dalje biraju naše iskustvo i tehnologiju.
+
+Photography Pro želi dodati operabilnost i funkcije fotoaparata sa svim značajkama proizvoda Sony Imaging Products.
+Sony podržava vašu fotografsku kreativnost."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Odaberite idealan način snimanja u odnosu na objekt koji snimate.
+Zatim postavite brzinu zatvarača i ekspoziciju.
+Čvrsto držite fotoaparat s obje strane i snimite sliku.
+
+Načini snimanja obuhvaćaju:
+P (automatski odabir programa)
+S (prioritet brzine zatvarača)
+M (ručna ekspozicija)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Odaberite željeni način snimanja koristeći birač načina u gornjem desnom kutu (u gornjem lijevom, ako ste u vodoravnom usmjerenju).
+
+U osnovnom načinu rada možete jednostavno snimati fotografije i videozapise prednjim fotoaparatom, slično kao pomoću uobičajenog fotoaparata na pametnom telefonu.
+
+U načinima rada Auto/P/S/M možete pristupiti još naprednijim postavkama i snimati idealne fotografije."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Način snimanja</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Način korištenja</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Kada koristite načine rada Auto/P/S/M, čvrsto držite fotoaparat u vodoravnoj orijentaciji i snimajte fotografije koristeći gumb zatvarača u gornjem desnom dijelu uređaja.
+
+Pomoću načina rada Auto automatski se postavljaju funkcije kao što su brzina zatvarača i ekspozicija.
+
+Ako te postavke želite ručno konfigurirati, odaberite jedan od načina rada u nastavku.
+P (automatski odabir programa)
+S (prioritet brzine zatvarača)
+M (ručna ekspozicija)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Kako koristiti načine rada Auto/P/S/M</string>
+    <string name="photopro_strings_tutorial_txt">Vodič</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Nije moguće koristiti Photo Pro s povezanim vanjskim zaslonom. Da biste mogli koristiti Photo Pro, potrebno je zatvoriti aplikaciju na zaslonu Nedavne aplikacije na uređaju Xperia pa je ponovno pokrenuti.</string>
+    <string name="photopro_strings_unlock_button_txt">Otključaj</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Upotreba kamere ograničena je iz sigurnosnih razloga</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Da biste snimili stabilni 4K videozapis, ne smijete promijeniti tu postavku ako ne koristite SD karticu velike brzine (preporučuje se UHS Speed Class 1 ili novija verzija ili pak Speed Class 10).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Da biste snimili stabilni usporeni videozapis, nemojte mijenjati tu postavku ako ne koristite SD karticu velike brzine (preporučuje se UHS Speed Class 1 ili novija verzija ili pak Speed Class 10).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Da biste snimili stabilni videozapis, preporučujemo vam promjenu prostora za pohranu podataka u internu pohranu. Želite li odmah promijeniti?
+
+Ako nastavite koristiti SD karticu kao pohranu podataka, obavezno koristite SD karticu visoke brzine (preporučuje se UHS Speed Class 1 ili novija verzija ili pak Speed Class 10)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Za 4K video snimke možete odabrati koder.
+
+H.264 (AVC): Standardni format za šifriranje, podržava ga većina uređaja i usluga.
+H.265 (HEVC): Format s višim stupnjem kompresije. Provjerite podržavaju li vaši uređaji ili usluge za reprodukciju ovaj način."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Format datoteke (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Odaberite veličinu videozapisa.
+HDR nije dostupan kada je odabran Full HD (60 fps) ili HD."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Odaberite veličinu videozapisa</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 sl./s)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Full HD</string>
+    <string name="photopro_strings_video_size_txt">Veličina videozapisa</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Uređaj Xperia opremljen je jedinstvenim sustavom hibridne stabilizacije poznatim pod nazivom Optical SteadyShot - to je kombinacija istovremene optičke i elektroničke stabilizacije slike. Pruža vam uglađene videozapise bez trešnje, čak i kada snimate u pokretu.</string>
+    <string name="photopro_strings_video_stabilization_txt">Stabilizacija videozapisa</string>
+    <string name="photopro_strings_volumekey_description_txt">Dodijelite drugu funkciju gumbima za regulaciju glasnoće</string>
+    <string name="photopro_strings_volumekey_shutter_txt">zatvarač</string>
+    <string name="photopro_strings_volumekey_txt">Koristi gumb za reg. glas. kao</string>
+    <string name="photopro_strings_volumekey_volume_txt">glasnoća</string>
+    <string name="photopro_strings_volumekey_zoom_txt">zum</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Podesi – %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Automatski</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Prilag.</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Dovrš.</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Pokušaj ponovno</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Primij.</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Oblačno</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Prilagođeno 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Prilagođeno 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Prilagođeno 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Postavite balans bijele na temelju središta pretpregleda</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Prilagodba nije uspjela</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Prilagodba je dovršena</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Primijeni – %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Danje svjetlo</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Fluorescentno</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Svjetlost žarulje</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Sjena</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Temp 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Temp 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Temp 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Temp:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Temperatura</string>
+    <string name="photopro_strings_whitebalance_txt">Balans bijele boje</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Zumiranje prednjom kamerom nije moguće.</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">AI zumiranje u super razlučivosti</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Odaberite postavku zuma.
+
+Digitalni zum: zumirajte koristeći digitalnu obradu koja se zasniva na podacima senzora slike.
+AI zumiranje u super razlučivosti: zumirajte koristeći digitalnu obradu kojom ćete bolje sačuvati izvornu kvalitetu slike. Spremanje fotografija može potrajati. Automatski će funkcionirati kao Digitalni zum ako je odabrana opcija Kontinuirano snimanje."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Digitalni zum</string>
+    <string name="photopro_strings_zoom_type_txt">Postavke zuma</string>
+    <string name="search_menu_title">Pretraži</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">ISKLJUČENO</string>
+    <string name="v7_preference_on">UKLJUČENO</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"الشبكة
+للاتصال بشبكة WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"تم إيقاف شبكة WLAN وتشغيل وضع الطائرة.
+يرجى تغيير هذه الإعدادات عن طريق النقر على الإعدادات."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"تم إيقاف شبكة WLAN.
+يرجى تشغيل شبكة WLAN من الإعدادات."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">لا يمكن الاتصال بشبكة WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"يمكنك الوصول بسرعة إلى الويب أو الاتصال بشبكة WLAN عن طريق قراءة QR Code.
+تنشط هذه الوظيفة عندما تكون في الوضع الأساسي (صورة). يمكن تمكين هذه الوظيفة أو تعطيلها من القائمة> قارئQR Code."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">انقر للاتصال بشبكة WLAN \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"يمكنك الوصول بسرعة إلى الويب أو الاتصال بشبكة WLAN عن طريق قراءة QR Code.
+تنشط هذه الوظيفة عندما تكون في الوضع الأساسي (صورة)."</string>
+</resources>

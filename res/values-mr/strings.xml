@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">घराकडे नेव्हिगेट करा</string>
+    <string name="abc_action_bar_up_description">वर नेव्‍हिगेट करा</string>
+    <string name="abc_action_menu_overflow_description">आणखी पर्याय</string>
+    <string name="abc_action_mode_done">पूर्ण झाले</string>
+    <string name="abc_activity_chooser_view_see_all">सर्व पाहा</string>
+    <string name="abc_activitychooserview_choose_application">अ‍ॅप निवडा</string>
+    <string name="abc_capital_off">बंद</string>
+    <string name="abc_capital_on">सुरू</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">हटवा</string>
+    <string name="abc_menu_enter_shortcut_label">एंटर करा</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">मेनू+</string>
+    <string name="abc_search_hint">शोधा…</string>
+    <string name="abc_searchview_description_clear">क्‍वेरी साफ करा</string>
+    <string name="abc_searchview_description_query">शोध क्वेरी</string>
+    <string name="abc_searchview_description_search">शोध</string>
+    <string name="abc_searchview_description_submit">क्वेरी सबमिट करा</string>
+    <string name="abc_searchview_description_voice">व्हॉइस शोध</string>
+    <string name="abc_shareactionprovider_share_with">यांच्यासोबत शेअर करा</string>
+    <string name="abc_shareactionprovider_share_with_application">%s सह शेअर करा</string>
+    <string name="abc_toolbar_collapse_description">कोलॅप्स करा</string>
+    <string name="ble_remote_control_button_any_problem_txt">समस्या निवारक</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">नवीन नियंत्रक जुळवा</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">C1 बटणाला तुम्ही Bluetooth रिमोट नियंत्रकावर दुसरे कार्य नियुक्त करू शकता</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">C1 बटण कस्टमायझेशन</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">फोकस मोड</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">भिंग</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">छायाचित्रण मोड</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">मुख्य/फ्रंट कॅमेरा दरम्यान स्विच करा</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">फोटो/व्हिडिओ दरम्यान स्विच करा</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">भिंग</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">AF/MF दरम्यान स्विच करा</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">मुख्य आणि फ्रंट कॅमेरादरम्यान स्विच करा</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">परवानगी द्या</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">परवानगी नाकारा</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">या वैशिष्ट्यासाठी अनुप्रयोगास Bluetooth वापरण्याची परवानगी द्यायची?</string>
+    <string name="ble_remote_control_description_txt">"%1$s मधील कार्य दुरून वापरण्यासाठी आपण Bluetooth द्वारे Sony सुदूर नियंत्रकाची जुळणी करू शकता.
+नवीन उपकरणाची जुळणी सुरू करण्यासाठी नवीन नियंत्रक जुळवा टॅप करा."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">आधीच जुळणी केली आहे</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">उपकरणासह रिमोटची जोडणी करणे शक्य नसल्यास, सेटिंग्ज वर जा आणि रिमोट आधीपासूनच ब्लूटूथ उपकरण सूचीमध्ये नोंदणीकृत आहे की नाही ते तपासा. आधीपासून नोंदणीकृत असल्यास, सूचीमधून रिमोट काढा आणि पुन्हा जोडण्याचा प्रयत्न करा.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">समस्या निवारक</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">मान्य आणि चालू करा</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">नाकारा</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">बाहेर पडा</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">सेटिंग्ज येथे जा</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">ओके</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Bluetooth बंद केला होता त्यामुळे जुळणी करणे रद्द झाले</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">कालमर्यादा संपल्याने जुळणी करणे अपयशी झाले. पुन्हा प्रयत्न करा.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">हे उपकरण अति वापरामध्ये असताना खबरदारी म्हणून काही कार्ये मर्यादित करू शकते. आपण कॅमेरा एन्ड्युरन्स मोड चालू केल्यास, अनुप्रयोग उच्च कार्यप्रदर्शन ठेवू शकते हे सूचित करण्यासाठी एक प्रतिरूप प्रदर्शित केले जाईल. जेव्हा हे प्रतिरूप प्रदर्शित केले जाते, तेव्हा आपल्याला दीर्घ कालावधीसाठी अनुप्रयोग वापरता येतो.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Bluetooth द्वारे कनेक्ट केलेल्या रिमोट नियंत्रकाने %1$s वापरत असतानाच केवळ कॅमेरा एन्ड्युरन्स मोड उपलब्ध आहे. %1$s बंद केल्याने हे कार्य अक्षम होईल.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">उपकरणाचे तापमान सामान्य परिचालनातील तापमानापेक्षा जास्त वाढू शकते. जेव्हा तापमान वाढते तेव्हा सूचनापत्र आणि प्रतिरूप आपणास सतर्क करेल. अशा परिस्थितीमध्ये सातत्याने उपकरण हातामध्ये धरू नका. पुढे सुरू ठेवण्यापूर्वी रिमोट नियंत्रक Bluetooth द्वारे कनेक्ट केलेला असल्याचे सुनिश्चित करा.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">लक्ष द्या</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"उपकरणाचे तापमान खूपच उच्च आहे. थंड करण्यासाठी %1$s तात्पुरते बंद होईल.
+आपण Bluetooth रिमोट नियंत्रक कनेक्ट केल्यास, कॅमेराच्या एन्ड्युरन्स मोडसह आपण %1$s वापरणे सुरू ठेऊ शकता."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"उपकरणाचे तापमान खूपच उच्च आहे. थंड करण्यासाठी %1$s तात्पुरते बंद होईल.
+आपण Bluetooth रिमोट नियंत्रक कनेक्ट केल्यास, कॅमेराच्या एन्ड्युरन्स मोडसह आपण %1$s वापरू शकता."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">हे कार्य वापरण्यासाठी, Bluetooth द्वारे रिमोट नियंत्रकाची जोडी जुळवल्यानंतर [सुदूर नियंत्रक वापरा] सक्षम करा.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"उपकरणाचे तापमान खूपच उच्च आहे. थंड करण्यासाठी %1$s तात्पुरते बंद होईल.
+आपण कॅमेराचा एन्ड्युरन्स मोड चालू केल्यास, आपण Bluetooth रिमोट नियंत्रकासह %1$s वापरू शकता."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"हे कार्य सक्षम करण्यासाठी, कनेक्ट केलेल्या रिमोंट नियंत्रकासह संवाद साधा.
+रद्द करण्यासाठी, बाहेर टॅप करा."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">कॅमेरा एन्ड्युरन्स मोड सक्षम केला</string>
+    <string name="ble_remote_control_endurance_mode_txt">कॅमेरा एन्ड्युरन्स मोड</string>
+    <string name="ble_remote_control_off_txt">बंद</string>
+    <string name="ble_remote_control_on_txt">चालू</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"जुळणी करणे सुरू करण्यासाठी, सुदूर नियंत्रकाशी संवाद साधा.
+आपल्याला सूचनापत्र आणि संवाद दोनदा मिळतील. त्या सर्वांवर जुळणी करा निवडा, नंतर जुळणी करणे पूर्ण करण्यासाठी जुळणी केलेल्या उपकरणावर कोणतीही कळ दाबा."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">नवीन नियंत्रक जुळवा</string>
+    <string name="ble_remote_control_title_txt">Bluetooth रिमोट नियंत्रक</string>
+    <string name="ble_remote_control_use_remote_controller_txt">सुदूर नियंत्रक वापरा</string>
+    <string name="expand_button_title">प्रगत</string>
+    <string name="external_display_connected_description_txt">व्लॉग प्रदर्शकातून आपण दृश्यपूर्वदर्शक तपासू शकता</string>
+    <string name="external_display_connected_title_txt">व्लॉग प्रदर्शक कनेक्ट केला</string>
+    <string name="external_display_note_about_external_mic_txt">नोट: बाह्य लघुक्षेपक वापरण्यासाठी, ध्वनीमुद्रण करण्यापूर्वी कृपया तो व्लॉग प्रदर्शकाला कनेक्ट करा. आपण ही नंतर कनेक्ट केली, तर आपल्याला व्लॉग प्रदर्शक पुन्हा कनेक्ट करावा लागेल.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">आपण पूर्वी गोपनीयता धोरण स्वीकारले आहे परंतु आपण आपला विचार कधीही बदलू शकता.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">डावा बाण</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">उजवा बाण</string>
+    <string name="photopro_strings_accessibility_back_txt">मागे</string>
+    <string name="photopro_strings_accessibility_close_txt">बंद करा</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">प्रवेशयोग्यता: &lt;a href=\"%s\">आंशिक अनुरूप&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">अधिक वाचा</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">भिंग बटण</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">जुळणी न करता येणारे</string>
+    <string name="photopro_strings_accessibility_previous_txt">मागील</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">ताज्या छायाचित्रांची रास</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">व्हिडिओ ध्वनिमुद्रण सुरू करा</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">व्हिडिओ ध्वनिमुद्रणाला विराम द्या</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">व्हिडिओ ध्वनिमुद्रण पुन्हा सुरू करा</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">व्हिडिओ रेकॉर्ड करताना एक स्नॅपशॉट घ्या</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">व्हिडिओ ध्वनिमुद्रण थांबवा</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">मोजणी करणे थांबवा</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">शटर</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">मुख्य आणि फ्रंट कॅमेरादरम्यान स्विच करा</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">छायाचित्र आणि व्हिडिओ दरम्यान स्विच करा</string>
+    <string name="photopro_strings_accessibility_title_txt">प्रवेशयोग्यता</string>
+    <string name="photopro_strings_addon_button_menu_txt">आणखी</string>
+    <string name="photopro_strings_addon_creative_effect_txt">कल्पक परिणाम</string>
+    <string name="photopro_strings_addon_panorama_txt">पॅनोरमा</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">पोर्ट्रेट सेल्फी</string>
+    <string name="photopro_strings_addon_slow_motion_txt">मंद गती</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">स्थान जतन करण्यासाठी, आपणास GPS आणि/किंवा बिनतारी नेटवर्क्स सक्षम करणे आवश्यक आहे. आत्ता सक्षम करायचे?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">स्थान जतन करा</string>
+    <string name="photopro_strings_anonymous_analytics_txt">अनामिक विश्लेषण</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">पुढचे छायाचित्र</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">फ्रंट व्हिडिओ</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">व्हिडिओ</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">छायाचित्रांसाठी पक्ष अनुपात निवडा</string>
+    <string name="photopro_strings_aspect_ratio_txt">पक्ष अनुपात</string>
+    <string name="photopro_strings_audio_on_all_txt">चालू: सर्व</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">चालू: केवळ झडप</string>
+    <string name="photopro_strings_audio_signals_description_txt">कोणता कॅमेरा ध्वनी प्ले करायचा ते सेट करा, जसे की स्व-समयक अंक मोजत असताना किंवा फोकस करत असताना. तुम्ही केवळ झडप ध्वनी प्ले करण्याचीही निवड करू शकता.</string>
+    <string name="photopro_strings_audio_signals_txt">स्वयं सिग्नल्स</string>
+    <string name="photopro_strings_auto_power_off_txt">निष्क्रियतेमुळे Photo Pro लवकरच बंद होईल</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">पार्श्वप्रकाश पोर्ट्रेट</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">पार्श्वप्रकाश</string>
+    <string name="photopro_strings_auto_scene_document_txt">दस्तऐवज</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">खाद्यपदार्थ</string>
+    <string name="photopro_strings_auto_scene_infant_txt">शिशू</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">लँडस्केप</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">कमी प्रकाश</string>
+    <string name="photopro_strings_auto_scene_macro_txt">जवळून घेण्यासाठी</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">रात्र पोर्ट्रेट</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">रात्र दृश्य</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">स्वयं देखावा ओळख</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">मृदू चित्र</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">प्रकाशझोत</string>
+    <string name="photopro_strings_bokeh_button_txt">बोकेह</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">भिंग स्वच्छ आहे आणि आपले बोट त्यावर नाही याची खात्री करा</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">अत्यंत प्रखर</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">ऑब्जेक्टपासून खूप दूरवर हलवा</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">अधिक प्रकाश आवश्यक आहे</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">ऑब्जेक्टच्या एकदम जवळ हलवा</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">बोकेह सध्या उपलब्ध नाही</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">बोकेह चालू</string>
+    <string name="photopro_strings_bokeh_txt">बोकेह</string>
+    <string name="photopro_strings_bt_remote_control_txt">Bluetooth रिमोट नियंत्रक</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">निरंतर छायाचित्रणामधील छायाचित्रे अंतर्गत संचयामध्ये जतन केली</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">संथ शटर गतीसह निरंतर छायाचित्रण वापरता येणार नाही</string>
+    <string name="photopro_strings_button_continue_txt">पुढे चालू ठेवा</string>
+    <string name="photopro_strings_button_quit_txt">बाहेर पडा</string>
+    <string name="photopro_strings_cancel_txt">रद्द करा</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">मंद गती</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K व्हिडिओ</string>
+    <string name="photopro_strings_change_txt">बदला</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">रिसेट</string>
+    <string name="photopro_strings_color_and_brightness_txt">रंग आणि प्रखरपणा</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">अंतर्गत संचय पूर्ण भरला. त्याऐवजी SD कार्डवर डेटा जतन करायचा?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">अंतर्गत संचय करप्ट किंवा लेखन-संरक्षित आहे. त्याऐवजी SD कार्डवर डेटा जतन करायचा?</string>
+    <string name="photopro_strings_common_error_open_txt">%1$s उघडता येणार नाही</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">SD कार्ड पूर्ण भरले आहे. त्याऐवजी अंतर्गत संचयामध्ये डेटा जतन करायचा?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">SD कार्ड वापरणे शक्य होणार नाही. त्याऐवजी अंतर्गत संचयामध्ये डेटा जतन करायचा?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">सतत छायाचित्रण अभिप्राय</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">खालील कार्ये सध्या अक्षम आहेत.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">कृपया आपले उपकरण थंड होण्याची प्रतीक्षा करा आणि नंतर कॅमेरा पुन्हा सुरू करा.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">खालील कार्ये अक्षम केली आहेत</string>
+    <string name="photopro_strings_cooling_mode_txt">उपकरणाचे तपमान वाढण्यास प्रतिबंध</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">AEL बटणास दुसरे कार्य नियुक्त करा</string>
+    <string name="photopro_strings_custom_ael_txt">AEL बटण कस्टमायझेशन</string>
+    <string name="photopro_strings_custom_disp_description_txt">"DISP बटण टॅप करून, तुम्ही दृश्यपूर्वदर्शकामध्ये माहिती दाखवू/लपवू शकता.
+तुम्ही DISP बटणासह माहिती प्रदर्शित करता तेव्हा ती तुम्हाला कधीही दाखवायला नको असेल, तर या मेनूतील कोणत्याही बाबीसमोरची खूण काढा."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">हिस्टोग्रॅम</string>
+    <string name="photopro_strings_custom_disp_level_txt">पातळी</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">हेडर माहिती</string>
+    <string name="photopro_strings_custom_disp_txt">DISP बटण कस्टमायझेशन</string>
+    <string name="photopro_strings_custom_fn_description_txt">"कार्य मेनूमध्ये तुम्ही सेटिंग्ज आयटम्स रिअसाईन किंवा रिऑर्डर करू शकता.
+डावीकडील यादीतून तुमच्या पसंतीचे दुसरे कार्य नियुक्त करण्यासाठी खालील एका कार्य बाबींवर टॅप करा.
+पुन्हा क्रम लावण्यासाठी कोणत्याही कार्य बाबी ड्रॅग आणि ड्रॉप करा."</string>
+    <string name="photopro_strings_custom_fn_txt">कार्य मेनू सानुकूलन</string>
+    <string name="photopro_strings_custom_none_txt">नेमून न दिलेले</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">आपण पूर्वी गोपनीयता धोरण नाकारले आहे.</string>
+    <string name="photopro_strings_description_custom_ael_txt">स्वयंचलित एक्सपोजर लॉक करा</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">ISO सेटिंग स्वयंवर सेट करा</string>
+    <string name="photopro_strings_description_custom_none_txt">AEL बटण अक्षम करा</string>
+    <string name="photopro_strings_device_id_txt">उपकरण ID</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">फोनमध्ये पुरेशी बॅटरी नाही. बॅटरी कमी असेल तेव्हा, कॅमेरा स्वयंचलितपणे बंद होईल.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">कमी बॅटरी असल्याने ध्वनिमुद्रण बंद झाले. आपले उपकरण उर्जाभारित करून पुन्हा प्रयत्न करा.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">कमी बॅटरी असल्याने कॅमेरा वापरणे शक्य नाही. आपले उपकरण उर्जाभारित करून पुन्हा प्रयत्न करा.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">हे कार्य करण्यासाठी अनुप्रयोगाला खालील परवानगी(ग्या)ची आवश्यकता आहे.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"नेटवर्क
+Wi-Fi शी कनेक्ट करा"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"विमान मोड चालू आहे.
+कृपया सेटिंगमधून विमान मोड चालू करा."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"नेटवर्कचे नाव: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi बंद आहे आणि विमान मोड चालू आहे.
+कृपया सेटिंगमधून ही सेटिंग बदला."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi बंद आहे.
+कृपया सेटिंगमधून Wi-Fi चालू करा."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">सेटिंग्ज</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">परवानगी द्या</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">परवानगी नाकारा</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">नोट</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">कॅलिब्रेट करा</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">रिसेट करा</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">पुरेसा अंतर्गत संचय नाही. निरंतर छायाचित्रण थांबले. संचय स्थान रिक्त करण्यासाठी काही फाईल्स हटवा.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">परवानग्या मंजूर करा</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">जोडत आहे...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+पासवर्ड संरक्षण: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+सुरक्षा: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Wi-Fi शी कनेक्ट करणे शक्य नाही</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">जर तुम्ही खालील गोष्टींशी सहमत असाल, तर Sony सानुकूल समर्थन देण्यासाठी आणि उपकरणे व सेवा सुधारण्यासाठी तुमचा &lt;b>&lt;a href=#personal-data>वैयक्तिक डेटा&lt;/a>&lt;/b> संकलित करेल. आमच्या &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>गोपनीयता धोरण&lt;/a>&lt;/b>नुसार Sony तुमचा डेटा हाताळेल.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">आपण उच्च तफावत दृश्यामध्ये देखील व्हिडिओ ध्वनिमुद्रित करू शकता आणि ते अधिक नाट्यपूर्ण आणि वास्तविक जीवनाच्या अधिक जवळ जाणारे तयार करू शकता. कृपया त्यांच्या (व्हिडिओ) मूळ रंग आणि प्रखरपणासह सामग्रीचा आनंद घेण्यासाठी समर्थित उपकरणे/सेवांचा वापर करा.</string>
+    <string name="photopro_strings_do_not_show_again_txt">पुन्हा दाखवू नका</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">HDR निरंतर छायाचित्रण: जास्त</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">HDR निरंतर छायाचित्रण: कमी</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">निरंतर छायाचित्रण: जास्त</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">निरंतर छायाचित्रण: कमी</string>
+    <string name="photopro_strings_drive_continuous_txt">निरंतर छायाचित्रण</string>
+    <string name="photopro_strings_drive_mode_txt">ड्राईव्ह मोड</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">सेल्फ-टाइमर: 10 सेकंद</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">सेल्फ-टाइमर: 3 सेकंद</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">स्व-कालमापक: बंद</string>
+    <string name="photopro_strings_drive_single_txt">एकल छायाचित्रण</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">स्वयं HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">हे सेटिंग मूल्यांची व्याप्ती अनुकूलित करेल. DRO प्रक्रिया एकल प्रतिमा वापरते, तर स्वयं HDR परिमाण मिळविण्यासाठी बहु एक्स्पोझर एकत्रित करते.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">D-रेंज ऑप्टीमायझर</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/स्वयं HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">कॅमेरा सुरू करणे शक्य नाही. कॅमेरा किंवा उपकरण पुन्हा सुरू करा.</string>
+    <string name="photopro_strings_error_dialog_title_txt">त्रुटी</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">छायाचित्रे जतन करता आली नाहीत. डेटा संग्रहणामध्ये समस्या असू शकते. जर डेटा संग्रहण SD कार्डावर सेट केले असेल, तर आपले SD कार्ड तपासा.</string>
+    <string name="photopro_strings_error_fatal_txt">अज्ञात त्रुटी.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">नाही</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">होय</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">थंड होण्यासाठी आता कॅमेरा तात्पुरता बंद होईल. आपले ध्वनिमुद्रण स्वयंचलितपणे जतन केले जाईल. एकदा उपकरण थंड झाले की अनुप्रयोग पुन्हा सुरू करा.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">मेमरी भरली.SD कार्ड किंवा अंतर्गत संचयामधून काही फाईल्स हटवा.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">मेमरी अनुपलब्ध</string>
+    <string name="photopro_strings_error_memory_title_txt">मेमरी त्रुटी</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD कार्ड अनुपलब्ध</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">एक्सपोझर प्रतिपूर्ती</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"लोकांच्या चेहरा किंवा डोळ्यांवर फोकस करणारी पोर्ट्रेट छायाचित्रेही तुम्ही घेऊ शकता.
+फोकस लक्ष्ये बदलण्यासाठी, तुम्हाला ज्या विषयावर फोकस जुळवायचा आहे त्या विषयाचा चेहरा टॅप करा."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"लोकांच्या आणि प्राण्यांच्या चेहरा किंवा डोळ्यांवर फोकस करणारे व्हिडिओ आपण घेऊ शकता.
+फोकस लक्ष्ये बदलण्यासाठी, आपल्याला ज्या विषयावर फोकस जुळवायचा आहे त्या विषयाचा चेहरा टॅप करा.
+नोट: हे सेटिंग सक्षम केलेले असताना, उपकरण तपमानात वाढ झाल्यामुळे रेकॉर्डिंग कालावधी कमी होऊ शकतो."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">चेहरा आणणे/आय AF चालू</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">चेहरा/डोळा AF</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">चेहरा/डोळा AF: बंद</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">चेहरा/डोळा AF: चालू</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">हे कार्य वापरण्यासाठी पडदा अनलॉक करा</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">सेटिंग्ज उघडण्यासाठी पडदा अनलॉक करा.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">स्क्रीन लॉक झाला आहे</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"बोकेह परिणाम जुळविण्यासाठी दृश्यपूर्वदर्शकामध्ये बोकेह प्रतिरूपावर टॅप करून नंतर सरकपट्टी हलवा.
+मूलभूत (छायाचित्र) मोडमध्ये हे कार्य समर्थित असते.
+पार्श्वभूमी धूसर करून आकर्षक तफावतीसह तुमचे विषय वर आणा."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">बोकेह परिणाम वापरून छायाचित्रे घ्या</string>
+    <string name="photopro_strings_feature_bokeh_txt">बोकेह परिणाम</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">एकेरी किंवा निरंतर छायाचित्रण किंवा स्व-समयक वापरण्यासाठी ड्राइव्ह मोड बदलता येतो.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">ड्राईव्ह मोड</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"फ्रंट कॅमेऱ्यावरून छायाचित्रे घेत असताना, कानाच्या क्षेपकाजवळच्या फ्रंट कॅमेरा भिंगावर तुमची दृष्टी ठेवा.
+छायाचित्रामध्ये तुमचे डोळे योग्य दिशेमध्ये दिसतील."</string>
+    <string name="photopro_strings_feature_eye_position_txt">डोळ्याची दिशा</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"लोकांच्या चेहरा किंवा डोळ्यांवर फोकस करणारी पोर्ट्रेट छायाचित्रेही तुम्ही घेऊ शकता.
+फोकस लक्ष्ये बदलण्यासाठी, तुम्हाला ज्या विषयावर फोकस जुळवायचा आहे त्या विषयाचा चेहरा टॅप करा. मेनू > चेहरा/आय AF वरून हे कार्य सक्षम किंवा अक्षम करता येते."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">चेहरा/डोळा AF</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"कॅमेऱ्याच्या दिशेने तुमचा तळहात फिरवा. तुमचा तळवा ओळखला गेला की स्व-समयक आकडे मोजू लागेल. शोधण्यास सुलभ करण्यासाठी, तुमची बोटे वरच्या दिशेने विस्तारा.
+हे कार्य सक्षम करण्यासाठी, मूलभूत (छायाचित्र) मोडमध्ये असताना फ्रंट कॅमेराला स्विच करा आणि मेनूमध्ये हँड शटर चालू करा."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">हँड शटर</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"अति-विशाल भिंग (0.7x) वापरताना, तुम्ही एक प्राधान्य निवडू शकता. प्रतिमा गुणवत्तेला प्राधान्य द्या निवडून, तुम्ही डायनॅमिक उच्च-गुणवत्तेच्या प्रतिमा कॅप्चर करू शकता. आपण विरूपणासाठी प्राधान्यक्रम सुधारणे निवडल्यास, आपण दृश्य विरूपण कमी करू शकता.
+अति-विशाल भिंग वापरून छायाचित्रे घेताना हे कार्य सक्रिय असते. अति-विशाल भिंगावर स्विच केल्यानंतर, तुम्ही मेनू > अति-विशाल भिंग सुधारणामधून प्राधान्य कॉन्फिगर करू शकता."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">भिंग सुधारणा (छायाचित्र)</string>
+    <string name="photopro_strings_feature_list_title_txt">वैशिष्ट्यांचा परिचय</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"बोकेह आणि सौंदर्य प्रभाव वापरून कलात्मक सेल्फी सहज घ्या.
+हे कार्य वापरण्यासाठी, दृश्यपूर्वदर्शकमध्ये आणखी टॅप करा आणि पोर्ट्रेट सेल्फी निवडा.
+तुमच्या सेल्फीची शैली तयार करून सर्जनशील निकालांचा आनंद घ्या."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">पोर्ट्रेट सेल्फी</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"तुम्ही वेबमध्ये पटकन प्रवेश करू शकता किंवा QR Code स्कॅन करून Wi-Fi ला कनेक्ट करू शकता.
+मूलभूत (छायाचित्र) मोडमध्ये असताना हे कार्य सक्रिय असते. मेनू > QR Co रीडरवरून हे कार्य सक्षम किंवा अक्षम करता येते."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code रीडर</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code रीडर</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">तुमची छायाचित्रे आणि व्हिडिओ जिथे घेतली असतील त्या स्थानांसह टॅग करा. नंतर मेनू > स्थान जतन करा मध्ये हे सेटिंग बदलू शकता.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">स्थान जतन करायचे?</string>
+    <string name="photopro_strings_feature_selfie_txt">फ्रंट कॅमेरा</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">तुम्ही HD मध्ये 120 fps मंद गतीमध्ये व्हिडिओ ध्वनिमुद्रित करू शकता</string>
+    <string name="photopro_strings_feature_slow_motion_txt">मंद गती</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"तुमच्या कल्पनाशक्तीला आव्हान देण्यासाठी कोणत्याही परिस्थितीमध्ये कॅप्चर करण्याकरिता तुम्ही सहजपणे कॅमेऱ्याच्या भिंगांच्या दरम्यान स्विच करू शकता.
+0.7x (अति-विशाल), 1.0x (विशाल), 2.9x (टेलिफोटो) आणि 4.4x (टेलिफोटो) भिंगांदरम्यान स्विच करण्यासाठी दृश्यपूर्वदर्शकमधील बटणावर टॅप करा.
+मूलभूत (छायाचित्र) आणि मूलभूत (व्हिडिओ) मोडमधे तुम्ही हे कार्य वापरू शकता."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">बटणाने कोन स्विच करा</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"तुमच्या कल्पनाशक्तीला आव्हान देण्यासाठी कोणत्याही परिस्थितीमध्ये कॅप्चर करण्याकरिता तुम्ही सहजपणे कॅमेऱ्याच्या भिंगांच्या दरम्यान स्विच करू शकता.
+0.7x (अति-विशाल), 1.0x (विशाल), 2.1x (मानक) भिंगांदरम्यान स्विच करण्यासाठी दृश्यपूर्वदर्शकमधील बटणावर टॅप करा.
+मूलभूत (छायाचित्र) आणि मूलभूत (व्हिडिओ) मोडमधे तुम्ही हे कार्य वापरू शकता."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">ट्रिपल कॅमेरा</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"भिंग बटण टॅप केल्याने एक ससकपट्टी प्रदर्शित होईल जी तुम्ही झूम पातळी समायोजित करण्यासाठी वापरू शकता.
+झूम करण्यासाठी तुम्ही पडद्याला चिमटी करू शकता किंवा व्हॉल्युम बटण वापरू शकता."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">झूम इन/आउट करण्याची पद्धत</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">हटवा</string>
+    <string name="photopro_strings_file_format_description_txt">"स्थिर प्रतिमांसाठी फाईल फॉरमॅट निवडा..
+
+रॉ: पोस्ट-प्रोसेस छायाचित्रांसाठी विशेष सॉफ्टवेअरची आवश्यकता असते. यामुळे आपणास प्रतिमेमध्ये होणाऱ्या बिघाडाला मर्यादित करताना आपणास जुळविण्याची परवानगी देते.
+RAW आणि JPEG: पोस्ट-प्रोसेसिंग आणि JPEG प्रतिमा आवश्यक असलेल्या दोन्ही रॉ प्रतिमा जतन करते.
+JPEG: JPEG प्रतिमा जतन करते.
+
+नोट्स:
+रॉ फॉर्मेट फाईल्स नेहमी अंतर्गत संचयनामध्ये 4: 3 विनियोजन दराने जतन केल्या जातील.
+जेव्हा रॉ किंवा रॉ आणि JPEG निवडले जातात तेव्हा निरंतर शूटिंग आणि स्वयं HDR अनुपलब्ध असतात."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">रॉ आणि JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">फाईल फॉरमॅट</string>
+    <string name="photopro_strings_flash_auto_txt">स्वयंचलित</string>
+    <string name="photopro_strings_flash_description_txt">फ्लॅश मोड ऑटो फ्लॅश, फ्लॅश भरा इत्यादीला सेट करा.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">फ्लॅश भरा</string>
+    <string name="photopro_strings_flash_off_txt">बंद</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">रेड-आय नियंत्रक</string>
+    <string name="photopro_strings_flash_torch_description_txt">फ्लॅशलाइट चालू करा</string>
+    <string name="photopro_strings_flash_torch_off_txt">टॉर्च: बंद</string>
+    <string name="photopro_strings_flash_torch_on_txt">टॉर्च: चालू</string>
+    <string name="photopro_strings_flash_torch_txt">टॉर्च</string>
+    <string name="photopro_strings_flash_txt">फ्लॅश मोड</string>
+    <string name="photopro_strings_focus_area_center_txt">केंद्र</string>
+    <string name="photopro_strings_focus_area_txt">फोकस जुळविलेला भाग</string>
+    <string name="photopro_strings_focus_area_wide_txt">विशाल</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">फोकस क्षेत्राच्या चौकटीचा रंग सेट करा</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">लाल</string>
+    <string name="photopro_strings_focus_frame_color_txt">फोकस क्षेत्राचा रंग</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">पांढरा</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">निरंतर AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">एकल-शॉट AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">एक फोकस पद्धत निवडा</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">चेहरा आणणे</string>
+    <string name="photopro_strings_focus_mode_mf_txt">व्यक्तिचलित फोकस</string>
+    <string name="photopro_strings_focus_mode_txt">फोकस मोड</string>
+    <string name="photopro_strings_geotagging_description_txt">तुमची छायाचित्रे आणि व्हिडिओ जिथे घेतली असतील त्या स्थानांसह जतन करा</string>
+    <string name="photopro_strings_geotagging_txt">स्थान जतन करा</string>
+    <string name="photopro_strings_gridline_description_txt">प्रतिमांच्या रचनेत तुम्हाला मदत करण्यासाठी जाळीरूप मेन्यू लाईन्स प्रदर्शित करायच्या किंवा नाही ते सेट करा</string>
+    <string name="photopro_strings_gridline_txt">जाळीरूप मेन्यू लाईन्स</string>
+    <string name="photopro_strings_hand_shutter_description_txt">तुमचा तळवा फ्रंट कॅमेराकडे वळवून तुम्ही स्व-समयकासाठी आकडे मोजणे सुरू करू शकता. शोधण्यास सुलभ करण्यासाठी, तुमची बोटे वरच्या दिशेने विस्तारा.</string>
+    <string name="photopro_strings_hand_shutter_txt">हँड शटर</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">डिस्प्लेसह संवाद साधताना स्पर्शीय प्रतिक्रिया मिळवाव्या का नाही ते सेट करा उदा. मोड डायल</string>
+    <string name="photopro_strings_haptic_feedback_txt">स्पर्शीय प्रतिक्रिया</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: बंद</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: चालू</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">इंटेलिजंट विंड फिल्टर</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO संवेदनशीलता</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">उपकरण शटर बटण दाबून धरून तुम्ही Photography Pro लाँच करू शकता. फोन स्लीप मोडमध्ये किंवा लॉक असला तरीही हे काम करते.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Photography Pro लाँच करा</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">शटर बटणासह लाँच करा</string>
+    <string name="photopro_strings_lens_correction_description_txt">अति-विशाल भिंग वापरताना, तुम्ही एक प्राधान्य निवडू शकता. प्रतिमा गुणवत्तेला प्राधान्य द्या निवडून, तुम्ही डायनॅमिक उच्च-गुणवत्तेच्या प्रतिमा कॅप्चर करू शकता. आपण विरूपणासाठी प्राधान्यक्रम सुधारणे निवडल्यास, आपण दृश्य विरूपण कमी करू शकता.</string>
+    <string name="photopro_strings_lens_correction_off_txt">प्रतिमेच्या गुणवत्तेला प्राधान्य द्या</string>
+    <string name="photopro_strings_lens_correction_on_txt">विरुपणाच्या अचूकतेला प्राधान्य द्या</string>
+    <string name="photopro_strings_lens_correction_txt">अति-विशाल भिंग सुधारणा</string>
+    <string name="photopro_strings_lens_txt">भिंग</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">कॅलिब्रेट करा</string>
+    <string name="photopro_strings_level_calibration_description_txt">आवश्यक असल्यास, आपण झुकत्या दिशेने कॅलिब्रेशन निश्चित करण्यासाठी पातळी कॅलिब्रेट करू शकता. कॅमेरा क्षैतिज असल्याची खात्री करून त्यानंतर कॅलिब्रेट करा निवडा.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">कॅलिब्रेशन पूर्ण झाले</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">कॅलिब्रेशन सेटिंग रिसेट केले आहे</string>
+    <string name="photopro_strings_level_meter_calibration_txt">पातळी कॅलिब्रेशन</string>
+    <string name="photopro_strings_lock_switch_txt">लॉक क.</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">कमाल फाईल आकार मर्यादेमुळे ध्वनिमुद्रण थांबविले</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">कमाल ध्वनिमुद्रण वेळ मर्यादेमुळे ध्वनिमुद्रण थांबविले आहे</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">जतन करू शकलो नाही. मेमरी भरली.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">लागूकरा</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">जतन करा</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">सेट करा</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">मोड आणि सेटिंग्जचे सध्याचे संयोजन जतन करायचे आहे?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"कॅमेरा सेटिंग्ज जतन केली.
+आपण MR चायाचीत्र्ण मोडचा वापर करुन या सेटिंग्ज सहजपणे रिकॉल करू शकता."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">कॅमेरा सेटिंग्ज मेमरी</string>
+    <string name="photopro_strings_memory_recall_txt">रिकॉल कॅमेरा सेटिंग्ज</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">छायाचित्र (फ्रंट)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">छायाचित्र</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">मंद गती</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">व्हिडिओ (फ्रंट)</string>
+    <string name="photopro_strings_menu_sub_video_txt">व्हिडिओ</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">एक्सपोझर/रंग</string>
+    <string name="photopro_strings_menu_tab_focus_txt">फोकस</string>
+    <string name="photopro_strings_menu_tab_setup_txt">सेटअप</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">छायाचित्रण</string>
+    <string name="photopro_strings_menu_title_txt">मेनू</string>
+    <string name="photopro_strings_metering_center_txt">केंद्र</string>
+    <string name="photopro_strings_metering_multi_txt">मल्टि</string>
+    <string name="photopro_strings_metering_spot_txt">स्पॉट</string>
+    <string name="photopro_strings_metering_txt">मीटरिंग मोड</string>
+    <string name="photopro_strings_mic_setting_description_txt">"व्हिडिओ ध्वनिमुद्रण करताना कोणता लघुक्षेपक वापरावा ते निवडा:
+1. LR लघुक्षेपक: डाव्या आणि उजव्या लघुक्षेपकांसह स्टिरिओ साउंड ध्वनिमुद्रत करा (पोर्ट्रेट दिशानिर्देशनात असताना वर आणि तळाशी)
+2. मागील लघुक्षेपक: मागील लघुक्षेपकासह मोनो साउंड ध्वनिमुद्रित करतो"</string>
+    <string name="photopro_strings_mic_setting_external_txt">बाह्य लघुक्षेपक</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">LR लघुक्षेपक (स्टिरिओ)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">मागील लघुक्षेपक (मोनो)</string>
+    <string name="photopro_strings_mic_setting_txt">लघुक्षेपक</string>
+    <string name="photopro_strings_mode_auto_description_txt">कॅमेरा आपसूकपणे देखाव्याचा प्रकार शोधेल आणि गोंगाट आणि कॅमेराची थरथर कमी करून ऑटो सेटिंग्जसह छायाचित्रे घेईल.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">स्वयं मोड</string>
+    <string name="photopro_strings_mode_basic_description_txt">"या मोडमध्ये तुम्ही नेहमीच्या स्मार्टफोन कॅमेरा अनुभवाप्रमाणेच स्क्रीनवरील शटर बटण वापरून छायाचित्रे घेऊ शकता.
+सेल्फी घेणे, व्हिडिओ शूट करणे आणि QR code स्कॅन करण्यासाठी हा मोड वापरा."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">मूलभूत मोड</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">मोड डायलसह मोड्स बदलताना प्रत्येक छायाचित्रण मोडचे एक स्पष्टीकरण यामध्ये प्रदर्शित होईल</string>
+    <string name="photopro_strings_mode_dial_guide_txt">मोड डायल मार्गदर्शक</string>
+    <string name="photopro_strings_mode_m_description_txt">"व्यक्तिचलितपणे झडप गती आणि ISO संवेदनशीलता नियंत्रित करा.
+दीर्घकाळ एक्सपोज केल्याने, गती अस्पष्टता वापरून वस्तूंच्या गतीचा शेवट पकडणारी छायाचित्रे घेता येतील."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">व्यक्तिचलित एक्सपोझर</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">इंटेलिजेंट ऑटो (मेमरी रिकॉल)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"तुमची जतन केलेली सेटिंग्ज वापरून छायाचित्रे घ्या.
+वारंवार वापरल्या जाणाऱ्या मोड्स आणि सेटिंग्जच्या मिश्रणाची तुम्ही नोंदणी करू शकता."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">मेमरी रिकॉल</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">व्यक्तिचलित उघडीप (मेमरी रिकॉलl)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">प्रोग्रॅम स्वयं (मेमरी रिकॉल)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">शटर गती प्राधान्य (मेमरी रिकॉल)</string>
+    <string name="photopro_strings_mode_p_description_txt">बाकीची सेटिंग्ज तुमच्यावर सोडून, कॅमेरा आपसूकपणे झडप गती नियंत्रित करेल.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">पूर्वरचित स्वयं</string>
+    <string name="photopro_strings_mode_s_description_txt">"तुम्ही हलत्या गोष्टी कशा पकडता हे बदलण्यासाठी शटर गती व्यक्तिचलितपणे नियंत्रित करा.
+वेगवान शटर गतीमुळे गतीमान घटक गोठल्यासारखा दिसेल, तर संथ शटर गतीमुळे गती अस्पष्टता जास्त चांगली पकडता येईल."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">झडप गती प्राधान्य</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">ट्रान्सफर आणि टॅगिंग अॅड ऑन मोड चालू असल्याने ड्राइव्ह मोड आपसूकपणे एकल छायाचित्रणाला सेट केला गेला आहे</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">ट्रान्सफर आणि टॅगिंग अॅड ऑन मोड चालू असल्याने फाईल फॉरमॅट आपसूकपणे JPEG ला सेट केला गेला आहे</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">बहुविध विंडो किंवा पॉप-अप विंडोमध्ये कॅमेरा वापरू शकत नाही. विंडो बंद करा आणि पुन्हा प्रयत्न करा. तुम्ही बहुविध विंडो वापरत असाल, तर कॅमेरा पूर्ण पडदा करण्यासाठी तुम्ही विभाजन बारचा मध्य ड्रॅग करू शकता.</string>
+    <string name="photopro_strings_multi_window_txt">पूर्ण पडदा %1$s चा वापर करण्यासाठी त्यावर स्विच करण्याकरिता विभाजन आडकाठीच्या मध्यभागी ड्रॅग करा</string>
+    <string name="photopro_strings_ok_txt">ओके</string>
+    <string name="photopro_strings_personal_data_txt">वैयक्तिक डेटा</string>
+    <string name="photopro_strings_privacy_policy_txt">गोपनीयता धोरण</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">छायाचित्र घेत आहे. कृपया प्रतीक्षा करा.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">हा QR Code समर्थन देत नाही</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">ब्राउझरमध्ये उघडण्यासाठी \"%1$s\" टॅप करा</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">या Wi-Fi नेटवर्कशी कनेक्ट करणे शक्य नाही</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">पुढील Wi-Fi नेटवर्क जोडणीसाठी टॅप करा: \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code रीडर</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"तुम्ही वेबमध्ये पटकन प्रवेश करू शकता किंवा QR Code स्कॅन करून Wi-Fi ला कनेक्ट करू शकता.
+मूलभूत (छायाचित्र) मोडमध्ये असताना हे कार्य सक्रिय असते."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code रीडर</string>
+    <string name="photopro_strings_rec_txt">REC</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">मूलनिर्धारित सेटिंगवर Photo Pro रिसेट करायचे?</string>
+    <string name="photopro_strings_reset_settings_txt">रिसेट सेटिंग्ज</string>
+    <string name="photopro_strings_reset_txt">रिसेट करा</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">जेव्हा फाईल फॉरमॅट रॉवर सेट केले जाते तेव्हा आयाम गुणोत्तर बदलू शकत नाही</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">जेव्हा निरंतर छायाचित्रण निवडले जाते तेव्हा स्वयं HDR निवडणे शक्य नाही</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">JPEG व्यतिरिक्त दुसरा फाईल फॉरमॅट निवडलेला असताना स्वयं HDR निवडता येत नाही</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">सध्या निवडलेल्या भिंगासह बोकेह प्रभाव उपलब्ध नाही</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on मोड चालू असताना बोकेह प्रभाव उपलब्ध नाही</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">निरंतर छायाचित्रण वापरणे शक्य नाही: सध्या निवडलेले भिंग वापरून उच्च</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">बोकेह परिणाम चालू असताना निरंतर छायाचित्रण वापरणे शक्य नाही</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">AI सुपर रेझोल्युशन झूम निवडलेले असताना निरंतर छायाचित्रण उपलब्ध नाही</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">जेव्हा JPEG व्यतिरिक्त दुसरा फाईल फॉरमॅट निवडलेला असतो तेव्हा निरंतर छायाचित्रण वापरता येत नाही</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on चालू असताना निरंतर छायाचित्रण उपलब्ध नाही</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">बदलणे शक्य नाही</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">निरंतर छायाचित्रण निवडल्यानंतर फ्लॅश मोड वापरू शकत नाही</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">सध्या निवडलेले भिंग वापरून फ्लॅश मोड वापरू शकत नाही</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">सध्या निवडलेले भिंग वापरून टॉर्च वापरू शकत नाही</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">स्वयं HDR निवडलेले असताना JPEG व्यतिरिक्त फाईल फॉरमॅट दुसऱ्यात बदलता येत नाही</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">जेव्हा निरंतर छायाचित्रण निवडले जाते तेव्हा JPEG व्यतिरिक्त फाईल फॉरमॅट दुसऱ्यात बदलता येत नाही</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on मोड चालू असताना JPEG व्यतिरिक्त फाईल फॉरमॅट दुसऱ्यात बदलता येत नाही</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">बाह्य लघुक्षेपक कनेक्ट केलेला असताना हे सेटिंग बदलू शकत नाही</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">हे सेटिंग वर्तमान शटर गतीला समर्थन देत नाही. हे सेटिंगची जुळणी करण्यासाठी शटर वेग 1 सेकंद किंवा त्यापेक्षा कमी करा.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">4:3 व्यतिरिक्त दुसरा पक्ष अनुपात निवडलेला असतो तेव्हा RAW निवडता येत नाही</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">मंद गतीमध्ये रेकॉर्डिंग करताना व्हिडिओचा आकार बदलता येत नाही. हे सेटिंग बदलण्यासाठी मंद गती मोडमधून बाहेर पडा.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">हे सेटिंग केवळ अति-विशाल भिंग वापरतानाच उपलब्ध असते</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">हे सेटिंग HDR चालू असताना उपलब्ध होणार नाही. याची जुळणी करण्यासाठी, HDR बंद करा.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">हे सेटिंग वर्तमान व्हिडिओच्या आकाराला समर्थन देत नाही. या सेटिंगची जुळणी करण्यासाठी, व्हिडिओचा आकार बदला.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">बोकेह परिणाम वापरताना झूम करणे शक्य नाही</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">अनुप्रयोग माहितीवर</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">%1$s परवानगी</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">हे कार्य करण्यासाठी अनुप्रयोगाला खालील परवानगी(ग्या)ची आवश्यकता आहे.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">परवानग्या मिळविण्यासाठी, अनुप्रयोग माहिती > परवानग्या येथे जा.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">चालू ठेवता आले नाही</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">छायाचित्रे घेण्याकरिता</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">छायाचित्रे आणि व्हिडिओ घेण्याकरिता</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">स्थान परत मिळविण्याकरिता</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">ध्वनी ध्वनिमुद्रित करण्याकरिता</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">जवळच्या उपकरणांशी जोडण्यासाठी</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">वाचण्यासाठी आणि छायाचित्रे आणि व्हिडिओ जतन करण्याकरिता</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">छायाचित्रे जतन करण्याकरिता</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">छायाचित्रे आणि व्हिडिओ जतन करण्याकरिता</string>
+    <string name="photopro_strings_save_destination_description_txt">तुमच्या उपकरणाच्या अंतर्गत संचयावर किंवा SD कार्डवर छायाचित्र आणि व्हिडिओ संचयित करायचे का ते निवडा</string>
+    <string name="photopro_strings_save_destination_internal_txt">अंतर्गत संचय</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD कार्ड</string>
+    <string name="photopro_strings_save_destination_title_txt">डेटा संग्रहण</string>
+    <string name="photopro_strings_save_destination_txt">डेटा संग्रहण</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD कार्ड अनुपलब्ध</string>
+    <string name="photopro_strings_selftimer_10_txt">10 सेकंद</string>
+    <string name="photopro_strings_selftimer_3_txt">3 सेकंद</string>
+    <string name="photopro_strings_selftimer_description_txt">नियुक्त केलेले सेकंद लोटल्यानंतर आपसूकपणे छायाचित्र घेण्यासाठी स्व-समयक सेट करा</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">आपले डोळे कॅमेऱ्यावर ठेवा</string>
+    <string name="photopro_strings_selftimer_txt">स्व-कालमापक</string>
+    <string name="photopro_strings_settings_off_txt">बंद</string>
+    <string name="photopro_strings_settings_on_txt">चालू</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">नेहमी मूलभूत मोड वापरा</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Photography Pro लाँच करताना मूलनिर्धारित छायाचित्रण मोड निवडा</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">अगदी अलिकडे वापरलेला मोड</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">लाँचला छायाचित्रण मोड</string>
+    <string name="photopro_strings_shooting_mode_txt">छायाचित्रण मोड</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">व्हिडिओ कॅमेरा</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">झडप गती</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">HDR चालू असताना स्नॅपशॉट्स घेऊ शकत नाही</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">स्कीन तुकतुकीत दिसेल अशी करणारा कोणताही प्रभाव बंद करा</string>
+    <string name="photopro_strings_soft_skin_effect_txt">मृदू त्वचा परिणाम</string>
+    <string name="photopro_strings_status_mic_external_txt">बाह्य</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">LR (स्टिरिओ)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">मागील (मोनो)</string>
+    <string name="photopro_strings_store_fail_txt">जतन करू शकलो नाही</string>
+    <string name="photopro_strings_sw_license_txt">सॉफ्टवेअर परवाना</string>
+    <string name="photopro_strings_term_of_use_accept_txt">स्वीकारा</string>
+    <string name="photopro_strings_term_of_use_decline_txt">नकार द्या</string>
+    <string name="photopro_strings_tips_txt">टीपा</string>
+    <string name="photopro_strings_title_permissions_txt">Photo Pro परवानगी</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">स्पर्श फोकस रद्द करा</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">स्वयंचलित फोकस</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"तुम्ही दृश्यपूर्वदर्शकाला स्पर्श करता तेव्हा काय जुळवायचे ते निवडा.
+
+ऑब्जेक्ट ट्रॅकिंग: हलत्या ऑब्जेक्ट्सचे शूटिंग करण्यासाठी सर्वोत्तम कार्य. दृश्यपूर्वदर्शकात तुम्ही टॅप केलेल्या ऑब्जेक्टवर ते फोकस लॉक करून ठेवते, ज्यामुळे तुम्हाला हलते ऑब्जेक्ट स्पष्टपणे शूट करता येतात.
+स्वयंचलित फोकस: तुम्हाला दृश्यपूर्वदर्शकात कुठे फोकस करायचे आहे तिथे टॅप करा.
+फोकस आणि चकाकी: दृश्यपूर्वदर्शक टॅप करून इच्छित स्थानाचा प्रखरपणा समायोजित करा आणि त्यावर फोकस करा."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">फोकस आणि चकाकी</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">घटक ट्रॅकिंग</string>
+    <string name="photopro_strings_touch_to_adjust_txt">जुळविण्यासाठी स्पर्श करा</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">ऑब्जेक्ट ट्रॅकिंग रद्द करा</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"हे कार्य चालू केल्याने Xperia कॅमेऱ्याने घेतलेली छायाचित्रे प्रदर्शित करण्यासाठी हस्तांतरण आणि टॅगिंग अॅड-ऑन मोड वापरता येईल. छायाचित्रे अंतर्गत संचयामध्ये जतन केली जातील.
+हे कार्य Photography Pro ने घेतलेल्या छायाचित्रांशी सुसंगत आहे.
+हे कार्य चालू केल्याने फाइल फॉरमॅट आपसूकपणे JPEG ला आणि ड्राइव्ह मोड एकल छायाचित्रणाला सेट होईल."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Transfer &amp; Tagging add-on मोड</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">मिळाले</string>
+    <string name="photopro_strings_tutorial_button_next_txt">पुढील</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">वगळा</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"छायाचित्रणांचा अविरत आनंद आणि औत्सुक्य देणारी उत्पादने तयार करणाऱ्या फोटोग्राफर्सचा Sony हा अतिशय आवडता ब्रँड आहे.
+आमच्या अनुभव आणि तंत्रज्ञानाला जगभरातील ग्राहकांनी पसंती दिली आहे.
+
+Photography Pro एक असा अनुप्रयोग आहे जी Sony Imaging Products मधून फुल-स्केल कॅमेर्‍याची परिचालन क्षमता आणि कार्यांच्या पुनर्निर्मितीसाठी प्रयत्न करतो.
+आपल्या फोटोग्राफिक कल्पकतेला Sony समर्थन देते."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"आपल्या विषयाशी जुळण्यासाठी सुयोग्य छायाचित्रण मोड निवडा.
+नंतर झडप गती आणि एक्सपोझर सेट करा.
+कॅमेरा स्थिर धरून चित्र घ्या.
+
+छायाचित्रण मोडमध्ये खालील घटक समाविष्ट होतात:
+P (पूर्वरचित स्वयं)
+S (झडप गती प्राधान्य)
+M (व्यक्तिचलित एक्सपोझर)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"वर उजवीकडील मोड डायल वापरून तुमचा प्राधान्य असलेला छायाचित्रण मोड निवडा (लँडस्केप दिशानिर्देशनमध्ये असताना वर डावीकडे).
+
+मूलभूत मोडसह, तुम्हाला स्मार्टफोन कॅमेराप्रमाणेच नेहमीच्या पद्धतीने फ्रंट कॅमेराने छायाचित्रे आणि व्हिडिओ सहज घेता येतात.
+
+Auto/P/S/M मोड्ससह, तुमची आदर्श छायाचित्रे घेण्यासाठी तुम्ही आणखी प्रगत सेटिंग्जमध्ये प्रवेश करू शकता."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">छायाचित्रण मोड</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">वापर पद्धती</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Auto/P/S/M मोड्स वापरताना, लँडस्केप स्थिती दिशानिदेशनात कॅमेरा घट्ट धरा आणि छायाचित्रे घेण्यासाठी तुमच्या उपकरणाच्या वर उजव्या बाजूला असलेले शटर बटण दाबा.
+
+ऑटो निवडल्याने शटर वेग आणि एक्सपोझरसारखी कार्ये आपसूकपणे सेट होतील.
+
+व्यक्तिचलितपणे सेटिंग्जची जुळणी करण्यासाठी, खालीलपैकी एक मोड निवडा.
+P (पूर्वरचित स्वयं)
+S (झडप गती प्राधान्य)
+M (व्यक्तिचलित एक्सपोझर)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Auto/P/S/M मोड वापरण्याची पद्धत</string>
+    <string name="photopro_strings_tutorial_txt">चाचणी</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">कनेक्ट केलेल्या बाह्य पडद्यासह Photo Pro वापरू शकत नाही. Photo Pro वापरण्यासाठी, आपल्या Xperia वर अलीकडील अनुप्रयोग पडद्यावरून तो अनुप्रयोग बंद करा आणि नंतर तो पुन्हा चालू करा.</string>
+    <string name="photopro_strings_unlock_button_txt">अनलॉक करा</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">सुरक्षा कारणास्तव कॅमेर्‍याच्या वापरावर निर्बंध घातला आहे</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">स्थिर 4K व्हिडिओ ध्वनिमुद्रणासाठी, जोवर आपण एक तीव्र-गतीमान SD कार्ड (UHS स्पीड क्लास 1 किंवा उच्चतर, किंवा स्पीड क्लास 10 यांची शिफारस केलेली आहे) चा वापर करीत नाही, तोपर्यंत आपण हे सेटिंग बदलू नये.</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">स्थिर मंद गती व्हिडिओ ध्वनिमुद्रणासाठी, जोवर आपण एक तीव्र-गतीमान SD कार्ड (UHS स्पीड क्लास 1 किंवा उच्चतर, किंवा स्पीड क्लास 10 यांची शिफारस केलेली आहे) चा वापर करीत नाही, तोपर्यंत आपण हे सेटिंग बदलू नये.</string>
+    <string name="photopro_strings_video_explanatory_txt">"स्थिर व्हिडिओ ध्वनिमुद्रणासाठी, आम्ही आपणास अंतर्गत संचयाचे स्थान बदलण्याची शिफारस करतो. आपण आता बदलू इच्छिता?
+
+आपण डेटा संग्रहण म्हणून SD कार्ड वापरणे चालू ठेवल्यास, आपण तीव्र-गतीमान SD कार्ड (UHS स्पीड क्लास 1 किंवा उच्चतर, किंवा स्पीड क्लास 10 यांची शिफारस केलेली आहे) वापरत आहात याची खात्री करा."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"4K व्हिडिओ रेकॉर्डिंग्जसाठी तुम्ही एनकोडर निवडू शकता.
+
+H.264 (AVC): बहुतांश उपकरणे आणि सेवा एन्कोडिंगसाठी मानक फॉरमॅटला समर्थन देतात.
+H.265 (HEVC): उच्च संकोचन गुणोत्तरासह फॉरमॅट. तुमची प्लेबॅक उपकरणे किंवा सेवा या पद्धतीचे समर्थन करतात याची खात्री करा."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">फाईल फॉरमॅट (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"व्हिडिओ आकार निवडा.
+संपूर्ण HD (60 fps) किंवा HD निवडलेले असताना HDR अनुपलब्ध आहे."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">व्हिडिओ आकार निवडा</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">संपूर्ण HD (60 fps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">पूर्ण HD</string>
+    <string name="photopro_strings_video_size_txt">व्हिडिओ आकार</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Xperia ची Optical SteadyShot नावाची एक अद्वितीय हायब्रिड स्टॅबिलायझेशन सिस्टम आहे - ज्यात ऑप्टिकल प्रतिमा स्थिरीकरण आणि इलेक्ट्रॉनिक प्रतिमा स्थिरीकरण एकाचवेळी एकत्र केले जाते. गतीमान असतानाही ते तुम्हाला न हालणारे आणि सफाईदार व्हिडिओ देते.</string>
+    <string name="photopro_strings_video_stabilization_txt">व्हिडिओ स्टॅबिलायझेशन</string>
+    <string name="photopro_strings_volumekey_description_txt">व्हॉल्युम बटणांना दुसरे कार्य नियुक्त करा</string>
+    <string name="photopro_strings_volumekey_shutter_txt">शटर</string>
+    <string name="photopro_strings_volumekey_txt">व्हॉल्युम बटण हे म्हणून वापरा</string>
+    <string name="photopro_strings_volumekey_volume_txt">आवाज</string>
+    <string name="photopro_strings_volumekey_zoom_txt">झूम</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">जुळविणी करा- %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">स्वयंचलित</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">जुळवा</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">झाले</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">रिट्राय करा</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">ला.क.</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">ढगाळ</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">कस्टम 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">कस्टम 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">कस्टम 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">पूर्वदर्शनाच्या केंद्रस्थानानुसार धवल समतोल सेट करा</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">जुळवणी अयशस्वी झाली</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">जुळवणी पूर्ण झाली</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">लागू करा - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">दिनप्रकाश</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">प्रतिदिप्त</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">प्रदीप्त</string>
+    <string name="photopro_strings_whitebalance_shade_txt">शेड</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">तापमान 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">तापमान 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">तापमान 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">तापमान:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">तापमान</string>
+    <string name="photopro_strings_whitebalance_txt">धवल समतोल</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">फ्रंट कॅमऱ्यावरून झूम करणे शक्य झाले नाही</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">AI सुपर रेझोल्युशन झूम</string>
+    <string name="photopro_strings_zoom_type_description_txt">"झूम सेटिंग निवडा.
+
+डिजिटल झूम: प्रतिमा सेन्सर डेटावर आधारित डिजिटल प्रोसेसिंग वापरून झूम करा.
+AI सुपर रेझोल्युशन झूम: मूळ प्रतिमा दर्जा टिकवून ठेवणारे डिजिटल प्रोसेसिंग वापरून झूम करा. छायाचित्रे जतन करण्यास जास्त वेळ लागू शकतो. निरंतर छायाचित्रण निवडलेले असताना हे आपसूकपणे डिजिटल झूम म्हणून कार्य करेल."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">डिजिटल झूम</string>
+    <string name="photopro_strings_zoom_type_txt">झूम सेटिंग्ज</string>
+    <string name="search_menu_title">शोध</string>
+    <string name="status_bar_notification_info_overflow">९९९+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">बंद</string>
+    <string name="v7_preference_on">चालू</string>
+</resources>

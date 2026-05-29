@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Pārvietoties uz sākuma ekrānu</string>
+    <string name="abc_action_bar_up_description">Pārvietoties uz augšu</string>
+    <string name="abc_action_menu_overflow_description">Citas opcijas</string>
+    <string name="abc_action_mode_done">Gatavs</string>
+    <string name="abc_activity_chooser_view_see_all">Skatīt visu</string>
+    <string name="abc_activitychooserview_choose_application">Izvēlieties lietotni</string>
+    <string name="abc_capital_off">IZSLĒGT</string>
+    <string name="abc_capital_on">IESLĒGT</string>
+    <string name="abc_menu_alt_shortcut_label">Alternēšanas taustiņš +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Vadīšanas taustiņš +</string>
+    <string name="abc_menu_delete_shortcut_label">dzēšanas taustiņš</string>
+    <string name="abc_menu_enter_shortcut_label">ievadīšanas taustiņš</string>
+    <string name="abc_menu_function_shortcut_label">Funkcijas taustiņš +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta taustiņš +</string>
+    <string name="abc_menu_shift_shortcut_label">Pārslēgšanas taustiņš +</string>
+    <string name="abc_menu_space_shortcut_label">atstarpes taustiņš</string>
+    <string name="abc_menu_sym_shortcut_label">Simbolu taustiņš +</string>
+    <string name="abc_prepend_shortcut_label">Poga Izvēlne +</string>
+    <string name="abc_search_hint">Meklējiet…</string>
+    <string name="abc_searchview_description_clear">Notīrīt vaicājumu</string>
+    <string name="abc_searchview_description_query">Meklēšanas vaicājums</string>
+    <string name="abc_searchview_description_search">Meklēt</string>
+    <string name="abc_searchview_description_submit">Iesniegt vaicājumu</string>
+    <string name="abc_searchview_description_voice">Meklēt ar balsi</string>
+    <string name="abc_shareactionprovider_share_with">Kopīgot ar:</string>
+    <string name="abc_shareactionprovider_share_with_application">Kopīgot ar lietojumprogrammu %s</string>
+    <string name="abc_toolbar_collapse_description">Sakļaut</string>
+    <string name="ble_remote_control_button_any_problem_txt">Problēmu novēršana</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Sav. jaunu vadības ierīci pārī</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Bluetooth tālvadības pultī jūs C1 pogai varat piešķirt vēl vienu funkciju</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">C1 pogas pielāgošana</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Fokusa režīms</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Objektīvs</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Uzņemšanas režīms</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Pārslēgt starp galv./priekš. kameru</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Pārslēgt foto/video</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Objektīvs</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Pārslēgt AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Pārslēgt starp galv./priekš. kameru</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Atļaut</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Noraidīt</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Vai ļaut lietotnei izmantot Bluetooth šīs funkcijas lietošanai?</string>
+    <string name="ble_remote_control_description_txt">"Jūs varat savienot Sony tālvadības pulti pārī, izmantojot Bluetooth, lai attālināti izmantotu %1$s funkcijas.
+Pieskarieties pie Savienot jaunu vadības ierīci pārī, lai sāktu jaunas ierīces savienošanu pārī."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Jau savienots pārī</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Ja pulti ar ierīci nevar savienot, dodieties uz Iestatījumi un pārbaudiet, vai pults jau ir reģistrēta Bluetooth ierīču sarakstā. Ja tā jau ir reģistrēta, dzēsiet to no saraksta un mēģiniet savienot atkārtoti.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Problēmu novēršana</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Piekrist un ieslēgt</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Atteikties</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Iziet</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Uz iestatījumiem</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">Labi</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Savienošana pārī ir atcelta, jo Bluetooth tika izslēgts</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Savienošana pārī neizdevās, jo iestājās taimauts. Vēlāk mēģiniet vēlreiz.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Piesardzības dēļ šī ierīce intensīvas lietošanas laikā var ierobežot noteiktas funkcijas. Ja ieslēdzat kameras izturības režīmu, tiks attēlota ikona, norādot, ka lietotne saglabās augstu efektivitāti. Kad tiek attēlota šī ikona, lietotni varat izmantot ilgāku laiku.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Kameras izturības režīms ir pieejams tikai tad, ja tiek izmantots %1$s ar Bluetooth pieslēgtu tālvadības pulti. Aizverot %1$s, šī funkcija tiks atspējota.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Ierīces temperatūra var paaugstināties, pārsniedzot parasto darba temperatūru. Kad temperatūra palielinās, jūs brīdina paziņojums un ikona. Šādā gadījumā neturiet rokās ierīci. Pirms turpināšanas pārliecinieties, ka tālvadības pults ir pievienota caur Bluetooth.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Uzmanību!</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Ierīces temperatūra ir pārāk augsta. %1$s tiks uz laiku izslēgts, lai to atdzesētu.
+Ja pieslēdzat Bluetooth tālvadības pulti, varat turpināt izmantot %1$s kameras izturības režīmā."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Ierīces temperatūra ir pārāk augsta. %1$s tiks uz laiku izslēgts, lai to atdzesētu.
+Ja pievienojat Bluetooth tālvadības pulti, varat izmantot %1$s kameras izturības režīmā."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Lai izmantotu šo funkciju, pēc tālvadības pults pievienošanas caur Bluetooth iespējojiet [Izmantot tālvadību].</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Ierīces temperatūra ir pārāk augsta. %1$s tiks uz laiku izslēgts, lai to atdzesētu.
+Ieslēdzot kameras izturības režīmu, jūs varat izmantot %1$s ar Bluetooth tālvadības pulti."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Lai iespējotu šo funkciju, izmantojiet pieslēgto tālvaldības pulti.
+Lai atceltu, piesitiet ATCELT."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Kameras izturības režīms iespējots</string>
+    <string name="ble_remote_control_endurance_mode_txt">Kameras izturības režīms</string>
+    <string name="ble_remote_control_off_txt">Izslēgt</string>
+    <string name="ble_remote_control_on_txt">Ieslēgt</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Lai sāktu savienošanu pārī, izmantojiet tālvadības pulti.
+Divas reizes tiks parādīti paziņojumi un dialogi. Visos atlasiet SAVIENOT PĀRĪ, tad nospiediet jebkuru pārī savienotās ierīces taustiņu, lai pabeigtu savienošanu pārī."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Sav. jaunu vadības ierīci pārī</string>
+    <string name="ble_remote_control_title_txt">Bluetooth tālvadība</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Izmantot tālvadību</string>
+    <string name="expand_button_title">Papildu iestatījumi</string>
+    <string name="external_display_connected_description_txt">Skatu meklētāju var izmantot videoemuāru monitorā</string>
+    <string name="external_display_connected_title_txt">Videoemuāru monitors pievienots</string>
+    <string name="external_display_note_about_external_mic_txt">Piezīme: lai izmantotu ārējo mikrofonu, lūdzu, pirms ierakstīšanas pieslēdziet to videomemuāru monitoram. Ja to pieslēgsiet vēlāk, jums var būt no jauna jāpieslēdz videomemuāru monitors.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Esat iepriekš akceptējis konfidencialitātes politiku, bet jebkurā laikā varat pārdomāt.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Bultiņa pa kreisi</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Bultiņa pa labi</string>
+    <string name="photopro_strings_accessibility_back_txt">Atpakaļ</string>
+    <string name="photopro_strings_accessibility_close_txt">Aizvērt</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Pieejamība: &lt;a href=\"%s\">Daļēji atbilstošs&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Uzzināt vairāk</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Objektīva poga</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Nav konfigurējams</string>
+    <string name="photopro_strings_accessibility_previous_txt">Atpakaļ</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Visjaunāko fotoattēlu krājums</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Sākt video ierakstīšanu</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Apturēt video ierakstīšanu</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Atsākt video ierakstīšanu</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Veiciet momentuzņēmumu video ierakstīšanas laikā</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Pārtraukt video ierakstīšanu</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Beigt atpakaļskaitīšanu</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Aizslēga</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Tiek pārslēgts starp galveno un priekšējo kameru</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Tiek pārslēgts starp fotoattēliem un video</string>
+    <string name="photopro_strings_accessibility_title_txt">Pieejamība</string>
+    <string name="photopro_strings_addon_button_menu_txt">Vēl</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Radošs efekts</string>
+    <string name="photopro_strings_addon_panorama_txt">Panorāma</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Pašportrets</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Palēninājums</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Lai saglabātu atrašanās vietas, ir jāiespējo GPS un/vai bezvadu tīkli. Vai iespējot tūlīt?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Atrašanās vietas saglabāšana</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Anonīma analītika</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Priekš. fotoattēls</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Priekš. video</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Video</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Atlasiet fotoattēlu proporcijas</string>
+    <string name="photopro_strings_aspect_ratio_txt">Proporcijas</string>
+    <string name="photopro_strings_audio_on_all_txt">Ieslēgts: viss</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Ieslēgts: tikai aizslēgs</string>
+    <string name="photopro_strings_audio_signals_description_txt">Iestatiet, kuras kameras skaņas atskaņot, piemēram, veicot iekšējā taimera laika atskaiti vai fokusēšanu. Varat arī izvēlēties atskaņot vienīgi aizslēga skaņu.</string>
+    <string name="photopro_strings_audio_signals_txt">Audio signāli</string>
+    <string name="photopro_strings_auto_power_off_txt">Lietotne Photo Pro drīz tiks aizvērta neaktivitātes dēļ</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Portrets ar pretgaismu</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Fona apgaismojums</string>
+    <string name="photopro_strings_auto_scene_document_txt">Dokuments</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Gastronomija</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Bērns</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Ainava</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Blāva gaisma</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Makro</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Nakts portrets</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Nakts sižets</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Automātiskā sižeta atpazīšana</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Attēli ar nefokusētu fonu</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Prožektors</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Pārliecinieties, ka objektīvs ir tīrs un pirksts nav uz objektīva</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Pārāk spilgts</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Pārvietojieties tālāk no objekta</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Nepieciešams vairāk gaismas</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Pārvietojieties tuvāk objektam</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Fona pludināšana (bukē) šobrīd nav pieejama</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Fona pludināšana ieslēgta</string>
+    <string name="photopro_strings_bokeh_txt">Fona pludināšana (bokeh)</string>
+    <string name="photopro_strings_bt_remote_control_txt">Bluetooth tālvadība</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Fotoattēli no nep. uzņemšanas saglabāti iekšējā krātuvē</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Nevar izmantot opciju \"Nepārtrauktā uzņemšana\" ar lēnu aizslēga ātrumu</string>
+    <string name="photopro_strings_button_continue_txt">Turpināt</string>
+    <string name="photopro_strings_button_quit_txt">BEIGT</string>
+    <string name="photopro_strings_cancel_txt">Atcelt</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Palēnināta kustība</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K video</string>
+    <string name="photopro_strings_change_txt">Mainīt</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Nokl.</string>
+    <string name="photopro_strings_color_and_brightness_txt">Krāsa un spilgtums</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Iekšējā krātuve ir pilna.Vai saglabāt datus SD kartē?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Iekšējā krātuve ir pilna vai aizsargāta pret rakstīšanu. Vai saglabāt datus SD kartē?</string>
+    <string name="photopro_strings_common_error_open_txt">%1$s nevar atvērt</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">SD karte ir pilna. Vai saglabāt datus iekšējā krātuvē?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">Nevar izmantot SD karti. Vai saglabāt datus iekšējā krātuvē?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Nepārtrauktās uzņemšanas reakcija</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Tālāk minētās funkcijas pašlaik ir atspējotas.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Lūdzu, uzgaidiet, kamēr ierīce atdzisīs, un tad restartējiet kameru.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Šīs funkcijas ir atspējotas</string>
+    <string name="photopro_strings_cooling_mode_txt">Dažas funkcijas ir atspējotas, lai novērstu ierīces temperatūras paaugstināšanos.</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Piešķiriet AEL pogai papildu funkciju</string>
+    <string name="photopro_strings_custom_ael_txt">AEL pogas pielāgošana</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Piesitot pie DISP pogas, var parādīt/paslēpt informāciju skatu meklētājā.
+Noņemiet jebkura šīs izvēlnes objekta atzīmi, ja vēlaties, ka to nekad neparāda, kad ar DISP pogu parādāt informāciju."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histogramma</string>
+    <string name="photopro_strings_custom_disp_level_txt">Līmenis</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Galvenes informācija</string>
+    <string name="photopro_strings_custom_disp_txt">DISP pogas pielāgošana</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Jūs varat atkārtoti piešķirt vai vai mainīt iestatījumu objektu secību funkciju izvēlnē.
+Pieskarieties vienam zemāk esošajam funkciju objektam, lai no kreisajā pusē esošā saraksta piešķirtu citu izvēlētu funkciju.
+Velciet un atlaidiet jebkuru zemāk esošo funkciju objektu, lai mainītu secību."</string>
+    <string name="photopro_strings_custom_fn_txt">Funkciju izvēlnes pielāgošana</string>
+    <string name="photopro_strings_custom_none_txt">Nav piešķirts</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Iepriekš esat noraidījis konfidencialitātes politiku.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Bloķēt automātisko ekspozīciju</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Iestatīt ISO uz Automātiski.</string>
+    <string name="photopro_strings_description_custom_none_txt">Atspējot AEL pogu</string>
+    <string name="photopro_strings_device_id_txt">Ierīces ID</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Tālruņa akumulatorā nepietiek enerģijas. Ja akumulatora uzlādes līmenis ir zems, kamera tiks automātiski izslēgta.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Ierakstīšana tika pārtraukta zema akumulatora uzlādes līmeņa dēļ. Uzlādējiet ierīci un mēģiniet vēlreiz.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Nevar izmantot kameru zema akumulatora uzlādes līmeņa dēļ. Uzlādējiet ierīci un mēģiniet vēlreiz.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Lai veiktu šo darbību, lietotnei ir nepieciešamas tālāk norādītās atļaujas.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Tīkls
+Lai izveidotu savienojumu ar Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Lidmašīnas režīms ir ieslēgts.
+Lūdzu, izslēdziet lidmašīnas režīmu izvēlnē IESTATĪJUMI."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Tīkla nosaukums: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi ir izslēgts, un ir ieslēgts lidmašīnas režīms.
+Lūdzu, mainiet šos iestatījumus, piesitot pie IESTATĪJUMI."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi ir izslēgts.
+Lūdzu, ieslēdziet Wi-Fi izvēlnē IESTATĪJUMI."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Iestatījumi</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Atļaut</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Noraidīt</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Piezīme</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Kalibrēt</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Atiestatīt</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Nepietiek iekšējās atmiņas. Nepārtrauktā uzņemšana apturēta. Lai atbrīvotu vietu atmiņā, izdzēsiet dažus failus.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Piešķirt atļaujas</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Notiek savienošana…</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Aizsardzība ar paroli: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Drošība: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Nevar izveidot savienojumu ar Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Ja tālāk apliecināt savu piekrišanu, Sony apkopos jūsu &lt;b>&lt;a href=#personas-datus>personas datus&lt;/a>&lt;/b>, lai nodrošinātu pielāgotu atbalstu un uzlabotu ierīces un pakalpojumus. Sony rīkosies ar jūsu datiem saskaņā ar mūsu &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>Privacy Policy&lt;/a>&lt;/b>.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Video var ierakstīt pat augsta kontrasta sižetā, turklāt varat tos padarīt izteiksmīgākus un pietuvinātākus nekā realitātē. Lai saturu skatītu sākotnējās krāsās un spilgtumā, izmantojiet atbalstītas ierīces/pakalpojumus.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Vairs nerādīt</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">HDR nepārtrauktā uzņemšana: Hi</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">HDR nepārtrauktā uzņemšana: zema</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Nep. uzņemšana: augsts</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Nepārtrauktā uzņemšana: zems</string>
+    <string name="photopro_strings_drive_continuous_txt">Nepārtraukta uzņemšana</string>
+    <string name="photopro_strings_drive_mode_txt">Vilkšanas režīms</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Iekšējais taimeris: 10 sek</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Iekšējais taimeris: 3 sek</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Taimeris: Izslēgts</string>
+    <string name="photopro_strings_drive_single_txt">Viena kadra uzņemšana</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">Automātisks HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Šis iestatījums optimizēs vērtību diapazonu. DRO apstrāde izmanto vienu attēlu, savukārt Auto HDR apvieno vairākas ekspozīcijas, lai sasniegtu rezultātu.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Dinamiskā diapazona optimizētājs</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/automātisks HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">Nevar sākt kameru. Restartējiet kameru vai ierīci.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Kļūda</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Nevarēja saglabāt fotoattēlus. Iespējams, radusies problēma ar datu krātuvi. Ja SD karte ir iestatīta kā datu krātuve, pārbaudiet SD karti.</string>
+    <string name="photopro_strings_error_fatal_txt">Nezināma kļūda.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Nē</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Jā</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Kamera tūlīt tiks īslaicīgi izslēgta, lai atdzistu. Jūsu ieraksts tiks saglabāts. Restartējiet lietotni, kad ierīce ir atdzisusi.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Atmiņa pilna. Izdzēsiet dažus failus no SD kartes vai iekšējās atmiņas.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Atmiņa nav pieejama</string>
+    <string name="photopro_strings_error_memory_title_txt">Atmiņas kļūda</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD karte nav pieejama</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Ekspozīcijas kompensācija</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Varat uzņemt fotoattēlus, kuri tiek fokusēti uz cilvēku un dzīvnieku seju vai acīm.
+Lai mainītu fokusa mērķus, pieskarieties objekta, uz kuru vēlaties fokusēt, sejai."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Varat uzņemt video, kuri tiek fokusēti uz cilvēku un dzīvnieku seju vai acīm.
+Lai mainītu fokusa mērķus, pieskarieties tā objekta sejai, uz kuru vēlaties fokusēt.
+Piezīme: ja šis iestatījums ir iespējots, ierakstīšanas ilgums ierīces temperatūras paaugstināšanās dēļ var būt īsāks."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Sejas noteikšanas/acu AF ieslēgts</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">Sejas/acu AF</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">Sejas/acu AF: izslēgts</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">Sejas/acu AF: ieslēgts</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Lai izmantotu šo funkciju, atbloķējiet ekrānu</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Lai atvērtu iestatījumus, atbloķējiet ekrānu.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Ekrāns bloķēts</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Lai pielāgotu fona pludināšanas (bukē) efektu, skatu meklētājā pieskarieties bukē ikonai un pārvietojiet slīdni.
+Šī funkcija ir atbalstīta Pamata (fotoattēlu) režīmā.
+Ļaujiet objektiem izcelties ar iespaidīgu kontrastu, sapludinot fonu."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Uzņemt fotoattēlus ar bukē efektu</string>
+    <string name="photopro_strings_feature_bokeh_txt">Fona pludināšanas (bukē) efekts</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Vilkšanas režīmu var nomainīt uz Viena kadra uzņemšanu vai Nepārtrauktu uzņemšanu, vai iekšējo taimeri.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Vilkšanas režīms</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Uzņemot fotoattēlus ar priekšējo kameru, skatieties uz priekšējās kameras objektīvu, kas atrodas pie klausules skaļruņa.
+Jūsu acis fotoattēlā skatīsies pareizā virzienā."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Skatiena virziens</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Varat uzņemt fotoattēlus, kuri tiek fokusēti uz cilvēku un dzīvnieku seju vai acīm.
+Lai mainītu fokusa mērķus, pieskarieties objekta, uz kuru vēlaties fokusēt, sejai. Šo funkciju var iespējot vai atspējot sadaļā IZVĒLNE > Sejas/acu AF."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">Sejas/acu AF</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Pagrieziet plaukstu pret kameru. Iekšējais taimeris laika atskaiti sāk mirklī, kad atpazīst jūsu plaukstu. Lai atvieglotu noteikšanu, izvērsiet pirkstus uz augšu.
+Lai iespējotu šo funkciju, pārslēdziet uz priekšējo kameru, kamēr ieslēgts Pamata (fotoattēlu) režīms, un sadaļā IZVĒLNE ieslēdziet Aizslēgs ar roku."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Aizslēgs ar roku</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Izmantojot īpaši platu objektīvu (0,7x), varat atlasīt prioritāti. Atlasot Noteikt attēla kvalitātes prioritāti, varat uzņemt dinamiskus augstas kvalitātes attēlus. Atlasot Noteikt kropļojumu koroiģēšanas prioritāti, varat samazināt vizuālos kropļojumus.
+Šī funkcija ir aktīva, uzņemot fotoattēlus ar īpaši platu objektīvu. Pēc pārslēgšanas uz īpaši plata leņķa objektīvu, prioritāti varat konfigurēt sadaļā IZVĒLNE > Īpaši plata objektīva koriģēšana."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Objektīva korekcija (fotoattēls)</string>
+    <string name="photopro_strings_feature_list_title_txt">Ievads par funkcijām</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Viegli uzņemiet māksliniecisku pašportretu, izmantojot fona pludināšanas (bukē) efektu un skaistuma efektus.
+Lai izmantotu šo funkciju, skatu meklētājā pieskarieties pie Vēl un atlasiet Pašportrets.
+Stilizējiet savu pašportretu un baudiet radošus rezultātus."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Pašportrets</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Varat ātri piekļūt tīmeklim vai izveidot savienojumu ar Wi-Fi, noskenējot QR Code.
+Šī funkcija ir aktīva, kamēr ieslēgts Pamata (fotoattēlu) režīms. Šo funkciju var iespējot vai atspējot sadaļā IZVĒLNE > QR Code lasītājs."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code lasītājs</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code lasītājs</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Pievienojiet saviem fotoattēliem un video etiķetes ar informāciju par to uzņemšanas vietām. Vēlāk šo iestatījumu varēsiet mainīt sadaļā IZVĒLNE > Atrašanās vietas saglabāšana.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Vai saglabāt atrašanās vietu?</string>
+    <string name="photopro_strings_feature_selfie_txt">Priekšējā kamera</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Varat ierakstīt HD video ar 120 fps palēninājumā</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Palēninājums</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Varat viegli pārslēgt dažādus kameras objektīvus, lai uzņemtu jebkādu situāciju uz izaicinātu savu radošumu.
+Piesitiet pogai skatu meklētājā, lai pārslēgtu starp 0,7x (īpaši plats), 1,0x (plats), 2,9x (telefoto) un 4,4x (telefoto) objektīviem.
+Šo funkciju varat izmantot gan Pamata (fotoattēlu), gan Pamata (video) režīmos."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Pārslēdziet leņķi ar pogu</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Varat viegli pārslēgt dažādus kameras objektīvus, lai uzņemtu jebkādu situāciju uz izaicinātu savu radošumu.
+Piesitiet pogai skatu meklētājā, lai pārslēgtu starp 0,7x (īpaši plats), 1,0x (plats) un 2,1x (standarta) objektīviem.
+Šo funkciju varat izmantot gan Pamata (fotoattēlu), gan Pamata (video) režīmos."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Trīskārtēja kamera</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Pieskaroties objektīva pogai, tiks parādīts slīdnis, ar kuru var noregulēt tālummaiņas līmeni.
+Lai regulētu tālummaiņu, varat arī savilkt ekrānu vai izmantot skaļuma pogas."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Kā veikt tuvināšanu/tālināšanu</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Dzēšana</string>
+    <string name="photopro_strings_file_format_description_txt">"Atlasiet fotoattēlu failu formātu.
+
+RAW: nepieciešama īpaša programmatūra, lai veiktu fotoattēlu pēcapstrādi. Tas sniedz iespēju veikt korekcijas, vienlaikus ierobežojot attēlu kvalitātes pasliktināšanos. Drukājams pēc pēcapstrādes.
+RAW un JPEG: saglabā gan RAW attēlus, kam nepieciešama pēcapstrāde, gan JPEG attēlus.
+JPEG: saglabā JPEG attēlus.
+
+Piezīmes.
+RAW formāta faili vienmēr tiks saglabāti iekšējā krātuvē ar 4:3 proporcijām.
+Atlasot RAW vai RAW un JPEG, nepārtrauktā uzņemšana un automātiskais HDR nav pieejami."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW un JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Failu formāts</string>
+    <string name="photopro_strings_flash_auto_txt">Automātiski</string>
+    <string name="photopro_strings_flash_description_txt">Iestatiet Automātiskā zibspuldze, Lietot zibspuldzi u.c. zibspuldzes režīmus.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Lietot zibspuldzi</string>
+    <string name="photopro_strings_flash_off_txt">Izslēgt</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Sarkano acu efekta mazin.</string>
+    <string name="photopro_strings_flash_torch_description_txt">Ieslēgt zibspuldzi</string>
+    <string name="photopro_strings_flash_torch_off_txt">Zibspuldze: Izslēgta</string>
+    <string name="photopro_strings_flash_torch_on_txt">Zibspuldze: Ieslēgta</string>
+    <string name="photopro_strings_flash_torch_txt">Lukturītis</string>
+    <string name="photopro_strings_flash_txt">Zibspuldzes režīms</string>
+    <string name="photopro_strings_focus_area_center_txt">Centrs</string>
+    <string name="photopro_strings_focus_area_txt">Fokusa apgabals</string>
+    <string name="photopro_strings_focus_area_wide_txt">Plats</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Iestatiet fokusa rāmja krāsu</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Sarkana</string>
+    <string name="photopro_strings_focus_frame_color_txt">Fokusa apgabala krāsa</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Balta</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">Nepārtraukta AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">Viena kadra AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">Izvēlieties fokusa metodi</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Seju atrašana</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Manuāls fokuss</string>
+    <string name="photopro_strings_focus_mode_txt">Fokusa režīms</string>
+    <string name="photopro_strings_geotagging_description_txt">Saglabājiet savus fotoattēlus un video kopā ar informāciju par to uzņemšanas vietām</string>
+    <string name="photopro_strings_geotagging_txt">Atrašanās vietas saglabāšana</string>
+    <string name="photopro_strings_gridline_description_txt">Iestatiet, vai parādīt vai paslēpt režģlīnijas, kas jums palīdz izveidot attēla kompozīciju</string>
+    <string name="photopro_strings_gridline_txt">Režģlīnijas</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Varat uzsākt iekšējā taimera laika atskaiti, pavēršot savu plaukstu pret priekšējo kameru. Lai atvieglotu noteikšanu, izvērsiet pirkstus uz augšu.</string>
+    <string name="photopro_strings_hand_shutter_txt">Aizslēgs ar roku</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Iestatīt haptiskās atsauksmes saņemšanu/nesaņemšanu, izmantojot displeju, piemēram, režīmu pārslēgšanas ripu</string>
+    <string name="photopro_strings_haptic_feedback_txt">Haptiskā atsauksme</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Izslēgts</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: Ieslēgts</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Inteliģentais vēja filtrs</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO jutīgums</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Nospiežot un turot nospiestu ierīces aizslēga pogu, varat palaist Photography Pro. Tas darbojas pat tad, ja tālrunis atrodas miega režīmā vai ir bloķēts.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Palaist Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Palaidiet ar aizslēga pogu</string>
+    <string name="photopro_strings_lens_correction_description_txt">Izmantojot īpaši platu objektīvu, varat atlasīt prioritāti. Atlasot Noteikt attēla kvalitātes prioritāti, varat uzņemt dinamiskus augstas kvalitātes attēlus. Atlasot Noteikt defektu korekcijas prioritātes, varat samazināt vizuālos defektus.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Noteikt attēla kvalitātes prioritātes</string>
+    <string name="photopro_strings_lens_correction_on_txt">Noteikt defektu korekcijas prioritātes</string>
+    <string name="photopro_strings_lens_correction_txt">Objektīva koriģēšana</string>
+    <string name="photopro_strings_lens_txt">Obj.</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Kalibrēt</string>
+    <string name="photopro_strings_level_calibration_description_txt">Ja nepieciešams, varat kalibrēt līmeni, lai izlabotu novirzes sasvēršanas virzienā. Pārliecinieties, ka kamera ir horizontāli, pēc tam atlasiet Kalibrēt.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Kalibrēšana pabeigta</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Kalibrēšanas iestatījums ir atiestatīts</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Līmeņa kalibrācija</string>
+    <string name="photopro_strings_lock_switch_txt">Bloķēt</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Ierakstīšana tika apturēta maksimālā faila lieluma ierobežojuma dēļ</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Ierakstīšana apturēta, jo sasniegts maksimālais ierakstīšanas laika ierobežojums.</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Neizdevās saglabāt. Atmiņa pilna.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Lietot</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Saglabāt</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Iestatīt</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Vai saglabāt pašreizējo režīmu un iestatījumu kombināciju?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Kameras iestatījumi saglabāti.
+Šos iestatījumus varat vienkārši atsaukt, izmantojot MR uzņemšanas režīmu."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Kameras iestatījumu atmiņa</string>
+    <string name="photopro_strings_memory_recall_txt">Atsaukt kameras iest.</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Fotoattēls (priekšējā kamera)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Fotoattēls</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Palēninājums</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Video (priekšējā kamera)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Video</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Ekspozīcija/krāsa</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Fokuss</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Iestatīšana</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Uzņemšana</string>
+    <string name="photopro_strings_menu_title_txt">Izvēlne</string>
+    <string name="photopro_strings_metering_center_txt">Centrā</string>
+    <string name="photopro_strings_metering_multi_txt">Vairāki</string>
+    <string name="photopro_strings_metering_spot_txt">Punkts</string>
+    <string name="photopro_strings_metering_txt">Mērīšanas režīms</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Izvēlieties, kuru mikrofonu izmantot, ierakstot video:
+1. LR mikrofons: ieraksta stereo skaņu ar kreisās un labās puses mikrofoniem (portretorientācijā: augšā un apakšā)
+2. Aizmugurējais mikrofons: ieraksta mono skaņu ar aizmugurējo mikrofonu"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Ārējais mik.</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">LR mik. (stereo)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Aizmugurējais mikrofons (mono)</string>
+    <string name="photopro_strings_mic_setting_txt">Mik.</string>
+    <string name="photopro_strings_mode_auto_description_txt">Kamera automātiski nosaka sižeta veidu un uzņem fotoattēlus ar automātiskiem iestatījumiem, mazinot troksni un kameras trīcēšanu.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Automātiskais režīms</string>
+    <string name="photopro_strings_mode_basic_description_txt">"Šajā režīmā jūs varat uzņemt fotoattēlus, izmantojot ekrānā redzamo aizslēga pogu, līdzīgi kā lietojot parastu viedtālruņa kameru.
+Izmantojiet šo režīmu, lai uzņemtu pašportretus, uzņemtu video un skenētu QR Code."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Pamata režīms</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Tas sniegs katra uzņemšanas režīma skaidrojumu, kad tie tiks mainīti, izmatnojot režīmu ripu</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Režīmu ripas ceļvedis</string>
+    <string name="photopro_strings_mode_m_description_txt">"Regulējiet aizslēga ātrumu un ISO jutīgumu manuāli.
+Ar ilgāku ekspozīciju iespējams uzņemt fotoattēlus, kuros kustība tiek uzņemta, izmantojot kustības izplūdumu."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Manuālā ekspozīcija</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Inteliģentais automātiskais režīms (Atsaukšana atmiņā)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Uzņemiet fotoattēlus, izmantojot savus saglabātos iestatījumus.
+Varat reģistrēt biežāk izmantoto režīmu un iestatījumu kombinācijas."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Atsaukšana atmiņā</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Manuāla ekspozīcija (Atsaukšana atmiņā)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Programmējams automātiskais režīms (Atsaukšana atmiņā)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Aizslēga ātruma prioritāte (Atsaukšana atmiņā)</string>
+    <string name="photopro_strings_mode_p_description_txt">Kamera kontrolē aizslēga ātrumu automātiski, un pārējos iestatījumus varat kontrolēt jūs.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Programmēts automātiskais režīms</string>
+    <string name="photopro_strings_mode_s_description_txt">"Kontrolējiet aizslēga ātrumu manuāli, lai mainītu to, kā uzņemat kustīgus objektus.
+Ar lielu aizslēga ātrumu kustīgs objekts izskatīsies iesaldēts, kamēr ar mazu aizslēga ātrumu var labāk uzņemt kustības izplūdumu."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Aizslēga ātruma prioritāte</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Vadības režīms ir automātiski iestatīts uz Viena kadra uzņemšanu, jo ir ieslēgts pievienojumprogrammas Transfer &amp; Tagging režīms</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Faila formāts ir automātiski iestatīts uz JPEG, jo ir ieslēgts pievienojumprogrammas Transfer &amp; Tagging režīms</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Nevar izmantot kameru vairāklogu režīmā vai uznirstošajā logā. Aizveriet logu un mēģiniet vēlreiz. Izmantojot vairāklogu režīmu, jūs varat vilkt dalītās joslas vidusdaļu, lai pārslēgtos uz pilnu kameras ekrānu.</string>
+    <string name="photopro_strings_multi_window_txt">Velciet dalītās joslas vidusdaļu, lai pārslēgtos uz pilnu ekrānu un lietotu %1$s</string>
+    <string name="photopro_strings_ok_txt">Labi</string>
+    <string name="photopro_strings_personal_data_txt">Personiskie dati</string>
+    <string name="photopro_strings_privacy_policy_txt">Konfidencialitātes politika</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Uzņem fotoattēlu. Lūdzu, uzgaidiet.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Šis QR Code netiek atbalstīts</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Piesitiet, lai atvērtu \"%1$s\" pārlūkpr.</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Nevar izveidot savienojumu ar šo Wi-Fi tīklu</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Piesitiet, lai izv. sav. ar Wi-Fi tīklu \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code lasītājs</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Varat ātri piekļūt tīmeklim vai izveidot savienojumu ar Wi-Fi, noskenējot QR Code.
+Šī funkcija ir aktīva, kamēr ieslēgts Pamata (fotoattēlu) režīms."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code lasītājs</string>
+    <string name="photopro_strings_rec_txt">REC</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Vai atiestatīt Photo Pro uz noklusējuma iestatījumiem?</string>
+    <string name="photopro_strings_reset_settings_txt">Atiestatīt iestatījumus</string>
+    <string name="photopro_strings_reset_txt">Atiestatīt</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Ja ir iestatīts faila formāts RAW, proporcijas nevar mainīt</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Ja ir atlasīta Nepārtraukta uzņemšana, nevar atlasīt automātisko HDR</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Nevar izmantot automātisko HDR, ja ir atlasīts cits faila formāts, kas nav JPEG</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Fona pludināšanas efekts nav pieejams ar šobrīd izvelēto objektīvu</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Fona pludināšanas efekts nav pieejams, kad ir ieslēgts Transfer &amp; Tagging add-on režīms</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Nevar izmantot opciju \"Nepārtrauktā uzņemšana: augsts\" ar pašlaik atlasīto objektīvu</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Nepārtrauktu uzņemšanu nevar izmantot, kamēr fona pludināšanas (bukē) efekts ir ieslēgts</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Nepārtraukta uzņemšana nav pieejama, ja ir atlasīta MI īpaši lielas izšķirtspējas tālummaiņa</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Nevar izmantot opciju Nepārtraukta uzņemāšana, ja ir atlasīts cits faila formāts, kas nav JPEG</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Nepārtrauktā uzņemšana nav pieejama, kad ir ieslēgts Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Nevar mainīt</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Ja ir atlasīta Nepārtrauktā uzņemšana, nevar izmantot Zibspuldzes režīmu</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Nevar izmantot zibspuldzes režīmu ar pašlaik atlasīto objektīvu</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Ar pašreiz atlasīto objektīvu nevar izmantot lukturīti</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Ja ir atlasīts automātiskais HDR, nevar mainīt faila formātu uz citu, kas nav JPEG</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Ja ir atlasīta opcija Nepārtraukta uzņemšana, nevar mainīt faila formātu uz citu, izņemot JPEG formātu</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Ja ir ieslēgts Transfer &amp; Tagging add-on režīms, faila formātu nevar mainīt uz citu kā tikai JPEG</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Nevar mainīt šo iestatījumu, kamēr ir pievienots ārējais mikrofons</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Šis iestatījums neatbalsta pašreizējo aizslēga ātrumu. Lai konfigurētu šo iestatījumu, nomainiet aizslēga ātrumu uz 1 sekundi vai mazāk.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Nevar atlasīt RAW, ja ir atlasīta cita proporcija, nevis 4: 3</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Video lielumu nevar mainīt, ierakstot palēninājuma režīmā. Lai mainītu šo iestatījumu, izejiet no palēninājuma režīma.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Šis iestatījums ir pieejams, izmantojot tikai īpaši platu objektīvu</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Šis iestatījums nav pieejams, ja HDR ir ieslēgts. Lai rediģētu, izslēdziet HDR.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Šis iestatījums netiek atbalstīts pašreizējam video lielumam. Lai konfigurētu šo iestatījumu, mainiet video lielumu.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Fona pl. (bukē) efekta liet. laikā nevar izm. tālumm.</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">LIETOTNES INFO.</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">Lietotnes %1$s atļauja</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Lai veiktu šo darbību, lietotnei ir nepieciešamas tālāk norādītās atļaujas.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Lai piešķirtu atļaujas, pārejiet uz sadaļu Informācija par lietotni > Atļaujas.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Nevarēja turpināt</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Lai fotografētu</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Fotoattēlu un videoklipu uzņemšana</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Atrašanās vietas datu izgūšana</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Skaņas ierakstīšana</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Lai pieslēgtu tuvumā esošās ierīces</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Lai nolasītu un saglabātu fotoattēlus un video</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Lai saglabātu fotoattēlus</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Fotoattēlu un videoklipu saglabāšana</string>
+    <string name="photopro_strings_save_destination_description_txt">Izvēlieties, vai uzglabāt fotoattēlus un video savas ierīces iekšējā atmiņā vai SD kartē</string>
+    <string name="photopro_strings_save_destination_internal_txt">Iekšējā atmiņa</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD karte</string>
+    <string name="photopro_strings_save_destination_title_txt">Datu krātuve</string>
+    <string name="photopro_strings_save_destination_txt">Datu krātuve</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD karte nav pieejama</string>
+    <string name="photopro_strings_selftimer_10_txt">10 s</string>
+    <string name="photopro_strings_selftimer_3_txt">3 s</string>
+    <string name="photopro_strings_selftimer_description_txt">Iestatiet iekšējā taimera automātisku fotoattēla uzņemšanu, kad pagājis noteikt skaits sekunžu</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Skatieties uz kameru</string>
+    <string name="photopro_strings_selftimer_txt">Taimeris</string>
+    <string name="photopro_strings_settings_off_txt">Izslēgt</string>
+    <string name="photopro_strings_settings_on_txt">Ieslēgt</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Vienmēr izmantot Pamata režīmu</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Palaižot Photography Pro, atlasiet noklusējuma uzņemšanas režīmu</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Pēdējais izmantotais režīms</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Uzņemšanas režīms palaižot</string>
+    <string name="photopro_strings_shooting_mode_txt">Uzņemšanas režīms</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Videokamera</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Aizslēga ātrums</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Nevar uzņemt momentuzņēmumus, kad ir iespējots HDR</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Ieslēdziet efektu, kas liek jūsu ādai izskatīties gludākai</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Maigas ādas efekts</string>
+    <string name="photopro_strings_status_mic_external_txt">Ārējs</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">LR (stereo)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Aizmug. (mono)</string>
+    <string name="photopro_strings_store_fail_txt">Neizdevās saglabāt</string>
+    <string name="photopro_strings_sw_license_txt">Programmatūras licence</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Akceptēt</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Atteikties</string>
+    <string name="photopro_strings_tips_txt">Padomi</string>
+    <string name="photopro_strings_title_permissions_txt">Photo Pro atļauja</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Atcelt Pieskāriena fokusu</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Automātiskais fokuss</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Atlasiet, ko pielāgot, kad jūs pieskaraties skatu meklētājam.
+
+Objekta izsekošana: Labākā funkcija kustīgu objektu uzņemšanai. Tā fiksē fokusu uz objektu, kuram pieskaraties skatu meklētājā, ļaujot skaidri uzņemt kustīgus objektus.
+Automātiskais fokuss: Skatu meklētājā pieskarieties, kur vēlaties fokusēt.
+Fokuss un spilgtums: Fokusējiet un pielāgojiet vēlamās pozīcijas spilgtumu, pieskaroties tai skatu meklētājā."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Fokuss un spilgtums</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Objekta izsekošana</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Pieskarties, lai pielāgotu</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Atcelt Objekta izsekošanu</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Ieslēdzot šo funkciju, pievienojumprogramma Transfer &amp; Tagging varēs attēlot fotoattēlus, kas uzņemti ar Xperia kameru. Fotoattēli tiks saglabāti iekšējā atmiņā.
+Šī funkcija ir saderīga ar fotoattēliem, kas uzņemti ar Photography Pro.
+Ieslēdzot šo funkciju, faila formāts tiks automātiski iestatīts uz JPEG un Vadības režīms uz Viena kadra uzņemšanu."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Transfer &amp; Tagging add-on režīms</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Sapratu</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Tālāk</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Izlaist</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony ir fotogrāfu iemīļots zīmols, lai iegūtu attēlus, kuri sniedz nebeidzamu prieku un ļauj izbaudīt fotogrāfijas brīnumu.
+Mūsu pieredzi un tehnoloģijas aizvien izvēlas klienti visā pasaulē.
+
+Photography Pro cenšas atveidot Sony Imaging Products pilnizmēra kameru darbību un funkcijas.
+Sony atbalsta jūsu radošumu fotografēšanā."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Izvēlieties ideālo uzņemšanas režīmu, kas atbilst jūsu subjektam.
+Pēc tam iestatiet aizslēga ātrumu un ekspozīciju.
+Turiet kameru stingri no sāniem un uzņemiet attēlu.
+
+Daži uzņemšanas režīmi ir norādīti tālāk.
+P (Programmēts automātiskais režīms)
+S (Aizslēga ātruma prioritāte)
+M (Manuālā ekspozīcija)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Atlasiet vēlamo uzņemšanas režīmu, izmantojot režīmu ripu augšējā labā stūrī (augšējā kreisā, ja ieslēgta ainavas orientācija).
+
+Izmantojot Pamata režīmu, jūs varat viegli uzņemt fotoattēlus un video ar priekšējo kameru līdzīgi kā ar parastu viedtālruņa kameru.
+
+Izmantojot režīmus Auto/P/S/M, jūs varat piekļūt papildu iestatījumiem, kas ļaus uzņemt ideālus fotoattēlus."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Uzņemšanas režīms</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Kā lietot</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Izmantojot režīmus Auto/P/S/M, stabili turiet kameru ainavas orientācijā un nospiediet aizslēga pogu ierīces augšējā labajā sānā, lai uzņemtu fotoattēlus.
+
+Atlasot Auto, tiks automātiski iestatītas tādas funkcijas kā aizslēga ātrums un ekspozīcija.
+
+Lai iestatījumus konfigurētu manuāli, atlasiet kādu no tālāk norādītajiem režīmiem.
+P (Programmēts automātiskais režīms)
+S (Aizslēga ātruma prioritāte)
+M (Manuālā ekspozīcija)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Kā izmantot Auto/P/S/M režīmus</string>
+    <string name="photopro_strings_tutorial_txt">Pamācība</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Nevar lietot Photo Pro, ja pievienots ārējais displejs. Lai izmantotu Photo Pro, Xperia ekrānā aizveriet lietotni Nesen izmantotās lietotnes un restartējiet to.</string>
+    <string name="photopro_strings_unlock_button_txt">Atslēgt</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Kameras lietošana ir ierobežota drošības apsvērumu dēļ</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Lai nodrošinātu netraucētu 4K video ierakstīšanu, nemainiet šo iestatījumu, ja vien neizmantojat ātrdarbīgu SD karti (ieteicams izmantot UHS 1. vai augstākas ātruma klases karti vai 10. ātruma klases karti).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Lai nodrošinātu netraucētu palēninātas kustības video ierakstīšanu, nemainiet šo iestatījumu, ja vien neizmantojat ātrdarbīgu SD karti (ieteicams izmantot UHS 1. vai augstākas ātruma klases karti vai 10. ātruma klases karti).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Lai nodrošinātu netraucētu video ierakstīšanu, ieteicams mainīt datu krātuvi uz iekšējo atmiņu. Vai vēlaties to mainīt tagad? 
+
+Ja joprojām vēlaties kā datu krātuvi izmantot SD karti, izmantojiet ātrdarbīgu SD karti (ieteicams izmantot UHS 1. klases, augstākas klases vai 10. ātruma klases karti)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"4K video ierakstīšanai varat izvēlēties kodētāju.
+
+H.264 (AVC): Standarta formāts kodēšanai, ko atbalsta lielākā daļa ierīču un pakalpojumu.
+H.265 (HEVC): Formāts ar augstu saspiešanas pakāpi. Pārliecinieties, vai atskaņošanas ierīces vai pakalpojumi atbalsta šo metodi."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Faila formāts (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Atlasīt video lielumu.
+HDR nav pieejams, ja ir atlasīts pilnais HD (60 fps) vai HD režīms."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Atlasīt video lielumu</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 kadri sekundē)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Pilnais HD režīms</string>
+    <string name="photopro_strings_video_size_txt">Video lielums</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Xperia ir unikāla hibrīda stabilizācijas sistēma, ko sauc par Optical SteadyShot — tā vienlaikus apvieno optisko attēla stabilizāciju un elektronisko attēla stabilizāciju. Tā jums sniedz stabilus un vienmērīgus video, pat ierakstot tos, kad atrodaties kustībā.</string>
+    <string name="photopro_strings_video_stabilization_txt">Video stabilizācija</string>
+    <string name="photopro_strings_volumekey_description_txt">Piešķiriet skaļuma pogām papildu funkciju</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Slēdzis</string>
+    <string name="photopro_strings_volumekey_txt">Izmantojiet skaļuma pogu kā</string>
+    <string name="photopro_strings_volumekey_volume_txt">Skaļums</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Tālummaiņa</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Koriģēt - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Automātiski</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Piel.</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Gat.</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Mēģināt vēlreiz</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Lietot</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Apmācies</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Pielāgots 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Pielāgots 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Pielāgots 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Iestatīt baltā balansu, ņemot vērā priekšskatījuma centru</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Koriģēšana neizdevās</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Koriģēšana pabeigta</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Lietot - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Dienasgaisma</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Fluorescējošs</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Spoža gaisma</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Ēnojums</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Temp. 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Temp. 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Temp. 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Temp.:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Temperatūra</string>
+    <string name="photopro_strings_whitebalance_txt">Baltā balanss</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Tālummaiņu nevar veikt ar priekšējo kameru</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">MI īpaši lielas izšķirtsp. tālumm.</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Atlasiet tālummaiņas iestatījumu.
+
+Digitālā tālummaiņa: regulējiet tālummaiņu, izmantojot digitālu apstrādi, kuras pamatā ir attēla sensora dati.
+MI īpaši lielas izšķirtsp. tālumm.: regulējiet tālummaiņu, izmantojot digitālu apstrādi, kas saglabā lielāku daļu sākotnējās attēla kvalitātes. Fotoattēlu saglabāšanai var būt nepieciešams vairāk laika. Atlasot iespēju Nepārtraukta uzņemšana, tiek automātiski iestatīta Digitāla tālummaiņa."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Digitāla tālummaiņa</string>
+    <string name="photopro_strings_zoom_type_txt">Tālummaiņas iestatījumi</string>
+    <string name="search_menu_title">Meklēt</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">IZSLĒGTS</string>
+    <string name="v7_preference_on">IESLĒGTS</string>
+</resources>

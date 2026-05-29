@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button android:textSize="14.0dip" android:textColor="@color/photopro_text_highlight" android:tag="layout/fragment_basic_operation_view_aperture_0" android:background="@drawable/photopro_baisc_mode_aperture_button" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:binding="http://schemas.android.com/apk/res-auto" />

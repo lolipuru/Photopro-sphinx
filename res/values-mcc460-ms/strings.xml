@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Rangkaian
+Untuk menyambung ke WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN dimatikan dan mod Pesawat dihidupkan.
+Sila ubah tetapan ini dengan mengetik pada TETAPAN."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN dimatikan.
+Sila hidupkan WLAN daripada TETAPAN."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Tidak boleh menyambung ke WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Anda boleh mengakses web dengan cepat dan menyambung kepada WLAN dengan mengimbas QR Code.
+Fungsi ini aktif semasa dalam mod Asas (Photo). Fungsi ini boleh didayakan atau dinyahdayakan daripada MENU > Pembaca QR Code."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Ketik utk samb ke rangkaian WLAN \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Anda boleh mengakses web dengan cepat dan menyambung kepada WLAN dengan mengimbas QR Code.
+Fungsi ini aktif semasa dalam mod Asas (Photo)."</string>
+</resources>

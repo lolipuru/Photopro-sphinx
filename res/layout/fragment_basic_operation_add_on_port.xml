@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/port" android:background="@color/setting_1st_layer_background_color" android:layout_width="fill_parent" android:layout_height="@dimen/auto_mode_mode_selector_default_height" app:behavior_hideable="true" app:layout_behavior="com.sonymobile.photopro.view.TopSheetBehavior">
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/port_recycler" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="never" android:splitMotionEvents="false" />
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

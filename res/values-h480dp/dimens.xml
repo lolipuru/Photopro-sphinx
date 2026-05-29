@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="auto_mode_zoom_circle_space">8.0dip</dimen>
+    <dimen name="auto_mode_zoom_line_length_1_5x">78.0dip</dimen>
+    <dimen name="auto_mode_zoom_line_length_3x">112.0dip</dimen>
+    <dimen name="photopro_function_custom_fn_list_margin_bottom">32.0dip</dimen>
+    <dimen name="photopro_system_status_bar_item_large_margin">4.0dip</dimen>
+    <dimen name="photopro_system_status_bar_item_small_margin">2.0dip</dimen>
+</resources>

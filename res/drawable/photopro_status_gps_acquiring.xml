@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="700" android:drawable="@drawable/photopro_status_gps_acquired_icn" />
+    <item android:duration="700" android:drawable="@drawable/photopro_status_gps_acquiring_0_icn" />
+    <item android:duration="700" android:drawable="@drawable/photopro_status_gps_acquiring_1_icn" />
+    <item android:duration="700" android:drawable="@drawable/photopro_status_gps_acquiring_2_icn" />
+</animation-list>

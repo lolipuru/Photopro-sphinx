@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Rrjeti
+Për t'u lidhur me WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN është çaktivizuar dhe Regjimi i aeroplanit është aktivizuar.
+Ndryshojini këto cilësime duke trokitur lehtë te CILËSIMET."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN është çaktivizuar.
+Aktivizoni WLAN nga CILËSIMET."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Nuk mund të lidheni me WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Mund të qaseni me shpejtësi në ueb ose të lidheni me WLAN duke skanuar një kod QR.
+Ky funksion është aktive kur jeni në Regjimin bazë (fotografi). Ky funksion mund të aktivizohet ose të çaktivizohet nga MENYJA > Lexuesi i QR Code."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">"Trok. për t'u lidhur me rrjetin WLAN \"%1$s\""</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Mund të qaseni me shpejtësi në ueb ose të lidheni me WLAN duke skanuar një kod QR.
+Ky funksion është aktive kur jeni në Regjimin bazë (fotografi)."</string>
+</resources>

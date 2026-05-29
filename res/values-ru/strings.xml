@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Ещё</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
+    <string name="abc_capital_off">ВЫКЛ</string>
+    <string name="abc_capital_on">ВКЛ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Введите запрос</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="ble_remote_control_button_any_problem_txt">Устранение неполадок</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Сопряж. нового контрол.</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Вы можете назначить другую функцию кнопке C1 на Bluetooth-пульте дистанционного управления</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">Настройка кнопки C1</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Режим фокусировки</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Объектив</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Режим съемки</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Перекл. между осн./фронт. камер.</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Переключение между фото/видео</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Объектив</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Вкл./откл. AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Вкл./откл. осн./фронт. камер</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Разрешить</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Запретить</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Разрешить приложению использовать Bluetooth для этой функции?</string>
+    <string name="ble_remote_control_description_txt">"Вы можете выполнить сопряжение устройства дистанционного управления Sony через Bluetooth, чтобы удаленно использовать функции в \"%1$s\".
+Нажмите \"Сопряжение нового контроллера\", чтобы начать сопряжение нового устройства."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Уже сопряжено</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Если не удается выполнить сопряжение пульта ДУ и устройства, перейдите в раздел \"Настройки\", и проверьте наличие пульта ДУ в списке устройств Bluetooth. Если регистрация уже выполнена, удалите пульт ДУ из списка и повторите сопряжение.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Устранение неполадок</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Принять и вкл.</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Отклонить</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Выйти</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">В \"Настройки\"</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">ОК</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Сопряжение отменено, поскольку Bluetooth отключен</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Не удалось выполнить сопряжение из-за того, что истекло время ожидания. Повторите попытку позже.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">При интенсивном использовании устройства некоторые его функции могут быть ограничены в целях предосторожности. Если включить режим износостойкости камеры, отобразится значок, указывающий, что приложение будет поддерживать повышенную производительность. Когда отображается этот значок, вы можете использовать приложение более длительное время.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Режим износостойкости камеры доступен только в случае использования %1$s с устройством дистанционного управления, подключенным через Bluetooth. Если закрыть %1$s, эта функция будет отключена.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Температура устройства может подняться выше типичной температуры эксплуатации. Если температура повысится, уведомление и значок предупредят вас. В этом случае не держите устройство в руках. Прежде чем продолжать, убедитесь, что устройство дистанционного управления подключено через Bluetooth.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Внимание</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Устройство слишком сильно нагрелось. %1$s временно закроется, чтобы устройство остыло.
+Если подключить устройство дистанционного управления Bluetooth, вы сможете продолжать использовать %1$s с режимом износостойкости камеры."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Устройство слишком сильно нагрелось. %1$s временно закроется, чтобы устройство остыло.
+Если подключить устройство дистанционного управления Bluetooth, вы сможете использовать %1$s с режимом износостойкости камеры."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Чтобы использовать эту функцию, включите [Исп. дистанц. управление] после сопряжения устройства дистанционного управления через Bluetooth.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Устройство слишком сильно нагрелось. %1$s временно закроется, чтобы устройство остыло.
+Если включить режим износостойкости камеры, вы сможете использовать %1$s с устройством дистанционного управления Bluetooth."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Чтобы включить эту функцию, начните взаимодействовать с устройством дистанционного управления.
+Чтобы отменить, коснитесь ВЫЙТИ."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Режим износостойкости камеры включен</string>
+    <string name="ble_remote_control_endurance_mode_txt">Реж. износостойк. камеры</string>
+    <string name="ble_remote_control_off_txt">Выключить</string>
+    <string name="ble_remote_control_on_txt">Включить</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Чтобы начать сопряжение, начните взаимодействовать с устройством дистанционного управления.
+Для вас два раза отобразятся уведомления и диалоговые окна. Выберите ВЫПОЛНИТЬ СОПРЯЖЕНИЕ на всех эти элементах, а затем нажмите любую клавишу на сопряженном устройстве, чтобы завершить сопряжение."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Сопряж. нового контрол.</string>
+    <string name="ble_remote_control_title_txt">Дист. управл. Bluetooth</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Исп. дистанц. управление</string>
+    <string name="expand_button_title">Дополнительно</string>
+    <string name="external_display_connected_description_txt">Вы можете проверить видоискатель из Влогового монитора</string>
+    <string name="external_display_connected_title_txt">Влоговый монитор подключен</string>
+    <string name="external_display_note_about_external_mic_txt">Примечание. Внешний микрофон необходимо подключить к Влоговому монитору перед записью. Если сделать это после записи, Влоговый монитор придется переподключить.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Ранее вы приняли условия политики конфиденциальности, но вы всегда можете изменить свое решение.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Стрелка влево</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Стрелка вправо</string>
+    <string name="photopro_strings_accessibility_back_txt">Назад</string>
+    <string name="photopro_strings_accessibility_close_txt">Закрыть</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Специальные возможности: &lt;a href=\"%s\">Частичное соответствие&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Подробнее</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Кнопка объектива</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Не настраивается</string>
+    <string name="photopro_strings_accessibility_previous_txt">Назад</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Набор последних фотографий</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Начать запись видео</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Приостановить запись видео</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Возобновить запись видео</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Создание моментального снимка во время записи видео</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Остановить запись видео</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Остановить обратный отсчет</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Затвор</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Переключатель между основной и фронтальной камерой</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Переключатель фото/видео</string>
+    <string name="photopro_strings_accessibility_title_txt">Специальные возможности</string>
+    <string name="photopro_strings_addon_button_menu_txt">Еще</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Худож. эффект</string>
+    <string name="photopro_strings_addon_panorama_txt">Панорама</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Селфи-портрет</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Замедленная съемка</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Чтобы сохранить геоданные, необходимо включить GPS и/или беспроводные сети. Включить?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Сохранить геоданные</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Анонимные аналитические данные</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Фронт. камера</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Пер. видеокам.</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Видео</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Выбор соотношения сторон для фотографий</string>
+    <string name="photopro_strings_aspect_ratio_txt">Соотношение сторон</string>
+    <string name="photopro_strings_audio_on_all_txt">Включено: все</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Включено: только затвор</string>
+    <string name="photopro_strings_audio_signals_description_txt">Определение звуков камеры, которые нужно воспроизводить, например, при обратном отсчете автоспуска или фокусировке. Также можно указать, чтобы воспроизводился только звук затвора.</string>
+    <string name="photopro_strings_audio_signals_txt">Аудиосигналы</string>
+    <string name="photopro_strings_auto_power_off_txt">Приложение Photo Pro скоро будет закрыто из-за неактивности</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Портрет с подсветкой</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Подсветка</string>
+    <string name="photopro_strings_auto_scene_document_txt">Документ</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Еда</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Ребенок</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Ландшафт</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Низкая освещенность</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Макро</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Ночной портрет</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Ночная сцена</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Авто-распознавание условий съемки</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Моментальный снимок</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Прожектор</string>
+    <string name="photopro_strings_bokeh_button_txt">Боке</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Убедитесь, что объектив чистый и в кадре нет пальцев</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Слишком высокая яркость</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Отойдите подальше от объекта</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Требуется больше света</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Подойдите ближе к объекту</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Эффект боке сейчас недоступен</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Боке включено</string>
+    <string name="photopro_strings_bokeh_txt">Боке</string>
+    <string name="photopro_strings_bt_remote_control_txt">Дист. управл. Bluetooth</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Фото из непрерывной съемки сохранены на внутр. накопителе</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Непрерывная съемка недоступна при низкой скорости затвора</string>
+    <string name="photopro_strings_button_continue_txt">Продолжить</string>
+    <string name="photopro_strings_button_quit_txt">ЗАКРЫТЬ</string>
+    <string name="photopro_strings_cancel_txt">Отмена</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Замедленная съемка</string>
+    <string name="photopro_strings_change_save_destination_title_txt">Видео 4K</string>
+    <string name="photopro_strings_change_txt">Изменить</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Сброс</string>
+    <string name="photopro_strings_color_and_brightness_txt">Цвет и яркость</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Внутренний накопитель заполнен. Сохранить данные на SD-карту?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Внутренний накопитель поврежден или защищен от записи. Сохранить данные на SD-карту?</string>
+    <string name="photopro_strings_common_error_open_txt">%1$s не открывается</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">SD-карта заполнена. Сохранить данные на внутреннем накопителе?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">Невозможно использовать SD-карту. Сохранить данные на внутреннем накопителе?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Отклик при непрерывной съемке</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Следующие функции в данный момент отключены.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Подождите, пока устройство остынет, а затем перезапустите камеру.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Следующие функции отключены</string>
+    <string name="photopro_strings_cooling_mode_txt">Некоторые функции отключены чтобы не увеличивать температуру устройства</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Назначение кнопке AEL другой функции</string>
+    <string name="photopro_strings_custom_ael_txt">Настройка кнопки AEL</string>
+    <string name="photopro_strings_custom_disp_description_txt">"С помощью кнопки DISP можно показывать или скрывать информацию в видоискателе.
+Снимите флажок в этом меню с любого пункта, если он не должен показываться, когда с помощью кнопки DISP выводится информация."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Гистограмма</string>
+    <string name="photopro_strings_custom_disp_level_txt">Уровень</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Информация в заголовке</string>
+    <string name="photopro_strings_custom_disp_txt">Настройка кнопки DISP</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Настройки в меню функций можно переназначать или переупорядочивать.
+Коснитесь одной из функций ниже, чтобы назначить другую функцию из расположенного слева списка.
+Чтобы изменить порядок, перетащите любую из расположенных ниже функций."</string>
+    <string name="photopro_strings_custom_fn_txt">Настройка меню функций</string>
+    <string name="photopro_strings_custom_none_txt">Не назначено</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Ранее вы отклонили условия политики конфиденциальности.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Блокировать автоматическую экспозицию</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Установить для параметра ISO значение \"Авто\"</string>
+    <string name="photopro_strings_description_custom_none_txt">Отключить кнопку AEL</string>
+    <string name="photopro_strings_device_id_txt">Идентификатор устройства</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Недостаточный заряд аккумулятора телефона. При низком уровне заряда приложение камеры закрывается автоматически.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Запись остановлена в связи с низким уровнем заряда аккумулятора. Зарядите устройство и повторите попытку.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Работа с камерой невозможна в связи с низким уровнем заряда аккумулятора. Зарядите устройство и повторите попытку.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Чтобы выполнить это действие, приложению необходимо предоставить следующие разрешения.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Сеть
+Подключение к Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Режим полета вкл.
+Выключите режим полета в разделе ПАРАМЕТРЫ."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Имя сети: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi отключен, режим полета включен.
+Измените эти настройки в разделе ПАРАМЕТРЫ."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Сеть Wi-Fi отключена.
+Включите Wi-Fi в разделе ПАРАМЕТРЫ."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Параметры</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Разрешить</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Запретить</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Примечание</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Калибровка</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Сброс</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Недостаточно места на внутреннем накопителе. Непрерывная съемка прекращена. Удалите ненужные файлы, чтобы освободить пространство.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Предоставление разрешений</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Подключение...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Защита паролем: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Безопасность: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Не удается подключиться к Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Если вы согласитесь с указанными ниже условиями, Sony будет собирать ваши &lt;b>&lt;a href=#personal-data>персональные данные&lt;/a>&lt;/b>, чтобы предоставить вам индивидуальную поддержку и улучшить продукты и услуги. Sony будет обрабатывать ваши данные в соответствии с &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>Политикой конфиденциальности&lt;/a>&lt;/b>.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Можно записывать видеоролики даже при высоком контрасте, а также делать их более выразительными и реалистичными. Используйте поддерживаемые устройства и службы, чтобы наслаждаться оригинальными цветами и яркостью объектов.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Больше не показывать</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">Непрер. съемка HDR: высок.</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">Непрер. съемка HDR: низк.</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Непрерывная съемка: высок.</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Непрерывная съемка: низк.</string>
+    <string name="photopro_strings_drive_continuous_txt">Непрерывная съемка</string>
+    <string name="photopro_strings_drive_mode_txt">Режим протяжки</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Таймер: 10 с</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Таймер: 3 с</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Таймер: Выключено</string>
+    <string name="photopro_strings_drive_single_txt">Покадровая съемка</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">Авто HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Этот параметр оптимизирует диапазон значений. При обработке DRO используется одно изображение, а при авто HDR для получения оптимального результата комбинируется несколько вариантов экспозиции.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Оптимизатор динам. диапазона</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/Авто HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">Невозможно запустить камеру. Перезапустите камеру или устройство.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Ошибка</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Не удалось сохранить фотографии. Возможно, возникли проблемы с накопителем. Если данные хранятся на карте SD, проверьте карту SD.</string>
+    <string name="photopro_strings_error_fatal_txt">Неизвестная ошибка.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Нет</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Да</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Камера будет временно выключена, чтобы она могла остыть. Запись будет сохранена. Перезапустите приложение, когда устройство остынет.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Память заполнена. Удалите некоторые файлы с SD-карты или внутреннего накопителя.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Память недоступна</string>
+    <string name="photopro_strings_error_memory_title_txt">Ошибка памяти</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD-карта недоступна</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Экспокоррекция</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Можно делать портреты с фокусом на лицах или глазах людей и животных.
+Чтобы изменить объект фокусировки, коснитесь лица снимаемого объекта."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Можно снимать видео с фокусом на лицах или глазах людей и животных.
+Чтобы изменить объект фокусировки, коснитесь на видоискателе лица снимаемого объекта.
+Заметка. Если этот параметр включен, длительность записи может быть сокращена из-за повышения температуры устройства."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Распознавание лиц/AF на глаз вкл.</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">AF на глаз/лицо</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">AF на глаз/лицо: выключено</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">AF на глаз/лицо: включено</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Разблокируйте экран, чтобы использовать эту функцию</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Чтобы открыть настройки, разблокируйте экран.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Экран заблокирован</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Для настройки эффекта Боке коснитесь значка Боке в видоискателе и переместите ползунок.
+Эта функция поддерживается в режиме Основной (фотография).
+Используйте впечатляющую контрастность,чтобы выделить объекты съемки с помощью размытия фона."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Фотографии с эффектом Боке</string>
+    <string name="photopro_strings_feature_bokeh_txt">Эффект Боке</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Режим протяжки можно изменить на использование покадровой или непрерывной съемки или автоспуска.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Режим протяжки</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"При съемке с помощью фронтальной камеры смотрите в объектив фронтальной камеры рядом с динамиком телефона.
+На фотографии взгляд будет направлен правильно."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Направл. взгляда</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Можно делать портреты с фокусом на лицах или глазах людей и животных.
+Чтобы изменить объект фокусировки, коснитесь на видоискателе лица снимаемого объекта. Эту функцию можно включить или отключить из МЕНЮ > AF на глаз/лицо."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">AF на глаз/лицо</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Разверните руку ладонью к камере. Автоспуск начнет обратный отсчет после распознавания руки. Для более точного определения вытяните пальцы вверх.
+Чтобы активировать эту функцию, переключитесь на фронтальную камеру в режиме Основной (фотография) и включите параметр \"Спуск затвора движ. руки\" в МЕНЮ."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Спуск затвора движ. руки</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"При использовании сверхширокоугольного объектива (0.7x) можно задать приоритет. Параметр \"Приоритет качества изображения\" позволяет делать динамичные высококачественные снимки. Функция \"Приоритет коррекции искажений\" позволяет уменьшить визуальные искажения.
+Эта функция активна при съемке фотографий с использованием сверхширокоугольного объектива. После переключения на сверхширокоугольный объектив можно настроить приоритет из МЕНЮ > Коррекция дисторсии сверх. объек."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Коррекция дисторсии (фото)</string>
+    <string name="photopro_strings_feature_list_title_txt">Представление функций</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Легко снимайте художественные селфи благодаря режиму Боке и бьюти-эффектам.
+Чтобы использовать эту функцию, коснитесь элемента \"Еще\" в видоискателе и выберите \"Селфи-портрет\".
+Выберите стиль для селфи и наслаждайтесь результатами творчества."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Селфи-портрет</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Сканирование QR Code обеспечивает быстрый доступ в интернет или подключение к Wi-Fi.
+Эта функция активна в режиме Основной (фотография). Эту функцию можно включить или отключить из МЕНЮ > Средство чтения QR Code."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">Средство чтения QR Code</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">Средство чтения QR Code</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Указывайте место съемки, добавляя к фотографиям и видеозаписям геометки. Изменить этот параметр можно позже в МЕНЮ > Сохранить геоданные.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Сохранить геоданные?</string>
+    <string name="photopro_strings_feature_selfie_txt">Фронтальная камера</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Можно записывать видео в замедленной съемке (120 fps) в режиме HD</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Замедленная съемка</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Можно легко переключаться между объективами камеры для съемки любых сцен и создания креативных снимков.
+Нажимайте кнопку в видоискателе, чтобы переключаться между объективами 0.7x (сверхширокоугольный), 1.0x (широкоугольный), 2.9x (телеобъектив) и 4.4x (телеобъектив).
+Данную функцию можно использовать в режиме Основной (фотография) и Основной (видео)."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Переключение угла кнопкой</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Можно легко переключаться между объективами камеры для съемки любых сцен и создания креативных снимков.
+Нажимайте кнопку в видоискателе, чтобы переключаться между объективами 0.7x (сверхширокоугольный), 1.0x (широкоугольный), 2.1x (стандартный).
+Данную функцию можно использовать в режиме Основной (фотография) и Основной (видео)."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Тройная камера</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"После нажатия на кнопку объектива отобразится ползунок, который можно использовать для настройки масштаба.
+Изменить масштаб также можно с помощью кнопок громкости или сведения/разведения пальцев."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Увеличение и уменьшение</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Удалить</string>
+    <string name="photopro_strings_file_format_description_txt">"Выберите формат файла для фотоснимков.
+
+RAW: необходимо специальное ПО для постобработки фотографий. Можно вносить изменения с минимальной потерей качества изображения. Доступна печать после постобработки.
+RAW и JPEG: сохранение изображений в формате RAW, требующем постобработки, и JPEG.
+JPEG: сохранение изображений в формате JPEG.
+
+Примечания.
+Файлы RAW всегда сохраняются во внутренний накопитель с соотношением сторон 4:3.
+Непрерывная съемка и авто HDR недоступны, если выбран параметр RAW или RAW и JPEG."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW и JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Формат файла</string>
+    <string name="photopro_strings_flash_auto_txt">Авто</string>
+    <string name="photopro_strings_flash_description_txt">Выбор режима вспышки — автоматическая, заполняющая и т. д.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Заполняющая вспышка</string>
+    <string name="photopro_strings_flash_off_txt">Выключить</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Устранение красных глаз</string>
+    <string name="photopro_strings_flash_torch_description_txt">Включение фонарика</string>
+    <string name="photopro_strings_flash_torch_off_txt">Фонарик: Выключено</string>
+    <string name="photopro_strings_flash_torch_on_txt">Фонарик: Включено</string>
+    <string name="photopro_strings_flash_torch_txt">Фонарь</string>
+    <string name="photopro_strings_flash_txt">Режим вспышки</string>
+    <string name="photopro_strings_focus_area_center_txt">По центру</string>
+    <string name="photopro_strings_focus_area_txt">Область фокуса</string>
+    <string name="photopro_strings_focus_area_wide_txt">По ширине</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Установка цвета рамки для области фокусировки</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Красная</string>
+    <string name="photopro_strings_focus_frame_color_txt">Цвет области фокусировки</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Белый</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">Непрерывный AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">Покадровый AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">Выбор способа фокусировки</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Распознавание лиц</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Ручной фокус</string>
+    <string name="photopro_strings_focus_mode_txt">Режим фокусировки</string>
+    <string name="photopro_strings_geotagging_description_txt">Сохранение фотографий и видео с указанием мест их съемки</string>
+    <string name="photopro_strings_geotagging_txt">Сохранить геоданные</string>
+    <string name="photopro_strings_gridline_description_txt">Определение того, нужно ли показывать линии сетки, помогающие компоновать кадр</string>
+    <string name="photopro_strings_gridline_txt">Линии сетки</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Чтобы запустить обратный отсчет автоспуска, поверните ладонь к фронтальной камере. Для более точного определения вытяните пальцы вверх.</string>
+    <string name="photopro_strings_hand_shutter_txt">Спуск затвора движ. руки</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Укажите, требуется ли тактильный отклик при взаимодействии с дисплеем, например переключателем режимов</string>
+    <string name="photopro_strings_haptic_feedback_txt">Тактильный отклик</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Выключено</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: Включено</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Интеллект-й фильтр шума ветра</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">Чувствительность ISO</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Для запуска Photography Pro нажмите и удерживайте кнопку затвора на устройстве. Функция работает, даже если смартфон заблокирован или находится в режиме сна.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Запустить Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Запуск кнопкой затвора</string>
+    <string name="photopro_strings_lens_correction_description_txt">При использовании сверхширокоугольного объектива можно задать приоритет. Параметр \"Приоритет качества изображения\" позволяет делать динамичные высококачественные снимки, а параметр \"Приоритет коррекции искажений\" – сократить визуальные искажения.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Приоритет качества изображения</string>
+    <string name="photopro_strings_lens_correction_on_txt">Приоритет коррекции искажений</string>
+    <string name="photopro_strings_lens_correction_txt">Коррекция дисторсии сверх. объек.</string>
+    <string name="photopro_strings_lens_txt">Об-ив</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Калибровка</string>
+    <string name="photopro_strings_level_calibration_description_txt">При необходимости можно выполнить калибровку уровня, чтобы устранить отклонения в направлении наклона. Убедитесь, что камера расположена горизонтально, а затем выберите \"Калибровка\".</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Калибровка завершена</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Параметры калибровки сброшены</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Калибровка уровня</string>
+    <string name="photopro_strings_lock_switch_txt">Забл.</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Запись остановлена, так как размер файла превысил ограничения</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Запись остановлена, достигнуто максимальное время записи</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Невозможно сохранить. Память заполнена.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Прим.</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Сохранить</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Задать</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Сохранить текущее сочетание режимов и настроек?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Настройки камеры сохранены.
+Их легко вызвать с помощью режима съемки MR."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Регистрация настроек камеры</string>
+    <string name="photopro_strings_memory_recall_txt">Вызов настр. камеры</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Фото (фронтальная камера)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Фотография</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Замедленная съемка</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Видео (фронтальная камера)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Видео</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Экспозиция/цвет</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Фокус</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Настройка</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Съемка</string>
+    <string name="photopro_strings_menu_title_txt">Меню</string>
+    <string name="photopro_strings_metering_center_txt">Центр</string>
+    <string name="photopro_strings_metering_multi_txt">Мульти</string>
+    <string name="photopro_strings_metering_spot_txt">Точка</string>
+    <string name="photopro_strings_metering_txt">Режим измерения</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Выберите, какой микрофон использовать для записи видео:
+1. \"ЛП мик.\": запись стереозвука с помощью левого и правого микрофонов (верхнего и нижнего в книжной ориентации)
+2. \"Задний мик.\": запись монозвука с помощью заднего микрофона"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Внешний мик.</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">ЛП мик. (стерео)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Задний мик. (моно)</string>
+    <string name="photopro_strings_mic_setting_txt">Мик.</string>
+    <string name="photopro_strings_mode_auto_description_txt">Камера автоматически определит тип условий съемки и будет снимать фотографии с автоматическими настройками, уменьшая шум и дрожание камеры.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Автоматический режим</string>
+    <string name="photopro_strings_mode_basic_description_txt">"В этом режиме вы можете снимать фотографии с помощью кнопки затвора на экране как в интерфейсе обычной камеры смартфона.
+Используйте этот режим для съемки селфи, видео и сканирования кодов QR Code."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Режим Основной</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">При смене режима съемки с помощью переключателя будут отображаться сведения о выбранном режиме</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Указания о перекл. режимов</string>
+    <string name="photopro_strings_mode_m_description_txt">"Настраивайте вручную скорость затвора и чувствительность ISO.
+При более длинной экспозиции можно снимать фотографии, на которых виден след движения объектов с помощью размытия движения."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Экспозиция в ручном режиме</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Интеллектуальный авторежим (Вызов памяти)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Снимайте фотографии с использованием сохраненных настроек.
+Вы можете зарегистрировать часто используемые комбинации режимов и настроек."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Вызов памяти</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Экспозиция в ручном режиме (Вызов памяти)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Автопрограмма (Вызов памяти)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Приоритет скорости затвора (Вызов памяти)</string>
+    <string name="photopro_strings_mode_p_description_txt">Камера будет настраивать скорость затвора автоматически, а вы сможете настроить остальные параметры.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Автопрограмма</string>
+    <string name="photopro_strings_mode_s_description_txt">"Вручную настройте скорость затвора, чтобы изменить возможности захвата движущихся объектов.
+Более высокая скорость затвора помогает зафиксировать неподвижный объект в движении, а низкая скорость затвора лучше захватывает размытие движения."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Приоритет скорости затвора</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">В качестве режима протяжки автоматически выбрана покадровая съемка, так как включен режим Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">В качестве формата файла автоматически выбран JPEG, так как включен режим Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Нельзя использовать камеру в режиме нескольких окон или всплывающем окне. Закройте окно и повторите попытку. В режиме нескольких окон можно перетащить центр разделителя, чтобы перевести камеру в полноэкранный режим.</string>
+    <string name="photopro_strings_multi_window_txt">Перетащите центр разделителя, чтобы перейти в полноэкранный режим и использовать %1$s</string>
+    <string name="photopro_strings_ok_txt">ОК</string>
+    <string name="photopro_strings_personal_data_txt">Персональные данные</string>
+    <string name="photopro_strings_privacy_policy_txt">Конфиденциальность</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Идет съемка. Подождите.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Этот QR Code не поддерживается</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Коснитесь и откр. \"%1$s\" в браузере</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Не удается подключиться к этой сети Wi-Fi</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Коснитесь для подкл. к Wi-Fi %1$s</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">Средство чтения QR Code</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Сканирование QR Code обеспечивает быстрый доступ в Интернет или подключение к Wi-Fi.
+Эта функция активна в режиме Основной (фотография)."</string>
+    <string name="photopro_strings_qrcode_detection_txt">Средство чтения QR Code</string>
+    <string name="photopro_strings_rec_txt">ЗАПИСЬ</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Восстановить настройки Photo Pro по умолчанию?</string>
+    <string name="photopro_strings_reset_settings_txt">Сбросить настройки</string>
+    <string name="photopro_strings_reset_txt">Сброс</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Невозможно изменить соотношение сторон, когда выбран формат RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Режим авто HDR недоступен, когда выбрана Непрерывная съемка</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Невозможно выбрать вариант \"авто HDR\", если используется какой-либо формат файла, кроме JPEG</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Эффект Боке недоступен с данным объективом</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Эффект Боке недоступен, когда включен режим Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Функция \"Непрерывная съемка: высок.\" недоступна с выбранным объективом</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Непрерывная съемка невозможна, когда включен эффект Боке</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Непрерывная съемка недоступна, если выбран ИИ-зум с высочайшим разрешением</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Невозможно использовать режим непрерывной съемки, если выбран другой формат файла (кроме JPEG)</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Непрерывная съемка невозможна, когда включен режим Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Невозможно изменить</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Режим вспышки недоступен, когда выбрана Непрерывная съемка</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Режим вспышки недоступен с выбранным объективом</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Фонарь недоступен с выбранным объективом</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Невозможно выбрать никакой другой формат файла, кроме JPEG, если используется вариант \"авто HDR\"</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Невозможно выбрать другой формат файла (кроме JPEG), если выбран режим непрерывной съемки</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Невозможно выбрать никакой другой формат файла, кроме JPEG, когда включен режим Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Нельзя изменить этот параметр, если подключен внешний микрофон</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Данный параметр не поддерживает текущую скорость затвора. Для настройки параметра установите скорость затвора не более 1 секунды.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Невозможно выбрать формат RAW, если выбрано другое соотношение сторон (кроме 4:3)</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Невозможно изменить размер видео в режиме замедленной съемки. Чтобы настроить этот параметр, выйдите из режима замедленной съемки.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Этот параметр доступен только при съемке с использованием сверхширокоугольного объектива</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Настройка недоступна, если включена функция HDR. Для выполнения настройки отключите HDR.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Данный параметр недоступен для текущего размера видео. Чтобы сделать его доступным, измените размер видео.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Не удается зумировать при использовании эффекта Боке</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">О ПРИЛОЖЕНИИ</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">Разрешения для приложения %1$s</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Чтобы выполнить это действие, приложению необходимо предоставить следующие разрешения.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Для настройки разрешений перейдите к разделу \"О приложении\" > \"Разрешения\".</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Невозможно продолжить</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Съемка фотографий</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Фото- и видеосъемка</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Получение данных о местоположении</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Запись звука</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Подключить к устройствам поблизости</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Чтение и сохранение фотографий и видео</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Сохранение фотографий</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Сохранение фотографий и видео</string>
+    <string name="photopro_strings_save_destination_description_txt">Выбор того, где нужно сохранять фотографии и видео — на внутреннем накопителе или SD-карте</string>
+    <string name="photopro_strings_save_destination_internal_txt">Внутренний накопитель</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD-карта</string>
+    <string name="photopro_strings_save_destination_title_txt">Хранилище данных</string>
+    <string name="photopro_strings_save_destination_txt">Хранилище данных</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD-карта недоступна</string>
+    <string name="photopro_strings_selftimer_10_txt">10 с</string>
+    <string name="photopro_strings_selftimer_3_txt">3 с</string>
+    <string name="photopro_strings_selftimer_description_txt">Настройка автоспуска на автоматическую съемку фотографии после заданного количества секунд</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Смотрите в объектив камеры</string>
+    <string name="photopro_strings_selftimer_txt">Таймер авт. съемки</string>
+    <string name="photopro_strings_settings_off_txt">Выключить</string>
+    <string name="photopro_strings_settings_on_txt">Включить</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Всегда использ. режим Основной</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Выберите режим съемки для использования по умолчанию при запуске Photography Pro</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Последний использованный</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Режим съемки при запуске</string>
+    <string name="photopro_strings_shooting_mode_txt">Режим съемки</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Видеокамера</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Скорость затвора</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Невозможно создавать моментальные снимки, если включен режим HDR</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Включение эффекта, благодаря которому кожа выглядит более гладкой</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Эффект гладкой кожи</string>
+    <string name="photopro_strings_status_mic_external_txt">Внешний</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">ЛП (стерео)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Задний (моно)</string>
+    <string name="photopro_strings_store_fail_txt">Невозможно сохранить</string>
+    <string name="photopro_strings_sw_license_txt">Лицензия на ПО</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Принять</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Отклонить</string>
+    <string name="photopro_strings_tips_txt">Советы</string>
+    <string name="photopro_strings_title_permissions_txt">Разрешения для приложения Photo Pro</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Отмена Сенсорного фокуса</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Автофокус</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Выберите параметры, настраиваемые касанием видоискателя.
+
+Отслеживание объекта: лучшая функция для съемки движущихся объектов. Фокус привязывается к объекту, которого коснулись в видоискателе. Благодаря этому движущиеся объекты снимаются четко.
+Автофокус: коснитесь в видоискателе места, на котором нужно сфокусироваться.
+Яркость и фокус: фокусировка на необходимом положении и регулировка его яркости касанием видоискателя."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Яркость и фокус</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Слежение за объектом</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Коснитесь для настройки</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Отменить отслеживание объекта</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Включение данной функции позволит надстройке Transfer &amp; Tagging add-on отображать фотографии камеры Xperia. Фотографии будут сохранены на внутреннем накопителе.
+Эта функция совместима с фотографиями, снятыми через Photography Pro.
+При включении этой функции в качестве формата файла автоматически устанавливается JPEG, а в качестве режима протяжки — покадровая съемка."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Режим Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Ясно</string>
+    <string name="photopro_strings_tutorial_button_next_txt">След.</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Пропустить</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Бренд Sony полюбился фотографам благодаря созданию продуктов, которые обеспечивают погружение в мир съемки без каких-либо ограничений.
+Наш опыт и технологии по-прежнему востребованы клиентами по всему миру.
+
+Приложение Photography Pro позволяет воссоздать функциональность и возможности полноценных камер производства Sony Imaging Products.
+Sony поддерживает ваш творческий потенциал."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Выберите режим съемки, который идеально подойдет для вашего объекта.
+Затем задайте скорость затвора и экспозицию.
+Сделайте снимок, удерживая камеру неподвижно.
+
+Доступные режимы съемки:
+P (Автопрограмма)
+S (Приоритет скорости затвора)
+M (Экспозиция в ручном режиме)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Выберите предпочтительный режим съемки с помощью переключателя режимов в правом верхнем углу (в альбомной ориентации в левом верхнем углу).
+
+В основном режиме вы легко можете снимать фотографии и видео фронтальной камерой как обычной камерой смартфона.
+
+В режимах Auto/P/S/M вы можете получить доступ к расширенным настройкам, позволяющим снимать идеальные фотографии."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Режим съемки</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Принцип работы</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Во время использования режимов Auto/P/S/M крепко держите камеру в альбомной ориентации и нажимайте кнопку затвора в правом верхнем углу устройства, чтобы снимать фотографии.
+
+При выборе режима Auto такие функции, как скорость затвора и экспозиция, устанавливаются автоматически.
+
+Чтобы установить настройки вручную, выберите один из режимов ниже.
+P (Автопрограмма)
+S (Приоритет скорости затвора)
+M (Экспозиция в ручном режиме)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Использование режимов Auto/P/S/M</string>
+    <string name="photopro_strings_tutorial_txt">Обучающее руководство</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Невозможно использовать Photo Pro с подключенным внешним дисплеем. Чтобы воспользоваться приложением Photo Pro, закройте его на экране последних использованных приложений на устройстве Xperia, а затем перезапустите его.</string>
+    <string name="photopro_strings_unlock_button_txt">Разблокировать</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Использование камеры запрещено в целях безопасности</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Для стабильной записи видео 4K не рекомендуется изменять эту настройку, если используемая SD-карта не является высокоскоростной (рекомендуется класс скорости UHS 1 и выше или класс скорости 10).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Для стабильной записи в режиме замедленной съемки не рекомендуется изменять эту настройку, если используемая SD-карта не является высокоскоростной (рекомендуется класс скорости UHS 1 и выше или класс скорости 10).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Для стабильной записи видео рекомендуется выбрать в качестве хранилища данных внутренний накопитель. Изменить?
+
+При использовании SD-карты в качестве хранилища данных необходимо убедиться, что это высокоскоростная SD-карта (рекомендуется класс скорости UHS 1 и выше или класс скорости 10)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Вы можете выбрать кодер для записи видео в разрешении 4K.
+
+H.264 (AVC): стандартный формат для кодировки, поддерживаемый большинством устройств и служб.
+H.265 (HEVC): формат с высокой степенью сжатия. Убедитесь, что ваши службы и устройства, используемые для воспроизведения, поддерживают данный метод."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Формат файла (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Выберите размер видео.
+Формат HDR недоступен, когда выбран вариант Full HD (60 fps) или HD."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Выбор размера видео</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 кадров/с)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Full-HD</string>
+    <string name="photopro_strings_video_size_txt">Размер видео</string>
+    <string name="photopro_strings_video_stabilization_description_txt">В Xperia используется уникальная система гибридной стабилизации под названием Optical SteadyShot, сочетающая в себе оптическую и электронную стабилизацию изображения. Видео получаются плавными и без тряски, даже если записываются в движении.</string>
+    <string name="photopro_strings_video_stabilization_txt">Стабилизация видео</string>
+    <string name="photopro_strings_volumekey_description_txt">Назначение кнопкам громкости другой функции</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Затвор</string>
+    <string name="photopro_strings_volumekey_txt">Кнопка громкости</string>
+    <string name="photopro_strings_volumekey_volume_txt">Громкость</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Зум</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Настроить: %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Авто</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Испр.</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Гот.</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Повтор</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Прим.</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Облачный</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Пользовательский 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Пользовательский 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Пользовательский 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Настроить баланс белого на основании центра изображения предварительного просмотра</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Сбой настройки</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Настройка завершена</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Применить: %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Дневной свет</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Флуоресцентная лампа</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Лампа накаливания</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Тень</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Темп. 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Темп. 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Темп. 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Темп.:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Температура</string>
+    <string name="photopro_strings_whitebalance_txt">Баланс белого</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Зумирование фронтальной камерой недоступно</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">ИИ-зум с высоч. разрешением</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Выберите параметр зума.
+
+Цифровой зум: зум с использованием цифровой обработки на основе данных датчика изображений.
+ИИ-зум с высоч. разрешением: зум с использованием цифровой обработки, которая сохраняет более высокое качество оригинального изображения. Сохранение фотографий может занять больше времени. Автоматически переключается на \"Цифровой зум\" при выборе параметра \"Непрерывная съемка\"."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Цифровой зум</string>
+    <string name="photopro_strings_zoom_type_txt">Настройки зума</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">ВЫКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
+</resources>

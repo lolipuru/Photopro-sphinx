@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Space android:layout_width="wrap_content" android:layout_height="@dimen/photopro_dial_title_size" android:layout_marginBottom="@dimen/photopro_dial_title_bottom_margin" />
+    <TextView android:gravity="center" android:layout_gravity="center" android:id="@id/label" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@style/Widget.PhotoPro.DialPicker.Item" />
+</LinearLayout>

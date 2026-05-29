@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"ネットワーク
+WLANに接続するため"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLANの設定がOFFで、機内モードがONです。
+[設定]ボタンから設定を変更してください。"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLANの設定がOFFです。
+[設定]ボタンからONにしてください。"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">WLANに接続できません</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"QRコードを読み取って、すばやくWebサイトにアクセスしたり、WLANに接続したりできます。
+この機能はベーシック(フォト)モードで有効です。設定メニューの[QRコード読み取り]で設定を切り替えられます。"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">タップしてWLAN\"%1$s\"に接続</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"QRコードを読み取って、すばやくWebサイトにアクセスしたり、WLANに接続したりできます。
+この機能はベーシック(フォト)モードで有効です。"</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Tinklas
+Prisijungti prie „WLAN“"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"„WLAN“ išjungtas, įjungtas skrydžio režimas.
+Pakeiskite šiuos nustatymus spustelėję NUSTATYMAI."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"„WLAN“ išjungtas.
+Įjunkite „WLAN“ pasirinkę NUSTATYMAI."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Negalima prisijungti prie „WLAN“</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Galite greitai pasiekti saityną arba prisijungti prie „WLAN“ nuskaitę „QR Code“.
+Ši funkcija yra aktyvi pagrindiniu (fotografavimo) režimu. Šią funkciją įjungti arba išjungti galima pasirinkus „MENIU > „QR Code“ skaitytuvas“."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Bakst., kad prisij. prie „WLAN“ tinklo „%1$s“</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Galite greitai pasiekti žiniatinklį arba prisijungti prie „WLAN“ nuskaitę „QR Code“.
+Ši funkcija yra aktyvi pagrindiniu (fotografavimo) režimu."</string>
+</resources>

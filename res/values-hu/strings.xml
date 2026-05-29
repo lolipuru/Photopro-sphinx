@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_up_description">Fel</string>
+    <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+    <string name="abc_action_mode_done">Kész</string>
+    <string name="abc_activity_chooser_view_see_all">Az összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon alkalmazást</string>
+    <string name="abc_capital_off">KI</string>
+    <string name="abc_capital_on">BE</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Szóköz</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Keresés…</string>
+    <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+    <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+    <string name="abc_searchview_description_search">Keresés</string>
+    <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+    <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+    <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
+    <string name="abc_toolbar_collapse_description">Összecsukás</string>
+    <string name="ble_remote_control_button_any_problem_txt">Hibaelhárítás</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Új távvezérlő párosítása</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Társíthat másik funkciót a Bluetoothos távvezérlő C1 gombjához</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">C1 gomb személyre szabása</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Fókusz üzemmód</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Objektív</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Felvételi mód</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Váltás a fő/előlapi kamera között</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Videó/fénykép váltása</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Objektív</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">AF/MF átkapcsolása</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Váltás a fő/előlapi kamera között</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Engedélyezés</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Elutasítás</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Engedélyezi, hogy az alkalmazás Bluetooth-kapcsolatot használjon ehhez a funkcióhoz?</string>
+    <string name="ble_remote_control_description_txt">"Párosíthat egy Sony távvezérlőt Bluetooth-kapcsolattal a(z) %1$s funkcióinak távoli irányításához.
+Koppintson az Új távvezérlő párosítása lehetőségre az új eszköz párosításához."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Már párosítva van</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Ha a távvezérlőt nem sikerült párosítani az eszközzel, nyissa meg a Beállítások menüt, és ellenőrizze, hogy a távvezérlő nincs-e már regisztrálva a Bluetooth-eszközök listáján. Ha már regisztrálva van, távolítsa el a távvezérlőt a listából, és próbálkozon újra a párosítással.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Hibaelhárítás</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Elfogad és be</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Elutasítás</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Kilépés</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Ugrás: Beállítások</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">OK</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Párosítás megszakítva, mert a Bluetooth ki lett kapcsolva</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">A párosítás időtúllépés miatt megszakadt. Próbálkozzon újra később.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Intenzív használat esetén a készülék elővigyázatosságból egyes funkciókat korlátozhat. Ha bekapcsolja a Kamera teherbírási üzemmódját, akkor megjelenik egy ikon, amely jelzi, hogy az alkalmazás fenntartja a nagy teljesítményt. Amikor ez az ikon megjelenik, akkor az alkalmazást hosszabb ideig használhatja.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">A Kamera teherbírási üzemmódja csak akkor használható, ha a(z) %1$s eszközt a Bluetooth-os távvezérlővel használja. A(z) %1$s bezárása kikapcsolja ezt a funkciót.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">A készülék hőmérséklete a jellemző üzemi hőmérséklet fölé emelkedhet. A hőmérséklet emelkedése esetén egyéb értesítés és ikon is figyelmeztet. Ilyenkor lehetőleg ne tartsa az eszközt folyamatosan a kezében. Kérjük, a folytatás előtt győződjön meg arról, hogy a távvezérlő Bluetoothon keresztül kapcsolódik.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Figyelem</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"A készülék hőmérséklete túl magas. A(z) %1$s átmenetileg kikapcsol, hogy le tudjon hűlni.
+Ha Bluetooth-os távvezérlőt csatlakoztat, akkor továbbra is lehetősége lesz a(z) %1$s használatára a Kamera teherbírási üzemmódjával."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"A készülék hőmérséklete túl magas. A(z) %1$s átmenetileg kikapcsol, hogy le tudjon hűlni.
+Ha Bluetooth-os távvezérlőt csatlakoztat, akkor lehetősége lesz a(z) %1$s használatára a Kamera teherbírási üzemmódjával."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">A funkció használatához kapcsolja be a [Távvezérlő használata] lehetőséget, miután párosított egy távvezérlőt Bluetooth-kapcsolattal.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"A készülék hőmérséklete túl magas. A(z) %1$s átmenetileg kikapcsol, hogy le tudjon hűlni.
+Ha bekapcsolja a Kamera teherbírási üzemmódját, akkor lehetősége lesz a(z) %1$s használatára Bluetooth-os távvezérlővel."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"A funkció bekapcsolásához kezelje a csatlakoztatott távvezérlőt.
+A kilépéshez koppintson a KILÉPÉS gombra."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">A Kamera teherbírási üzemmódja bekapcsolva</string>
+    <string name="ble_remote_control_endurance_mode_txt">Kamera teherbírási üzemmód</string>
+    <string name="ble_remote_control_off_txt">Kikapcsol</string>
+    <string name="ble_remote_control_on_txt">Be</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"A párosítás megkezdéséhez kezelje a távvezérlőt.
+Kétszer fog értesítést kapni és párbeszédablakot látni. Mindegyiken válassza a PÁROSÍTÁS lehetőséget, majd a párosítás befejezéséhez nyomja meg a párosított eszköz bármely gombját."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Új távvezérlő párosítása</string>
+    <string name="ble_remote_control_title_txt">Bluetooth-os távvezérlés</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Távvezérlő használata</string>
+    <string name="expand_button_title">Speciális</string>
+    <string name="external_display_connected_description_txt">A keresőt a vlogmonitorból tudod figyelemmel kísérni</string>
+    <string name="external_display_connected_title_txt">Vlogmonitor csatlakoztatva</string>
+    <string name="external_display_note_about_external_mic_txt">Megjegyzés: Külső mikrofon csatlakoztatásához a felvétel előtt csatlakoztassa azt a vlogmonitorhoz. Ha később csatlakoztatja, akkor újra kell majd csatlakoztatnia a Vlogmonitort.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Korábban elfogadta az adatvédelmi szabályzatot, de bármikor meggondolhatja magát.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Balra mutató nyíl</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Jobbra mutató nyíl</string>
+    <string name="photopro_strings_accessibility_back_txt">Vissza</string>
+    <string name="photopro_strings_accessibility_close_txt">Bezárás</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Kisegítő lehetőségek: &lt;a href=\"%s\">Részben megfelel&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">További infó</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Objektívgomb</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Nem konfigurálható</string>
+    <string name="photopro_strings_accessibility_previous_txt">Előző</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Legutóbbi fényképek csoportja</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Videófelvétel indítása</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Videófelvétel szüneteltetése</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Videófelvétel folytatása</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Készítsen egy pillanatképet a videó felvétele közben</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Videófelvétel leállítása</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Visszaszámolás leállítása</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Exponálás</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Váltás a fő és az előlapi kamera között</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Váltás fényképezés és videókészítés között</string>
+    <string name="photopro_strings_accessibility_title_txt">Kisegítő lehetőségek</string>
+    <string name="photopro_strings_addon_button_menu_txt">Továbbiak</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Kreatív effektus</string>
+    <string name="photopro_strings_addon_panorama_txt">Panorámaképek</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Szelfiportré</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Lassított felvétel</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Helyek mentéséhez engedélyeznie kell a GPS és/vagy vezeték nélküli hálózatokat. Engedélyezi?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Hely mentése</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Névtelen statisztika</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Előlapi fénykép</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Elülső videó</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Videó</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Kiválaszthatja a fényképek képarányát</string>
+    <string name="photopro_strings_aspect_ratio_txt">Képarány</string>
+    <string name="photopro_strings_audio_on_all_txt">Bekapcsolva: Összes</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Bekapcsolva: Csak zárhang</string>
+    <string name="photopro_strings_audio_signals_description_txt">Megadhatja, hogy milyen kamerahangokat szólaltasson meg a készülék például az önkioldó visszaszámlálásakor vagy fókuszáláskor. Választhatja azt is, hogy csak a zárhang szólaljon meg.</string>
+    <string name="photopro_strings_audio_signals_txt">Hangjelzések</string>
+    <string name="photopro_strings_auto_power_off_txt">A Photo Pro inaktivitás miatt hamarosan bezárul</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Ellenfényes portré</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Ellenfény</string>
+    <string name="photopro_strings_auto_scene_document_txt">Dokumentum</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Gasztronómia</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Gyermek</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Tájkép</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Kevés fény</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Makró</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Éjszakai portré</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Éjszakai jelenet</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Automatikus motívum-érzékelés</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Lágy megjelenítés</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Reflektor</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Ellenőrizze, hogy az objektív tiszta-e, és az ujja nincs-e rajta</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Túl világos</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Távolodjon el az objektumtól</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Több fény szükséges</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Menjen közelebb az objektumhoz</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">A Háttérelmosás (bokeh) jelenleg nem érhető el</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Bokeh Be</string>
+    <string name="photopro_strings_bokeh_txt">Háttér-homályosítás (bokeh)</string>
+    <string name="photopro_strings_bt_remote_control_txt">Bluetooth-os távvezérlés</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">A Folyamatos felvétellel készült fényképek belső tárhelyre mentve</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Alacsony zársebességnél nem használható a Folyamatos felvétel</string>
+    <string name="photopro_strings_button_continue_txt">Folytatás</string>
+    <string name="photopro_strings_button_quit_txt">KILÉPÉS</string>
+    <string name="photopro_strings_cancel_txt">Mégse</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Lassított mozgás</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K videó</string>
+    <string name="photopro_strings_change_txt">Módosítás</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Alaph.</string>
+    <string name="photopro_strings_color_and_brightness_txt">Szín és fényerősség</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">A belső tárhely megtelt. Menti helyette SD-kártyára az adatokat?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">A belső tárhely sérült vagy írásvédett. Menti helyette SD-kártyára az adatokat?</string>
+    <string name="photopro_strings_common_error_open_txt">Nem nyith. meg: %1$s</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">Az SD-kártya megtelt. Menti helyette belső tárhelyre az adatokat?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">Az SD-kártya nem használható. Menti helyette belső tárhelyre az adatokat?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Folyamatos felvétel visszajelzése</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">A következő funkciók jelenleg le vannak tiltva.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Várja meg, hogy készüléke lehűljön, majd indítsa újra a kamerát.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">A következő funkciók le vannak tiltva</string>
+    <string name="photopro_strings_cooling_mode_txt">A készülék hőmérsékleti növekedésének megelőzése miatt néhány funkció le van tiltva</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Másik funkciót rendelhet hozzá az AEL gombhoz</string>
+    <string name="photopro_strings_custom_ael_txt">Az AEL-gomb testreszabása</string>
+    <string name="photopro_strings_custom_disp_description_txt">"A DISP gombra koppintva megjelenítheti/elrejtheti az információkat a képkeresőben.
+Törölje minden olyan elem jelölését ebben a menüben, amelyet nem szeretne megjeleníteni a DISP gomb megnyomásakor előbukkanó információk között."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Hisztogram</string>
+    <string name="photopro_strings_custom_disp_level_txt">Szint</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Fejléc információi</string>
+    <string name="photopro_strings_custom_disp_txt">A DISP gomb testreszabása</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Lehetősége van újratársítani és átrendezni a beállítási elemeket a funkciómenüben.
+Koppintson az alábbi funkciómenük valamelyikére a bal oldali listán.
+A lentebbi funkcióelemek bármelyikének áthúzásos mozgatásával tudja módosítani a sorrendet."</string>
+    <string name="photopro_strings_custom_fn_txt">A Funkció menü testreszabása</string>
+    <string name="photopro_strings_custom_none_txt">Nincs hozzárendelve</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Korábban elutasította az adatvédelmi szabályzatot.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Automatikus expozíció zárolása</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Az ISO-beállítás módosítása automatikusra</string>
+    <string name="photopro_strings_description_custom_none_txt">Az AEL gomb kikapcsolása</string>
+    <string name="photopro_strings_device_id_txt">Eszközazonosító</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Nem elég a telefon akkumulátorának töltöttsége. Alacsony akkumulátorszint esetén a kamera automatikusan bezárul.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">A rögzítés az akkumulátor lemerülése miatt leállt. Töltse a készüléket, és próbálkozzon újból.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">A kamera az akkumulátor lemerülése miatt nem használható. Töltse a készüléket, és próbálkozzon újból.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Az alkalmazásnak szüksége van az alábbi engedély(ek)re a művelet végrehajtásához.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Hálózat
+Wi-Fi-hálózathoz való csatlakoztatáshoz"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"A Repülőgépes üzemmód be van kapcsolva.
+A BEÁLLÍTÁSOK gombot használva kapcsolja ki a Repülőgépes üzemmódot."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Hálózat neve: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"A Wi-Fi ki van kapcsolva és a Repülőgépes üzemmód be van kapcsolva.
+A BEÁLLÍTÁSOK gombra koppintva módosítsa ezeket a beállításokat."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"A Wi-Fi ki van kapcsolva.
+A BEÁLLÍTÁSOK gombot használva kapcsolja ki a Wi-Fi funkciót."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Beállítások</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Engedélyezés</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Elutasítás</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Figyelem</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Kalibrálás</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Visszaállítás</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Nincs elég belső tárhely. A folyamatos felvétel leállt. Tárterület felszabadításához töröljön néhány fájlt.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Engedélyek megadása</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Kapcsolódás...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Jelszavas védelem: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Biztonság: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Nem lehet csatlakozni Wi-Fi-hálózathoz</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Ha alább a hozzájárulását adja, a Sony gyűjti az Ön &lt;b>&lt;a href=#personal-data>személyes adatait&lt;/a>&lt;/b> személyre szabott támogatás biztosítása és a készülékei és szolgáltatásai javítása érdekében. A Sony az &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>Adatvédelmi szabályzatunk&lt;/a>&lt;/b> előírásainak megfelelően kezeli az Ön adatait.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Videókat rögzíthet olyan helyszíneken, ahol nagy a kontraszt, és drámaibbá és a valós életben láthatóhoz hasonlóvá teheti őket. Ha eredeti színnel és fényerővel szeretné élvezni a tartalmat, használjon támogatott eszközöket és szolgáltatásokat.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Ne jelenjen meg újra</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">Folyamatos HDR-felvétel: Ma</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">Folyamatos HDR-felvétel: Al</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Folyamatos felvétel: Ma</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Folyamatos felvétel: Al</string>
+    <string name="photopro_strings_drive_continuous_txt">Folyamatos felvétel</string>
+    <string name="photopro_strings_drive_mode_txt">Képtovábbítási mód</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Önkioldó: 10 másodperc</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Önkioldó: 3 másodperc</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Önkioldó: Ki</string>
+    <string name="photopro_strings_drive_single_txt">Egyszeri felvétel</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">Automatikus HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Ez a beállítás optimalizálja az értéktartományt. A DRO-feldolgozás egyetlen képet használ, míg az Automatikus HDR az eredmény eléréséhez több expozíciót kombinál.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Dinamikatartomány-optimalizáló</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/Automatikus HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">Nem lehet elindítani a kamerát. Indítsa újra a kamerát vagy a készüléket.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Hiba</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Nem sikerült menteni a fényképeket. Előfordulhat, hogy a problémát az adattároló okozza. Ha adattárolóként SD-kártya van megadva, ellenőrizze az SD-kártyáját.</string>
+    <string name="photopro_strings_error_fatal_txt">Ismeretlen hiba.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Nem</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Igen</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">A kamera ideiglenesen kikapcsol, hogy lehűljön. A felvételét automatikusan menti a program. Indítsa újra az alkalmazást, miután a készülék lehűlt.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">A memória megtelt. Töröljön néhány fájlt az SD-kártyáról vagy a belső tárhelyről.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">A memória nem érhető el</string>
+    <string name="photopro_strings_error_memory_title_txt">Memóriahiba</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">Nem érhető el az SD-kártya</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Expozíciókorrekció</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Portréfelvételeket készíthet, amelyeken az emberek és állatok arca, illetve szeme van fókuszban.
+A fókuszcélpont módosításához koppintson arra az arcra, amelyre fókuszálni szeretne."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Olyan videófelvételeket készíthet, amelyeken az emberek és állatok arca, illetve szeme vagy fókuszban.
+A fókuszcélpont módosításához koppintson arra az arcra, amelyre fókuszálni szeretne.
+Megjegyzés: Ha ez a lehetőség be van kapcsolva, a rögzítés időtartama lerövidülhet az eszköz hőmérsékletének megemelkedése miatt."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Arcfelismerés/Szem AF bekapcsolva</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">Arc/szem AF</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">Arc/szem AF: Ki</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">Arc/szem AF: Be</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">A funkció használatához oldja fel a képernyőzárat.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">A beállítások megnyitásához oldja fel a képernyő zárolását.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Képernyő zárolva</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"A Háttérelmosás (bokeh) effektus módosításához koppintson a Háttérelmosás (bokeh) ikonra a keresőben, és mozgassa a csúszkát.
+Ezt a funkció az Alap (Fotó) üzemmód támogatja.
+A témákat kiemelheti komoly kontraszttal, ha elmossa a hátteret."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">A Háttérelmosás effektus használata</string>
+    <string name="photopro_strings_feature_bokeh_txt">Háttérelmosás (bokeh) effektus</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">A képtovábbítási mód változtatásával választhat az Egy felvétel, a Folyamatos felvétel és az Önkioldó között.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Képtovábbítási mód</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Amikor az előlapi kamerával készít fényképeket, nézzen az előlapi kamera lencséjébe, a hangszóró mellett.
+Ekkor a fényképen a megfelelő irányba néz a tekintete."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Szem iránya</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Portréfelvételeket készíthet, amelyeken az emberek és állatok arca, illetve szeme vagy fókuszban.
+A fókuszcélpont módosításához koppintson arra az arcra, amelyre fókuszálni szeretne. Ezt a funkciót a MENÜ > Arc/Szem AF menüpontban lehet be- és kikapcsolni."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">Arc/szem AF</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Fordítsa tenyerét a kamera felé. Miután felismeri a tenyerét, az önkioldó megkezdi a visszaszámlálást. Az észlelés megkönnyítéséhez nyújtsa ki az ujjait felfelé.
+A funkció bekapcsolásához váltson az előlapi kamerára Alap (Fotó) üzemmódban, és kapcsolja be az „Exponálás kézre” funkciót a MENÜben."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Exponálás kézre</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Ultranagy látószögű (0,7x) objektív használatakor kiválaszthat egy prioritást. A „Képminőség előtérbe helyezése” esetén dinamikus jó minőségű képeket rögzíthet. Ha a Torzításkorrekció előtérbe helyezése prioritást választja, csökkentheti a vizuális torzítást.
+Ez a funkció az ultranagy látószögű objektív használata esetén aktív. Az ultranagy látószögű objektívre váltást követően a prioritást a MENÜ > Ultranagy látószögű objektív korrekciója menüpontban adhatja meg."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Objektívkorrekció (fénykép)</string>
+    <string name="photopro_strings_feature_list_title_txt">A funkciók ismertetése</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Könnyedén megörökíthet művészi szelfiket a Háttérelmosás (bokeh) és a szépítés effektussal.
+A funkció használatához koppintson a keresőben a Továbbiak elemre, majd válassza a Szelfiportré lehetőséget.
+Tegye stílusossá a szelfijét, és élvezze a kreatív eredményt."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Szelfiportré</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"QR-kód beolvasásával gyorsan hozzáférhet az internethez, illetve csatlakozhat Wi-Fi-hálózathoz.
+Ez a funkció Alap (Fotó) üzemmódban aktív. Ezt a funkciót a MENU > QR Code-olvasó menüpontban lehet be- és kikapcsolni."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code-olvasó</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code-olvasó</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Fényképeit és videóit megjelölheti a készítésük helyét jelző címkével. Ezt a beállítást később is módosíthatja a MENÜ > Helyszín mentése pontban.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Menti a helyet?</string>
+    <string name="photopro_strings_feature_selfie_txt">Előlapi kamera</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Akár 120 fps lassított videót is rögzíthet HD minőségben.</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Lassított felvétel</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Egyszerűen válthat az objektívek között, így kihasználhatja kreativitását a kölönféle helyzetek megörökítésekor.
+A keresőben a gombra kattintva válthat 0,7× (ultraszéles), 1,0× (széles), 2,9× (telefotó) és 4,4× (telefotó) objektív között.
+Ez a funkció az Alap (Fotó) és az Alap (Videó) módban is használható."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Látószög váltása a gombbal</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Egyszerűen válthat az objektívek között, így kihasználhatja kreativitását a különféle helyzetek megörökítésekor.
+A keresőben a gombra koppintva válthat 0,7× (ultraszéles), 1,0× (széles) és 2,1× (standard) objektív között.
+Ez a funkció az Alap (Fotó) és az Alap (Videó) módban is használható."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Hármas kamera</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Ha az objektív gombjára koppint, megjelenik egy csúszka, amellyel módosíthatja a zoom mértékét.
+A nagyítási szint a képernyő csippentésével vagy a hangerőgombokkal is módosítható."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Zoom növelése/csökkentése</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Törlés</string>
+    <string name="photopro_strings_file_format_description_txt">"Válassza ki a fényképek fájlformátumát.
+
+RAW: A fényképek utófeldolgozásához speciális szoftver szükséges. Ez lehetővé teszi módosítások elvégzését a képminőség csökkenésének korlátozása mellett. Utófeldolgozás után nyomtatható.
+RAW és JPEG: Menti az utófeldolgozást igénylő RAW, valamint a JPEG formátumú képeket is.
+JPEG: JPEG formátumú képeket ment.
+
+Megjegyzések:
+A RAW formátumú fájlok mentése mindig belső tárhelyre történik 4:3 képaránnyal.
+A Folyamatos felvétel és az Automatikus HDR nem érhető el, amikor a RAW vagy a RAW és JPEG van kiválasztva."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW és JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Fájlformátum</string>
+    <string name="photopro_strings_flash_auto_txt">Auto</string>
+    <string name="photopro_strings_flash_description_txt">A vaku üzemmódjaként beállíthatja az „Automatikus vaku”, a „Derítő vaku” stb. lehetőséget.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Derítő vakuzás</string>
+    <string name="photopro_strings_flash_off_txt">Kikapcsol</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Vörösszemhatás-csökkent.</string>
+    <string name="photopro_strings_flash_torch_description_txt">Bekapcsolhatja az elemlámpát</string>
+    <string name="photopro_strings_flash_torch_off_txt">Zseblámpa: Ki</string>
+    <string name="photopro_strings_flash_torch_on_txt">Zseblámpa: Be</string>
+    <string name="photopro_strings_flash_torch_txt">Zseblámpa</string>
+    <string name="photopro_strings_flash_txt">Vaku üzemmód</string>
+    <string name="photopro_strings_focus_area_center_txt">Közép</string>
+    <string name="photopro_strings_focus_area_txt">Fókuszterület</string>
+    <string name="photopro_strings_focus_area_wide_txt">Széles</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Megadhatja a fókuszterület keretének színét</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Piros</string>
+    <string name="photopro_strings_focus_frame_color_txt">Fókuszmező színe</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Fehér</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">Folyamatos AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">Egyszeri AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">Kiválaszthat fókuszálási módot</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Arcfelismerés</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Kézi fókusz</string>
+    <string name="photopro_strings_focus_mode_txt">Fókusz üzemmód</string>
+    <string name="photopro_strings_geotagging_description_txt">Fényképeit és videóit a készítésük helyét jelző címkével együtt mentheti</string>
+    <string name="photopro_strings_geotagging_txt">Hely mentése</string>
+    <string name="photopro_strings_gridline_description_txt">Megadhatja, hogy megjelenjenek-e a rácsvonalak a képek komponálásának segítése érdekében</string>
+    <string name="photopro_strings_gridline_txt">Rácsvonalak</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Elindíthatja az önkioldó visszaszámlálását azzal, ha a tenyerét az előlapi kamera felé fordítja. Az észlelés megkönnyítéséhez kinyújtott ujjait tartsa felfelé.</string>
+    <string name="photopro_strings_hand_shutter_txt">Exponálás kézre</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Válassza ki, hogy szeretne-e haptikus visszajelzést kapni, amikor a kijelzőt, pl. az üzemmódválasztó tárcsát használja</string>
+    <string name="photopro_strings_haptic_feedback_txt">Haptikus visszajelzés</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Ki</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: Be</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Intelligens szélzajszűrő</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO-érzékenység</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">A készülék zárgombját nyomva tartva elindíthatja a Photography Pro alkalmazást. Ez akkor is működik, ha a telefon zárolt vagy alvó módban van.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">A Photography Pro elindítása</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Indítás zárgombbal</string>
+    <string name="photopro_strings_lens_correction_description_txt">Ultranagy látószögű objektív használatakor kiválaszthat egy prioritást. A „Képminőség előtérbe helyezése” esetén dinamikus jó minőségű képeket rögzíthet. Ha a Torzításkorrekció előtérbe helyezése prioritást választja, csökkentheti a vizuális torzítást.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Képminőség előtérbe helyezése</string>
+    <string name="photopro_strings_lens_correction_on_txt">Torzításkorrekció előtérbe helyezése</string>
+    <string name="photopro_strings_lens_correction_txt">Ultranagy látószögű objektív korr.</string>
+    <string name="photopro_strings_lens_txt">Obj.</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Kalibrálás</string>
+    <string name="photopro_strings_level_calibration_description_txt">Szükség esetén kalibrálhatja a Szint funkciót az eltérések rögzítéséhez a döntési irányban. Ellenőrizze, hogy a kamera vízszintes-e, majd válassza a Kalibrálás lehetőséget.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">A kalibrálás kész</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Visszaállította a kalibrálási beállítást</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Szint kalibrálása</string>
+    <string name="photopro_strings_lock_switch_txt">Zárol.</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">A rögzítés a maximális fájlméretkorlát miatt leállt</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">A rögzítés a maximális rögzítési időkorlát miatt leállt</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Sikertelen mentés. A memória megtelt.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Alk.</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Mentés</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Beállítás</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Menti a módok és beállítások aktuális kombinációját?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"A rendszer mentette a felvételi beállításokat.
+Az MR felvételi módot használva egyszerűen behívhatja ezeket a beállításokat."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Felvételi beállítások memóriába mentése</string>
+    <string name="photopro_strings_memory_recall_txt">Felvételi beáll. behív.</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Fénykép (előlapi)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Fénykép</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Lassított felvétel</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Videó (előlapi)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Videó</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Expozíció/szín</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Fókusz</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Beállítás</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Felvétel</string>
+    <string name="photopro_strings_menu_title_txt">Menü</string>
+    <string name="photopro_strings_metering_center_txt">Közép</string>
+    <string name="photopro_strings_metering_multi_txt">Több</string>
+    <string name="photopro_strings_metering_spot_txt">Pontszerű</string>
+    <string name="photopro_strings_metering_txt">Fénymérési mód</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Válassza ki, hogy melyik mikrofont kívánja használni videó rögzítésekor:
+1. BJ mikrofon: Sztereó hangot rögzít bal és jobb oldali (álló tájolás esetén felső és alsó) mikrofonnal
+2. Hátsó mikrofon: Monó hangot rögzít hátsó mikrofon segítségével"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Külső mikrofon</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">BJ mikrofon (sztereó)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Hátsó mikrofon (monó)</string>
+    <string name="photopro_strings_mic_setting_txt">Mikrofon</string>
+    <string name="photopro_strings_mode_auto_description_txt">A kamera automatikusan észleli a jelenet típusát, és automatikus beállításokkal készíti a felvételeket, miközben csökkenti a képzajt és a kamera remegését.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Automatikus mód</string>
+    <string name="photopro_strings_mode_basic_description_txt">"Ebben az üzemmódban a képernyőn található zárkioldó gombbal készíthet fényképeket, a szokványos okostelefonos kamerákhoz hasonlóan.
+Használja ezt az üzemmódot szelfik és videók készítéséhez, illetve QR-kódok beolvasásához."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Alap üzemmód</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Ez megjeleníti az egyes Felvételi módok leírásait, ha az üzemmódválasztó tárcsával vált módot</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Az üzemmódválasztó tárcsa útmutatója</string>
+    <string name="photopro_strings_mode_m_description_txt">"Manuálisan szabályozhatja a zársebességet és az ISO-érzékenységet.
+Hosszabb expozíció esetén lehetőség van olyan felvételek készítésére, amelyek a tárgyak haladó mozgását örökítik meg a mozgásból eredő elmosódáson keresztül."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Kézi expozíció</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Intelligens automatikus (Memória behívás)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Fotózhat a mentett beállításait alkalmazva.
+Lehetősége van tárolni gyakran használt üzemmód-beállítás kombinációkat."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Memória behívás</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Kézi expozíció (Memória behívás)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Automatikus program (Memória behívás)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Zársebesség-prioritás (Memória behívás)</string>
+    <string name="photopro_strings_mode_p_description_txt">A kamera automatikusan szabályozza a zársebességet, a többi beállítást pedig Önre bízza.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Automatikus program</string>
+    <string name="photopro_strings_mode_s_description_txt">"A mozgó témák megörökítésének egyéni megoldásához szabályozza manuálisan a zársebességet.
+A nagyobb zársebesség látszóleg megfagyasztja a mozgó témát, az kisebb zársebesség pedig alkalmasabb a mozgásból eredő elmosódás megörökítésére."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Zársebesség-prioritás</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">A képtovábbítási mód automatikus beállítása az „Egyszeri felvétel”, mert be van kapcsolva a Transfer &amp; Tagging add-on üzemmód</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Az automatikus fájlformátum-beállítás a JPEG, mert be van kapcsolva a Transfer &amp; Tagging add-on üzemmód</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Nem lehet használni a kamerát többablakos módban, sem előugró ablakban. Zárja be az ablakot, és próbálkozzon újra. Ha többablakos módot használ, a felosztósáv közepét húzva a kamera képének teljes képernyős megjelenítésére válthat.</string>
+    <string name="photopro_strings_multi_window_txt">A felosztósáv közepét húzva váltson teljes képernyőre a %1$s számára</string>
+    <string name="photopro_strings_ok_txt">OK</string>
+    <string name="photopro_strings_personal_data_txt">Személyes adatok</string>
+    <string name="photopro_strings_privacy_policy_txt">Adatvédelmi szabályzat</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Fénykép készítése. Kis türelmet.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Ez a QR Code nem támogatott</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Kopp. a hiv. megnyitásához: \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Nem lehet csatlakozni ehhez a Wi-Fi-hálózathoz</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Kopp. csatlakozás Wi-Fi-hálózathoz: %1$s</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code-olvasó</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"QR-kód beolvasásával gyorsan hozzáférhet az internethez, illetve csatlakozhat Wi-Fi-hálózathoz.
+Ez a funkció Alap (Fotó) üzemmódban aktív."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code-olvasó</string>
+    <string name="photopro_strings_rec_txt">FELVÉTEL</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Visszaállítja a Photo Prót az alapértelmezett beállításokra?</string>
+    <string name="photopro_strings_reset_settings_txt">Beállítások visszaállítása</string>
+    <string name="photopro_strings_reset_txt">Visszaállítás</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">RAW fájlformátum beállításakor a képarány nem módosítható</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">A Folyamatos felvétel kiválasztása esetén az Automatikus HDR nem választható</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Ha a kiválasztott formátum nem JPEG, akkor az Automatikus HDR funkciót nem lehet kiválasztani</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">A Háttérelmosás (bokeh) effektus nem érhető el a jelenleg kiválasztott objektív esetén</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">A Háttérelmosás (bokeh) effektus nem érhető el, ha a Transfer &amp; Tagging add-on üzemmód be van kapcsolva</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Nem használható a Folyamatos felvétel funkció: Magas az aktuális kijelölt objektívvel</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Ha a Háttérelmosás (bokeh) effektus be van kapcsolva, nem lehet a Folyamatos felvétel funkciót használni.</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">A folyamatos felvétel nem érhető el, ha az AI szuperfelbontású zoom van kiválasztva.</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Ha nem JPEG a kiválasztott formátum, akkor a Folyamatos felvétel opció nem használható</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">A folyamatos felvétel nem érhető el, ha a Transfer &amp; Tagging add-on üzemmód be van kapcsolva</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Nem módosítható</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">A Folyamatos felvétel kiválasztása esetén nem használható Vaku üzemmód</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Az aktuálisan kijelölt objektummal nem használható a Vaku üzemmód</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Nem lehet használni zseblámpát a jelenleg kiválasztott objektívvel.</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Nem lehet a JPEG-től különböző fájlformátumra váltani, ha az Automatikus HDR van kiválasztva</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Amikor a Folyamatos felvétel opció van kiválasztva, akkor a fájl formátumát nem lehet JPEG-en kívül másra módosítani</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Ha a Transfer &amp; Tagging add-on üzemmód van kiválasztva, akkor a fájl formátumát nem lehet JPEG-től különbözőre módosítani</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Ez a beállítás nem módosítható, ha csatlakoztatva van külső mikrofon</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Ez a beállítás nem támogatja az aktuális záridőt. A beállítás konfigurálásához módosítsa a záridőt 1 másodpercre vagy kisebb értékre.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Nem lehet RAW-formátumot választani, amikor nem 4:3 képarány van kiválasztva</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Lassított felvétel módban zajló rögzítéskor nem lehet módosítani a videó méretét. A beállítás módosításához lépjen ki a Lassított felvétel módból.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Ez a beállítás kizárólag az ultranagy látószószögű objektív használata esetén érhető el</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Ez a beállítás nem érhető el, ha a HDR be van kapcsolva. A konfigurálásához kapcsolja ki a HDR funkciót.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Ez a beállítás nem támogatott a jelenlegi videómérethez. A beállítás konfigurálásához módosítsa a videóméretet.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">A Háttérelmosás (bokeh) effektus használatakor nem lehet zoomolni</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">ALK. INFORMÁCIÓ</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">%1$s-engedély</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Az alkalmazásnak szüksége van az alábbi engedély(ek)re a művelet végrehajtásához.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Az engedélyek megadásához lépjen az Alkalmazásinformáció > Engedélyek részre.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Nem sikerült folytatni</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Fényképek készítéséhez</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Fényképek és videók készítéséhez</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Tartózkodási hely beolvasásához</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Hang rögzítéséhez</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Közelben lévő eszközökhöz való csatlakozáshoz</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Fényképek és videók beolvasásához és mentéséhez</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Fényképek mentéséhez</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Fényképek és videók mentéséhez</string>
+    <string name="photopro_strings_save_destination_description_txt">Megadhatja, hogy a fényképeket és videókat a saját belső tárhelyére vagy egy SD-kártyára mentse a készülék</string>
+    <string name="photopro_strings_save_destination_internal_txt">Belső tárhely</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD-kártya</string>
+    <string name="photopro_strings_save_destination_title_txt">Adattároló</string>
+    <string name="photopro_strings_save_destination_txt">Adattároló</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">Nem érhető el az SD-kártya</string>
+    <string name="photopro_strings_selftimer_10_txt">10 másodperc</string>
+    <string name="photopro_strings_selftimer_3_txt">3 másodperc</string>
+    <string name="photopro_strings_selftimer_description_txt">Önkioldót állíthat be, amellyel automatikusan fényképet készíthet a megjelölt számú másodperc leteltét követően</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Nézzen a kamera felé</string>
+    <string name="photopro_strings_selftimer_txt">Önkioldó</string>
+    <string name="photopro_strings_settings_off_txt">Kikapcsol</string>
+    <string name="photopro_strings_settings_on_txt">Be</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Alap üzemmód használata mindig</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Válassza ki a Photography Pro indításához tartozó, alapértelmezett Felvételi módot.</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Az utoljára használt mód</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Felvételi mód indításkor</string>
+    <string name="photopro_strings_shooting_mode_txt">Felvételi mód</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Videokamera</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Zársebesség</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Nem lehet pillanatfelvételt rögzíteni bekapcsolt HDR esetén</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Bekapcsolhat olyan effektust, amely a simábbnak mutatja a bőrt</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Sima bőr hatás</string>
+    <string name="photopro_strings_status_mic_external_txt">Külső</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">BJ (sztereó)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Hátsó (monó)</string>
+    <string name="photopro_strings_store_fail_txt">Nem lehet menteni</string>
+    <string name="photopro_strings_sw_license_txt">Szoftverlicenc</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Elfogadom</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Nem fogadom el</string>
+    <string name="photopro_strings_tips_txt">Tippek</string>
+    <string name="photopro_strings_title_permissions_txt">Photo Pro engedély</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Érintő fókusz megszakítása</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Autofókusz</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Válassza ki, hogy mit módosít a képkereső megérintésekor
+
+Tárgykövetés: A legjobb funkció mozgó tárgyak megörökítéséhez. A fókuszt a képkeresőn koppintással kijelölt képelemen tartja, így tiszta felvételt készíthet mozgó tárgyakról is.
+Autofókusz: Koppintson a fókusz kívánt helyére a képkeresőben.
+Fókusz és fényerő: A képkeresőben történő rákoppintással fókuszálhat a kívánt területre, és hozzá állíthatja a fényerőt."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Fókusz és fényerő</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Tárgykövetés</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Érintésre módosítás</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Tárgykövetés megszakítása</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"A funkció bekapcsolása lehetővé teszi, hogy a Transfer &amp; Tagging add-on megjelenítse az Xperia kamerájával készített fényképeket. A fényképeket a belső tárhelyre menti az eszköz.
+Ez a funkció a Photography Próval készített fényképek esetében használható.
+A funkció bekapcsolásakor a rendszer automatikusan a JPEG formátumot választja, a képtovábbítási mód beállítása pedig „Egyszeri felvételre” változik."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Transfer &amp; Tagging add-on üzemmód</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Értem</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Tovább</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Kihagyás</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"A Sony a fotósok által kedvelt márka, amellyel a fényképezés határtalan örömét és csodáját átadó termékek készíthetők.
+Tapasztalatunkat és technológiánkat továbbra is világszerte választják az ügyfelek.
+
+A Photography Pro a Sony Imaging Products teljes méretű kamerái működésének és funkcióinak felelevenítésére törekszik.
+A Sony támogatja a fotós kreativitást."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Válassza ki a témájának megfelelő ideális felvételi módot.
+Ezután adja meg a zársebességet és az expozíciót.
+Tartsa stabilan a kamerát az oldalainál fogva, és készítse el a képet.
+
+A felvételi módok közé tartoznak az alábbiak:
+P (Automatikus program)
+S (Zársebesség-prioritás)
+M (Kézi expozíció)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Válassza ki a kívánt felvételkészítési módot a jobb felső (fekvő tájolás esetén a bal felső) sarokban található üzemmódválasztó tárcsával.
+
+Az Alap üzemmódban egyszerűen készíthet fényképeket és videókat az elülső kamera segítségével, a szokványos okostelefonos kamerákhoz hasonlóan.
+
+Az Auto/P/S/M üzemmódban még több speciális beállítás válik elérhetővé, hogy igazán ideális fényképek készülhessenek."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Felvételi mód</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Használat</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Az Auto/P/S/M üzemmódban tartsa a kamerát erősen fekvő tájolással, és a fényképezéshez nyomja meg a készülék jobb oldalának felső részén található zárgombot.
+
+Az Auto üzemmód választása esetén az eszköz automatikusan állít be funkciókat, például a zársebességet és az expozíciót.
+
+A beállítások kézi megadásához válassza az alábbi üzemmódok valamelyikét.
+P (Automatikus program)
+S (Zársebesség-prioritás)
+M (Kézi expozíció)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Az Auto/P/S/M üzemmód használata</string>
+    <string name="photopro_strings_tutorial_txt">Útmutató</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">A csatlakoztatott külső képernyővel nem használható a Photo Pro. A Photo Pro használatához zárja be az alkalmazást az Xperia „Legutóbbi alkalmazások” képernyőjén, és indítsa újra.</string>
+    <string name="photopro_strings_unlock_button_txt">Feloldás</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Biztonsági okokból a kamera használata korlátozott</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">A stabil 4K videorögzítéshez nem szabad módosítania ezt a beállítást, kivéve ha nagy sebességű SD-kártyát használ (UHS Speed Class 1 vagy gyorsabb, illetve Speed Class 10 ajánlott).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">A stabil lassított felvételű videorögzítéshez nem szabad módosítania ezt a beállítást, kivéve ha nagy sebességű SD-kártyát használ (UHS Speed Class 1 vagy gyorsabb, illetve Speed Class 10 ajánlott).</string>
+    <string name="photopro_strings_video_explanatory_txt">"A stabil videorögzítéshez azt javasoljuk, hogy az adattárolót módosítsa belső tárhelyre. Szeretné most módosítani?
+
+Ha továbbra is SD-kártyát használ adattárolóként, feltétlenül nagy sebességű SD-kártyát válasszon (UHS Speed Class 1 vagy gyorsabb, illetve Speed Class 10 javasolt)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Lehetősége van kiválasztani kódolót a 4K videorögzítéshez.
+
+H.264 (AVC): Kódolás szabványos formátuma, amelyet a készülékek és szolgáltatások többsége támogat.
+H.265 (HEVC): Nagyobb tömörítési arányú formátum. Győződjön meg arról, hogy a lejátszóeszközei, illetve -szolgáltatásai támogatják ezt a módot."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Fájlformátum (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Válasszon videóméretet.
+A HDR nem érhető el Full HD (60 fps) vagy HD választása esetén."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Kiválaszthatja a videóméretet</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 képkocka/mp)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Full HD</string>
+    <string name="photopro_strings_video_size_txt">Videoméret</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Az Xperia egyedülálló, „Optical SteadyShot” elnevezésű hibrid stabilizációs rendszert kapott – ez képes kombinálni az optikai képstabilizálást és az elektronikus képstabilizálást. Remegésmentes, sima videókat készít még menet közben rögzített felvételeknél is.</string>
+    <string name="photopro_strings_video_stabilization_txt">Videostabilizálás</string>
+    <string name="photopro_strings_volumekey_description_txt">Másik funkciót rendelhet hozzá a hangerőgombokhoz</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Exponálás</string>
+    <string name="photopro_strings_volumekey_txt">Hangerőgomb használata így</string>
+    <string name="photopro_strings_volumekey_volume_txt">Hangerő</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Zoom</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Módosítás – %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Auto</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Mód.</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Kész</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Újra</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Alkal.</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Felhős</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Egyéni 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Egyéni 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Egyéni 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">A fehéregyensúly beállítása az előnézet közepe alapján</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">A beállítás nem sikerült</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">A beállítás kész</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Alkalmazás – %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Nappali fény</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Neon</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Izzólámpa</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Árnyék</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">1. hőmérs.</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">2. hőmérs.</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">3. hőmérs.</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Hőmérs.:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Hőmérséklet</string>
+    <string name="photopro_strings_whitebalance_txt">Fehéregyensúly</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Az előlapi kamerával nem lehet zoomolni</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">AI szuperfelbontású zoom</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Válasszon zoombeállítást.
+
+Digitális zoom: A képérzékelő adatainak digitális feldolgozásának alapuló zoom.
+AI szuperfelbontású zoom: Digitális adatfeldolgozást alkalmazó, az eredeti képminőségből többet megtartani képes zoom. A fényképek mentése hosszabb időt vehet igénybe. A kamera automatikusan be lesz állítva Digitális zoomra, ha a Folyamatos beállítás van kiválasztva."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Digitális zoom</string>
+    <string name="photopro_strings_zoom_type_txt">Zoombeállítások</string>
+    <string name="search_menu_title">Keresés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">KI</string>
+    <string name="v7_preference_on">BE</string>
+</resources>

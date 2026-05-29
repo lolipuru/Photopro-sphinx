@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@drawable/photopro_memory_recall_divider_horizontal" android:showDividers="middle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/fragment_memory_recall_left_panel_capturing_mode" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/fragment_memory_recall_left_panel_aspect_ratio" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/fragment_memory_recall_left_panel_drive_mode" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/fragment_memory_recall_left_panel_white_balance" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/fragment_memory_recall_left_panel_ev" />
+</LinearLayout>

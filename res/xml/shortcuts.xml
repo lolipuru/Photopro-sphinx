@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:icon="@drawable/photopro_app_shortcut_video_front_icn" android:enabled="true" android:shortcutId="front_video" android:shortcutShortLabel="@string/photopro_strings_app_shortcut_video_front_txt" android:shortcutLongLabel="@string/photopro_strings_app_shortcut_video_front_txt">
+        <intent android:targetPackage="com.sonymobile.photopro" android:action="android.media.action.VIDEO_CAMERA" android:targetClass="com.sonymobile.photopro.PhotoProActivity">
+            <extra android:name="com.sonymobile.photopro.extra.launchTrigger" android:value="APP_SHORTCUT" />
+            <extra android:name="android.intent.extra.USE_FRONT_CAMERA" android:value="true" />
+        </intent>
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+    <shortcut android:icon="@drawable/photopro_app_shortcut_video_main_icn" android:enabled="true" android:shortcutId="video" android:shortcutShortLabel="@string/photopro_strings_app_shortcut_video_main_txt" android:shortcutLongLabel="@string/photopro_strings_app_shortcut_video_main_txt">
+        <intent android:targetPackage="com.sonymobile.photopro" android:action="android.media.action.VIDEO_CAMERA" android:targetClass="com.sonymobile.photopro.PhotoProActivity">
+            <extra android:name="com.sonymobile.photopro.extra.launchTrigger" android:value="APP_SHORTCUT" />
+        </intent>
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+    <shortcut android:icon="@drawable/photopro_app_shortcut_photo_front_icn" android:enabled="true" android:shortcutId="front_photo" android:shortcutShortLabel="@string/photopro_strings_app_shortcut_photo_front_txt" android:shortcutLongLabel="@string/photopro_strings_app_shortcut_photo_front_txt">
+        <intent android:targetPackage="com.sonymobile.photopro" android:action="android.media.action.STILL_IMAGE_CAMERA" android:targetClass="com.sonymobile.photopro.PhotoProActivity">
+            <extra android:name="com.sonymobile.photopro.extra.launchTrigger" android:value="APP_SHORTCUT" />
+            <extra android:name="android.intent.extra.USE_FRONT_CAMERA" android:value="true" />
+        </intent>
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>

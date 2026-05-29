@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:src="@drawable/photopro_custom_ael_soft_skin_off_icn" android:tint="@color/photopro_image_tint_stateful" android:tintMode="multiply" />
+    </item>
+</selector>

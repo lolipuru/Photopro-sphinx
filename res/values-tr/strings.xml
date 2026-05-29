@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">sil</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
+    <string name="abc_menu_space_shortcut_label">boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="ble_remote_control_button_any_problem_txt">Sorun giderme</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Yeni kumanda eşle</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Bluetooth uz. kumandasında C1 düğmesine başka bir fonksiyon atayabilirsiniz</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">C1 düğmesinin özelleştirilmesi</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Odak modu</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Lens</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Çekim modu</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Ana/ön kamera geçişi</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Fotoğraf/video geçişi</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Lens</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">AF/MF geçişi</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Ana/ön kamera geçişi</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">İzin ver</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Reddet</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Bu özellik için uygulamanın Bluetooth kullanmasına izin verilsin mi?</string>
+    <string name="ble_remote_control_description_txt">"Fonksiyonları %1$s uygulamasında uzaktan kullanmak için bir Sony uzaktan kumandayı Bluetooth aracılığıyla eşleyebilirsiniz.
+Yeni cihazın eşlemesini başlatmak için Yeni kumanda eşle'ye dokunun."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Zaten eşlendi</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">"Uzaktan kumandanın cihaz ile eşlenememesi durumunda Ayarlar'a gidin ve uzaktan kumandanın zaten Bluetooth cihaz listesinde kayıtlı olup olmadığını kontrol edin. Zaten kayıtlı durumdaysa, uzaktan kumandayı listeden kaldırın ve tekrar eşlemeyi deneyin."</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Sorun giderme</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Kabul et ve aç</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Reddet</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Çıkış</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">"Ayarlar'a git"</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">Tamam</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Bluetooth kapatıldığından eşleme iptal edildi</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Zaman aşımına uğradığından eşleme başarısız oldu. Daha sonra tekrar deneyin.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Bu cihaz, yoğun kullanım durumunda önlem olarak belirli işlevleri sınırlandırabilir. Kamera dayanıklılık modunu açarsanız, uygulamanın yüksek performans sağlamaya devam edeceğini gösteren bir simge görüntülenecektir. Bu simge gösterildiğinde, uygulamayı daha uzun süre kullanabilirsiniz.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Kamera dayanıklılık modu, %1$s yalnızca Bluetooth üzerinden bağlanan bir kumanda ile kullanılırken mevcuttur. %1$s kapatıldığında bu fonksiyon devre dışı bırakılacaktır.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Cihaz sıcaklığı, normal işlem sıcaklığı değerlerinin üzerinde artabilir. Sıcaklık arttığında size bir bildirim ve simgeyle uyarı gönderilir. Bu durumda, cihazı elinizde tutmayın. Devam etmeden önce uzaktan kumandanın Bluetooth üzerinden bağlandığından lütfen emin olun.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Dikkat</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Cihaz sıcaklığı çok yüksek. %1$s, soğumak için geçici olarak kapatılacak.
+Bir Bluetooth uzaktan kumandası bağlarsanız, %1$s ile Kamera dayanıklılık modunu kullanmaya devam edebilirsiniz."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Cihaz sıcaklığı çok yüksek. %1$s, soğumak için geçici olarak kapatılacak.
+Bir Bluetooth uzaktan kumandası bağlarsanız, %1$s ile Kamera dayanıklılık modunu kullanabilirsiniz."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Bu fonksiyonu kullanmak için uzaktan kumandayı Bluetooth üzerinden eşleştirmenizin ardından [Uzaktan kumanda kullanımı] seçeneğini etkinleştirin.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Cihaz sıcaklığı çok yüksek. %1$s, soğumak için geçici olarak kapatılacak.
+Kamera dayanıklılık modunu açarsanız, %1$s ile Bluetooth uzaktan kumandası kullanabilirsiniz."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Bu işlevi etkinleştirmek için bağlı olan uzaktan kumanda ile etkileşimde bulunun.
+İptal etmek için ÇIK'a dokunun."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Kamera dayanıklılık modu etkin</string>
+    <string name="ble_remote_control_endurance_mode_txt">Kamera dayanıklılık modu</string>
+    <string name="ble_remote_control_off_txt">Kapalı</string>
+    <string name="ble_remote_control_on_txt">Açık</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Eşlemeye başlamak için uzaktan kumandayla etkileşimde bulunun
+İki kez bildirim ve iletişim kutusu göreceksiniz. Tümünde EŞLE seçeneğini seçin. Ardından, eşlemeyi bitirmek için eşlenen cihazdaki herhangi bir tuşa basın."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Yeni kumanda eşle</string>
+    <string name="ble_remote_control_title_txt">Bluetooth uz. kumanda</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Uzaktan kumanda kullanımı</string>
+    <string name="expand_button_title">Gelişmiş</string>
+    <string name="external_display_connected_description_txt">Vizörü Vlog Monitöründen kontrol edebilirsiniz</string>
+    <string name="external_display_connected_title_txt">Vlog Monitorü bağlandı</string>
+    <string name="external_display_note_about_external_mic_txt">Not: Harici bir mikrofon kullanmak için lütfen kayıttan önce mikrofonu Vlog Monitörüne bağlayın. Kayıt işleminden sonra bağlamanız durumunda Vlog Monitörünü yeniden bağlamanız gerekecektir.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Gizlilik Politikasını daha önce kabul ettiniz, ancak dilediğiniz zaman fikrinizi değiştirebilirsiniz.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Sol ok</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Sağ ok</string>
+    <string name="photopro_strings_accessibility_back_txt">Geri</string>
+    <string name="photopro_strings_accessibility_close_txt">Kapat</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Erişilebilirlik: &lt;a href=\"%s\">Kısmen uyumlu&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Daha fazla oku</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Lens düğmesi</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Yapılandırılabilir değil</string>
+    <string name="photopro_strings_accessibility_previous_txt">Önceki</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Son fotoğraf dizisi</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Video kaydını başlat</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Video kaydını duraklat</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Video kaydını sürdür</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Video kaydı yaparken bir ekran görüntüsü alın</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Video kaydını durdur</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Geri sayımı durdur</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Deklanşör</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Ana ve ön kameralar arasında geçiş yapın</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Fotoğraf ve video arasında geçiş yapın</string>
+    <string name="photopro_strings_accessibility_title_txt">Erişilebilirlik</string>
+    <string name="photopro_strings_addon_button_menu_txt">Daha fazlası</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Yaratıcı efekt</string>
+    <string name="photopro_strings_addon_panorama_txt">Panorama</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Portre selfie</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Yavaş çekim</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">"Konumları kaydetmek için GPS'i ve/veya kablosuz ağları etkinleştirmeniz gerekir. Şimdi etkinleştirilsin mi?"</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Konumu kaydet</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Anonim analizler</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Ön fotoğraf</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Ön video</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Video</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Fotoğrafların yön oranını seçin</string>
+    <string name="photopro_strings_aspect_ratio_txt">Yön oranı</string>
+    <string name="photopro_strings_audio_on_all_txt">Açık: Tümü</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Açık: Yalnızca deklanşör</string>
+    <string name="photopro_strings_audio_signals_description_txt">Zamanlayıcı geri sayım yaparken veya odaklanırken hangi kamera seslerinin oynatılacağını belirleyin. Yalnızca deklanşör sesinin oynatılmasını da seçebilirsiniz.</string>
+    <string name="photopro_strings_audio_signals_txt">Ses sinyalleri</string>
+    <string name="photopro_strings_auto_power_off_txt">Herhangi bir işlem yapılmadığı için Photo Pro kısa süre içinde kapanacak</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Arka ışıklı portre</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Arka ışık</string>
+    <string name="photopro_strings_auto_scene_document_txt">Belge</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Gurme</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Çocuk</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Manzara</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Az ışık</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Makro</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Gece portresi</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Gece çekimi</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Otomatik çekim modu belirleme</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Soft snap</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Spot Işığı</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Lens temiz olmalı ve parmağınızla kapanmamalı</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Çok parlak</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Nesneden uzaklaşın</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Daha fazla ışık gerekiyor</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Nesneye yaklaşın</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Bokeh şu anda kullanılamıyor</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Bokeh Açık</string>
+    <string name="photopro_strings_bokeh_txt">Bokeh</string>
+    <string name="photopro_strings_bt_remote_control_txt">Bluetooth uz. kumanda</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Sürekli çekimde çekilen fotoğraflar dahili depoda kaydedildi</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Sürekli çekim, yavaş deklanşör hızı ile kullanılamaz</string>
+    <string name="photopro_strings_button_continue_txt">Devam et</string>
+    <string name="photopro_strings_button_quit_txt">ÇIK</string>
+    <string name="photopro_strings_cancel_txt">İptal</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Yavaş çekim</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K video</string>
+    <string name="photopro_strings_change_txt">Değiştir</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Sıfırla</string>
+    <string name="photopro_strings_color_and_brightness_txt">Renk ve parlaklık</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Dahili depolama dolu. Veriler SD karta kaydedilsin mi?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Dahili depolama bozuk veya yazmaya karşı korumalı. Veriler SD karta kaydedilsin mi?</string>
+    <string name="photopro_strings_common_error_open_txt">%1$s açılamıyor</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">SD kart dolu. Veriler dahili depolamaya kaydedilsin mi?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">SD kart kullanılamıyor. Veriler dahili depolamaya kaydedilsin mi?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Sürekli çekim geri bildirimi</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Aşağıdaki işlevler şu anda devre dışı durumdadır.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Lütfen cihazınızın soğumasını bekleyin ve ardından kamerayı yeniden başlatın.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Şu işlevler devre dışı</string>
+    <string name="photopro_strings_cooling_mode_txt">Cihaz sıcaklığının artmasını önlemek için bazı özellikler devre dışı bırakıldı</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">AEL düğmesine başka bir fonksiyon atayın</string>
+    <string name="photopro_strings_custom_ael_txt">AEL düğmesi özelleştirme</string>
+    <string name="photopro_strings_custom_disp_description_txt">"DISP düğmesine dokunarak vizördeki bilgileri gösterebilir/gizleyebilirsiniz.
+DISP düğmesiyle bilgileri görüntülerken bir daha gösterilmemesini istediğiniz herhangi bir öğenin işaretini bu menüde kaldırabilirsiniz."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histogram</string>
+    <string name="photopro_strings_custom_disp_level_txt">Hiza</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Üstbilgi bilgileri</string>
+    <string name="photopro_strings_custom_disp_txt">DISP düğmesi özelleştirme</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Ayar öğelerini işlev menüsünde yeniden atayabilir veya yeniden sıralayabilirsiniz.
+Soldaki listeden dilediğiniz, başka bir fonksiyonu atamak için aşağıdaki fonksiyon öğelerinden birine dokunun.
+Yeniden sıralamak için fonksiyon öğelerinden herhangi birini sürükleyin ve bırakın."</string>
+    <string name="photopro_strings_custom_fn_txt">İşlev menüsü özelleştirme</string>
+    <string name="photopro_strings_custom_none_txt">Atanmadı</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Daha önce gizlilik politikasını reddettiniz.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Otomatik pozlamayı kilitleme</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">"ISO'yu Otomatik olarak değiştirme"</string>
+    <string name="photopro_strings_description_custom_none_txt">AEL düğmesini devre dışı</string>
+    <string name="photopro_strings_device_id_txt">Cihaz Kimliği</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Telefonda yeterli pil yok. Pil düzeyi düşük olduğunda kamera otomatik olarak kapanır.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Kayıt işlemi düşük pil seviyesi nedeniyle durduruldu. Cihazınızı şarj edip tekrar deneyin.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Kamera düşük pil seviyesi nedeniyle kullanılamıyor. Cihazınızı şarj edip tekrar deneyin.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Uygulama, bu işlemi gerçekleştirmek için şu izinlere ihtiyaç duyuyor.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Ağ
+Wi-Fi ağına bağlanmak için"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Uçak modu etkin.
+Lütfen AYARLAR'dan Uçak modunu kapatın."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Ağ adı: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi kapalı ve Uçak modu açık.
+Lütfen AYARLAR'a dokunarak bu ayarları değiştirin."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi kapalı.
+Lütfen AYARLAR'dan Wi-Fi özelliğini açın."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Ayarlar</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">İzin ver</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Reddet</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Dikkat</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Kalibre et</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Sıfırla</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Yeterli dahili depolama yok. Sürekli çekim durduruldu. Depolama alanı açmak için bazı dosyaları silin.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">İzinleri verin</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Bağlantı kuruluyor...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Parola koruması: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Güvenlik: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Wi-Fi ağına bağlanılamıyor</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Aşağıdakileri kabul ederseniz Sony, özelleştirilmiş destek sağlamak, cihazları ve hizmetleri iyileştirmek için &lt;b>&lt;a href=#personal-data>kişisel bilgilerinizi&lt;/a>&lt;/b> toplayacaktır. Sony olarak verilerinizi &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>Gizlilik Bildirimimize&lt;/a>&lt;/b> uygun olarak işleyeceğiz.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Videoları yüksek kontrastlı sahnede kaydedebilir ve onları daha çarpıcı, gerçek hayatta gördüğünüze daha yakın bir hale getirebilirsiniz. İçeriği orijinal renk ve parlaklığıyla kullanmak için lütfen desteklenen cihazları/hizmetleri kullanın.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Bir daha gösterme</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">HDR sürekli çekim: Yüksek</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">HDR sürekli çekim: Düşük</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Sürekli çekim: Yüksek</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Sürekli çekim: Düşük</string>
+    <string name="photopro_strings_drive_continuous_txt">Sürekli çekim</string>
+    <string name="photopro_strings_drive_mode_txt">Sürüş modu</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Zamanlayıcı: 10 sn</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Zamanlayıcı: 3 sn</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Zamanlayıcı: Kapalı</string>
+    <string name="photopro_strings_drive_single_txt">Tek çekim</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">Oto. HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Bu ayar, değer aralığını optimize eder. DRO işleme özelliği tek bir resim kullanırken Auto HDR sonuç almak için birden çok pozlamayı birleştirir.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">D-Range Optimizer</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/Oto. HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">Kamera başlatılamıyor. Kamerayı veya cihazı yeniden başlatın.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Hata</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Fotoğraflar kaydedilemedi. Veri depolamasıyla ilgili bir sorun oldu. Veri depolaması SD kart olarak ayarlanmışsa SD kartınızı kontrol edin.</string>
+    <string name="photopro_strings_error_fatal_txt">Bilinmeyen hata.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Hayır</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Evet</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Soğuyabilmesi için kamera şimdi geçici olarak kapanacaktır. Kayıtlarınız saklanacak. Cihaz soğuduktan sonra uygulamayı yeniden başlatın.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Bellek dolu. SD karttan ya da dahili depolamadan bazı dosyaları silin.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Bellek kullanılamıyor</string>
+    <string name="photopro_strings_error_memory_title_txt">Bellek hatası</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD kart kullanılamıyor</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Pozlama dengeleme</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"İnsanların ve hayvanların yüzüne veya gözlerine odaklanan portre fotoğraflar çekebilirsiniz.
+Odaklama hedeflerini değiştirmek için odaklamak istediğiniz öznenin yüzüne dokunun."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"İnsanların ve hayvanların yüzüne veya gözlerine odaklanan videolar çekebilirsiniz.
+Odaklama hedeflerini değiştirmek için odaklamak istediğiniz öznenin yüzüne dokunun.
+Not: Bu ayar etkinleştirildiğinde, kayıt süresi cihaz sıcaklığının yükselmesinden dolayı kısalabilir."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Yüz Algılama/Göz AF açık</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">Yüz/Göz İçin Otomatik Odak</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">Yüz/Göz AF: Kapalı</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">Yüz/Göz AF: Açık</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Bu işlevi kullanmak için ekranın kilidini açın</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Ayarları açmak için ekran kilidini açın.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Ekran kilitlendi</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Bokeh efektini ayarlamak için vizörde Bokeh simgesine dokunup kaydırıcıyı hareket ettirin.
+Bu işlev Temel (Fotoğraf) modunda desteklenir.
+Arka planı bulanık hale getirerek etkileyici kontrast ile öznelerinizi öne çıkarın."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Bokeh etkisiyle fotoğraf çekin</string>
+    <string name="photopro_strings_feature_bokeh_txt">Bokeh efekti</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Sürme modu, Tek veya Sürekli çekimi ya da zamanlayıcıyı kullanmak için değiştirilebilir.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Sürüş modu</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Ön kamerayla fotoğraf çekerken ahizenin yakınındaki ön kamera lensine bakın.
+Gözleriniz fotoğrafta doğru yönde görünür."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Göz doğrultusu</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"İnsanların ve hayvanların yüzüne veya gözlerine odaklanan portre fotoğraflar çekebilirsiniz.
+Odaklama hedeflerini değiştirmek için odaklamak istediğiniz öznenin yüzüne dokunun. Bu işlev MENÜ > Yüz/Göz İçin Otomatik Odak bölümünden etkinleştirilebilir veya devre dışı bırakılabilir."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">Yüz/Göz İçin Otomatik Odak</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Avcunuzu kameraya doğru döndürün. Otomatik zamanlayıcı avcunuz algıladığında geri sayıma başlar. Kolay algılanmasını için parmaklarınızı yukarı doğru kaldırın.
+Bu işlevi etkinleştirmek için Temel (fotoğraf) modundayken ön kameraya geçin ve MENÜ'de El deklanşörünü açın."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">El deklanşörü</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Ultra geniş lensi (0,7x) kullanırken bir öncelik seçebilirsiniz. Görüntü kalitesine öncelik ver ile kaliteli dinamik görüntüler yakalayabilirsiniz. Bozukluğu düzeltmeye öncelik ver'i seçerseniz görsel bozulmayı azaltabilirsiniz.
+Bu işlev, ultra geniş lens kullanılarak fotoğraf çekildiğinde aktiftir. Ultra geniş lense geçiş yapmanızın ardından, MENÜ > Ultra geniş lens düzeltmesi'nden önceliği yapılandırabilirsiniz."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Lens düzeltmesi (fotoğraf)</string>
+    <string name="photopro_strings_feature_list_title_txt">Özelliklerin tanıtımı</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Bokeh ve güzellik efektlerini kullanarak kolayca artistik bir selfie yakalayın.
+Bu işlevi kullanmak için vizörde Daha fazlası'na dokunun ve Portre selfie'yi seçin.
+Selfie'nize stil katın ve yaratıcı sonuçların keyfini çıkarın."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Portre selfie</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Bir QR Code taramasıyla web'e hızlıca erişebilir veya Wi-Fi ağına bağlanabilirsiniz.
+Bu işlev Temel (Fotoğraf) moddayken etkindir. Bu işlev MENÜ > QR Code okuyucu bölümünden etkinleştirilebilir veya devre dışı bırakılabilir."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code okuyucu</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code okuyucu</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Fotoğraf ve videolarınızı çekildikleri yerlerle etiketleyin. Bu ayarı daha sonra MENÜ > Konumu kaydet bölümünden değiştirilebilirsiniz.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Konum kaydedilsin mi?</string>
+    <string name="photopro_strings_feature_selfie_txt">Ön kamera</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Bir videoyu 120 fps yavaş çekimde HD olarak kaydedebilirsiniz</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Yavaş çekim</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Yaratıcılığınıza meydan okumak için herhangi bir durumu yakalamak amacıyla kamera lensleri arasında kolayca geçiş yapabilirsiniz.
+0,7x (ultra geniş), 1,0x (geniş), 2,9x (telefoto) ve 4,4x (telefoto) lensleri arasında geçiş yapmak için vizördeki düğmeye dokunun.
+Bu işlevi hem Temel (Fotoğraf) hem de Temel (Video) modunda kullanabilirsiniz."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Düğmeyle açılar arasında geçiş yapın</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Yaratıcılığınıza meydan okumak için herhangi bir durumu yakalamak amacıyla kamera lensleri arasında kolayca geçiş yapabilirsiniz.
+0,7x (ultra geniş), 1,0x (geniş) ve 2,1x (standart) lensleri arasında geçiş yapmak için vizördeki düğmeye dokunun.
+Bu işlevi hem Temel (Fotoğraf) hem de Temel (Video) modunda kullanabilirsiniz."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Üçlü kamera</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Lens düğmesine dokununca, yaklaştırma düzeyini ayarlamak için kullanabileceğiniz bir kaydırıcı görüntülenir.
+Yakınlaştırmak için ses düğmelerini kullanabilir veya ekranı sıkıştırabilirsiniz."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Yakınlaştırma/uzaklaştırma</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Sil</string>
+    <string name="photopro_strings_file_format_description_txt">"Fotoğraflar için dosya biçimini seçin.
+
+RAW: Fotoğrafların çekim sonrası işlenmesi için özel yazılım gerektirir. Bu, resimdeki bozulmayı sınırlandırırken düzenlemeler yapmanıza olanak tanır. Çekim sonrası işlemin ardından yazdırılabilir.
+RAW ve JPEG: Hem çekim sonrası işlem gerektiren RAW görüntüleri hem de JPEG görüntüleri kaydeder.
+JPEG: JPEG görüntüleri kaydeder.
+
+Notlar:
+RAW biçimindeki dosyalar her zaman 4:3 en-boy oranı ile dahili belleğe kaydedilir.
+Sürekli çekim ve Otomatik HDR modları, RAW veya RAW ve JPEG seçiliyken kullanılamaz."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW ve JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Dosya Biçimi</string>
+    <string name="photopro_strings_flash_auto_txt">Otomatik</string>
+    <string name="photopro_strings_flash_description_txt">Flaş modunu Otomatik flaş, Dolgu flaş vb. olarak ayarlayın.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Dolgu flaş</string>
+    <string name="photopro_strings_flash_off_txt">Kapalı</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Kırmızı göz engelleme</string>
+    <string name="photopro_strings_flash_torch_description_txt">El fenerini açın</string>
+    <string name="photopro_strings_flash_torch_off_txt">Fener: Kapalı</string>
+    <string name="photopro_strings_flash_torch_on_txt">Fener: Açık</string>
+    <string name="photopro_strings_flash_torch_txt">Fener</string>
+    <string name="photopro_strings_flash_txt">Flaş modu</string>
+    <string name="photopro_strings_focus_area_center_txt">Orta</string>
+    <string name="photopro_strings_focus_area_txt">Odak alanı</string>
+    <string name="photopro_strings_focus_area_wide_txt">Geniş</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Odak alanı çerçevesinin rengini seçin</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Kırmızı</string>
+    <string name="photopro_strings_focus_frame_color_txt">Odak alanı rengi</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Beyaz</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">Sürekli AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">Tek çekim AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">Bir odak yöntemi seçin</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Yüz algılama</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Elle Odak</string>
+    <string name="photopro_strings_focus_mode_txt">Odak modu</string>
+    <string name="photopro_strings_geotagging_description_txt">Fotoğraf ve videolarınızı çekildikleri yerlerle kaydedin</string>
+    <string name="photopro_strings_geotagging_txt">Konumu kaydet</string>
+    <string name="photopro_strings_gridline_description_txt">Görüntülerin oluşturulmasında size yardımcı olması için ızgara çizgilerinin görüntülenip görüntülenmeyeceğini belirleyin</string>
+    <string name="photopro_strings_gridline_txt">Izgara çizgileri</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Avcunuzu ön kameraya doğru döndürerek zamanlayıcının geri sayıma başlamasını sağlayabilirsiniz. Kolay algılanmasını için parmaklarınızı yukarı doğru kaldırın.</string>
+    <string name="photopro_strings_hand_shutter_txt">El deklanşörü</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Mod kadranı gibi ekran ile etkileşimde bulunurken dokunsal geri bildirim alıp almayacağınızı ayarlayın</string>
+    <string name="photopro_strings_haptic_feedback_txt">Dokunsal geri bildirim</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Kapalı</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: Açık</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Akıllı rüzgar filtresi</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO hassasiyeti</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">"Cihazın deklanşör düğmesini basılı tutarak Photography Pro'yu başlatabilirsiniz. Bu, telefon uyku modundayken veya kilitliyken bile kullanılabilir."</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">"Photography Pro'yu başlat"</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Deklanşör düğmesi ile başlat</string>
+    <string name="photopro_strings_lens_correction_description_txt">"Ultra geniş lensi kullanırken bir öncelik seçebilirsiniz. Görüntü kalitesine öncelik ver ile kaliteli dinamik görüntüler yakalayabilirsiniz. Bozukluğu düzeltmeye öncelik ver'i seçerseniz görsel bozulmayı azaltabilirsiniz."</string>
+    <string name="photopro_strings_lens_correction_off_txt">Görüntü kalitesine öncelik ver</string>
+    <string name="photopro_strings_lens_correction_on_txt">Bozukluğu düzeltmeye öncelik ver</string>
+    <string name="photopro_strings_lens_correction_txt">Ultra geniş lens düzeltmesi</string>
+    <string name="photopro_strings_lens_txt">Lens</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Kalibre et</string>
+    <string name="photopro_strings_level_calibration_description_txt">"Gerekirse, eğik doğrultudaki sapmaları düzeltmek için Hizayı kalibre edebilirsiniz. Kameranın yatay doğrultuda olduğundan emin olduktan sonra Kalibre et'i seçin."</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Kalibrasyon işlemi tamamlandı</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Kalibrasyon ayarı sıfırlandı</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Hiza kalibrasyonu</string>
+    <string name="photopro_strings_lock_switch_txt">Kilit</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Maksimum dosya boyutu sınırlamasından dolayı kayıt durduruldu</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Maksimum kayıt süresi sınırlamasından dolayı kayıt durduruldu</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Kaydedilemedi. Bellek dolu.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Uyg.</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Kaydet</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Ayar</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Mod ve ayarların mevcut kombinasyonu kaydedilsin mi?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Çekim ayarları kaydedildi.
+MR çekim modunu kullanarak bu ayarları kolayca geri çağırabilirsiniz."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Çekim ayarları belleği</string>
+    <string name="photopro_strings_memory_recall_txt">Çekim ayrlrı geri çağır</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Fotoğraf (Ön)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Fotoğraf</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Yavaş çekim</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Video (Ön)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Video</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Pozlama/Renk</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Odak</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Kurulum</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Çekim</string>
+    <string name="photopro_strings_menu_title_txt">Menü</string>
+    <string name="photopro_strings_metering_center_txt">Merkez</string>
+    <string name="photopro_strings_metering_multi_txt">Çoklu</string>
+    <string name="photopro_strings_metering_spot_txt">Nokta</string>
+    <string name="photopro_strings_metering_txt">Metraj modu</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Video kaydı sırasında kullanılacak mikrofonu seçin:
+1. LR mikrofon: Sol ve sağda bulunan mikrofonlarla stereo ses kaydı yapar (portre doğrultusunda üst ve alt)
+2. Arka mikrofon: Arka mikrofonla mono ses kaydı yapar"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Harici mikrofon</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">LR mikrofon (stereo)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Arka mikrofon (mono)</string>
+    <string name="photopro_strings_mic_setting_txt">Mikrofon</string>
+    <string name="photopro_strings_mode_auto_description_txt">Kamera, çekim modu türünü otomatik olarak algılar ve fotoğrafları gürültü ile kamera sallanmasını azaltarak otomatik ayarlarla çeker.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Otomatik Mod</string>
+    <string name="photopro_strings_mode_basic_description_txt">"Bu modda, her zamanki akıllı telefon kamera deneyimine benzer şekilde ekrandaki deklanşör düğmesini kullanarak fotoğraf çekebilirsiniz.
+Bu modu selfie çekmek, video çekmek ve QR Code taramak için kullanın."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Temel mod</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Bu, mod kadranı ile modları değiştirirken her çekim modunun açıklamasını gösterir</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Mod kadranı kılavuzu</string>
+    <string name="photopro_strings_mode_m_description_txt">"Deklanşör hızını ve ISO hassasiyetini elle kontrol edin.
+Daha uzun süre pozlayarak, bulanıklık azaltmanın kullanılmasıyla nesnelerin hareket izini yakalayan fotoğraflar çekmek mümkündür."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Manuel Pozlama</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Akıllı otomatik (Bellek geri çağırma)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Kaydedilen ayarlarınızı kullanarak fotoğraf çekin.
+Sık kullanılan mod ve ayar kombinasyonlarını kaydedebilirsiniz."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Bellek geri çağırma</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Manuel pozlama (Bellek geri çağırma)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Oto program (Bellek geri çağırma)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Deklanşör hızı önceliği (Bellek geri çağırma)</string>
+    <string name="photopro_strings_mode_p_description_txt">Kamera, diğer ayarları size bırakarak deklanşör hızını otomatik olarak kontrol eder.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Oto Program</string>
+    <string name="photopro_strings_mode_s_description_txt">"Hareketli nesneleri nasıl yakalayacağınızı değiştirmek için deklanşör hızını elle kontrol edin.
+Hızlı deklanşör hızları hareket halindeki nesneyi donmuş gibi gösterirken, yavaş deklanşör hızları hareketin bulanıklığını azaltarak daha iyi yakalar."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Deklanşör Hızı Önceliği</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">"Transfer &amp; Tagging add-on modu açık olduğundan sürme modu otomatik olarak Tek Çekim'e ayarlandı"</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">"Transfer &amp; Tagging add-on modu açık olduğundan dosya biçimi otomatik olarak JPEG'e ayarlandı"</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Çoklu pencerede veya bir açılır pencerede kamera kullanılamaz. Pencereyi kapatın ve tekrar deneyin. Çoklu pencere kullanıyorsanız, kamerayı tam ekran yapmak için bölüm çizgisinin ortasını sürükleyebilirsiniz.</string>
+    <string name="photopro_strings_multi_window_txt">%1$s uygulaması için tam ekrana geçiş yapmak üzere bölüm çizgisinin ortasını sürükleyin</string>
+    <string name="photopro_strings_ok_txt">Tamam</string>
+    <string name="photopro_strings_personal_data_txt">Kişisel bilgiler</string>
+    <string name="photopro_strings_privacy_policy_txt">Gizlilik politikası</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Fotoğraf çekiliyor. Lütfen bekleyin.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Bu QR Code desteklenmiyor</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Açmak için dokunun: \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Bu Wi-Fi ağına bağlanılamıyor</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Şu Wi-Fi ağına bağlnmk içn dokun: %1$s</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code okuyucu</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Bir QR Code taramasıyla web'e hızlıca erişebilir veya Wi-Fi ağına bağlanabilirsiniz.
+Bu işlev Temel (Fotoğraf) moddayken etkindir."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code okuyucu</string>
+    <string name="photopro_strings_rec_txt">KYT</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Photo Pro varsayılan ayarlara sıfırlansın mı?</string>
+    <string name="photopro_strings_reset_settings_txt">Ayarları sıfırla</string>
+    <string name="photopro_strings_reset_txt">Sıfırla</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Dosya biçimi RAW olarak ayarlandığında en-boy oranı değiştirilemez</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Sürekli çekim seçiliyken otomatik HDR seçilemez</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">"JPEG'ten farklı bir dosya biçimi seçildiğinde oto HDR seçilemez"</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Bokeh efekti şu anda seçili lensle kullanılamaz</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Bokeh efekti, Transfer &amp; Tagging add-on modu etkinken kullanılamaz.</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Sürekli çekim kullanılamıyor: Şu anda seçili lensle yüksek</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Bokeh efekti açık durumdayken Sürekli çekim kullanılamıyor</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">AI süper çözünürlüklü yaklaştırma seçildiğinde sürekli çekim kullanılamıyor.</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">"JPEG'ten farklı bir dosya biçimi seçildiğinde Sürekli çekim kullanılamaz"</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on modu etkinken sürekli çekim kullanılamaz</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Değiştirilemiyor</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Sürekli çekim seçildiğinde Flaş modu kullanılamaz</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Şu anda seçili olan lensle Flaş modu kullanılamıyor</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Mevcut seçili lensle Fener kullanılamıyor</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">"Oto HDR seçiliyken dosya biçimi JPEG'ten farklı bir biçime değiştirilemez"</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">"Sürekli çekim seçiliyken dosya biçimi JPEG'ten farklı bir biçime değiştirilemez"</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">"Transfer &amp; Tagging add-on modu etkinken dosya biçimi JPEG'ten farklı bir biçime değiştirilemez"</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Harici bir mikrofon bağlandığında bu ayar değiştirilemez</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Bu ayar mevcut deklanşör hızını desteklemiyor. Bu ayarı yapılandırmak için deklanşör hızını 1 saniye veya altında olacak şekilde değiştirin.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">"4:3'ten farklı bir yön oranı seçildiğinde RAW seçilemez"</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Yavaş çekimde kayıt yaparken video boyutu değiştirilemez. Bu ayarı değiştirmek için yavaş çekim modundan çıkın.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Bu ayar yalnızca ultra geniş lens kullanıldığında mevcuttur</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">"Bu ayar HDR Açık iken kullanılamıyor. Bunu yapılandırmak için HDR'yi kapatın."</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Bu ayar, mevcut video boyutu için desteklenmiyor. Bu ayarı yapılandırmak için video boyutunu değiştirin.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Bokeh efekti kullanılırken yakınlaştırılamaz</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">UYG BİLGİLERİ</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">%1$s izin</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Uygulama, bu işlemi gerçekleştirmek için şu izinlere ihtiyaç duyuyor.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">"İzinleri vermek için Uygulama bilgileri > İzinler'e gidin."</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Devam edilemedi</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Fotoğraf çekmek için</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Fotoğraf ve video çekmek için</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Konum almak için</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Ses kaydetmek için</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Yakındaki cihazlara bağlanmak için</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Fotoğrafları ve videoları kaydetmek ve okumak için</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Fotoğrafları kaydetmek için</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Fotoğraf ve videoları kaydetmek için</string>
+    <string name="photopro_strings_save_destination_description_txt">Fotoğraf ve videoları cihazınızın dahili depolamasında mı yoksa bir SD kartta mı depolanacağını seçin</string>
+    <string name="photopro_strings_save_destination_internal_txt">Dahili depolama</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD kart</string>
+    <string name="photopro_strings_save_destination_title_txt">Veri depolama</string>
+    <string name="photopro_strings_save_destination_txt">Veri depolama birimi</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD kart kullanılamıyor</string>
+    <string name="photopro_strings_selftimer_10_txt">10 sn.</string>
+    <string name="photopro_strings_selftimer_3_txt">3 sn.</string>
+    <string name="photopro_strings_selftimer_description_txt">Belirli bir saniye geçtikten sonra otomatik olarak fotoğraf çekmesi için bir zamanlayıcı ayarlayın</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Gözlerinizi kameradan ayırmayın</string>
+    <string name="photopro_strings_selftimer_txt">Zamanlayıcı</string>
+    <string name="photopro_strings_settings_off_txt">Kapalı</string>
+    <string name="photopro_strings_settings_on_txt">Açık</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Her zaman Temel modu kullan</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Photography Pro başlatıldığı zamanki varsayılan Çekim modunu seçin</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">En son kullanılan mod</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Başlatmada çekim modu</string>
+    <string name="photopro_strings_shooting_mode_txt">Çekim modu</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Video kamera</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Deklanşör hızı</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">HDR açıkken ekran görüntüsü alınamaz</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Cildin daha pürüzsüz görünmesini sağlayan efekti açın</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Yumuşak ten efekti</string>
+    <string name="photopro_strings_status_mic_external_txt">Harici</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">LR (stereo)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Arka (mono)</string>
+    <string name="photopro_strings_store_fail_txt">Kaydedilemedi</string>
+    <string name="photopro_strings_sw_license_txt">Yazılım lisansı</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Kabul Et</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Reddet</string>
+    <string name="photopro_strings_tips_txt">İpuçları</string>
+    <string name="photopro_strings_title_permissions_txt">Photo Pro izni</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Dokunarak odaklamayı iptal et</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Otomatik odaklama</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Vizöre dokunduğunuzda ayarlanacak öğeleri seçin.
+
+Nesne izleme: Hareketli nesneleri çekmek için en iyi fonksiyon. Odağı vizörde dokunduğunuz nesneye kilitlemeye devam ederek hareketli nesneleri net bir biçimde çekmenizi sağlar.
+Otomatik odaklama: Vizörde odaklanmak istediğiniz yere dokunun.
+Odaklama ve parlaklık: Vizöre dokunarak istenen konumun parlaklığına odaklanın ve bu konumun parlaklığını ayarlayın."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Odaklama ve parlaklık</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Nesne izleme</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Ayarlamak için dokunun</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Nesne İzlemeyi İptal Et</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Bu işlevin açılması, Transfer &amp; Tagging add-on modunun Xperia kamera ile çekilen fotoğrafları göstermesine izin verir. Fotoğraflar dahili depolamaya kaydedilir.
+Bu işlev Photography Pro ile çekilen fotoğraflarla uyumludur.
+Bu işlevin açılması otomatik olarak dosya biçimini JPEG, Sürme modunu ise Tek Çekim olarak ayarlayacaktır."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Transfer &amp; Tagging add-on modu</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Anladım</string>
+    <string name="photopro_strings_tutorial_button_next_txt">İleri</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Atla</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Fotoğrafın sonsuz hazzını ve mucizelerini kitlelere ulaştıran ürünler yaratan Sony, fotoğrafçıların sevdiği bir markadır.
+Tecrübemiz ve teknolojimiz, dünya genelindeki müşteriler tarafından tercih edilmeye devam ediyor.
+
+Photography Pro, Sony Imaging Products'ın sunduğu tam özellikli kameraların işlevselliğini ve fonksiyonlarını yeniden oluşturmayı amaçlıyor.
+Sony fotoğraf sanatındaki yaratıcılığınızı destekler."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Öznenize uygun ideal Çekim modunu seçin.
+Ardından deklanşör hızını ve pozlamayı ayarlayın.
+Kamerayı kenarlarından sabit şekilde tutup bir fotoğraf çekin.
+
+Çekim modları arasında şunlar yer alır:
+P (Oto Program)
+S (Deklanşör hızı önceliği)
+M (Manuel pozlama)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Sağ üstte (yatay doğrultudayken sol üstte) bulunan mod kadranını kullanarak tercih ettiğiniz çekim modunu seçin.
+
+Temel mod ile ön kamerayı normal bir akıllı telefon kamerasına benzer şekilde kullanarak kolayca fotoğraf ve video çekebilirsiniz.
+
+Auto/P/S/M modlarıyla, en uygun fotoğrafı çekmek için daha gelişmiş ayarlara erişebilirsiniz."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Çekim modu</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Nasıl kullanılır?</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Auto/P/S/M modlarını kullanırken fotoğraf çekmek için kamerayı yatay doğrultuda sabit tutun ve cihazın sağ üst tarafında bulunan deklanşör düğmesine basın.
+
+Auto'nun seçilmesi deklanşör hızı ve pozlama gibi işlevleri otomatik olarak ayarlar.
+
+Ayarları elle yapılandırmak için aşağıdaki modlardan birini seçin.
+P (Oto Program)
+S (Deklanşör hızı önceliği)
+M (Manuel pozlama)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Auto/P/S/M modlarını kullanma</string>
+    <string name="photopro_strings_tutorial_txt">Öğretici</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">"Harici ekran bağlıyken Photo Pro kullanılamaz. Photo Pro'yu kullanmak için uygulamayı Xperia'nızdaki Son uygulamalar ekranından kapatın ve yeniden başlatın."</string>
+    <string name="photopro_strings_unlock_button_txt">Kilidi kaldır</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Kameranın kullanımı güvenlik nedeniyle kısıtlandı</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Tutarlı 4K video kaydı için, hızlı bir SD kart (UHS Hız Sınıfı 1 veya üzeri ya da Hız Sınıfı 10 önerilir) kullanmıyorsanız bu ayarı değiştirmemelisiniz.</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Tutarlı yavaş çekim video kaydı için, hızlı bir SD kart (UHS Hız Sınıfı 1 veya üzeri ya da Hız Sınıfı 10 önerilir) kullanmıyorsanız bu ayarı değiştirmeyin.</string>
+    <string name="photopro_strings_video_explanatory_txt">"Tutarlı bir video kaydı için, veri depolamasını Dahili depolama olarak değiştirmenizi öneririz. Şimdi değiştirmek ister misiniz?
+
+Veri depolaması olarak SD kart kullanmaya devam ederseniz, hızlı bir SD kart (UHS Speed Sınıf 1 veya üzeri ya da Speed Sınıf 10 önerilir)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"4K video kayıtları için bir kodlayıcı seçebilirsiniz.
+
+H.264 (AVC): Şifreleme için standart biçim, çoğu cihaz ve hizmet tarafından desteklenir.
+H.265 (HEVC): Daha yüksek sıkıştırma oranına sahip biçim. Dinletme cihazlarınızın veya hizmetlerinizin bu yöntemi desteklediğinden emin olun."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Dosya biçimi (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Bir video boyutu seçin.
+HDR, Full HD (60 fps) veya HD seçildiğinde kullanılamaz."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Bir video boyutu seçin</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Tam HD (60 fps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Full HD</string>
+    <string name="photopro_strings_video_size_txt">Video boyutu</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Xperia, Optical SteadyShot adı verilen ve eş zamanlı olarak optik görüntü sabitleme ile elektronik görüntü sabitlemeyi bir araya getiren benzersiz, karma bir sabitleme sistemine sahiptir. Hareket halinde kayıt yaparken bile sorunsuz görünen ve sallanmayan videolar sunar.</string>
+    <string name="photopro_strings_video_stabilization_txt">Video sabitleme</string>
+    <string name="photopro_strings_volumekey_description_txt">Ses seviyesi düğmelerine başka bir fonksiyon atayın</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Deklanşör</string>
+    <string name="photopro_strings_volumekey_txt">Ses düğmesini kullanma şekli</string>
+    <string name="photopro_strings_volumekey_volume_txt">Ses seviyesi</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Yaklaştırma</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Ayarla - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Otomatik</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Ayarla</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Bitir</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Tekrar dene</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Uygula</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Bulutlu</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Özel 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Özel 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Özel 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Beyaz dengesi önizlemenin ortasına göre ayarlanır</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Ayarlama yapılamadı</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Ayarlama tamamlandı</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Uygula - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Gün ışığı</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Floresan</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Ampul</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Gölge</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Sıc. 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Sıc. 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Sıc. 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Sıc.:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Sıcaklık</string>
+    <string name="photopro_strings_whitebalance_txt">Beyaz dengesi</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Ön kamera ile yaklaştırılamıyor</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">AI süper çözünürlüklü yaklaştırma</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Bir yaklaştırma ayarı seçin.
+
+Dijital yaklaştırma: Görüntü sensörü verilerine göre dijital işlemeyi kullanarak yaklaştırın.
+AI süper çözünürlüklü yaklaştırma: Orijinal görüntü kalitesini çoğunlukla koruyan dijital işlemeyi kullanarak yaklaştırın. Fotoğrafların kaydedilmesi uzun sürebilir. Sürekli çekim seçildiğinde otomatik olarak Dijital yaklaştırma işlevi görecektir."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Dijital yaklaştırma</string>
+    <string name="photopro_strings_zoom_type_txt">Yaklaştırma ayarları</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">KAPALI</string>
+    <string name="v7_preference_on">AÇIK</string>
+</resources>

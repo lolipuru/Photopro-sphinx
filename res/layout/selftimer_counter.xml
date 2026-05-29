@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonymobile.photopro.view.SelfTimerCountDownView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.Guideline android:orientation="horizontal" android:id="@id/guide" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintGuide_begin="@dimen/photopro_left_area_width" />
+    <FrameLayout android:id="@id/selftimer_countdown_base" android:layout_width="120.0dip" android:layout_height="120.0dip" android:layout_marginTop="94.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="@id/guide">
+        <ImageView android:layout_gravity="center" android:id="@id/selftimer_countdown_bg" android:layout_width="@dimen/viewfinder_countdown_outside_diameter" android:layout_height="@dimen/viewfinder_countdown_outside_diameter" android:src="@drawable/selftimer_countdown_bg" />
+        <com.sonymobile.photopro.view.SelfTimerCountDownCircleView android:layout_gravity="center" android:id="@id/selftimer_countdown_circle" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <com.sonymobile.photopro.view.SelfTimerCountDownNumberView android:layout_gravity="center" android:id="@id/left_selftimer_countdown_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerCrop" android:shadowColor="#00000000" style="@style/OnScreenTextDropShadow" />
+        <com.sonymobile.photopro.view.SelfTimerCountDownNumberView android:layout_gravity="center" android:id="@id/right_selftimer_countdown_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerCrop" android:shadowColor="#00000000" style="@style/OnScreenTextDropShadow" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/selftimer_port" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:id="@id/text_port_anchor" layout="@layout/selftimer_counter_text_port" />
+    </FrameLayout>
+    <com.sonymobile.photopro.view.widget.SwapAxisFrameLayout android:id="@id/selftimer_land" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:id="@id/text_land_anchor" layout="@layout/selftimer_counter_text_land" />
+    </com.sonymobile.photopro.view.widget.SwapAxisFrameLayout>
+</com.sonymobile.photopro.view.SelfTimerCountDownView>

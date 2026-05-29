@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Mreža
+Da biste se povezali sa WLAN mrežom"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN je isključen i uključen je režim rada u avionu.
+Promenite ova podešavanja tako što ćete tapnuti na PODEŠAVANJA."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN je isključen.
+Uključite WLAN iz PODEŠAVANJA."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Nije moguće povezati se na WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Možete brzo da pristupite vebu ili da se povežete na WLAN tako što ćete skenirati QR Code.
+Ova funkcija je aktivna dok ste u Osnovnom režimu (fotografija). Ova funkcija može da se omogući ili onemogući iz MENI > čitač za QR Code."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Tapnite i povežite se na WLAN „%1$s“</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Možete brzo da pristupite vebu ili da se povežete na WLAN tako što ćete skenirati QR Code.
+Ova funkcija je aktivna dok ste u Osnovnom režimu (fotografija)."</string>
+</resources>

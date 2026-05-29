@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Reţea
+Pentru conectare la WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Funcţia WLAN este dezactivată şi modul pentru avion este activat.
+Modificaţi aceste setări atingând SETĂRI."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Funcţia WLAN este dezactivată.
+Activaţi funcţia WLAN din SETĂRI."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Nu se poate conecta la WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Puteți accesa rapid webul sau vă puteți conecta la WLAN prin scanarea unui QR code.
+Această funcție este activă în Modul de bază (Fotografie). Această funcție poate fi activată sau dezactivată din MENIU > Cititor QR Code."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Atingeţi pt. a vă conec. la reţ. WLAN „%1$s”</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Puteți accesa rapid webul sau vă puteți conecta la WLAN prin scanarea unui QR code.
+Această funcție este activă în Modul de bază (Fotografie)."</string>
+</resources>

@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Přejít na plochu</string>
+    <string name="abc_action_bar_up_description">Přejít nahoru</string>
+    <string name="abc_action_menu_overflow_description">Více možností</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Zobrazit vše</string>
+    <string name="abc_activitychooserview_choose_application">Vybrat aplikaci</string>
+    <string name="abc_capital_off">VYP</string>
+    <string name="abc_capital_on">ZAP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mezerník</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Vyhledat…</string>
+    <string name="abc_searchview_description_clear">Smazat dotaz</string>
+    <string name="abc_searchview_description_query">Dotaz pro vyhledávání</string>
+    <string name="abc_searchview_description_search">Hledat</string>
+    <string name="abc_searchview_description_submit">Odeslat dotaz</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
+    <string name="abc_shareactionprovider_share_with">Sdílet s</string>
+    <string name="abc_shareactionprovider_share_with_application">Sdílet s aplikací %s</string>
+    <string name="abc_toolbar_collapse_description">Sbalit</string>
+    <string name="ble_remote_control_button_any_problem_txt">Odstraňování potíží</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Spárovat nové ovládání</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Tlačítku C1 na Bluetooth dálk. ovl. můžete přiřadit další funkci</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">Přizpůsobení tlačítka C1</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Režim ostření</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Objektiv</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Režim focení</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Přepnout hlavní/přední fotoaparát</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Přepnout fotografie/video</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Objektiv</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Přepnout AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Přepnout hlavní/přední fotoaparát</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Povolit</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Zakázat</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Povolit aplikaci používat Bluetooth pro tuto funkci?</string>
+    <string name="ble_remote_control_description_txt">"Dálkové ovládání Sony můžete spárovat přes Bluetooth a následně na dálku využívat funkce v %1$s.
+Klepnutím na položku Spárovat nové ovládání zahájíte párování nového zařízení."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Již spárováno</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Pokud dálkové ovládání nebylo možné spárovat se zařízením, přejděte do Nastavení a zkontrolujte, zda již dálkové ovládání není zaregistrováno v seznamu zařízení Bluetooth. Pokud již zaregistrováno je, odeberte dálkové ovládání ze seznamu a zkuste ho spárovat znovu.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Odstraňování potíží</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Souhl. a zapnout</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Odmítnout</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Konec</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Přejít do Nastavení</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">OK</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Párování zrušeno, protože byl vypnut Bluetooth</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Párování se nezdařilo z důvodu vypršení časového limitu. Zkuste operaci zopakovat později.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Při intenzivním používání může toto zařízení preventivně omezit určité funkce. Zapnutím Odolného režimu můžete udržet vysoký výkon delší dobu. Pokud zapnete Odolný režim fotoaparátu, zobrazí se ikona, která bude ukazovat, že aplikace udržuje vysoký výkon. Když se tato ikona zobrazuje, můžete aplikaci používat delší dobu.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Odolný režim fotoaparátu je k dispozici, pouze pokud používáte %1$s s dálkovým ovládáním připojeným přes Bluetooth. Zavřením %1$s tuto funkci vypnete.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Teplota zařízení může přesáhnout obvyklou provozní teplotu. Když dojde k nárůstu teploty, zobrazí se oznámení a ikona. Zařízení v takovém případě nedržte dlouhou dobu v ruce. Než budete pokračovat, ujistěte se prosím, že je dálkové ovládání připojeno přes Bluetooth.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Upozornění</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Teplota zařízení je příliš vysoká. %1$s se dočasně vypne, aby došlo k jeho ochlazení.
+Pokud připojíte dálk. ovl. Bluetooth, můžete %1$s i nadále používat v Odolném režimu fotoaparátu."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Teplota zařízení je příliš vysoká. %1$s se dočasně vypne, aby došlo k jeho ochlazení.
+Pokud připojíte dálk. ovl. Bluetooth, můžete %1$s používat v Odolném režimu fotoaparátu."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Pro použití této funkce po spárování dálkového ovládání přes Bluetooth povolte [Použití dálkového ovládání].</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Teplota zařízení je příliš vysoká. %1$s se dočasně vypne, aby došlo k jeho ochlazení.
+Pokud zapnete Odolný režim fotoaparátu, můžete %1$s používat s Blootooth dálk. ovl."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Pro aktivaci této funkce použijte připojené dálkové ovládání.
+Pro zrušení ťukněte na ODEJÍT."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Odolný režim fotoaparátu aktivován</string>
+    <string name="ble_remote_control_endurance_mode_txt">Odolný režim fotoaparátu</string>
+    <string name="ble_remote_control_off_txt">Vypnuto</string>
+    <string name="ble_remote_control_on_txt">Zapnuto</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Pokud chcete zahájit párování, použijte dálkové ovládání.
+Dvakrát obdržíte upozornění a dialogová okna. Použijte u všech položku PÁROVAT, poté dokončete párování stisknutím libovolného tlačítka na spárovaném zařízení."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Spárovat nové ovládání</string>
+    <string name="ble_remote_control_title_txt">Bluetooth dálk. ovl.</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Použití dálkového ovládání</string>
+    <string name="expand_button_title">Rozšířená nastavení</string>
+    <string name="external_display_connected_description_txt">Můžete zkontrolovat hledáček na monitoru pro vlogování</string>
+    <string name="external_display_connected_title_txt">Monitor pro vlogování připojen</string>
+    <string name="external_display_note_about_external_mic_txt">Poznámka: Chcete-li používat externí mikrofon, před nahráváním jej připojte k monitoru pro vlogování. Pokud ho připojíte později, budete muset monitor pro vlogování znovu připojit.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Zásady ochrany soukromí jste již přijali, ale můžete si to kdykoli rozmyslet.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Šipka vlevo</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Šipka vpravo</string>
+    <string name="photopro_strings_accessibility_back_txt">Zpět</string>
+    <string name="photopro_strings_accessibility_close_txt">Zavřít</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Usnadnění přístupu: &lt;a href=\"%s\">Částečně kompatibilní&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Další infor.</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Tlačítko objektivu</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Nelze konfigurovat</string>
+    <string name="photopro_strings_accessibility_previous_txt">Předchozí</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Balíček nedávných fotografií</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Spustit nahrávání videa</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Pozastavit nahrávání videa</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Obnovit nahrávání videa</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Pořiďte snímek během nahrávání videa</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Zastavit nahrávání videa</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Zastavit odpočet</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Závěrka</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Přepínání mezi hlavním a předním fotoaparátem</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Přepínání mezi fotografií a videem</string>
+    <string name="photopro_strings_accessibility_title_txt">Usnadnění přístupu</string>
+    <string name="photopro_strings_addon_button_menu_txt">Další</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Kreativní efekt</string>
+    <string name="photopro_strings_addon_panorama_txt">Panorama</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Selfie portrét</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Zpomalený pohyb</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Chcete-li uložit polohu, je nutné povolit GPS nebo bezdrátové sítě. Chcete je povolit?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Uložit polohu</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Anonymní analýzy</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Přední fotka</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Přední video</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Video</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Vyberte poměr stran fotografií</string>
+    <string name="photopro_strings_aspect_ratio_txt">Poměr stran</string>
+    <string name="photopro_strings_audio_on_all_txt">Zapnuto: vše</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Zapnuto: pouze závěrka</string>
+    <string name="photopro_strings_audio_signals_description_txt">Nastavte zvuky, které má fotoaparát přehrávat, například při odpočítávání samospouště nebo při ostření. Můžete rovněž zvolit přehrávání pouze zvuku závěrky.</string>
+    <string name="photopro_strings_audio_signals_txt">Audio signály</string>
+    <string name="photopro_strings_auto_power_off_txt">Aplikace Photo Pro se brzy zavře z důvodu nečinnosti</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Portrét v protisvětle</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Protisvětlo</string>
+    <string name="photopro_strings_auto_scene_document_txt">Dokument</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Jídlo</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Dítě</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Krajina</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Slabé osvětlení</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Makro</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Noční portrét</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Noční scéna</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Automatické rozpoznání scény</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Měkké pozadí</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Bodový reflektor</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Zkontrolujte, zda je objektiv čistý a zda ho nezakrýváte prstem</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Příliš jasné světlo</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Odstupte dále od objektu</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Je potřeba více světla</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Přibližte se k objektu</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Rozostření (bokeh) momentálně není k dispozici</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Rozostření zapnuto</string>
+    <string name="photopro_strings_bokeh_txt">Rozostření (bokeh)</string>
+    <string name="photopro_strings_bt_remote_control_txt">Bluetooth dálk. ovl.</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Fotky z funkce Kontinuální snímání byly uloženy ve vnitřním úložišti</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Funkci Kontinuální snímání nelze použít s nízkou rychlostí závěrky</string>
+    <string name="photopro_strings_button_continue_txt">Pokračovat</string>
+    <string name="photopro_strings_button_quit_txt">ODEJÍT</string>
+    <string name="photopro_strings_cancel_txt">Zrušit</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Zpomalený pohyb</string>
+    <string name="photopro_strings_change_save_destination_title_txt">Video 4K</string>
+    <string name="photopro_strings_change_txt">Změnit</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Reset</string>
+    <string name="photopro_strings_color_and_brightness_txt">Barva a jas</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Vnitřní úložiště je plné. Uložit data na kartu SD?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Vnitřní úložiště je poškozené nebo chráněné proti zápisu. Uložit data na kartu SD?</string>
+    <string name="photopro_strings_common_error_open_txt">%1$s nelze spustit</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">Karta SD je plná. Uložit data do vnitřního úložiště?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">Kartu SD nelze použít. Uložit data do vnitřního úložiště?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Zpětná vazba kontinuálního snímání</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Následující funkce jsou momentálně zakázány.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Počkejte, až zařízení zchladne, a restartujte fotoaparát.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Následující funkce jsou zakázány</string>
+    <string name="photopro_strings_cooling_mode_txt">Některé funkce jsou zakázané, aby nedošlo ke zvýšení teploty zařízení</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Přiřaďte další funkci tlačítku AEL</string>
+    <string name="photopro_strings_custom_ael_txt">Přizpůsobení tlačítka AEL</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Ťuknutím na tlačítko DISP můžete zobrazit/skrýt informace v hledáčku.
+Zrušte libovolnou položku v této nabídce, pokud chcete, aby se již nikdy nezobrazovala, když zobrazíte informace pomocí tlačítka DISP."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histogram</string>
+    <string name="photopro_strings_custom_disp_level_txt">Vyrovnání</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Informace v záhlaví</string>
+    <string name="photopro_strings_custom_disp_txt">Přizpůsobení tlačítka DISP</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Můžete změnit přiřazení nebo pořadí položek nastavení v nabídce funkcí.
+Klepnutím na jednu položku funkcí níže přiřaďte další funkci dle vlastního výběru se seznamu vlevo.
+Přetažením položek funkcí níže změňte pořadí."</string>
+    <string name="photopro_strings_custom_fn_txt">Přizpůsobení nabídky funkcí</string>
+    <string name="photopro_strings_custom_none_txt">Nepřiřazeno</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Zásady ochrany soukromí jste již odmítli.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Zamknout automatickou expozici</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Nastavit ISO na Automaticky</string>
+    <string name="photopro_strings_description_custom_none_txt">Deaktivovat tlačítko AEL</string>
+    <string name="photopro_strings_device_id_txt">ID zařízení</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Telefon nemá dostatečně nabitou baterii. Je-li úroveň baterie nízká, fotoaparát se automaticky zavře.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Záznam byl zastaven kvůli nízkému stavu baterie. Nabijte zařízení a zkuste to znovu.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Fotoaparát nelze použít kvůli nízkému stavu baterie. Nabijte zařízení a zkuste to znovu.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">K provedení této akce vyžaduje aplikace následující oprávnění.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Síť
+Pro připojení k síti Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Je zapnutý režim Letadlo.
+Vypněte režim Letadlo v nabídce NASTAVENÍ."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Název sítě: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Síť Wi-Fi je vypnutá a režim Letadlo je zapnutý.
+Změňte toto nastavení ťuknutím na položku NASTAVENÍ."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Síť Wi-Fi je vypnutá.
+Zapněte Wi-Fi v nabídce NASTAVENÍ."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Nastavení</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Povolit</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Zakázat</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Upozornění</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Kalibrovat</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Resetovat</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Ve vnitřním úložišti není dostatek místa. Kontinuální snímání bylo zastaveno. Odstraňte některé soubory a uvolněte místo.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Udělit oprávnění</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Připojování...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Ochrana heslem: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Zabezpečení: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Nelze se připojit k Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Pokud souhlasíte s následujícími podmínkami, bude společnost Sony shromažďovat vaše &lt;b>&lt;a href=#personal-data>osobní údaje&lt;/a>&lt;/b>, aby vám mohla poskytovat přizpůsobenou podporu a vylepšená zařízení a služby. Společnost Sony bude nakládat s vašimi osobními údaji podle našich &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>zásad ochrany osobních údajů&lt;/a>&lt;/b>.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Videa můžete nahrávat i při vysokém kontrastu, aby byla dramatičtější a realističtější. K prohlížení obsahu s původní barvou a jasem použijte podporovaná zařízení nebo služby.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Znovu nezobrazovat</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">Kontinuální snímání HDR: vys.</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">Kontinuální snímání HDR: níz.</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Kontinuální snímání: vys.</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Kontinuální snímání: níz.</string>
+    <string name="photopro_strings_drive_continuous_txt">Kontinuální snímání</string>
+    <string name="photopro_strings_drive_mode_txt">Režim pohonu</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Časovač: 10 s.</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Časovač: 3 s.</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Samospoušť: Vypnuto</string>
+    <string name="photopro_strings_drive_single_txt">Jeden snímek</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">Automatické HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Toto nastavení optimalizuje rozsah hodnot. Zpracování DRO využívá jeden snímek, zatímco automatické HDR k dosažení výsledku kombinuje více expozic.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Optimalizátor dynamického rozsahu</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO / Automatické HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">Fotoaparát nelze spustit. Restartujte fotoaparát nebo zařízení.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Chyba</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Fotky se nepodařilo uložit. Mohlo dojít k problému s datovým úložištěm. Pokud je datové úložiště nastaveno na SD kartu, zkontrolujte ji.</string>
+    <string name="photopro_strings_error_fatal_txt">Neznámá chyba.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Ne</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Ano</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Fotoaparát se nyní dočasně vypne, aby vychladl. Nahrávky budou uloženy. Restartujte aplikaci, až zařízení vychladne.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Paměť je plná. Odstraňte z karty SD nebo z interního úložiště některé soubory.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Paměť není k dispozici</string>
+    <string name="photopro_strings_error_memory_title_txt">Chyba paměti</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">Karta SD není k dispozici</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Kompenzace expozice</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Můžete pořídit portréty, které jsou zaostřeny na obličej nebo oči fotografovaných osob nebo zvířat.
+Chcete-li změnit cíle zaostření, ťukněte na obličej objektu, na který chcete zaostřit."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Můžete pořídit videa, která jsou zaostřena na obličej nebo oči osob nebo zvířat.
+Chcete-li změnit cíle zaostření, ťukněte na obličej objektu, na který chcete zaostřit.
+Poznámka: Když je toto nastavení povoleno, doba nahrávání může být kratší z důvodu zahřívání zařízení."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Detekce obličejů/AF na oko zap.</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">AF na obličej/oko</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">AF na obličej/oko: Vypnuto</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">AF na obličej/oko: Zapunto</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Před použitím této funkce odemkněte obrazovku</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Chcete-li otevřít nabídku nastavení, odemkněte obrazovku.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Obrazovka uzamčena</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Chcete-li upravit efekt Rozostření (bokeh), ťukněte v hledáčku na příslušnou ikonu a posuňte jezdce.
+Tato funkce je podporována v režimu Základní (fotografie).
+Pořizujte působivé fotky, které jsou zaostřeny na objekt na rozostřeném pozadí."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Pořizujte fotky s rozostřením (bokeh)</string>
+    <string name="photopro_strings_feature_bokeh_txt">Efekt Rozostření (bokeh)</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Režim pohonu lze změnit pro použití funkce Jeden snímek nebo Kontinuální snímání nebo pro samospoušť.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Režim pohonu</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Při pořizování fotek předním fotoaparátem se dívejte na přední fotoaparát vedle reproduktoru sluchátka.
+Na fotografii se tak budete dívat správným směrem."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Směr pohledu</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Můžete pořídit portréty, které jsou zaostřeny na obličej nebo oči fotografovaných osob nebo zvířat.
+Chcete-li změnit cíle zaostření, ťukněte na obličej objektu, na který chcete zaostřit. Tuto funkci lze aktivovat nebo deaktivovat v části NABÍDKA > AF na obličej/oko."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">AF na obličej/oko</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Otočte dlaň směrem k fotoaparátu. Jakmile bude vaše dlaň rozpoznána, spustí se odpočítávání samospouště. Chcete-li usnadnit detekování, roztáhněte prsty směrem vzhůru.
+Chcete-li tuto funkci aktivovat, přepněte na přední fotoaparát v režimu Základní (fotografie) a zapněte funkci Ruční závěrka v NABÍDCE."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Ruční závěrka</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Při použití ultraširokoúhlého objektivu (0,7x) můžete vybrat prioritu. Pokud vyberete možnost Upřednostnit kvalitu obrazu, můžete zachytit dynamické snímky ve vysoké kvalitě. Pokud vyberete možnost Upřednostnit korekci deformace, můžete omezit vizuální deformaci.
+Tato funkce je aktivní, když fotografujete s ultraširokoúhlým objektivem. Po přepnutí na ultraširokoúhlý objektiv můžete nakonfigurovat prioritu v části NABÍDKA > Korekce ultraširokoúhlého objektivu."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Korekce objektivu (fotky)</string>
+    <string name="photopro_strings_feature_list_title_txt">Představení funkcí</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Můžete snadno pořídit uměleckou selfie s použitím efektu rozostření (bokeh) a efekty zkrášlování.
+Chcete-li tuto funkci použít, ťukněte na tlačítko Další v hledáčku a vyberte možnost Selfie portrét.
+Upravte styl své selfie a vytvořte tvůrčí výsledky."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Selfie portrét</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Naskenováním kódu QR Code můžete rychle přejít na web nebo se připojit k Wi-Fi.
+Tato funkce je aktivní v režimu Základní (fotografie). Tuto funkci lze aktivovat nebo deaktivovat v části NABÍDKA > Čtečka kódů QR Code."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">Čtečka kódů QR Code</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">Čtečka kódů QR Code</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Označte na svých fotkách a videích místa, kde jste je pořídili. Toto nastavení lze později změnit v části NABÍDKA > Uložit polohu.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Uložit polohu?</string>
+    <string name="photopro_strings_feature_selfie_txt">Přední fotoaparát</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Můžete nahrát video zpomaleného pohybu o rychlosti 120 fps v HD</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Zpomalený pohyb</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Můžete snadno přepínat objektivy fotoaparátu a s využitím své kreativity zachytit jakoukoli situaci.
+Ťuknutím na tlačítko v hledáčku přepnete mezi objektivem 0,7x (ultraširokoúhlý), 1,0x (širokoúhlý), 2,9x (teleobjektiv) a 4,4x (teleobjektiv).
+Tuto funkci můžete použít v režimu Základní (fotografie) i v režimu Základní (video)."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Přepnutí úhlu tlačítkem</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Můžete snadno přepínat objektivy fotoaparátu a s využitím své kreativity zachytit jakoukoli situaci.
+Ťuknutím na tlačítko v hledáčku přepínáte mezi objektivy 0,7x (ultraširokoúhlý), 1,0x (širokoúhlý), 2,1x (standardní).
+Tuto funkci můžete použít v režimu Základní (fotografie) i v režimu Základní (video)."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Trojitý fotoaparát</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Ťuknutím na tlačítko objektivu se zobrazí jezdec, kterým můžete upravit úroveň lupy.
+Úroveň zoomu můžete rovněž stáhnout obrazovku prsty nebo použít tlačítka hlasitosti."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Jak přibližovat/oddalovat</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Odstranit</string>
+    <string name="photopro_strings_file_format_description_txt">"Vyberte formát fotografií.
+
+RAW: Vyžaduje speciální software pro závěrečnou úpravu fotografií. Můžete tak provádět úpravy a zároveň omezit snížení kvality snímku. Po závěrečném zpracování lze vytisknout.
+RAW &amp; JPEG: Uloží snímky ve formátu RAW vyžadující závěrečnou úpravu i snímky ve formátu JPEG.
+JPEG: Uloží snímky ve formátu JPEG.
+
+Poznámky:
+Formáty souborů RAW se vždy uloží do interního úložiště s poměrem stran 4:3.
+Pokud je vybrána možnost RAW nebo RAW &amp; JPEG, není kontinuální snímání a možnost Automatické HDR k dispozici."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW &amp; JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Formát souboru</string>
+    <string name="photopro_strings_flash_auto_txt">Automaticky</string>
+    <string name="photopro_strings_flash_description_txt">Nastavte režim blesku na Automaticky blesk, Vynutit blesk atd.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Vynutit blesk</string>
+    <string name="photopro_strings_flash_off_txt">Vypnuto</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Potlačení červených očí</string>
+    <string name="photopro_strings_flash_torch_description_txt">Zapnutí blesku</string>
+    <string name="photopro_strings_flash_torch_off_txt">Svítilna: Vypnuto</string>
+    <string name="photopro_strings_flash_torch_on_txt">Svítilna: Zapnuto</string>
+    <string name="photopro_strings_flash_torch_txt">Svítilna</string>
+    <string name="photopro_strings_flash_txt">Režim blesku</string>
+    <string name="photopro_strings_focus_area_center_txt">Střed</string>
+    <string name="photopro_strings_focus_area_txt">Oblast ostření</string>
+    <string name="photopro_strings_focus_area_wide_txt">Široký</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Nastavte barvu rámečku oblasti ostření</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Červená</string>
+    <string name="photopro_strings_focus_frame_color_txt">Barva oblasti ostření</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Bílá</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">Průběžné AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">AF na 1 snímek</string>
+    <string name="photopro_strings_focus_mode_description_txt">Vyberte metodu ostření</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Detekce obličejů</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Ruční zaostření</string>
+    <string name="photopro_strings_focus_mode_txt">Režim ostření</string>
+    <string name="photopro_strings_geotagging_description_txt">Uložte své fotografie a videa s místy, kde jste je pořídili</string>
+    <string name="photopro_strings_geotagging_txt">Uložit polohu</string>
+    <string name="photopro_strings_gridline_description_txt">Nastavte, zda mají být zobrazeny linky mřížky, které pomáhají s kompozicí snímků</string>
+    <string name="photopro_strings_gridline_txt">Mřížka</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Můžete zahájit odpočítávání samospouště otočením dlaně směrem k přednímu fotoaparátu. Chcete-li usnadnit detekování, roztáhněte prsty směrem vzhůru.</string>
+    <string name="photopro_strings_hand_shutter_txt">Ruční závěrka</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Nastavte, zda chcete dostávat haptickou zpětnou vazbu při interakci s displejem, např. přepínačem režimů</string>
+    <string name="photopro_strings_haptic_feedback_txt">Haptická zpětná vazba</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Vypnuto</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: Zapnuto</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Inteligentní filtr větru</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">Citlivost ISO</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Aplikaci Photography Pro můžete spustit stisknutím a podržením tlačítka závěrky zařízení. Tuto možnost lze použít, i když je telefon v režimu spánku nebo zamčený.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Spustit Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Spustit tlačítkem závěrky</string>
+    <string name="photopro_strings_lens_correction_description_txt">Při použití ultraširokoúhlého objektivu můžete vybrat prioritu. Pokud vyberete možnost Upřednostnit kvalitu obrazu, můžete zachytit dynamické snímky ve vysoké kvalitě. Pokud vyberete možnost Upřednostnit korekci deformace, můžete omezit vizuální deformaci.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Upřednostnit kvalitu obrazu</string>
+    <string name="photopro_strings_lens_correction_on_txt">Upřednostnit korekci deformace</string>
+    <string name="photopro_strings_lens_correction_txt">Korekce ultraširokoúhlého objektivu</string>
+    <string name="photopro_strings_lens_txt">Objek.</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Kalibrovat</string>
+    <string name="photopro_strings_level_calibration_description_txt">V případě potřeby můžete kalibrací vyrovnání opravit odchylky ve směru naklonění. Držte fotoaparát vodorovně a vyberte možnost Kalibrovat.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Kalibrace dokončena</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Nastavení kalibrace bylo resetováno</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Kalibrace vyrovnání</string>
+    <string name="photopro_strings_lock_switch_txt">Uzam.</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Nahrávání bylo zastaveno z důvodu omezení max. velikosti souboru</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Nahrávání bylo zastaveno z důvodu omezení délky záznamu</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Nelze provést uložení. Paměť je plná.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Použít</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Uložit</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Nastavit</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Uložit aktuální kombinaci režimů a nastavení?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Nastavení fotoaparátu uloženo.
+Tato nastavení můžete snadno vyvolat v režimu focení MR."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Paměť nastavení fotoaparátu</string>
+    <string name="photopro_strings_memory_recall_txt">Vyvol. nast. fotoap.</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Fotografie (přední)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Fotografie</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Zpomalený pohyb</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Video (přední)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Video</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Expozice/barva</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Ostření</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Nastavení</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Snímání</string>
+    <string name="photopro_strings_menu_title_txt">"Nabídka "</string>
+    <string name="photopro_strings_metering_center_txt">Střed.</string>
+    <string name="photopro_strings_metering_multi_txt">Víceb.</string>
+    <string name="photopro_strings_metering_spot_txt">Jednobod.</string>
+    <string name="photopro_strings_metering_txt">Režim měření</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Vyberte mikrofon, který se má použít během nahrávání videa:
+1. LP mik: Nahrává stereofonní zvuk levým a pravým mikrofonem (horní a dolním v orientaci na výšku)
+2. Zadní mik: Nahrává monofonní zvuk zadním mikrofonem"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Externí mik</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">LP mik (stereo)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Zadní mik (mono)</string>
+    <string name="photopro_strings_mic_setting_txt">Mik</string>
+    <string name="photopro_strings_mode_auto_description_txt">Fotoaparát automaticky detekuje typ scény a pořídí fotografie a auto nastavením a s potlačením šumu a chvění fotoaparátu.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Automatický režim</string>
+    <string name="photopro_strings_mode_basic_description_txt">"V tomto režimu můžete fotografovat pomocí tlačítka závěrky na obrazovce podobně, jako s běžným fotoaparátem smartphonu.
+Tento režim používejte k pořizování selfie, nahrávání videí a skenování kódů QR."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Režim Základní</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Toto nastavení zobrazí popis jednotlivých režimů focení při přepínání režimů přepínačem</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Průvodce přepínačem režimů</string>
+    <string name="photopro_strings_mode_m_description_txt">"Ruční ovládání rychlosti závěrky a citlivosti ISO.
+Delší expozicí lze pořizovat fotografie, které zachytávají dráhu pohybu objektů rozostřením pohybu."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Ruční expozice</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Inteligentní auto (Vyvolání paměti)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Fotografování s uloženými nastaveními.
+Můžete zaregistrovat často používané kombinace režimů a nastavení."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Vyvolání paměti</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Ruční expozice (Vyvolání paměti)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Program auto (Vyvolání paměti)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Priorita závěrky (Vyvolání paměti)</string>
+    <string name="photopro_strings_mode_p_description_txt">Fotoaparát bude automaticky ovládat rychlost závěrky, ale ostatní nastavení budou na vás.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Program auto</string>
+    <string name="photopro_strings_mode_s_description_txt">"Ručním ovládáním rychlosti závěrky můžete měnit způsob snímání objektů v pohybu.
+Vysoké rychlosti závěrky budou znehybňovat pohyb objektu, zatímco pomalé rychlosti závěrky mohou lépe zachytit rozostření pohybu."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Priorita závěrky</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Režim pohonu byl automaticky nastaven na Jeden snímek, protože je zapnutý režim Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Formát souboru byl automaticky nastaven na JPEG, protože je zapnutý režim Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Nelze použít v režimu Více oken nebo místní okno. Zavřete okno a zkuste to znovu. Používáte-li režim Více oken, můžete přetáhnout prostředek dělicí čáry pro přechod do režimu celé obrazovky fotoaparátu.</string>
+    <string name="photopro_strings_multi_window_txt">Chcete-li použít aplikaci %1$s, přetáhněte prostředek dělicí čáry pro přechod do režimu celé obrazovky</string>
+    <string name="photopro_strings_ok_txt">OK</string>
+    <string name="photopro_strings_personal_data_txt">Osobní údaje</string>
+    <string name="photopro_strings_privacy_policy_txt">Zásady ochrany osobních údajů</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Pořizování fotky, čekejte prosím.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Tento kód QR Code není podporován</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Ťuknutím otevřete: \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">K této síti Wi-Fi se nelze připojit</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Ťuknutím se připojíte k síti Wi-Fi %1$s</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">Čtečka kódů QR Code</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Naskenováním kódu QR Code můžete rychle přejít na web nebo se připojit k Wi-Fi.
+Tato funkce je aktivní v režimu Základní (fotografie)."</string>
+    <string name="photopro_strings_qrcode_detection_txt">Čtečka kódů QR Code</string>
+    <string name="photopro_strings_rec_txt">REC</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Obnovit výchozí nastavení aplikace Photo Pro?</string>
+    <string name="photopro_strings_reset_settings_txt">Resetovat nastavení</string>
+    <string name="photopro_strings_reset_txt">Obnovit</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Pokud je formát souboru nastaven na RAW, nelze změnit poměr stran.</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Možnost Automatické HDR nelze vybrat, pokud je vybrána možnost Kontinuální snímání</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Nelze vybrat automatické HDR, když je vybrán formát souboru jiný než JPEG</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Efekt rozostření není k dispozici s aktuálně vybraným objektivem</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Efekt rozostření není k dispozici, když je zapnutý režim Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Funkci Kontinuální snímání: vysoké nelze použít s aktuálně vybraným objektivem</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Nelze použít Kontinuální snímání při používání efektu rozostření (bokeh)</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Kontinuální snímání není dostupné, když je vybrán režim Lupa AI superrozlišení</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Když je vybrán formát JPEG, nelze používat funkci Kontinuální snímání</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Kontinuální snímání není k dispozici, když je zapnutý režim Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Nelze změnit</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Režim blesku nelze použít, pokud je vybráno Kontinuální snímání</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Režim blesku nelze použít s aktuálně vybraným objektivem</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Režim Svítilna nelze použít s aktuálně vybraným objektivem</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Když je vybráno automatické HDR, nelze změnit formát souboru na jiný, než JPEG</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Když je vybrána možnost Kontinuální snímání, nelze změnit formát souboru na jiný, než JPEG</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Když je vybrán režim Transfer &amp; Tagging add-on, nelze změnit formát souboru na jiný, než JPEG</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Toto nastavení nelze změnit, když je připojen externí mikrofon</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Toto nastavení nepodporuje aktuální rychlost závěrky. Chcete-li nastavení nakonfigurovat, změňte rychlost závěrky maximálně na 1 sekundu.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Když je vybrán jiný poměr stran, než 4:3, nelze vybrat formát RAW</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Nelze změnit velikost videa při nahrávání zpomaleného pohybu. Chcete-li změnit toto nastavení, ukončete režim zpomaleného pohybu.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Toto nastavení je dostupné, pouze když používáte ultraširokoúhlý objektiv</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Toto nastavení není povoleno, když je funkce HDR zapnuta. Chcete-li je nakonfigurovat, funkci vypněte.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Toto nastavení není pro aktuální velkost videa podporováno. Chcete-li je nakonfigurovat, změňte velikost videa.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Při používání efektu Rozostření (bokeh) nelze používat zoom</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">INFO O APLIKACI</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">Oprávnění pro %1$s</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">K provedení této akce vyžaduje aplikace následující oprávnění.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Chcete-li oprávnění udělit, přejděte do nabídky Informace o aplikaci > Oprávnění.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Nebylo možné pokračovat</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Pořizovat fotky</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Pořizovat fotky a videa</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Načíst umístění</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Nahrávat zvuk</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Připojení nedalekých zařízení</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Číst a ukládat fotky a videa</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Ukládat fotky</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Ukládat fotky a videa</string>
+    <string name="photopro_strings_save_destination_description_txt">Zvolte, zda s mají fotografie a videa ukládat do vnitřní paměti vašeho přístroje nebo na kartu SD</string>
+    <string name="photopro_strings_save_destination_internal_txt">Interní úložiště</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">Karta SD</string>
+    <string name="photopro_strings_save_destination_title_txt">Úložiště dat</string>
+    <string name="photopro_strings_save_destination_txt">Úložiště dat</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">Karta SD není k dispozici</string>
+    <string name="photopro_strings_selftimer_10_txt">10 s</string>
+    <string name="photopro_strings_selftimer_3_txt">3 s</string>
+    <string name="photopro_strings_selftimer_description_txt">Nastavte samospoušť tak, aby automaticky pořídila fotografii po uplynutí stanoveného počtu sekund</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Dívejte se na fotoaparát</string>
+    <string name="photopro_strings_selftimer_txt">Samospoušť</string>
+    <string name="photopro_strings_settings_off_txt">Vypnuto</string>
+    <string name="photopro_strings_settings_on_txt">Zapnuto</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Vždy použít režim Základní</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Vyberte výchozí Režim focení při spuštění aplikace Photography Pro</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Naposledy použitý režim</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Režim focení při spuštění</string>
+    <string name="photopro_strings_shooting_mode_txt">Režim focení</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Videokamera</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Rychlost závěrky</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Když je zapnuto HDR, nelze pořizovat snímky</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Zapněte některý efekt, se kterým vypadá pleť hladší</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Efekt hladké pleti</string>
+    <string name="photopro_strings_status_mic_external_txt">Externí</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">LP (stereo)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Zadní (mono)</string>
+    <string name="photopro_strings_store_fail_txt">Uložení se nezdařilo</string>
+    <string name="photopro_strings_sw_license_txt">Licence na software</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Souhlasím</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Nesouhlasím</string>
+    <string name="photopro_strings_tips_txt">Rady</string>
+    <string name="photopro_strings_title_permissions_txt">Oprávnění Photo Pro</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Zrušit zaostření dotykem</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Automatické zaostření</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Vyberte, co se má nastavit dotykem hledáčku.
+
+Sledování objektu: Optimální funkce pro fotografování pohyblivých objektů. Udržuje zaostření zafixované na objekt, na který jste ťukli v hledáčku, což umožňuje jasně fotografovat pohyblivé objekty.
+Automatické zaostření: V hledáčku ťukněte na místo, na které chcete zaostřit.
+Ostření a jas: Klepnutím na požadované místo v hledáčku zaostříte a upravíte jas."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Ostření a jas</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Sledování objektu</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Upravit dotykem</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Zrušit sledování objektů</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Zapnutím této funkce umožníte aplikaci Transfer &amp; Tagging add-on zobrazit fotky pořízené fotoaparátem Xperia. Fotografie budou uloženy ve vnitřním úložišti.
+Tato funkce je kompatibilní s fotografiemi, které byly pořízeny s použitím Photography Pro.
+Zapnutím této funkce bude formát souboru automaticky nastaven na JPEG a Režim pohonu na Jeden snímek."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Režim Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Rozumím</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Další</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Přeskočit</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony je oblíbená značka fotografů při vytváření produktů, které šíří nekonečnou radost a úžas z fotografování.
+Naše zkušenosti a technologie zůstávají volbou zákazníků po celém světě.
+
+Cílem aplikace Photography Pro je zopakovat použitelnost a funkce fotoaparátů od společnosti Sony Imaging Products.
+Díky společnosti Sony můžete být při fotografování kreativní."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Vyberte si ideální režim snímání podle objektu.
+Pak nastavte rychlost závěrky a expozici.
+Uchopte fotoaparát pevně po stranách a pořiďte snímek.
+
+Režimy snímání zahrnují:
+P (Program auto)
+S (Priorita závěrky)
+M (Ruční expozice)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Vyberte upřednostňovaný režim focení pomocí přepínače režimů vpravo nahoře (vlevo nahoře v orientaci na šířku).
+
+V režimu Základní můžete snadno fotografovat a natáčet videa předním fotoaparátem podobně, jako s běžným fotoaparátem smartphonu.
+
+V režimech Auto/P/S/M můžete přistupovat k pokročilejším funkcím pro pořizování ideálních fotografií."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Režim focení</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Návod k použití</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Při používání režimů Auto/P/S/M pevně přidržte fotoaparát v orientaci na šířku a stisknutím tlačítka závěrky nahoře na pravé straně zařízení fotografujte.
+
+Výběrem funkce Auto budou automaticky nastaveny funkce, jako rychlost závěrky a expozice.
+
+Chcete-li nakonfigurovat nastaven ručně, vyberte jeden z následujících režimů.
+P (Program auto)
+S (Priorita závěrky)
+M (Ruční expozice)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Jak používat režimy Auto/P/S/M</string>
+    <string name="photopro_strings_tutorial_txt">Výukový program</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Photo Pro nelze použít s připojeným externím displejem. Chcete-li použít Photo Pro, aplikaci zavřete na obrazovce Nedávné aplikace na vašem zařízení Xperia a následně ji restartujte.</string>
+    <string name="photopro_strings_unlock_button_txt">Odemknout</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Použití fotoaparátu je z bezpečnostních důvodů zakázáno</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Pro stabilní záznam videa v rozlišení 4K toto nastavení neměňte, pokud nepoužíváte vysokorychlostní kartu SD (doporučujeme UHS, třída rychlosti 1 a vyšší nebo třída rychlosti 10).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Pro stabilní záznam zpomaleného videa toto nastavení neměňte, pokud nepoužíváte vysokorychlostní kartu SD (doporučujeme UHS, třída rychlosti 1 a vyšší nebo třída rychlosti 10).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Pro stabilní záznam videa doporučujeme změnit datové úložiště na vnitřní úložiště. Chcete úložiště změnit nyní?
+
+Pokud jako úložiště budete nadále používat kartu SD, použijte vysokorychlostní kartu SD (doporučujeme UHS, třída rychlosti 1 a vyšší nebo třída rychlosti 10)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Můžete vybrat kodér pro záznamy videa v rozlišení 4K.
+
+H.264 (AVC): Standardní formát pro kódování, který podporuje většina zařízení a služeb.
+H.265 (HEVC): Formát s vyšším kompresním poměrem. Ověřte, zda zařízení nebo služby pro přehrávání podporují tuto metodu."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Formát souboru (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Vyberte velikost videa.
+HDR není k dispozici, když je vybráno rozlišení Full HD (60 fps) nebo HD."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Vyberte velikost videa</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 sn./s)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Full HD</string>
+    <string name="photopro_strings_video_size_txt">Velikost videa</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Přístroj Xperia je vybaven jedinečným systémem hybridní stabilizace s názvem Optical SteadyShot - kombinuje optickou a zároveň elektronickou stabilizaci obrazu. Zajišťuje plynulá videa bez otřesů, i když nahráváte v pohybu.</string>
+    <string name="photopro_strings_video_stabilization_txt">Stabilizace videa</string>
+    <string name="photopro_strings_volumekey_description_txt">Přiřazení další funkce tlačítkům hlasitosti</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Spoušť</string>
+    <string name="photopro_strings_volumekey_txt">Použít tlačítko hlasitosti jako</string>
+    <string name="photopro_strings_volumekey_volume_txt">Hlasitost</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Přiblížení</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Nastavit – %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Automaticky</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Nast.</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Hot.</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Opakovat</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Použít</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Oblačno</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Vlastní 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Vlastní 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Vlastní 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Nastavit vyvážení bílé podle středu náhledu</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Úprava se nezdařila</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Úprava dokončena</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Použít – %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Denní světlo</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Zářivka</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Žárovky</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Stín</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Tepl. 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Tepl. 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Tepl. 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Tepl.:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Teplota</string>
+    <string name="photopro_strings_whitebalance_txt">Vyvážení bílé</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Nelze přiblížit pomocí předního fotoaparátu</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">Lupa AI superrozlišení</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Vyberte nastavení lupy.
+
+Digitální lupa: Lupa používá digitální zpracování na základě dat senzoru obrazu.
+Lupa AI superrozlišení: Lupa používá digitální zpracování, které zachovává více kvality původního obrazu. Ukládání fotografií může trvat déle. Když je vybráno Kontinuální snímání, bude automaticky fungovat jako Digitální lupa."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Digitální lupa</string>
+    <string name="photopro_strings_zoom_type_txt">Nastavení lupy</string>
+    <string name="search_menu_title">Hledat</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">VYP</string>
+    <string name="v7_preference_on">ZAP</string>
+</resources>

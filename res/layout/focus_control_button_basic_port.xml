@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.sonymobile.photopro.view.widget.FocusControlButton android:id="@id/focus_control" android:visibility="invisible" android:layout_width="@dimen/photopro_focus_control_button_width" android:layout_height="@dimen/photopro_focus_control_button_height" android:layout_marginRight="@dimen/auto_mode_shortcut_fn_button_margin" android:layout_marginBottom="@dimen/auto_mode_touch_af_area_height" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="fill_horizontal" android:height="@dimen/divider_height">
+        <color android:color="@color/photopro_control" />
+    </item>
+</layer-list>

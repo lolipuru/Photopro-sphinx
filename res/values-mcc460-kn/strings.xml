@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"ನೆಟ್‌ವರ್ಕ್
+WLAN ಗೆ ಸಂಪರ್ಕಪಡಿಸಲು"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN ಆಫ್ ಮಾಡಲಾಗಿದೆ ಮತ್ತು ಏರ್‌ಪ್ಲೇನ್ ಮೋಡ್ ಆನ್ ಮಾಡಲಾಗಿದೆ.
+ಸಂಯೋಜನೆಗಳು ಅನ್ನು ತಟ್ಟುವ ಮೂಲಕ ದಯವಿಟ್ಟು ಈ ಸಂಯೋಜನೆಗಳನ್ನು ಬದಲಾಯಿಸಿ."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN ಆಫ್ ಮಾಡಲಾಗಿದೆ.
+ಸಂಯೋಜನೆಗಳು ಎಂಬಲ್ಲಿಂದ ದಯವಿಟ್ಟು WLAN ಆನ್ ಮಾಡಿ."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">WLAN ಗೆ ಸಂಪರ್ಕಪಡಿಸಲಾಗುವುದಿಲ್ಲ</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"QR ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡುವ ಮೂಲಕ ನೀವು ತ್ವರಿತವಾಗಿ ವೆಬ್ ಆ್ಯಕ್ಸೆಸ್ ಮಾಡಬಹುದು ಅಥವಾ WLAN ಗೆ ಕನೆಕ್ಟ್ ಮಾಡಬಹುದು.
+ಬೇಸಿಕ್ (ಫೋಟೋ) ಮೋಡ್‌ನಲ್ಲಿರುವಾಗ ಈ ಕಾರ್ಯ ಸಕ್ರಿಯವಾಗಿರುತ್ತದೆ. ಈ ಕಾರ್ಯವನ್ನು ಮೆನು > QR Code ರೀಡರ್‌ನಿಂದ ಸಕ್ರಿಯಗೊಳಿಸಬಹುದು ಅಥವಾ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಬಹುದು."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">WLAN ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪ. ತಟ್ಟಿ \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"QR ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡುವ ಮೂಲಕ ನೀವು ತ್ವರಿತವಾಗಿ ವೆಬ್ ಅನ್ನು ಆ್ಯಕ್ಸೆಸ್ ಮಾಡಬಹುದು ಅಥವಾ WLAN ಗೆ ಕನೆಕ್ಟ್ ಮಾಡಬಹುದು.
+ಬೇಸಿಕ್ (ಫೋಟೋ) ಮೋಡ್‌ನಲ್ಲಿರುವಾಗ ಈ ಕಾರ್ಯ ಸಕ್ರಿಯವಾಗಿರುತ್ತದೆ."</string>
+</resources>

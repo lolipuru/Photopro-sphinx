@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:tag="layout/fragment_basic_operation_left_pane_0" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/auto" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/fragment_basic_operation_left_pane_auto" />
+    <include android:id="@id/slow" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/fragment_basic_operation_left_pane_slow" />
+</androidx.constraintlayout.widget.ConstraintLayout>

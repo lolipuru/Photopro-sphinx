@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Netkerfi
+Til að tengjast við WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Slökkt er á WLAN og flughamur er á.
+Breyttu þessum stillingum með því að pikka á STILLINGAR."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Slökkt er á WLAN.
+Kveiktu á WLAN í STILLINGAR."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Get ekki tengst við WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Þú getur fengið skjótan aðgang að vefnum eða tengst við WLAN með því að skanna inn QR Code.
+Þessi aðgerð er virk á meðan þú ert í grunnhætti (myndhætti). Hægt er að kveikja eða slökkva á þessari aðgerð í VALMYND > QR Code lesari."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Pikka og tengjast við WLAN-net \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Þú getur fengið skjótan aðgang að vefnum eða tengst við WLAN með því að skanna inn QR kóða.
+Þessi aðgerð er virk á meðan þú ert í grunnhætti (myndhætti)."</string>
+</resources>

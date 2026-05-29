@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"網路
+連線到WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN已關閉，且飛航模式已開啟。
+請輕觸[設定]以變更這些設定。"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN已關閉。
+請從[設定]開啟WLAN。"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">無法連線到WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"您可以透過掃描QR Code來快速存取網頁或連線至WLAN。
+在基本 (拍攝) 模式下，此功能會啟動。此功能可在目錄 > [QR Code掃描]中啟用或停用。"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">輕觸以連線至WLAN網路\"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"您可以透過掃描QR Code來快速存取網頁或連線至WLAN。
+在基本 (拍攝) 模式下，此功能會啟動。"</string>
+</resources>

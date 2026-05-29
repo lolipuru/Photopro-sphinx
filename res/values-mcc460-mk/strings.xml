@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Мрежа
+За поврзување со WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN е исклучен, а авионскиот режим е вклучен.
+Променете ги овие поставките, така што ќе кликнете на ПОСТАВКИТЕ."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN е исклучен.
+Вклучете го WLAN од ПОСТАВКИТЕ."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Не може да се поврзе со WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Може бргу да пристапите на веб или да се поврзете на WLAN, така што ќе скенирате QR Code.
+Оваа функција е активна додека е во Основен (Фото) режим. Оваа функција може да биде овозможена или оневозможена од МЕНИ > читач на QR Code."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Допр. за поврзув. со WLAN мреж. „%1$s“</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Може бргу да пристапите на веб или да се поврзете на WLAN, така што ќе скенирате QR Code.
+Оваа функција е активна додека е во Основен (Фото) режим."</string>
+</resources>

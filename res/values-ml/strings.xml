@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ഹോമിലേക്ക് പോവുക</string>
+    <string name="abc_action_bar_up_description">മുകളിലേക്ക് പോവുക</string>
+    <string name="abc_action_menu_overflow_description">കൂടുതൽ ഓപ്ഷനുകൾ</string>
+    <string name="abc_action_mode_done">പൂർത്തിയായി</string>
+    <string name="abc_activity_chooser_view_see_all">എല്ലാം കാണുക</string>
+    <string name="abc_activitychooserview_choose_application">ആപ്പ് തിരഞ്ഞെടുക്കുക</string>
+    <string name="abc_capital_off">ഓഫ്</string>
+    <string name="abc_capital_on">ഓൺ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ഇല്ലാതാക്കുക</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">ഫംഗ്ഷന്‍+</string>
+    <string name="abc_menu_meta_shortcut_label">മെറ്റ+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">സ്‌പെയ്‌സ്</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">മെനു+</string>
+    <string name="abc_search_hint">തിരയുക…</string>
+    <string name="abc_searchview_description_clear">ചോദ്യം മായ്‌ക്കുക</string>
+    <string name="abc_searchview_description_query">ചോദ്യം തിരയുക</string>
+    <string name="abc_searchview_description_search">തിരയുക</string>
+    <string name="abc_searchview_description_submit">ചോദ്യം സമർപ്പിക്കുക</string>
+    <string name="abc_searchview_description_voice">സംസാരത്തിലൂടെ തിരയുക</string>
+    <string name="abc_shareactionprovider_share_with">ഇനിപ്പറയുന്നതുമായി പങ്കിടുക</string>
+    <string name="abc_shareactionprovider_share_with_application">%s എന്നതുമായി പങ്കിടുക</string>
+    <string name="abc_toolbar_collapse_description">ചുരുക്കുക</string>
+    <string name="ble_remote_control_button_any_problem_txt">പ്രശ്നപരിഹാരം</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">പുതിയ കൺട്രോളർ ജോടി.</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Bluetooth റിമോട്ട് കണ്‍ട്രോളിലെ C1 ബട്ടണിൽ മറ്റൊരു പ്രവർത്തനം നിയുക്തമാക്കാനാകും</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">C1 ബട്ടൺ ഇച്ഛാനുസൃതമാക്കൽ</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">ഫോക്കസ് മോഡ്</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">ലെൻസ്</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">ഷൂട്ടിംഗ് മോഡ്</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">ക്യാമറ തമ്മിൽ മാറുക</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">ഫോട്ടോ/വീഡിയോ തമ്മിൽ മാറുക</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">ലെൻസ്</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">AF/MF തമ്മിൽ മാറുക</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">ക്യാമറ തമ്മിൽ മാറുക</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">അനുവദിക്കുക</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">നിഷേധിക്കുക</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">ഈ സവിശേഷതയ്‌ക്കായി Bluetooth ഉപയോഗിക്കാൻ ആപ്പിനെ അനുവദിക്കണോ?</string>
+    <string name="ble_remote_control_description_txt">"%1$s എന്നതിലെ പ്രവർത്തനങ്ങൾ വിദൂരമായി ഉപയോഗിക്കാൻ നിങ്ങൾക്ക് Bluetooth വഴി ഒരു Sony റിമോട്ട് കൺട്രോൾ ജോടിയാക്കാം.
+ഒരു പുതിയ ഉപകരണം ജോടിയാക്കുന്നത് ആരംഭിക്കാൻ 'പുതിയ കൺട്രോളർ ജോടിയാക്കുക' എന്നത് ടാപ് ചെയ്യുക."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">ഇതിനകം തന്നെ ജോടിയാക്കി</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">ഉപകരണവുമായി റിമോട്ട് ജോടിയാക്കാൻ കഴിഞ്ഞില്ലെങ്കിൽ, ക്രമീകരണത്തിലേക്ക് പോയി Bluetooth ഉപകരണ ലിസ്റ്റിൽ റിമോട്ട് ഇതിനകം രജിസ്റ്റർ ചെയ്‌തിട്ടുണ്ടോയെന്ന് പരിശോധിക്കുക. ഇതിനകം രജിസ്റ്റർ ചെയ്‌തിട്ടുണ്ടെങ്കിൽ, ലിസ്റ്റിൽ നിന്ന് റിമോട്ട് നീക്കംചെയ്‌ത ശേഷം അത് വീണ്ടും ജോടിയാക്കി നോക്കുക.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">പ്രശ്നപരിഹാരം</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">സമ്മതിക്കുക</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">നിരസിക്കുക</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">പുറത്തുകടക്കുക</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">ക്രമീക. പോ.</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">ശരി</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Bluetooth ഓഫ് ചെയ്തിരിക്കുന്നതിനാൽ ജോടിയാക്കൽ റദ്ദാക്കി</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">സമയം കഴിഞ്ഞതിനാൽ ജോടിയാക്കൽ പരാജയപ്പെട്ടു. പിന്നീട് വീണ്ടും ശ്രമിക്കൂ.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">അമിത ഉപയോഗത്തിലായിരിക്കുമ്പോൾ ഈ ഉപകരണം ഒരു മുൻ‌കരുതലെന്ന നിലയിൽ ചില പ്രവർത്തനങ്ങൾ പരിമിതപ്പെടുത്താനിടയുണ്ട്. ക്യാമറ എൻഡ്യു. മോഡ് ഓൺ ചെയ്യുകയാണെങ്കിൽ, ആപ്പ് ഉയർന്ന പ്രകടനം നിലനിർത്തുമെന്ന് സൂചിപ്പിക്കുന്ന ഒരു ചിഹ്നം പ്രദർശിപ്പിക്കുന്നതായിരിക്കും. ഈ ചിഹ്നം പ്രദർശിപ്പിച്ചിരിക്കുമ്പോൾ, നിങ്ങൾക്ക് ദീർഘസമയത്തേക്ക് ആപ്പ് ഉപയോഗിക്കാനാകും.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Bluetooth വഴി കണക്റ്റ് ചെയ്തിരിക്കുന്ന ഒരു റിമോട്ട് കൺട്രോളിനൊപ്പം %1$s ഉപയോഗിക്കുമ്പോൾ മാത്രമേ ക്യാമറ എൻഡ്യു. മോഡ് ലഭ്യമാകൂ. %1$s അടയ്‌ക്കുന്നത് ഈ പ്രവർത്തനത്തെ അപ്രാപ്‌തമാക്കും.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">ഉപകരണ താപനില സാധാരണ പ്രവർത്തന താപനിലയിലും അധികമാകാം. താപനില കൂടുമ്പോൾ, ഒരു അറിയിപ്പും ചിഹ്നവും നിങ്ങൾക്ക് കരുതൽ അറിയിപ്പ് നൽകും. ഈ സാഹചര്യത്തിൽ, ഉപകരണം നിങ്ങളുടെ കയ്യിൽ പിടിക്കാതിരിക്കുക. തുടരുന്നതിന് മുമ്പ്, റിമോട്ട് കൺട്രോൾ Bluetooth വഴി കണക്റ്റ് ചെയ്‌തിട്ടുണ്ടെന്ന് ഉറപ്പാക്കുക.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">ശ്രദ്ധിക്കുക</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"ഉപകരണ താപനില വളരെ കൂടുതലാണ്. തണുപ്പിക്കുന്നതിനായി, %1$s താൽക്കാലികമായി ഷട്ട്‌ഡൗൺ ചെയ്യും.
+നിങ്ങൾ ഒരു Bluetooth റിമോട്ട് കൺട്രോൾ കണക്റ്റ് ചെയ്താൽ, ക്യാമറ എൻഡ്യു. മോഡിനൊപ്പം നിങ്ങൾക്ക് %1$s തുടർച്ചയായി ഉപയോഗിക്കാനാകും."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"ഉപകരണ താപനില വളരെ കൂടുതലാണ്. തണുപ്പിക്കുന്നതിനായി, %1$s താൽക്കാലികമായി ഷട്ട്‌ഡൗൺ ചെയ്യും.
+നിങ്ങൾ ഒരു Bluetooth റിമോട്ട് കൺട്രോൾ കണക്റ്റ് ചെയ്താൽ, ക്യാമറ എൻഡ്യു. മോഡിനൊപ്പം നിങ്ങൾക്ക് %1$s ഉപയോഗിക്കാനാകും."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">ഈ പ്രവർത്തനം ഉപയോഗിക്കാൻ, Bluetooth വഴി ഒരു റിമോട്ട് കൺട്രോൾ ജോടിയാക്കിയതിന് ശേഷം [റിമോട്ട് കൺട്രോൾ ഉപയോഗിക്കുക] എന്നത് പ്രവർത്തനസജ്ജമാക്കുക.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"ഉപകരണ താപനില വളരെ കൂടുതലാണ്. തണുപ്പിക്കുന്നതിനായി, %1$s താൽക്കാലികമായി ഷട്ട്‌ഡൗൺ ചെയ്യും.
+നിങ്ങൾ ക്യാമറ എൻഡ്യു. മോഡ് ഓൺ ചെയ്താൽ, ഒരു Bluetooth റിമോട്ട് കൺട്രോളിനൊപ്പം നിങ്ങൾക്ക് %1$s ഉപയോഗിക്കാനാകും."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"ഈ പ്രവർത്തനം പ്രാപ്‌തമാക്കാൻ, കണക്റ്റ് ചെയ്‌തിട്ടുള്ള റിമോട്ട് കൺട്രോളുമായി സംവദിക്കുക.
+റദ്ദാക്കാൻ, 'പുറത്തു കടക്കുക' എന്നത് ടാപ് ചെയ്യുക."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">ക്യാമറ എൻഡ്യു. മോഡ് പ്രവർത്തനസജ്ജമാക്കി</string>
+    <string name="ble_remote_control_endurance_mode_txt">ക്യാമറ എൻഡ്യു. മോഡ്</string>
+    <string name="ble_remote_control_off_txt">ഓഫ്</string>
+    <string name="ble_remote_control_on_txt">ഓണ്‍</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"ജോടിയാക്കൽ ആരംഭിക്കാൻ, റിമോട്ട് കൺട്രോളറുമായി സംവദിക്കുക.
+നിങ്ങൾക്ക് രണ്ടുതവണ അറിയിപ്പുകളും ഡയലോഗുകളും ലഭിക്കും. അവയിലെല്ലാം 'ജോടിയാക്കുക' തിരഞ്ഞെടുത്ത ശേഷം ജോടിയാക്കൽ പൂർത്തിയാക്കാൻ ജോടിയാക്കിയ ഉപകരണത്തിലെ ഏതെങ്കിലും കീ അമർത്തുക."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">പുതിയ കൺട്രോളർ ജോടി.</string>
+    <string name="ble_remote_control_title_txt">Bluetooth റിമോട്ട് കണ്‍.</string>
+    <string name="ble_remote_control_use_remote_controller_txt">റിമോട്ട് കണ്‍ട്രോള്‍ ഉപ.</string>
+    <string name="expand_button_title">വിപുലമായത്</string>
+    <string name="external_display_connected_description_txt">നിങ്ങൾക്ക് വ്ലോഗ് മോണിറ്ററിൽ നിന്ന് വ്യൂ ഫൈൻഡർ പരിശോധിക്കാം</string>
+    <string name="external_display_connected_title_txt">വ്ലോഗ് മോണിറ്റർ കണക്റ്റ് ചെയ്‌തു</string>
+    <string name="external_display_note_about_external_mic_txt">കുറിപ്പ്: ബാഹ്യ മൈക്ക് ഉപയോ., റെക്കോർഡിംഗിന് മുമ്പ് അത് വ്ലോഗ് മോണിറ്ററിൽ കണക്റ്റ് ചെയ്യുക. റെക്കോർഡിംഗിന് ശേഷം കണക്റ്റ് ചെയ്‌താൽ, വ്ലോഗ് മോണിറ്റർ വീണ്ടും കണക്റ്റ് ചെയ്യേണ്ടി വരും.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">നിങ്ങൾക്ക് മുമ്പ് സ്വകാര്യതാ നയം അംഗീകരിച്ചിരുന്നുവെങ്കിലും എപ്പോൾ വേണമെങ്കിലും തീരുമാനം മാറ്റാവുന്നതാണ്.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">ഇടത് അമ്പടയാളം</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">വലത് അമ്പടയാളം</string>
+    <string name="photopro_strings_accessibility_back_txt">പിന്നിലേക്ക്</string>
+    <string name="photopro_strings_accessibility_close_txt">അടയ്ക്കുക</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">പ്രവേശനക്ഷമത: &lt;a href=\"%s\">ഭാഗികമായി പാലിക്കുന്നത്&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">കൂടു. വായി.</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">ലെൻസ് ബട്ടൺ</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">കോണ്‍ഫിഗര്‍ ചെയ്യാന്‍ സാധ്യമല്ല</string>
+    <string name="photopro_strings_accessibility_previous_txt">മുമ്പത്തേത്</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">അടുത്തിടെയുള്ള ഫോട്ടോകളുടെ ഒരു സഞ്ചയം</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">വീഡിയോ റെക്കോർഡിംഗ് ആരംഭിക്കുക</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">വീഡിയോ റെക്കോർഡിംഗ് തൽക്കാലം നിർത്തുക</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">വീഡിയോ റെക്കോർഡിംഗ് പുനരാരംഭിക്കുക</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">വീഡിയോ റെക്കോർഡ് ചെയ്യുമ്പോൾ ഒരു സ്‌നാപ്പ്ഷോട്ട് എടുക്കുക</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">വീഡിയോ റെക്കോർഡിംഗ് നിർത്തുക</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">കൗണ്ട് ഡൗൺ ചെയ്യുന്നത് നിർത്തുക</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">ഷട്ടർ</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">പ്രധാന, ഫ്രണ്ട് ക്യാമറകൾക്കിടയിൽ മാറുക</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">ഫോട്ടോയ്‌ക്കും വീഡിയോയ്‌ക്കും ഇടയിൽ മാറുക</string>
+    <string name="photopro_strings_accessibility_title_txt">പ്രവേശനക്ഷമത</string>
+    <string name="photopro_strings_addon_button_menu_txt">കൂടുതല്‍</string>
+    <string name="photopro_strings_addon_creative_effect_txt">ക്രിയേറ്റീവ് ഇഫക്ട്</string>
+    <string name="photopro_strings_addon_panorama_txt">പനോരമ</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">പോർട്രെയിറ്റ് സെൽഫി</string>
+    <string name="photopro_strings_addon_slow_motion_txt">സ്ലോ മോഷൻ</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">സ്ഥാനങ്ങൾ സംരക്ഷിക്കാൻ, നിങ്ങൾ GPS കൂടാതെ/അല്ലെങ്കിൽ വയർലസ് നെറ്റ്‌വർക്കുകൾ പ്രവർത്തനക്ഷമമാക്കണം. ഇപ്പോൾ പ്രവർത്തനക്ഷമമാക്കണോ?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">സ്ഥാനം സംരക്ഷിക്കുക</string>
+    <string name="photopro_strings_anonymous_analytics_txt">അജ്ഞാത വിശകലനം</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">ഫ്ര. ഫോട്ടോ</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">ഫ്രണ്ട് വീ.</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">വീഡിയോ</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">ഫോട്ടോകളുടെ വീക്ഷണ അനുപാതം തിരഞ്ഞെടുക്കുക</string>
+    <string name="photopro_strings_aspect_ratio_txt">വീക്ഷണ അനുപാതം</string>
+    <string name="photopro_strings_audio_on_all_txt">ഓൺ: എല്ലാം</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">ഓൺ: ഷട്ടർ മാത്രം</string>
+    <string name="photopro_strings_audio_signals_description_txt">സെൽഫ്-ടൈമർ കൗണ്ട് ഡൗൺ ചെയ്യുന്നതോ ഫോക്കസ് ചെയ്യുന്നതോ പോലുള്ള സാഹചര്യങ്ങളിൽ, പ്ലേ ചെയ്യേണ്ട ക്യാമറ ശബ്‌ദങ്ങൾ ഏതെല്ലാമെന്ന് സജ്ജീകരിക്കുക. നിങ്ങൾക്ക് ഷട്ടര്‍ ശബ്ദം മാത്രമായി പ്ലേ ചെയ്യുന്നതും തിരഞ്ഞെടുക്കാവുന്നതാണ്.</string>
+    <string name="photopro_strings_audio_signals_txt">ഓഡിയോ സിഗ്‌നലുകൾ</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro സജീവമല്ലാത്തതിനാൽ അത് ഉടനെ അടയ്‌ക്കും</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">ബാക്ക്‌ലൈറ്റ് പോര്‍ട്രെയിറ്റ്</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">ബാക്ക്‍ലൈറ്റ്</string>
+    <string name="photopro_strings_auto_scene_document_txt">ഡോക്യുമെന്‍റ്</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">ഭക്ഷണം</string>
+    <string name="photopro_strings_auto_scene_infant_txt">ശിശുക്കള്‍</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">ലാന്‍ഡ്സ്കേപ്പ്</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">താഴ്ന്ന പ്രകാശം</string>
+    <string name="photopro_strings_auto_scene_macro_txt">മാക്രോ</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">രാത്രി പോര്‍ട്രെയിറ്റ്</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">രാത്രി സീന്‍</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">സ്വയം സീന്‍ തിരിച്ചറിയല്‍</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">സോഫ്റ്റ് സ്നാപ്പ്</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">സ്പോട്ട്‌ലൈറ്റ്</string>
+    <string name="photopro_strings_bokeh_button_txt">ബൊ.</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">ലെൻസ് വൃത്തിയാക്കിയിട്ടു. വിരൽ ലെൻ. മറയ്‌ക്കുന്നി. ഉറ.</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">വളരെയധികം പ്രകാശം</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">ഒബ്‌ജക്റ്റിൽ നിന്നും കൂടുതൽ അകലേക്ക് നീങ്ങുക</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">കൂടുതൽ പ്രകാശം ആവശ്യമാണ്</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">ഒബ്‌ജക്റ്റിന് സമീപത്തേക്ക് നീങ്ങുക</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">ബൊക്കെ നിലവിൽ ലഭ്യമല്ല</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">ബൊക്കെ ഓണാണ്</string>
+    <string name="photopro_strings_bokeh_txt">ബൊക്കെ</string>
+    <string name="photopro_strings_bt_remote_control_txt">Bluetooth റിമോട്ട് കണ്‍.</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">തുടർ. ഷൂട്ടിംഗിൽ നിന്നു. ഫോട്ടോ. ആന്ത. സംഭ. സേവ് ചെയ്യുന്നു</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">കുറഞ്ഞ ഷട്ട. വേഗ. കണ്ടിന്യു. ഷൂട്ടിംഗ് ഉപയോഗിക്കാനാകില്ല</string>
+    <string name="photopro_strings_button_continue_txt">തുടരുക</string>
+    <string name="photopro_strings_button_quit_txt">പുറത്തുകടക്കൂ</string>
+    <string name="photopro_strings_cancel_txt">റദ്ദാക്കുക</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">സ്ലോ മോഷൻ</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K വീഡിയോ</string>
+    <string name="photopro_strings_change_txt">മാറ്റുക</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">പുന.</string>
+    <string name="photopro_strings_color_and_brightness_txt">വർണ്ണവും തെളിച്ചവും</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">ആന്തരിക സംഭരണം നിറഞ്ഞു. പകരം, SD കാർഡിൽ ഡാറ്റ സേവ് ചെയ്യണോ?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">ആന്തരിക സംഭരണം കേടാണ് അല്ലെങ്കിൽ റൈറ്റ് പരിരക്ഷിതമാണ്. പകരം, SD കാർഡിൽ ഡാറ്റ സേവ് ചെയ്യണോ?</string>
+    <string name="photopro_strings_common_error_open_txt">%1$s തുറക്കാ.</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">SD കാർഡ് നിറഞ്ഞു. പകരം, ആന്തരിക സംഭരണത്തിൽ ഡാറ്റ സേവ് ചെയ്യണോ?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">SD കാർഡ് ഉപയോഗിക്കാനാകില്ല. പകരം, ആന്തരിക സംഭരണത്തിൽ ഡാറ്റ സേവ് ചെയ്യണോ?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">കണ്ടിന്യുവസ് ഷൂട്ടിംഗ് ഫീഡ്‌ബാക്ക്</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">ഇനിപ്പറയുന്ന പ്രവർത്തനങ്ങൾ നിലവിൽ പ്രവർത്തനരഹിതമാക്കിയിരിക്കുന്നു.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">ഉപകരണം തണുക്കുന്നതുവരെ കാത്തിരുന്ന ശേഷം ക്യാമറ റീസ്റ്റാർട്ട് ചെയ്യുക.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">ഈ പ്രവർത്തനങ്ങൾ പ്രവർത്തനരഹിതമാക്കി</string>
+    <string name="photopro_strings_cooling_mode_txt">ഉപകരണ താപനിലാ വർദ്ധനവ് തടയാൻ ചില സവിശേ. അപ്രാപ്തമാക്കി</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">AEL ബട്ടണിൽ മറ്റൊരു പ്രവർത്തനം നിയുക്തമാക്കുക</string>
+    <string name="photopro_strings_custom_ael_txt">AEL ബട്ടൺ ഇച്ഛാനുസൃതമാക്കൽ</string>
+    <string name="photopro_strings_custom_disp_description_txt">"DISP ബട്ടൺ ടാപ് ചെയ്‌ത് നിങ്ങൾക്ക് വ്യൂ ഫൈൻഡറിലെ വിവരം കാണിക്കാൻ/മറയ്‌ക്കാൻ കഴിയുന്നതാണ്.
+DISP ബട്ടൺ ഉപയോഗിച്ച് വിവരങ്ങൾ പ്രദർശിപ്പിക്കുമ്പോൾ ഒരിക്കലും കാണിക്കേണ്ടതില്ലാത്ത ഏതെങ്കിലും ഇനമുണ്ടെങ്കിൽ, ഈ മെനുവിൽ അത് അൺചെക്ക് ചെയ്യുക."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">ഹിസ്റ്റോഗ്രാം</string>
+    <string name="photopro_strings_custom_disp_level_txt">ലെവൽ</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">ഹെഡ്ഡർ വിവരം</string>
+    <string name="photopro_strings_custom_disp_txt">DISP ബട്ടൺ ഇച്ഛാനുസൃതമാക്കൽ</string>
+    <string name="photopro_strings_custom_fn_description_txt">"നിങ്ങൾക്ക് പ്രവർത്തന മെനുവിൽ ക്രമീകരണ ഇനങ്ങൾ വീണ്ടും നിയുക്തമാക്കാനോ പുനഃക്രമീകരിക്കാനോ കഴിയുന്നതാണ്.
+ഇടതുഭാഗത്തുള്ള ലിസ്റ്റിൽ നിന്ന് നിങ്ങൾക്ക് ഇഷ്ടമുള്ള മറ്റൊരു പ്രവർത്തനം നിയുക്തമാക്കാൻ, ചുവടെയുള്ള പ്രവർത്തന ഇനങ്ങളിലൊന്ന് ടാപ് ചെയ്യുക.
+പുനഃക്രമീകരിക്കാൻ, ചുവടെയുള്ള പ്രവർത്തന ഇനങ്ങളിൽ ഏതെങ്കിലും ഡ്രാഗ് ചെയ്തിടുക."</string>
+    <string name="photopro_strings_custom_fn_txt">പ്രവര്‍ത്തന മെനു ഇച്ഛാനുസൃതമാ.</string>
+    <string name="photopro_strings_custom_none_txt">നിയോഗിച്ചിട്ടില്ല</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">നിങ്ങൾക്ക് മുമ്പ് സ്വകാര്യതാ നയം നിരസിച്ചിരുന്നു.</string>
+    <string name="photopro_strings_description_custom_ael_txt">ഓട്ടോ എക്സ്പോഷർ ലോക്ക് ചെയ്യുക</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">"ISO 'സ്വയം' എന്നതിലേക്ക് മാറ്റി."</string>
+    <string name="photopro_strings_description_custom_none_txt">AEL ബട്ടൺ പ്രവർത്തനരഹിതമാക്കുക</string>
+    <string name="photopro_strings_device_id_txt">ഉപകരണ ID</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">ഫോണിൽ ആവശ്യത്തിന് ബാറ്ററിയില്ല. ബാറ്ററി കുറവായിരിക്കുമ്പോൾ, ക്യാമറ സ്വയമേവ അടയ്ക്കും.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">ബാറ്ററി കുറവായതിനാൽ റെക്കോർഡിംഗ് നിലച്ചു. ഉപകരണം ചാർജ്ജ് ചെയ്ത് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">ബാറ്ററി കുറവായതിനാൽ ക്യാമറ ഉപയോഗിക്കാനാകുന്നില്ല. ഉപകരണം ചാർജ്ജ് ചെയ്ത് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">ഈ പ്രവർത്തനം നടത്താൻ, ആപ്പിന് ഈ അനുമതി(കൾ) ആവശ്യമാണ്.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"നെറ്റ്‌വർക്ക്
+Wi-Fi യിൽ കണക്ടു ചെയ്യാൻ"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"എയര്‍‌പ്ലെയിന്‍ മോഡ് ഓണാണ്.
+ക്രമീകരണത്തിൽ നിന്ന് എയർപ്ലെയിൻ മോഡ് ഓഫ് ചെയ്യുക."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"നെറ്റ്‌വർക്കിന്റെ പേര്: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi ഓഫും എയർപ്ലെയിൻ മോഡ് ഓണും ചെയ്‌തിരിക്കുന്നു.
+ക്രമീകരണത്തിൽ ടാപ് ചെയ്യുന്നതിലൂടെ ഈ ക്രമീകരണം മാറ്റുക."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi ഓഫ് ചെയ്‌തിരിക്കുന്നു.
+ക്രമീകരണത്തിൽ നിന്നും Wi-Fi ഓൺ ചെയ്യുക."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">ക്രമീകരണങ്ങള്‍</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">അനുവദിക്കുക</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">നിഷേധിക്കുക</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">കുറിപ്പ്</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">കാലി. ചെ.</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">പുനക്ര.</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">ആന്തരിക സംഭരണം പര്യാപ്‌തമല്ല. കണ്ടിന്യുവസ് ഷൂട്ടിംഗ് നിർത്തി. സംഭരണ സ്ഥലം ലഭ്യമാക്കാൻ ചില ഫയലുകൾ ഇല്ലാതാക്കുക.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">അനുമതികൾ നൽകുക</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">കണക്ടുചെയ്യുന്നു...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+പാസ്‌വേഡ് പരിരക്ഷ: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+സുരക്ഷ: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Wi-Fi യിൽ കണക്ടു ചെയ്യാനാകില്ല</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">നിങ്ങൾ ചുവടെ അംഗീകരിക്കുന്നുവെങ്കിൽ, ഇഷ്‌ടാനുസൃതമാക്കിയ പിന്തുണ നൽകുന്നതിനും ഉപകരണങ്ങളും സേവനങ്ങളും മെച്ചപ്പെടുത്തുന്നതിനുമായി Sony നിങ്ങളുടെ &lt;b>&lt;a href=#personal-data>വ്യക്തിഗത ഡാറ്റ&lt;/a>&lt;/b> ശേഖരിക്കും. Sony നിങ്ങളുടെ ഡാറ്റ ഞങ്ങളുടെ &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>സ്വകാര്യതാ നയത്തിന്&lt;/a>&lt;/b> അനുസൃതമായി കൈകാര്യം ചെയ്യും.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">നിങ്ങൾക്ക് ഉയർന്ന പ്രകാശവിന്യാസമുള്ള ദൃശ്യങ്ങളിൽ പോലും വീഡിയോകൾ റെക്കോർഡ് ചെയ്‌ത് അവ കൂടുതൽ ആകർഷകമാക്കാനും യഥാർത്ഥ ജീവിതത്തോടടുത്ത പ്രതീതി സൃഷ്‌ടിക്കാനും കഴിയും. ഉള്ളടക്കം അതിന്റെ യഥാർത്ഥ വർണ്ണത്തിലും തെളിച്ചത്തിലും ആസ്വദിക്കാൻ പിന്തുണയ്‌ക്കുന്ന ഉപകരണങ്ങൾ/സേവനങ്ങൾ ഉപയോഗിക്കുക.</string>
+    <string name="photopro_strings_do_not_show_again_txt">വീണ്ടും കാണിക്കരുത്</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">HDR കണ്ടിന്യു. ഷൂട്ടിംഗ്: ഉയ.</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">HDR കണ്ടിന്യു. ഷൂട്ടിംഗ്: താഴ്.</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">തുടർച്ചയായ ഷൂട്ടിംഗ്: ഉയ</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">തുടർച്ചയായ ഷൂട്ടിംഗ്: താഴ്</string>
+    <string name="photopro_strings_drive_continuous_txt">കണ്ടിന്യുവസ് ഷൂട്ടിംഗ്</string>
+    <string name="photopro_strings_drive_mode_txt">ഡ്രൈവ് മോഡ്</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">സെല്‍ഫ്-ടൈമര്‍: 10 സെ</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">സെല്‍ഫ്-ടൈമര്‍: 3 സെ</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">സെൽഫ്-ടൈമർ: ഓഫാണ്</string>
+    <string name="photopro_strings_drive_single_txt">സിംഗിൾ ഷൂട്ടിംഗ്</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">ഓട്ടോ HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">ഈ ക്രമീകരണം മൂല്യങ്ങളുടെ പരിധി ഒപ്റ്റിമൈസ് ചെയ്യും. DRO പ്രോസസ്സിംഗ് ഒരു സിംഗിൾ ഇമേജ് ഉപയോഗിക്കുന്നു, ആയതിനാൽ ഫലം കൈവരിക്കാൻ ഓട്ടോ HDR ഒന്നിലധികം എക്സ്പോഷറുകളെ സംയോജിപ്പിക്കുന്നു.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">ഡി-റേഞ്ച് ഒപ്റ്റിമൈസർ</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/ഓട്ടോ HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">ക്യാമറ ആരംഭിക്കാനാകുന്നില്ല. ക്യാമറയോ ഉപകരണമോ റീസ്റ്റാർട്ട് ചെയുക.</string>
+    <string name="photopro_strings_error_dialog_title_txt">പിഴവ്</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">ഫോട്ടോകൾ സേവ് ചെയ്യാനായില്ല. ഡാറ്റാ സംഭരണത്തിൽ പ്രശ്നമുണ്ടായിരിക്കാം. ഡാറ്റാ സംഭരണം SD കാർഡിൽ ക്രമീകരിച്ചിരിക്കുന്നുവെങ്കിൽ, നിങ്ങളുടെ SD കാർഡ് പരിശോധിക്കുക.</string>
+    <string name="photopro_strings_error_fatal_txt">അജ്ഞാത പിഴവ്.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">ഇല്ല</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">ഉവ്വ്</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">ക്യാമറ തണുപ്പിക്കുന്നതിനായി ഇപ്പോൾ താൽക്കാലികമായി ഓഫാക്കും. നിങ്ങളുടെ റെക്കോർഡിംഗ് സംരക്ഷിക്കും. ഉപകരണം തണുത്തതിന് ശേഷം ആപ്പ് റീസ്റ്റാർട്ട് ചെയ്യുക.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">മെമ്മറി നിറഞ്ഞു. SD കാർഡിൽ നിന്നോ ആന്തരിക സംഭരണത്തിൽ നിന്നോ കുറച്ച് ഫയലുകൾ ഇല്ലാതാക്കുക.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">മെമ്മറി ലഭ്യമല്ല</string>
+    <string name="photopro_strings_error_memory_title_txt">മെമ്മറി പിഴവ്</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD കാര്‍ഡ് ലഭ്യമല്ല</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">എക്സ്പോഷർ കോമ്പൻസേഷൻ</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"ആളുകളുടെയും മൃഗങ്ങളുടെയും മുഖമോ കണ്ണുകളോ ഫോക്കസ് ചെയ്യുന്ന പോർട്രയിറ്റ് ഫോട്ടോകൾ എടുക്കാവുന്നതാണ്.
+ഫോക്കസ് ലക്ഷ്യങ്ങൾ മാറ്റാൻ, ഫോക്കസ് ചെയ്യാനാഗ്രഹിക്കുന്ന വിഷയത്തിന്റെ മുഖം ടാപ് ചെയ്യുക."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"ആളുകളുടെയും മൃഗങ്ങളുടെയും മുഖമോ കണ്ണുകളോ ഫോക്കസ് ചെയ്യുന്ന വീഡിയോകൾ എടുക്കാവുന്നതാണ്.
+ഫോക്കസ് ലക്ഷ്യങ്ങൾ മാറ്റാൻ, ഫോക്കസ് ചെയ്യാനാഗ്രഹിക്കുന്ന വിഷയത്തിന്റെ മുഖം ടാപ് ചെയ്യുക.
+കുറിപ്പ്: ഈ ക്രമീകരണം പ്രവർത്തനസജ്ജമാക്കിയിരിക്കുമ്പോൾ, ഉപകരണ താപനില കൂടുന്നതിനാൽ റെക്കോർഡിംഗ് ദൈർഘ്യം കുറച്ചേക്കാം."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">മുഖം കണ്ടെത്തൽ/ഐ AF ഓൺ</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">മുഖം/കണ്ണ് AF</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">മുഖം/കണ്ണ് AF: ഓഫ്</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">മുഖം/കണ്ണ് AF: ഓൺ</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">ഈ പ്രവർത്തനം ഉപയോഗിക്കാൻ സ്ക്രീന്‍ അൺലോക്ക് ചെയ്യുക</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">ക്രമീകരണം തുറക്കാൻ, സ്‌ക്രീൻ ലോക്ക് നീക്കുക.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">സ്ക്രീന്‍ ലോക്ക് ചെയ്.</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"ബൊക്കെ ഇഫക്റ്റ് ക്രമീകരിക്കാൻ, വ്യൂ ഫൈൻഡറിൽ ബൊക്കെ ചിഹ്നം ടാപ് ചെയ്‌ത് സ്ലൈഡർ നീക്കുക.
+അടിസ്ഥാന (ഫോട്ടോ) മോഡിൽ ഈ പ്രവർത്തനത്തെ പിന്തുണയ്‌ക്കുന്നു.
+പശ്ചാത്തലം മങ്ങിപ്പിക്കുന്നതിലൂടെ, ഹൃദയഹാരിയായ പ്രകാശവിന്യാസത്തിൽ നിങ്ങളുടെ വിഷയങ്ങൾ എടുത്തുകാണിക്കുക."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">ബൊക്കെ ഇഫ. ഫോട്ടോകളെടു.</string>
+    <string name="photopro_strings_feature_bokeh_txt">ബൊക്കെ ഇഫക്റ്റ്</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">സിംഗിൾ അല്ലെങ്കിൽ കണ്ടിന്യുവസ് ഷൂട്ടിംഗോ സെൽഫ്-ടൈമറോ ഉപയോഗിക്കാൻ ഡ്രൈവ് മോഡ് മാറ്റാവുന്നതാണ്.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">ഡ്രൈവ് മോഡ്</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"ഫ്രണ്ട് ക്യാമറ ഉപയോഗിച്ച് ഫോട്ടോകൾ എടുക്കുമ്പോൾ, ഇയർ സ്പീക്കറിന് സമീപമുള്ള ഫ്രണ്ട് ക്യാമറ ലെൻസിന് നേരെ നോക്കുക.
+ഫോട്ടോയിൽ നിങ്ങളുടെ കണ്ണുകൾ നേരായ ദിശയിൽ കാണപ്പെടും."</string>
+    <string name="photopro_strings_feature_eye_position_txt">നോട്ടം</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"ആളുകളുടെയും മൃഗങ്ങളുടെയും മുഖമോ കണ്ണുകളോ ഫോക്കസ് ചെയ്യുന്ന പോർട്രയിറ്റ് ഫോട്ടോകളും എടുക്കാവുന്നതാണ്.
+ഫോക്കസ് ലക്ഷ്യങ്ങൾ മാറ്റാൻ, ഫോക്കസ് ചെയ്യാനാഗ്രഹിക്കുന്ന വിഷയത്തിന്റെ മുഖം ടാപ് ചെയ്യുക. മെനു > മുഖം/കണ്ണ് AF എന്നതിൽ നിന്ന് ഈ പ്രവർത്തനം പ്രാപ്‌തമാക്കുകയോ അപ്രാപ്‌തമാക്കുകയോ ചെയ്യാം."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">മുഖം/കണ്ണ് AF</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"ക്യാമറയ്ക്ക് നേരെ ഉള്ളംകൈ തിരിക്കുക. നിങ്ങളുടെ ഉള്ളംകൈ തിരിച്ചറിയപ്പെടുമ്പോൾ സെൽഫ്-ടൈമർ കൗണ്ട്ഡൗൺ ആരംഭിക്കും. ഇത് എളുപ്പത്തിൽ തിരിച്ചറിയാൻ, നിങ്ങളുടെ വിരലുകൾ മുകളിലേക്ക് നീട്ടിപ്പിടിക്കുക.
+ഈ പ്രവർത്തനം പ്രാപ്തമാക്കാൻ, അടിസ്ഥാന (ഫോട്ടോ) മോഡിലായിരിക്കുമ്പോൾ ഫ്രണ്ട് ക്യാമറയിലേക്ക് മാറി മെനുവിൽ ഹാൻഡ് ഷട്ടർ ഓണാക്കുക."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">ഹാൻഡ് ഷട്ടർ</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"അൾട്രാ വൈഡ് ലെൻസ് (0.7x) ഉപയോഗിക്കുമ്പോൾ, നിങ്ങൾക്ക് ഒരു മുൻഗണന തിരഞ്ഞെടുക്കാം. ഇമേജ് നിലവാരത്തിന് മുൻഗണന നൽകുക' തിരഞ്ഞെടുക്കുന്നതിലൂടെ, നിങ്ങൾക്ക് ഉയർന്ന നിലവാരമുള്ള ഡൈനാമിക്ക് ഇമേജുകൾ എടുക്കാനാകും. നിങ്ങൾ 'അപഭ്രംശം തിരുത്തുന്നതിന് മുൻഗണന നൽകുക' തിരഞ്ഞെടുത്താൽ, നിങ്ങൾക്ക് ദൃശ്യ അപഭ്രംശം കുറയ്‌ക്കാനാകും.
+അൾട്രാ വൈഡ് ലെൻസ് ഉപയോഗിച്ച് ഫോട്ടോകൾ എടുക്കുമ്പോൾ ഈ പ്രവർത്തനം സജീവമാകുന്നു. അൾട്രാ വൈഡ് ലെൻസിലേക്ക് തമ്മിൽ മാറിക്കഴിഞ്ഞാൽ, നിങ്ങൾക്ക് മെനു > അൾട്രാ വൈഡ് ലെൻസ് തിരുത്തൽ എന്നതിൽ നിന്ന് മുൻഗണന കോണ്‍ഫിഗർ ചെയ്യാവുന്നതാണ്."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">ലെൻസ് തിരുത്തൽ (ഫോട്ടോ)</string>
+    <string name="photopro_strings_feature_list_title_txt">സവിശേഷതകൾക്ക് ഒരാമുഖം</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"ബൊക്കെ, ബ്യൂട്ടി ഇഫക്റ്റുകൾ ഉപയോഗിച്ച് ഒരു കലാപരമായ സെൽഫി എളുപ്പത്തിൽ എടുക്കുക.
+ഈ പ്രവർത്തനം ഉപയോഗിക്കാൻ, വ്യൂ ഫൈൻഡറിലെ 'കൂടുതൽ' ടാപ് ചെയ്‌ത് 'പോർട്രെയിറ്റ് സെൽഫി' തിരഞ്ഞെടുക്കുക.
+നിങ്ങളുടെ സെൽഫി മോടിവരുത്തി സർഗ്ഗാത്മക ഫലങ്ങൾ ആസ്വദിക്കുക."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">പോർട്രെയിറ്റ് സെൽഫി</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"ഒരു QR Code സ്‌കാൻ ചെയ്‌ത് നേരിട്ട് വെബ് ആക്സസ് ചെയ്യാനോ Wi-Fi യിൽ കണക്ടു ചെയ്യാനോ കഴിയുന്നതാണ്.
+ഈ പ്രവർത്തനം അടിസ്ഥാന (ഫോട്ടോ) മോഡിൽ സജീവമായിരിക്കും. മെനു > QR Code റീഡർ എന്നതിൽ നിന്ന് ഈ പ്രവർത്തനം പ്രാപ്തമാക്കുകയോ അപ്രാപ്‌തമാക്കുകയോ ചെയ്യാം."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code റീഡർ</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code റീഡർ</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">നിങ്ങളുടെ ഫോട്ടോകളും വീഡിയോകളും എടുത്ത സ്ഥാനങ്ങൾ ഉപയോഗിച്ച് അവ ടാഗുചെയ്യുക. നിങ്ങൾക്ക് പിന്നീട് മെനു > സ്ഥാനം സംരക്ഷിക്കുക എന്നതിൽ നിന്ന് ഈ ക്രമീകരണം മാറ്റാനാകും.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">സ്ഥാനം സംരക്ഷിക്കണോ?</string>
+    <string name="photopro_strings_feature_selfie_txt">ഫ്രണ്ട് ക്യാമറ</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">ഒരു 120 fps സ്ലോ മോഷൻ വീഡിയോ HD-യിൽ റെക്കോർഡ് ചെയ്യാം</string>
+    <string name="photopro_strings_feature_slow_motion_txt">സ്ലോ മോഷൻ</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"നിങ്ങളുടെ സർഗ്ഗാത്മകതയെ വെല്ലുവിളിക്കുന്ന ഏതൊരു സാഹചര്യവും പകർത്താൻ നിങ്ങൾക്ക് ക്യാമറ ലെൻസുകൾക്കിടയിൽ എളുപ്പത്തിൽ മാറാൻ കഴിയും.
+0.7x (അൾട്രാ വൈഡ്), 1.0x (വൈഡ്), 2.9x (ടെലിഫോട്ടോ), 4.4x (ടെലിഫോട്ടോ) ലെൻസുകൾക്കിടയിൽ തമ്മിൽ മാറാൻ വ്യൂ ഫൈൻഡറിലെ ബട്ടൺ ടാപ് ചെയ്യുക.
+അടിസ്ഥാന (ഫോട്ടോ), അടിസ്ഥാന (വീഡിയോ) മോഡിൽ ഈ പ്രവർത്തനം ഉപയോഗിക്കാം."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">ബട്ടൺ ഉപയോഗിച്ച് ആംഗിൾ മാറ്റൽ</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"നിങ്ങളുടെ സർഗ്ഗാത്മകതയെ വെല്ലുവിളിക്കുന്ന ഏതൊരു സാഹചര്യവും പകർത്താൻ നിങ്ങൾക്ക് ക്യാമറ ലെൻസുകൾക്കിടയിൽ എളുപ്പത്തിൽ മാറാൻ കഴിയും.
+0.7x (അൾട്രാ വൈഡ്), 1.0x (വൈഡ്), 2.1x (സാധാരണം) ലെൻസുകൾക്കിടയിൽ തമ്മിൽ മാറാൻ വ്യൂ ഫൈൻഡറിലെ ബട്ടൺ ടാപ് ചെയ്യുക.
+അടിസ്ഥാന (ഫോട്ടോ), അടിസ്ഥാന (വീഡിയോ) മോഡിൽ ഈ പ്രവർത്തനം ഉപയോഗിക്കാം."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">ട്രിപ്പിൾ ക്യാമറ</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"ലെൻസ് ബട്ടൺ ടാപ് ചെയ്യുന്നത്, സൂം നില ക്രമീകരിക്കാൻ ഉപയോഗിക്കാവുന്ന ഒരു സ്ലൈഡർ പ്രദർശിപ്പിക്കും.
+നിങ്ങൾക്ക് സ്‌ക്രീൻ പിഞ്ച് ചെയ്‌തോ വോളിയം ബട്ടണുകൾ ഉപയോഗിച്ചോ സൂം ചെയ്യാവുന്നതുമാണ്."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">സൂം ഇൻ/ഔട്ട് ചെയ്യുന്നതെങ്ങനെ</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">ഇല്ലാതാക്കുക</string>
+    <string name="photopro_strings_file_format_description_txt">"നിശ്ചല ഇമേജുകൾക്കുള്ള ഫയൽ ഫോർമാറ്റ് തിരഞ്ഞെടുക്കുക.
+
+RAW: ഫോട്ടോകൾ പോസ്റ്റ്-പ്രോസസ്സ് ചെയ്യാൻ പ്രത്യേക സോഫ്‌റ്റ്‌വെയർ ആവശ്യമാണ്. ഇമേജ് നിലവാരം കുറയ്‌ക്കാതെ തന്നെ ക്രമപ്പെടുത്തലുകൾ നടത്താൻ ഇത് നിങ്ങളെ അനുവദിക്കുന്നു. പോസ്റ്റ്-പ്രോസസ്സിംഗിന് ശേഷം പ്രിന്റ് ചെയ്യാനാകും.
+RAW &amp; JPEG: പോസ്റ്റ്-പ്രോസസ്സിംഗ് ആവശ്യമായ RAW ഇമേജുകളും JPEG ഇമേജുകളും സേവ് ചെയ്യുന്നു.
+JPEG: JPEG ഇമേജുകൾ സംരക്ഷിക്കുന്നു.
+
+കുറിപ്പുകൾ:
+RAW ഫോർമാറ്റ് ഫയലുകൾ എല്ലായ്‌പ്പോഴും 4:3 വീക്ഷണാനുപാതത്തിൽ ആന്തരിക സംഭരണത്തിൽ സംരക്ഷിക്കപ്പെടും.
+RAW അല്ലെങ്കിൽ RAW &amp; JPEG എന്നിവ തിരഞ്ഞെടുത്തിരിക്കുമ്പോൾ കണ്ടിന്യുവസ് ഷൂട്ടിംഗ്, ഓട്ടോHDR എന്നിവ ലഭ്യമാകില്ല."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW-യും JPEG-യും</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">ഫയൽ ഫോർമാറ്റ്</string>
+    <string name="photopro_strings_flash_auto_txt">യാന്ത്രികം</string>
+    <string name="photopro_strings_flash_description_txt">സ്വയമേയുള്ള ഫ്ലാഷ്, എപ്പോഴും ഫ്ലാഷ് ഉപയോക്കുക തുടങ്ങിയവയിലേക്ക് ഫ്ലാഷ് മോഡ് ക്രമീകരിക്കുക.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">എപ്പോഴും ഫ്ലാഷ് ഉപയോ.</string>
+    <string name="photopro_strings_flash_off_txt">ഓഫ്</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">റെഡ്-ഐ റിഡക്ഷന്‍</string>
+    <string name="photopro_strings_flash_torch_description_txt">ടോര്‍ച്ച് ഓൺ ചെയ്യുക</string>
+    <string name="photopro_strings_flash_torch_off_txt">ടോര്‍ച്ച്: ഓഫാണ്</string>
+    <string name="photopro_strings_flash_torch_on_txt">ടോര്‍ച്ച്: ഓണാണ്</string>
+    <string name="photopro_strings_flash_torch_txt">ടോര്‍ച്ച്</string>
+    <string name="photopro_strings_flash_txt">ഫ്ലാഷ് മോഡ്</string>
+    <string name="photopro_strings_focus_area_center_txt">മധ്യം</string>
+    <string name="photopro_strings_focus_area_txt">ഫോക്കസ് ഏരിയ</string>
+    <string name="photopro_strings_focus_area_wide_txt">വൈഡ്</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">ഫോക്കസ് ഏരിയ ഫ്രെയിമിന്റെ നിറം ക്രമീകരിക്കുക</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">ചുവപ്പ്</string>
+    <string name="photopro_strings_focus_frame_color_txt">ഫോക്കസ് ഏരിയ വർണ്ണം</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">വെളുപ്പ്</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">കണ്ടിന്യുവസ് AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">സിംഗിൾ-ഷോട്ട് AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">ഒരു ഫോക്കസ് രീതി തിരഞ്ഞെടുക്കുക</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">മുഖം കണ്ടെത്തല്‍</string>
+    <string name="photopro_strings_focus_mode_mf_txt">മാനുവൽ ഫോക്കസ്</string>
+    <string name="photopro_strings_focus_mode_txt">ഫോക്കസ് മോഡ്</string>
+    <string name="photopro_strings_geotagging_description_txt">നിങ്ങളുടെ ഫോട്ടോകളും വീഡിയോകളും എടുത്ത സ്ഥാനങ്ങൾ സഹിതം അവ സംരക്ഷിക്കുക</string>
+    <string name="photopro_strings_geotagging_txt">സ്ഥാനം സംരക്ഷിക്കുക</string>
+    <string name="photopro_strings_gridline_description_txt">ഇമേജുകളുടെ കമ്പോസിഷനിൽ നിങ്ങളെ സഹായിക്കാൻ ഗ്രിഡ് ലൈനുകൾ കാണിക്കണമോ വേണ്ടയോ എന്നത് സജ്ജീകരിക്കുക</string>
+    <string name="photopro_strings_gridline_txt">ഗ്രിഡ് ലൈനുകൾ</string>
+    <string name="photopro_strings_hand_shutter_description_txt">നിങ്ങളുടെ ഉള്ളംകൈ ഫ്രണ്ട് ക്യാമറയുടെ നേരെ തിരിക്കുന്നതിലൂടെ സെൽഫ്-ടൈമർ കൗണ്ട്ഡൗൺ ആരംഭിക്കാം. ഇത് എളുപ്പത്തിൽ തിരിച്ചറിയാൻ, നിങ്ങളുടെ വിരലുകൾ മുകളിലേക്ക് നീട്ടിപ്പിടിക്കുക.</string>
+    <string name="photopro_strings_hand_shutter_txt">ഹാൻഡ് ഷട്ടർ</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">ഡിസ്പ്ലേയുമായി സംവദിക്കുമ്പോൾ സ്‌പർശനക്ഷമതാ ഫീഡ്‌ബാക്ക് ലഭ്യമാക്കണമോയെന്നത് സജ്ജീകരിക്കുക, ഉദാ. മോഡ് ഡയൽ</string>
+    <string name="photopro_strings_haptic_feedback_txt">സ്‌പർശനക്ഷമതാ ഫീഡ്‌ബാക്ക്</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: ഓഫാണ്</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: ഓണാണ്</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">ഇന്റലിജ. വിൻഡ് ഫിൽറ്റർ</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO സെൻസിറ്റിവിറ്റി</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">ഉപകരണ ഷട്ടർ ബട്ടൺ അമർത്തിപ്പിടിക്കുന്നതിലൂടെ Photography Pro സമാരംഭിക്കാവുന്നതാണ്. ഫോൺ സ്ലീപ് മോഡിലോ ലോക്ക് ചെയ്‌തിരിക്കുകയോ ആണെങ്കിൽപ്പോലും ഇത് പ്രവർത്തിക്കുന്നു.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Photography Pro സമാരംഭിക്കുക</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">ഷട്ടർ ബട്ടൺ ഉപയോ. സമാ.</string>
+    <string name="photopro_strings_lens_correction_description_txt">"അൾട്രാ വൈഡ് ലെൻസ് ഉപയോഗിക്കുമ്പോൾ, നിങ്ങൾക്ക് ഒരു മുൻഗണന തിരഞ്ഞെടുക്കാം. അൾട്രാ വൈഡ് ലെൻസ് ഉപയോ. ഉയർന്ന നിലവാരമുള്ള ഡൈനാമിക്ക് ഇമേജുകൾ എടുക്കാം. 'അപഭ്രംശം തിരുത്തു. മുൻഗണന നൽകുക' തിരഞ്ഞെ., ദൃശ്യ അപഭ്രംശം കുറയ്‌ക്കാം."</string>
+    <string name="photopro_strings_lens_correction_off_txt">ഇമേജ് മികവിന് മുൻഗ. നൽകുക</string>
+    <string name="photopro_strings_lens_correction_on_txt">അപഭ്രംശം ശരിയാക്ക. മുൻ. നൽ.</string>
+    <string name="photopro_strings_lens_correction_txt">ലെൻസ് തിരുത്തൽ</string>
+    <string name="photopro_strings_lens_txt">ലെൻ</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">കാലി. ചെ.</string>
+    <string name="photopro_strings_level_calibration_description_txt">"ആവശ്യമെങ്കിൽ, ചരിക്കുന്ന ദിശയിലെ വ്യതിയാനങ്ങൾ പരിഹരിക്കാൻ നിങ്ങൾക്ക് ലെവൽ കാലിബ്രേറ്റ് ചെയ്യാവുന്നതാണ്. ക്യാമറ തിരശ്ചീനമായി പിടിച്ചിട്ടുണ്ടെന്ന് ഉറപ്പുവരുത്തി 'കാലിബ്രേറ്റ് ചെയ്യുക' തിരഞ്ഞെടുക്കുക."</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">കാലിബ്രേഷൻ പൂർത്തിയായി</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">കാലിബ്രേഷൻ ക്രമീകരണം പുനക്രമീകരിച്ചു</string>
+    <string name="photopro_strings_level_meter_calibration_txt">ലെവൽ കാലിബ്രേഷൻ</string>
+    <string name="photopro_strings_lock_switch_txt">ലോ</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">പരമാവധി ഫയൽ വലുപ്പ പരിധി കാരണം റെക്കോർഡിംഗ് നിർത്തി</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">പരമാവധി റെക്കോർഡിംഗ് സമയ പരിധി കാരണം റെക്കോർഡിംഗ് നിർത്തി</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">സേവ് ചെയ്യാന്‍ കഴിഞ്ഞില്ല. മെമ്മറി നിറഞ്ഞു.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">പ്ര.</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">സേവ് ചെയ്.</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">ക്രമീകരിക്കുക</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">മോഡുകളുടെയും ക്രമീകരണത്തിന്റെയും നിലവിലെ കോംബിനേഷൻ സേവ് ചെയ്യണോ?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"ക്യാമറ ക്രമീകരണം സേവ് ചെയ്‌തു.
+MR ഷൂട്ടിംഗ് മോഡ് ഉപയോഗിച്ച് എളുപ്പത്തിൽ ഈ ക്രമീകരണം ഓർത്തെടുക്കാനാകും."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">ക്യാമറ ക്രമീകരണ മെമ്മറി</string>
+    <string name="photopro_strings_memory_recall_txt">ക്യാമറ ക്രമീ. ഓർ.</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">ഫോട്ടോ (ഫ്രണ്ട്)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">ഫോട്ടോ</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">സ്ലോ മോഷൻ</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">വീഡിയോ (ഫ്രണ്ട്)</string>
+    <string name="photopro_strings_menu_sub_video_txt">വീഡിയോ</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">എക്സ്പോഷർ/വർണ്ണം</string>
+    <string name="photopro_strings_menu_tab_focus_txt">ഫോക്കസ് ചെയ്യുക</string>
+    <string name="photopro_strings_menu_tab_setup_txt">ക്രമീകരണം</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">ഷൂട്ടിംഗ്</string>
+    <string name="photopro_strings_menu_title_txt">മെനു</string>
+    <string name="photopro_strings_metering_center_txt">കേന്ദ്രബിന്ദു</string>
+    <string name="photopro_strings_metering_multi_txt">മള്‍ട്ടി</string>
+    <string name="photopro_strings_metering_spot_txt">സ്പോട്ട്</string>
+    <string name="photopro_strings_metering_txt">മീറ്ററിങ്ങ് മോഡ്</string>
+    <string name="photopro_strings_mic_setting_description_txt">"വീഡിയോ റെക്കോർഡിംഗിനിടെ ഉപയോഗിക്കേണ്ട മൈക്ക് തിരഞ്ഞെടുക്കുക:
+1. LR മൈക്ക്: ഇടത്, വലത് മൈക്രോഫോണുകൾ (പോർട്രയിറ്റ് ഓറിയന്റേഷനിലായിരിക്കുമ്പോൾ മുകളിലും താഴെയുമുള്ളത്) ഉപയോഗിച്ച് സ്റ്റീരിയോ ശബ്‌ദം റെക്കോർഡ് ചെയ്യുന്നു
+2. പിന്നിലുള്ള മൈക്ക്: പിന്നിലുള്ള മൈക്രോഫോൺ ഉപയോഗിച്ച് മോൺ ശബ്‌ദം റെക്കോർഡ് ചെയ്യുന്നു"</string>
+    <string name="photopro_strings_mic_setting_external_txt">ബാഹ്യ മൈക്ക്</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">LR മൈക്ക് (സ്റ്റീരിയോ)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">പിന്നിലുള്ള മൈക്ക് (മോണോ)</string>
+    <string name="photopro_strings_mic_setting_txt">മൈക്ക്</string>
+    <string name="photopro_strings_mode_auto_description_txt">ക്യാമറ സ്വയമേവ ദൃശ്യതരം തിരിച്ചറിയുകയും നോയ്‌സും ക്യാമറ കുലുക്കവും കുറച്ചുകൊണ്ട് ഓട്ടോ ക്രമീകരണത്തിൽ ഫോട്ടോകൾ എടുക്കുകയും ചെയ്യും.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">ഓട്ടോ മോഡ്</string>
+    <string name="photopro_strings_mode_basic_description_txt">"ഈ മോഡിൽ, സാധാരണ സ്‌മാർട്ട്ഫോൺ ക്യാമറ അനുഭവത്തിന് സമാനമായി ഓൺസ്‌ക്രീൻ ഷട്ടർ ബട്ടൺ ഉപയോഗിച്ച് ഫോട്ടോകൾ എടുക്കാവുന്നതാണ്.
+സെൽഫികൾ എടുക്കാനും വീഡിയോകൾ ചിത്രീകരിക്കാനും QR Code-കൾ സ്‌കാൻ ചെയ്യാനും ഈ മോഡ് ഉപയോഗിക്കുക."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">അടിസ്ഥാന മോഡ്</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">മോഡ് ഡയൽ ഉപയോഗിച്ച് മോഡുകൾ മാറ്റുമ്പോൾ, ഇത് ഓരോ ഷൂട്ടിംഗ് മോഡിന്റെയും വിശദീകരണം പ്രദർശിപ്പിക്കും</string>
+    <string name="photopro_strings_mode_dial_guide_txt">മോഡ് ഡയൽ ഗൈഡ്</string>
+    <string name="photopro_strings_mode_m_description_txt">"ഷട്ടർ സ്പീഡും ISO സെൻസിറ്റിവിറ്റിയും നിങ്ങൾ നേരിട്ട് നിയന്ത്രിക്കുക.
+ദീർഘനേരം എക്‌സ്‌പോസ് ചെയ്യുന്നതിലൂടെ, മോഷൻ ബ്ലർ ഉപയോഗിച്ച് വസ്‌തുക്കളുടെ ചലനപഥം പകർത്തുന്ന ഫോട്ടോകൾ എടുക്കാൻ കഴിയും."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">മാനുവൽ എക്സ്പോഷർ</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">ഇന്റലിജന്റ് ഓട്ടോ (മെമ്മറി ഓർത്തെടുക്കൽ)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"നിങ്ങൾ സംരക്ഷിച്ച ക്രമീകരണം ഉപയോഗിച്ച് ഫോട്ടോകൾ എടുക്കുക.
+നിങ്ങൾ പതിവായി ഉപയോഗിച്ച മോഡുകളുടെയും ക്രമീകരണത്തിന്റെയും കോംബിനേഷനുകൾ രജിസ്റ്റർ ചെയ്യാനാകും."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">മെമ്മറി ഓർത്തെടുക്കൽ</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">മാനുവൽ എക്‌സ്പോഷർ (മെമ്മറി ഓർത്തെടുക്കൽ)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">പ്രോഗ്രാം ഓട്ടോ (മെമ്മറി ഓർത്തെടുക്കൽ)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">ഷട്ടർ വേഗതാ മുൻ‌ഗണന (മെമ്മറി ഓർത്തെടുക്കൽ)</string>
+    <string name="photopro_strings_mode_p_description_txt">ക്യാമറ സ്വയമേവ ഷട്ടർ സ്‌പീഡ് നിയന്ത്രിക്കും, മറ്റ് ക്രമീകരണം നിങ്ങളെ ആശ്രയിച്ചാണിരിക്കുന്നത്.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">പ്രോഗ്രാം ഓട്ടോ</string>
+    <string name="photopro_strings_mode_s_description_txt">"ചലിക്കുന്ന വസ്‌തുക്കളെ പകർത്തുന്ന രീതി മാറ്റാൻ നിങ്ങൾ നേരിട്ട് ഷട്ടർ സ്പീഡ് നിയന്ത്രിക്കുക.
+ഫാസ്റ്റ് ഷട്ടര്‍ സ്പീഡുകൾ ചലിക്കുന്ന ഒരു വസ്തുവിനെ നിശ്ചലമാക്കി കാണിക്കുമ്പോൾ, സ്ലോ ഷട്ടര്‍ സ്പീഡുകൾക്ക് മോഷൻ ബ്ലറിനെ നന്നായി പകർത്താനാകും."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">ഷട്ടർ സ്‌പീഡ് മുൻ‌ഗണന</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on മോഡ് ഓണായിരിക്കുന്നതിനാൽ, ഡ്രൈവ് മോഡ് സ്വയമേവ സിംഗിൾ ഷൂട്ടിംഗിലേക്ക് സജ്ജീകരിക്കപ്പെടുന്നു</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on മോഡ് ഓണായിരിക്കുന്നതിനാൽ, ഫയൽ ഫോർമാറ്റ് സ്വയമേവ JPEG-യിലേക്ക് സജ്ജീകരിക്കപ്പെടുന്നു</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">മൾട്ടി-വിൻഡോയിലോ ഒരു പോപ്പ്-അപ്പ് വിൻഡോയിലോ ക്യാമറ ഉപയോഗിക്കാനാകില്ല. വിൻഡോ അടച്ച് വീണ്ടും ശ്രമിക്കുക. നിങ്ങൾ മൾട്ടി-വിൻഡോ ഉപയോഗിക്കുന്നുവെങ്കിൽ, ക്യാമറ ഫുൾസ്‌ക്രീനിലേക്ക് മാറ്റാൻ സ്പ്ലിറ്റ് ബാറിന്റെ മധ്യഭാഗം ഡ്രാഗ് ചെയ്യാവുന്നതാണ്.</string>
+    <string name="photopro_strings_multi_window_txt">%1$s ഉപയോഗിക്കുന്നതിന് ഫുൾസ്ക്രീനിലേക്ക് മാറാൻ സ്പ്ലിറ്റ് ബാറിന്റെ മധ്യഭാഗം ഡ്രാഗ് ചെയ്യുക</string>
+    <string name="photopro_strings_ok_txt">ശരി</string>
+    <string name="photopro_strings_personal_data_txt">വ്യക്തിഗത വിവരം</string>
+    <string name="photopro_strings_privacy_policy_txt">സ്വകാര്യതാ നയം</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">ഫോട്ടോയെടുക്കുന്നു. കാത്തിരിക്കൂ.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">ഈ QR Code-ന് പിന്തുണയില്ല</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">ഇത് തുറക്കാൻ ടാപ്പ് ചെ.: \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">ഈ നെറ്റ്വർക്കിൽ കണക്ട് ചെയ്യാനാകില്ല</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Wi-Fi നെ. കണ. ചെ. ടാ. ചെ. \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code റീഡർ</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"ഒരു QR Code സ്‌കാൻ ചെയ്‌ത് നേരിട്ട് വെബ് ആക്സസ് ചെയ്യാനോ Wi-Fi യിൽ കണക്ടു ചെയ്യാനോ കഴിയുന്നതാണ്.
+ഈ പ്രവർത്തനം അടിസ്ഥാന (ഫോട്ടോ) മോഡിൽ സജീവമായിരിക്കും."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code റീഡർ</string>
+    <string name="photopro_strings_rec_txt">REC</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Photo Pro ഡിഫോൾട്ട് ക്രമീകരണത്തിലേക്ക് പുനഃക്രമീകരിക്കണോ?</string>
+    <string name="photopro_strings_reset_settings_txt">ക്രമീകരണങ്ങള്‍ പുനക്രമീകരിക്കുക</string>
+    <string name="photopro_strings_reset_txt">പുനക്രമീകരിക്കുക</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">ഫയൽ ഫോർമാറ്റ് RAW ആയി സജ്ജീകരിച്ചിരിക്കുമ്പോൾ വീക്ഷണാനുപാതം മാറ്റാനാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">കണ്ടിന്യുവസ് ഷൂട്ടിംഗ് തിരഞ്ഞെടുത്തിരിക്കുമ്പോൾ, ഓട്ടോ HDR തിരഞ്ഞെടുക്കാനാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">JPEG അല്ലാതെ മറ്റൊരു ഫയൽ ഫോർമാറ്റ് തിരഞ്ഞെടുത്തിരിക്കുമ്പോൾ ഓട്ടോ HDR തിരഞ്ഞെടുക്കാനാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">നിലവിൽ തിരഞ്ഞെടുത്ത ലെൻസിൽ ബൊക്കെ ഇഫക്റ്റ് ലഭ്യമാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on മോഡ് ഓണായിരിക്കുമ്പോൾ ബൊക്കെ ഇഫക്റ്റ് ലഭ്യമാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">തുടർച്ചയായ ഷൂട്ടിംഗ് ഉപയോഗിക്കാനാകില്ല: നിലവിൽ തിരഞ്ഞെടുത്ത ലെൻസിൽ ഉയർന്നതാണ്</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">ബൊക്കെ ഇഫക്റ്റ് ഓണായിരിക്കുമ്പോൾ കണ്ടിന്യുവസ് ഷൂട്ടിംഗ് ഉപയോഗിക്കാനാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">AI സൂപ്പർ റെസലൂഷൻ സൂം തിരഞ്ഞെടുത്തിരിക്കുമ്പോൾ കണ്ടിന്യുവസ് ഷൂട്ടിംഗ് ലഭ്യമാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">JPEG അല്ലാതെ മറ്റൊരു ഫയൽ ഫോർമാറ്റ് തിരഞ്ഞെടുത്തിരിക്കുമ്പോൾ കണ്ടിന്യുവസ് ഷൂട്ടിംഗ് ഉപയോഗിക്കാനാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on മോഡ് ഓണായിരിക്കുമ്പോൾ കണ്ടിന്യുവസ് ഷൂട്ടിംഗ് ലഭ്യമാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">മാറ്റാനാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">കണ്ടിന്യുവസ് ഷൂട്ടിംഗ് തിരഞ്ഞെടുത്തിരിക്കുമ്പോൾ ഫ്ലാഷ് മോഡ് ഉപയോഗിക്കാനാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">നിലവിൽ തിരഞ്ഞെടുത്ത ലെൻസിൽ ഫ്ലാഷ് മോഡ് ഉപയോഗിക്കാനാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">നിലവിൽ തിരഞ്ഞെടുത്ത ലെൻസിൽ ടോർച്ച് ഉപയോഗിക്കാനാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">ഓട്ടോ HDR തിരഞ്ഞെടുത്തിരിക്കുമ്പോൾ, JPEG അല്ലാതെ മറ്റൊരു ഫയൽ ഫോർമാറ്റിലേക്ക് മാറ്റാനാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">കണ്ടിന്യുവസ് ഷൂട്ടിംഗ് തിരഞ്ഞെടുത്തിരിക്കുമ്പോൾ, JPEG അല്ലാതെ മറ്റൊരു ഫയൽ ഫോർമാറ്റിലേക്ക് മാറ്റാനാകില്ല.</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on മോഡ് ഓണായിരിക്കുമ്പോൾ, JPEG അല്ലാതെ മറ്റൊരു ഫയൽ ഫോർമാറ്റിലേക്ക് മാറ്റാനാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">ഒരു ബാഹ്യ മൈക്ക് കണക്റ്റ് ചെയ്‌തിരിക്കുമ്പോൾ ഈ ക്രമീകരണം മാറ്റാനാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">ഈ ക്രമീകരണം നിലവിലെ ഷട്ടർ വേഗതയെ പിന്തുണയ്‌ക്കുന്നില്ല. ഈ ക്രമീകരണം കോൺഫിഗർ ചെയ്യാൻ, ഷട്ടർ വേഗത 1 സെക്കൻഡോ അതിൽ കുറവോ ആക്കുക.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">തിരഞ്ഞെടുത്ത വീക്ഷണ അനുപാതം 4:3 അല്ലെങ്കിൽ RAW തിരഞ്ഞെടുക്കാനാകില്ല</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">സ്ലോ മോഷനിൽ റെക്കോർഡ് ചെയ്യുമ്പോൾ വീഡിയോ വലുപ്പം മാറ്റാനാകില്ല. ഈ ക്രമീകരണം മാറ്റുന്നത്, സ്ലോ മോഷൻ മോഡിൽ നിന്ന് പുറത്തുകടക്കാനിടയാക്കും.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">അൾട്രാ വൈഡ് ലെൻസ് ഉപയോഗിക്കുമ്പോൾ മാത്രമേ ക്രമീകരണം ലഭ്യമാകൂ</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">HDR ഓണായിരിക്കുമ്പോൾ ഈ ക്രമീകരണം ലഭ്യമല്ല. ഇത് കോൺഫിഗർ ചെയ്യാൻ HDR ഓഫ് ചെയ്യുക.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">നിലവിലെ വീഡിയോ വലുപ്പത്തെ ഈ ക്രമീകരണം ‌പിന്തുണയ്‌ക്കുന്നില്ല. ഈ ക്രമീകരണം കോൺഫിഗർ ചെയ്യാൻ വീഡിയോ വലുപ്പം മാറ്റുക.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">ബൊക്കെ ഇഫക്റ്റ് ഉപയോഗി. സൂം ചെയ്യാനാകില്ല</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">ആപ്പ് വിവരം</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">%1$s അനുമതി</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">ഈ പ്രവർത്തനം നടത്താൻ, ആപ്പിന് ഈ അനുമതി(കൾ) ആവശ്യമാണ്.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">അനുമതികൾ നൽകാൻ, ആപ്‌ വിവരം > അനുമതികൾ എന്നതിലേക്ക് പോകുക.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">തുടരാനായില്ല</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">ഫോട്ടോകൾ എടുക്കാൻ</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">ഫോട്ടോകളും വീഡിയോകളും എടുക്കാൻ</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">സ്ഥാനം വീണ്ടെടുക്കാൻ</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">ശബ്ദം റെക്കോർഡ് ചെയ്യാൻ</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">സമീപമുള്ള ഉപകരണങ്ങളിൽ കണക്റ്റ് ചെയ്യാൻ</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">ഫോട്ടോകളും വീഡിയോകളും റീഡ് ചെയ്യാനും സംരക്ഷിക്കാനും</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">ഫോട്ടോകൾ സംരക്ഷിക്കാൻ</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">ഫോട്ടോകളും വീഡിയോകളും സംരക്ഷിക്കാൻ</string>
+    <string name="photopro_strings_save_destination_description_txt">ഫോട്ടോകളും വീഡിയോകളും സംഭരിക്കേണ്ടത് നിങ്ങളുടെ ഉപകരണത്തിന്റെ ആന്തരിക സംഭരണത്തിലാണോ ഒരു SD കാർഡിലാണോയെന്നത് തിരഞ്ഞെടുക്കുക</string>
+    <string name="photopro_strings_save_destination_internal_txt">ആന്തരിക സംഭരണം</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD കാര്‍ഡ്</string>
+    <string name="photopro_strings_save_destination_title_txt">ഡാറ്റ സംഭരണം</string>
+    <string name="photopro_strings_save_destination_txt">ഡാറ്റ സംഭരണം</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD കാര്‍ഡ് ലഭ്യമല്ല</string>
+    <string name="photopro_strings_selftimer_10_txt">10 സെ.</string>
+    <string name="photopro_strings_selftimer_3_txt">3 സെ.</string>
+    <string name="photopro_strings_selftimer_description_txt">നിശ്ചിത എണ്ണം സെക്കൻഡുകൾക്ക് ശേഷം സ്വയമേവ ഒരു ഫോട്ടോയെടുക്കാൻ ഒരു സെൽഫ്-ടൈമർ ക്രമീകരിക്കുക</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">കണ്ണുകൾ ക്യാമറയ്ക്ക് നേരെ പിടിക്കുക</string>
+    <string name="photopro_strings_selftimer_txt">സെല്‍ഫ്-ടൈമര്‍</string>
+    <string name="photopro_strings_settings_off_txt">ഓഫ്</string>
+    <string name="photopro_strings_settings_on_txt">ഓണ്‍</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">എപ്പോഴും അടിസ്ഥാന മോഡ് ഉപ.</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Photography Pro സമാരംഭിക്കുമ്പോൾ ഡിഫോൾട്ട് ഷൂട്ടിംഗ് മോഡ് തിരഞ്ഞെടുക്കുക</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">അവസാനം ഉപയോഗിച്ച മോഡ്</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">സമാരംഭിക്കുമ്പോഴുള്ള ഷൂട്ടിംഗ് മോഡ്</string>
+    <string name="photopro_strings_shooting_mode_txt">ഷൂട്ടിംഗ് മോഡ്</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">വീഡിയോ ക്യാമറ</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">ഷട്ടര്‍ സ്പീഡ്</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">HDR ഓണായിരിക്കുമ്പോൾ സ്‌നാപ്പ്‌ഷോട്ടുകൾ എടുക്കാനാകില്ല</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">സ്‌കിൻ മിനുസമാണെന്ന് തോന്നിപ്പിക്കുന്ന ഒരു ഇഫക്റ്റ് ഓൺ ചെയ്യുക</string>
+    <string name="photopro_strings_soft_skin_effect_txt">സോഫ്റ്റ് സ്കിന്‍ ഇഫക്ട്</string>
+    <string name="photopro_strings_status_mic_external_txt">ബാഹ്യം</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">LR (സ്റ്റീരിയോ)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">പിന്നിലുള്ളത് (മോണോ)</string>
+    <string name="photopro_strings_store_fail_txt">സേവ് ചെയ്യാന്‍ കഴിഞ്ഞില്ല</string>
+    <string name="photopro_strings_sw_license_txt">സോഫ്റ്റ്‌വെയർ ലൈസൻസ്</string>
+    <string name="photopro_strings_term_of_use_accept_txt">സ്വീകരിക്കുക</string>
+    <string name="photopro_strings_term_of_use_decline_txt">നിരസിക്കുക</string>
+    <string name="photopro_strings_tips_txt">നുറുങ്ങുവിവരങ്ങള്‍</string>
+    <string name="photopro_strings_title_permissions_txt">Photo Pro അനുമതി</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">തൊട്ട് ഫോക്കസ് ചെയ്യൽ റദ്ദാക്കുക</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">ഓട്ടോഫോക്കസ്</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"വ്യൂ ഫൈൻഡർ തൊടുമ്പോൾ എന്താണ് ക്രമീകരിക്കേണ്ടതെന്ന് തിരഞ്ഞെടുക്കുക.
+
+ഒബ്‌ജക്റ്റ് ട്രാക്കുചെയ്യൽ: ചലിക്കുന്ന ഒബ്‌ജക്റ്റുകൾ ചിത്രീകരിക്കാനുള്ള മികച്ച പ്രവർത്തനം. നിങ്ങൾ വ്യൂ ഫൈൻഡറിൽ ടാപ് ചെയ്യുന്ന ഒബ്‌ജക്റ്റിൽ ഇത് ഫോക്കസ് ലോക്ക് ചെയ്‌തിടുന്നതിനാൽ, ചലിക്കുന്ന ഒബ്‌ജക്റ്റുകൾ വ്യക്തമായി ചിത്രീകരിക്കാൻ നിങ്ങളെ അനുവദിക്കുന്നു.
+ഓട്ടോഫോക്കസ്: വ്യൂ ഫൈൻഡറിൽ ഫോക്കസ് ചെയ്യേണ്ട സ്ഥലത്ത് തൊടുക.
+ഫോക്കസും തെളിച്ചവും: വ്യൂ ഫൈൻഡർ ടാപ് ചെയ്‌ത് ആവശ്യമായ പൊസിഷനിൽ ഫോക്കസ് ചെയ്യുകയും തെളിച്ചം ക്രമീകരിക്കുകയും ചെയ്യുക."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">ഫോക്കസും തെളിച്ചവും</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">വസ്തുവിനെ പിന്തുടരല്‍</string>
+    <string name="photopro_strings_touch_to_adjust_txt">ക്രമപ്പെടുത്താൻ തൊടുക</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">ഒബ്‌ജക്റ്റ് ട്രാക്കുചെയ്യൽ റദ്ദാക്കുക</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"ഈ പ്രവർത്തനം ഓൺ ചെയ്യുന്നത്, Xperia ക്യാമറ ഉപയോഗിച്ചെടുത്ത ഫോട്ടോകൾ പ്രദർശിപ്പിക്കാൻ Transfer &amp; Tagging add-on-നെ അനുവദിക്കും. ഫോട്ടോകൾ ആന്തരിക സംഭരണത്തിൽ സംരക്ഷിക്കും.
+Photography Pro-യിലെടുത്ത ഫോട്ടോകൾക്ക് ഈ പ്രവർത്തനം അനുയോജ്യമാണ്.
+ഈ പ്രവർത്തനം ഓൺ ചെയ്യുന്നത്, ഫയൽ ഫോർമാറ്റിനെ സ്വയമേവ JPEG-യിലേക്കും ഡ്രൈവ് മോഡിനെ സിംഗിൾ ഷൂട്ടിംഗിലേക്കും സജ്ജീകരിക്കാനിടയാക്കും."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Transfer &amp; Tagging add-on മോഡ്</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">ശരി</string>
+    <string name="photopro_strings_tutorial_button_next_txt">അടുത്തത്</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">ഒഴിവാക്കുക</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"അതിരറ്റ ആഹ്ലാദവും ഫോട്ടോഗ്രാഫിയുടെ അത്ഭുതവും പ്രചരിപ്പിക്കുന്ന ഉൽപ്പന്നങ്ങൾ സൃഷ്‌ടിക്കുന്നതിനായുള്ള ഫോട്ടോഗ്രാഫർമാരുടെ പ്രിയപ്പെട്ട ബ്രാൻഡാണ് Sony.
+ലോകമെമ്പാടുമുള്ള ഉപഭോക്താക്കൾ നിരന്തരം തിരഞ്ഞെടുത്തുകൊണ്ടിരിക്കുന്നത് ഞങ്ങളുടെ അനുഭവവും സാങ്കേതികവിദ്യയുമാണ്.
+
+Sony Imaging Products-ൽ നിന്നുള്ള ഫുൾ-സ്‌കെയിൽ ക്യാമറകളുടെ പ്രയോഗക്ഷമതയും പ്രവർത്തനങ്ങളും പുനരാവിഷ്‌ക്കരിക്കാൻ Photography Pro ഇച്ഛിക്കുന്നു.
+Sony നിങ്ങളുടെ ഫോട്ടോഗ്രാഫിക്ക് സർഗ്ഗാത്മകതയെ പിന്തുണയ്‌ക്കുന്നു."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"നിങ്ങളുടെ സബ്‌ജക്റ്റുമായി പൊരുത്തപ്പെടുന്ന ഉചിതമായ ഷൂട്ടിംഗ് മോഡ് തിരഞ്ഞെടുക്കുക.
+അടുത്തതായി ഷട്ടർ സ്‌പീഡും എക്സ്പോഷറും ക്രമീകരിക്കുക.
+ക്യാമറ വശങ്ങളിൽ നിന്നും ഇളകാതെ പിടിച്ചശേഷം ഒരു ചിത്രമെടുക്കുക.
+
+ഷൂട്ടിംഗ് മോഡുകളിൽ ഇവയുൾപ്പെടുന്നു:
+P (പ്രോഗ്രാം ഓട്ടോ)
+S (ഷട്ടർ വേഗതാ മുൻ‌ഗണന)
+M (മാനുവൽ എക്സ്പോഷർ)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"മുകളിൽ വലതുഭാഗത്തുള്ള (ലാൻഡ്സ്കേപ്പ് ഓറിയന്റേഷനിൽ മുകളിൽ ഇടതുഭാഗത്ത്) മോഡ് ഡയൽ ഉപയോഗിച്ച് നിങ്ങൾ താൽപ്പര്യപ്പെടുന്ന ഷൂട്ടിംഗ് മോഡ് തിരഞ്ഞെടുക്കുക.
+
+അടിസ്ഥാന മോഡിൽ, ഒരു സാധാരണ സ്‌മാർട്ട്ഫോൺ ക്യാമറയിൽ ചെയ്യുന്നത് പോലെ നിങ്ങൾക്ക് ഫ്രണ്ട് ക്യാമറ ഉപയോഗിച്ച് എളുപ്പത്തിൽ ഫോട്ടോകളും വീഡിയോകളും എടുക്കാവുന്നതാണ്.
+
+Auto/P/S/M മോഡുകളിൽ, നിങ്ങളുടെ ഭാവനാപരമായ ഫോട്ടോകൾ എടുക്കാൻ ഇതിലുമധികം വിപുലമായ ക്രമീകരണം ആക്‌സസ് ചെയ്യാനാകും."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">ഷൂട്ടിംഗ് മോഡ്</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">എങ്ങനെ ഉപയോഗിക്കാം</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Auto/P/S/M മോഡുകൾ ഉപയോഗിക്കുമ്പോൾ, ഫോട്ടോകൾ എടുക്കാൻ ക്യാമറ ലാൻഡ്സ്കേപ്പ് ഓറിയന്റേഷനിൽ മുറുകെ പിടിച്ച് ഉപകരണത്തിന് മുകളിൽ വലതുഭാഗത്തുള്ള ഷട്ടർ ബട്ടൺ അമർത്തുക.
+
+Auto തിരഞ്ഞെടുത്താൽ ഷട്ടർ സ്‌പീഡും എക്‌സ്‌പോഷറും പോലുള്ള പ്രവർത്തനങ്ങൾ സ്വയം ക്രമീകരിക്കപ്പെടും.
+
+നിങ്ങൾക്ക് നേരിട്ട് ക്രമീകരണം കോൺഫിഗർ ചെയ്യാൻ, ചുവടെയുള്ള മോഡുകളിലൊന്ന് തിരഞ്ഞെടുക്കുക.
+P (പ്രോഗ്രാം ഓട്ടോ)
+S (ഷട്ടർ സ്‌പീഡ് മുൻ‌ഗണന)
+M (മാനുവൽ എക്സ്പോഷർ)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Auto/P/S/M മോഡുകൾ എങ്ങനെ ഉപയോഗിക്കാം</string>
+    <string name="photopro_strings_tutorial_txt">ട്യൂട്ടോറിയല്‍</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">"കണക്‌ടു ചെയ്‌തിരിക്കുന്ന ബാഹ്യ ഡിസ്‌പ്ലേയ്‌ക്കൊപ്പം Photo Pro ഉപയോഗിക്കാനാകില്ല. Photo Pro ഉപയോഗിക്കാൻ, നിങ്ങളുടെ Xperia-യിൽ 'സമീപകാലത്ത് ഉപയോഗിച്ച ആപ്പുകൾ' സ്‌ക്രീനിൽ നിന്ന് ആപ്പ് അടച്ച ശേഷം അത് റീസ്റ്റാർട്ട് ചെയ്യുക."</string>
+    <string name="photopro_strings_unlock_button_txt">ലോക്ക് നീക്കുക</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">സുരക്ഷാ കാരണങ്ങളാല്‍ ക്യാമറാ ഉപയോഗം നിയന്ത്രിച്ചിരിക്കുന്നു</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">സുസ്ഥിര 4K വീഡിയോ റെക്കോർഡിംഗിനായി, അതിവേഗ SD കാർഡ് (UHS വേഗതാ ക്ലാസ് 1 അല്ലെങ്കിൽ അതിലും ഉയർന്നത്, അല്ലെങ്കിൽ വേഗതാ ക്ലാസ് 10 ശുപാർശചെയ്യുന്നു) ഉപയോഗിക്കുന്നില്ലെങ്കിൽ ഈ ക്രമീകരണം മാറ്റരുത്.</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">സുസ്ഥിരമായ സ്ലോ മോഷൻ വീഡിയോ റെക്കോർഡിംഗിന്, നിങ്ങൾ ഒരു അതിവേഗ SD കാർഡ് (UHS വേഗതാ ക്ലാസ് 1 അല്ലെങ്കിൽ അതിലും ഉയർന്നത്, അല്ലെങ്കിൽ വേഗതാ ക്ലാസ് 10 ശുപാർശചെയ്യുന്നു) ഉപയോഗിക്കുന്നില്ലെങ്കിൽ ഈ ക്രമീകരണം മാറ്റരുത്.</string>
+    <string name="photopro_strings_video_explanatory_txt">"സുസ്ഥിരമായ വീഡിയോ റെക്കോർഡിംഗിന്, ഡാറ്റാ സംഭരണം ആന്തരിക സംഭരണത്തിലേക്ക് മാറ്റാൻ ഞങ്ങൾ ശുപാർശചെയ്യുന്നു. അത് ഇപ്പോൾ മാറ്റണോ?
+
+നിങ്ങൾ തുടർന്നും ഡാറ്റാ സംഭരണമായി SD കാർഡ് ഉപയോഗിക്കുകയാണെങ്കിൽ, ഒരു അതിവേഗ SD കാർഡ് (UHS വേഗതാ ക്ലാസ് 1 അല്ലെങ്കിൽ അതിലും ഉയർന്നത്, അല്ലെങ്കിൽ വേഗതാ ക്ലാസ് 10 ശുപാർശചെയ്യുന്നു) ഉപയോഗിക്കുന്നത് ഉറപ്പുവരുത്തുക."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"4K വീഡിയോ റെക്കോർഡിംഗുകൾക്കായി നിങ്ങൾക്ക് ഒരു എൻകോഡർ തിരഞ്ഞെടുക്കാവുന്നതാണ്.
+
+H.264 (AVC): എൻകോഡിംഗിനുള്ള സാധാരണ ഫോർമാറ്റിനെ മിക്ക ഉപകരണങ്ങളും സേവനങ്ങളും പിന്തുണയ്‌ക്കുന്നു.
+H.265 (HEVC): ഒരു ഉയർന്ന കംപ്രഷൻ അനുപാതമുള്ള ഫോർമാറ്റ്. നിങ്ങളുടെ പ്ലേബാക്ക് ഉപകരണങ്ങളോ സേവനങ്ങളോ ഈ രീതിയെ പിന്തുണയ്‌ക്കുന്നുണ്ടെന്ന് ഉറപ്പാക്കുക."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">ഫോര്‍മാറ്റ് (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"ഒരു വീഡിയോ വലുപ്പം തിരഞ്ഞെടുക്കുക.
+ഫുള്‍ HD (60 fps) അല്ലെങ്കിൽ HD തിരഞ്ഞെടുത്തിരിക്കുമ്പോൾ HDR ലഭ്യമാകില്ല."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">ഒരു വീഡിയോ വലുപ്പം തിരഞ്ഞെടുക്കുക</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">മുഴുവൻ HD (60 fps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">ഫുള്‍ HD</string>
+    <string name="photopro_strings_video_size_txt">വീഡിയോ വലിപ്പം</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Xperia-യ്‌ക്ക് Optical SteadyShot എന്നറിയപ്പെടുന്ന തനതായൊരു ഹൈബ്രിഡ് സ്റ്റബിലൈസേഷൻ സംവിധാനമുണ്ട് - ഇത് ഒപ്റ്റിക്കൽ ഇമേജ് സ്റ്റബിലൈസേഷനെയും ഇലക്‌ട്രോണിക്ക് ഇമേജ് സ്റ്റബിലൈസേഷനെയും ഒരേസമയം സംയോജിപ്പിക്കുന്നു. നിങ്ങൾ ചലിക്കുന്ന ദൃശ്യം റെക്കോർഡ് ചെയ്യുമ്പോൾ പോലും, ഇത് കുലുക്കമില്ലാത്തതും സുഗമവുമായ വീഡിയോകൾ നൽകുന്നു.</string>
+    <string name="photopro_strings_video_stabilization_txt">വീഡിയോ സുസ്ഥിരപ്പെടു.</string>
+    <string name="photopro_strings_volumekey_description_txt">വോളിയം ബട്ടണുകളിൽ മറ്റൊരു പ്രവർത്തനം നിയുക്തമാക്കുക</string>
+    <string name="photopro_strings_volumekey_shutter_txt">ഷട്ടർ</string>
+    <string name="photopro_strings_volumekey_txt">വോളിയം ബട്ടൺ</string>
+    <string name="photopro_strings_volumekey_volume_txt">വോളിയം</string>
+    <string name="photopro_strings_volumekey_zoom_txt">സൂം</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">ക്രമപ്പെടുത്തുക - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">യാന്ത്രികം</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">ക്രമ</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">ചെ</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">വീണ്ടും ശ്രമിക.</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">ക്രമീ</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">മേഘാവൃതം</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">കസ്റ്റം 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">കസ്റ്റം 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">കസ്റ്റം 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">പ്രിവ്യൂവിന്റെ മദ്ധ്യഭാഗം അടിസ്ഥാനമാക്കി വൈറ്റ് ബാലൻസ് ക്രമീകരിക്കുക</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">ക്രമീകരിക്കൽ പരാജയപ്പെട്ടു</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">ക്രമീകരിക്കൽ പൂർത്തിയായി</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">ക്രമീകരിക്കുക - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">പകല്‍വെളിച്ചം</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">ഫ്ലൂറസെന്‍റ്</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">ഇന്‍കാന്‍ഡിസെന്റ്</string>
+    <string name="photopro_strings_whitebalance_shade_txt">നിഴൽ</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">ടെമ്പ. 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">ടെമ്പ. 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">ടെമ്പ. 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">ടെമ്പ.:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">ടെമ്പറേച്ചർ</string>
+    <string name="photopro_strings_whitebalance_txt">വൈറ്റ് ബാലന്‍സ്</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">ഫ്രണ്ട് ക്യാമറ ഉപയോഗിച്ച് സൂം ചെയ്യാനാകില്ല</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">AI സൂപ്പർ റെസലൂഷൻ സൂം</string>
+    <string name="photopro_strings_zoom_type_description_txt">"ഒരു സൂം ക്രമീകരണം തിരഞ്ഞെടുക്കുക.
+
+ഡിജിറ്റൽ സൂം: ഇമേജ് സെൻസർ ഡാറ്റ അടിസ്ഥാനമാക്കിയുള്ള ഡിജിറ്റൽ പ്രോസസ്സിംഗ് ഉപയോഗിക്കുന്ന സൂം.
+AI സൂപ്പർ റെസലൂഷൻ സൂം: കൂടുതൽ യഥാർത്ഥ ഇമേജ് നിലവാരം കാത്തുസൂക്ഷിക്കുന്ന ഡിജിറ്റൽ പ്രോസസ്സിംഗ് ഉപയോഗിക്കുന്ന സൂം. ഫോട്ടോകൾ സംരക്ഷിക്കാൻ കൂടുതൽ സമയമെടുത്തേക്കാം. 'കണ്ടിന്യുവസ് ഷൂട്ടിംഗ്' തിരഞ്ഞെടുത്തിരിക്കുമ്പോൾ ഇത് സ്വയമേവ ഡിജിറ്റൽ സൂം ആയി പ്രവർത്തിക്കും."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">ഡിജിറ്റൽ സൂം</string>
+    <string name="photopro_strings_zoom_type_txt">സൂം ക്രമീകരണം</string>
+    <string name="search_menu_title">തിരയുക</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">ഓഫ്</string>
+    <string name="v7_preference_on">ഓൺ</string>
+</resources>

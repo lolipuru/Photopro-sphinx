@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Síť
+Pro připojení k síti WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Síť WLAN je vypnutá a režim Letadlo je zapnutý.
+Změňte toto nastavení ťuknutím na položku NASTAVENÍ."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Síť WLAN je vypnutá.
+Zapněte WLAN v nabídce NASTAVENÍ."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Nelze se připojit k WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Naskenováním kódu QR Code můžete rychle přejít na web nebo se připojit k WLAN.
+Tato funkce je aktivní v režimu Základní (fotografie). Tuto funkci lze aktivovat nebo deaktivovat v části NABÍDKA > Čtečka kódů QR Code."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Ťuknutím se připojíte k síti WLAN %1$s</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Naskenováním kódu QR Code můžete rychle přejít na web nebo se připojit k WLAN.
+Tato funkce je aktivní v režimu Základní (fotografie)."</string>
+</resources>

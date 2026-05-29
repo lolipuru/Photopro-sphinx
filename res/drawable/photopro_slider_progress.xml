@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center_vertical" android:id="@android:id/background" android:height="1.0dip">
+        <shape android:tint="@color/photopro_image_tint_stateful" android:shape="rectangle" android:tintMode="multiply">
+            <solid android:color="@color/photopro_seekbar_color" />
+            <corners android:radius="1.0dip" />
+        </shape>
+    </item>
+</layer-list>

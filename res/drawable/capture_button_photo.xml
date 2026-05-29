@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/photopro_capture_button_photo_pressed_icn" />
+    <item android:drawable="@drawable/photopro_capture_button_photo_pressed_icn" android:state_activated="true" />
+    <item android:drawable="@drawable/photopro_capture_button_photo_icn" />
+</selector>

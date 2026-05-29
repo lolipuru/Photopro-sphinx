@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ניווט לדף הבית</string>
+    <string name="abc_action_bar_up_description">ניווט למעלה</string>
+    <string name="abc_action_menu_overflow_description">עוד אפשרויות</string>
+    <string name="abc_action_mode_done">סיום</string>
+    <string name="abc_activity_chooser_view_see_all">הצגת הכול</string>
+    <string name="abc_activitychooserview_choose_application">בחירת אפליקציה</string>
+    <string name="abc_capital_off">כבוי</string>
+    <string name="abc_capital_on">מופעל</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">מחיקה</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">רווח</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">תפריט+</string>
+    <string name="abc_search_hint">חיפוש…</string>
+    <string name="abc_searchview_description_clear">מחיקת השאילתה</string>
+    <string name="abc_searchview_description_query">שאילתת חיפוש</string>
+    <string name="abc_searchview_description_search">חיפוש</string>
+    <string name="abc_searchview_description_submit">שליחת שאילתה</string>
+    <string name="abc_searchview_description_voice">חיפוש קולי</string>
+    <string name="abc_shareactionprovider_share_with">שיתוף עם</string>
+    <string name="abc_shareactionprovider_share_with_application">שיתוף עם %s</string>
+    <string name="abc_toolbar_collapse_description">כיווץ</string>
+    <string name="ble_remote_control_button_any_problem_txt">פתרון בעיות</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">שייך בקר חדש</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">ניתן להקצות פונקציה אחרת ללחצן C1 בבקרת Bluetooth מרחוק</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">התאמה אישית של לחצן C1</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">מצב מיקוד</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">עדשה</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">מצב צילום</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">החלף מצלמה ראשית/קדמית</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">מעבר בין תמונה/וידאו</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">עדשה</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">מעבר בין AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">החלף מצלמה ראשית/קדמית</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">אפשר</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">דחה</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">האם לאפשר ליישום להשתמש ב-Bluetooth עבור תכונה זאת?</string>
+    <string name="ble_remote_control_description_txt">"ניתן לשייך את השלט הרחוק של Sony באמצעות Bluetooth כדי להשתמש בפונקציות ב-%1$s מרחוק.
+הקש על 'שייך בקר חדש' כדי להתחיל לשייך התקן חדש."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">כבר משויך</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">אם לא היה ניתן לשייך את השלט עם ההתקן, עבור אל הגדרות ובדוק אם השלט כבר רשום ברשימת ההתקנים של Bluetooth. אם הוא כבר רשום, הסר את השלט מהרשימה ונסה לשייך אותו שוב.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">פתרון בעיות</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">קבל והפעל</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">דחה</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">יציאה</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">עבור אל הגדרות</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">אישור</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">השיוך בוטל משום ש-Bluetooth כבה</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">השיוך נכשל מכיוון שתם הזמן הקצוב. נסה שוב מאוחר יותר.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">מכשיר זה עשוי להגביל פונקציות מסוימות כאמצעי זהירות בעת שימוש אינטנסיבי. אם תפעיל את מצב סיבולת המצלמה, יוצג סמל שיציין שהיישום ישמור על ביצועים גבוהים. כאשר סמל זה מוצג, ניתן להשתמש ביישום לפרק זמן ארוך יותר.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">מצב סיבולת מצלמה זמין רק בעת שימוש ב-%1$s עם שלט רחוק המחובר באמצעות Bluetooth. סגירת %1$s תהפוך פונקציה זו ללא זמינה.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">טמפרטורת ההתקן עשויה לעלות מעל טמפרטורת ההפעלה הטיפוסית. כאשר הטמפרטורה עולה חיווי וסמל יתריעו בפניך. במקרה זה, אל תחזיק את ההתקן בידך. נא ודא שהשלט הרחוק מחובר באמצעות Bluetooth לפני שתמשיך.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">שים לב</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"טמפרטורת ההתקן גבוהה מדי. %1$s ייסגר זמנית כדי להתקרר.
+אם אתה מחבר שלט רחוק של Bluetooth, ניתן להמשיך להשתמש ב- %1$s במצב סיבולת מצלמה."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"טמפרטורת ההתקן גבוהה מדי. %1$s ייסגר זמנית כדי להתקרר.
+אם אתה מחבר שלט רחוק של Bluetooth, ניתן להשתמש ב- %1$s במצב סיבולת מצלמה."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">כדי להשתמש בפונקציה זו, הפעל [השתמש בשלט רחוק] לאחר התאמת שלט רחוק באמצעות Bluetooth.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"טמפרטורת ההתקן גבוהה מדי. %1$s ייסגר זמנית כדי להתקרר.
+אם תפעיל את מצב סיבולת המצלמה, תוכל להשתמש ב- %1$s עם שלט רחוק של Bluetooth."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"כדי להפוך פונקציה זו לזמינה, קיים אינטראקציה עם השלט הרחוק המחובר.
+כדי לבטל, הקש על יציאה."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">מצב סיבולת מצלמה זמין</string>
+    <string name="ble_remote_control_endurance_mode_txt">מצב סיבולת מצלמה</string>
+    <string name="ble_remote_control_off_txt">כבוי</string>
+    <string name="ble_remote_control_on_txt">מופעל</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"כדי להתחיל בשיוך, צור אינטראקציה עם הבקר הרחוק.
+אתה תקבל הודעות ותיבות דו-שיח פעמיים. בחר 'שיוך' בכולם, לאחר מכן לחץ על מקש כלשהו בהתקן המשויך כדי להשלים את השיוך."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">שייך בקר חדש</string>
+    <string name="ble_remote_control_title_txt">בקרת Bluetooth מרחוק</string>
+    <string name="ble_remote_control_use_remote_controller_txt">השתמש בשלט הרחוק</string>
+    <string name="expand_button_title">מתקדם</string>
+    <string name="external_display_connected_description_txt">באפשרותך להציג את מסך התצוגה המקדימה מתוך מנטר הוולוג</string>
+    <string name="external_display_connected_title_txt">מנטר הוולוג מחובר</string>
+    <string name="external_display_note_about_external_mic_txt">הערה: כדי להשתמש במיקרופון חיצוני, חבר אותו למנטר הוולוג לפני ההקלטה. אם תחבר אותו לאחר מכן, תצטרך להתחבר מחדש למנטר הוולוג.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">אישרת בעבר את מדיניות הפרטיות אך תמיד תוכל לשנות את דעתך.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">חץ שמאלי</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">חץ ימני</string>
+    <string name="photopro_strings_accessibility_back_txt">אחורה</string>
+    <string name="photopro_strings_accessibility_close_txt">סגור</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">נגישות: &lt;a href=\"%s\">תואם חלקית&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">קרא עוד</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">לחצן העדשה</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">לא מוגדר</string>
+    <string name="photopro_strings_accessibility_previous_txt">הקודם</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">ערימת תמונות אחרונות</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">התחל בהקלטת סרטון</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">השהה הקלטת סרטון</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">המשך בהקלטת הסרטון</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">צלם תמונה במהלך צילום סרטון</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">הפסק הקלטת סרטון</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">הפסק ספירה לאחור</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">צמצם</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">מעבר בין המצלמה הראשית לבין המצלמה הקדמית</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">מעבר בין צילום תמונה לווידאו</string>
+    <string name="photopro_strings_accessibility_title_txt">נגישות</string>
+    <string name="photopro_strings_addon_button_menu_txt">עוד</string>
+    <string name="photopro_strings_addon_creative_effect_txt">אפקט יצירתי</string>
+    <string name="photopro_strings_addon_panorama_txt">פנורמה</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">סלפי דיוקן</string>
+    <string name="photopro_strings_addon_slow_motion_txt">הילוך איטי</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">כדי לשמור מיקומים, עליך לאפשר GPS ו/או רשתות אלחוטיות. לאפשר עכשיו?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">שמור מיקום</string>
+    <string name="photopro_strings_anonymous_analytics_txt">ניתוח אנונימי</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">תמונה קדמית</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">וידאו קדמי</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">וידיאו</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">בחר את יחס הרוחב-גובה עבור תמונות</string>
+    <string name="photopro_strings_aspect_ratio_txt">יחס גובה-רוחב</string>
+    <string name="photopro_strings_audio_on_all_txt">פועל: הכול</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">פועל: צמצם בלבד</string>
+    <string name="photopro_strings_audio_signals_description_txt">הגדר אילו צלילי מצלמה להפעיל, כמו למשל בעת הספירה לאחור של הטיימר לצילום עצמי או בעת מיקוד. ניתן לבחור גם להפעיל את צליל התריס.</string>
+    <string name="photopro_strings_audio_signals_txt">אותות שמע</string>
+    <string name="photopro_strings_auto_power_off_txt">היישום Photo Pro ייסגר בעוד זמן קצר עקב חוסר פעילות</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">דיוקן עם תאורה אחורית</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">תאורה אחורית</string>
+    <string name="photopro_strings_auto_scene_document_txt">מסמך</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">מזון</string>
+    <string name="photopro_strings_auto_scene_infant_txt">תינוק</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">נוף</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">אור חלש</string>
+    <string name="photopro_strings_auto_scene_macro_txt">מאקרו</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">דיוקן בלילה</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">זירת תצלום בלילה</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">זיהוי זירת צילום אוטומטי</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">צילום רך</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">זרקור</string>
+    <string name="photopro_strings_bokeh_button_txt">בוקה</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">ודא שהעדשה נקייה ושהאצבע שלך אינה מונחת עליה</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">בהיר מדי</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">התרחק מעט מהאובייקט</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">נדרש יותר אור</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">התקרב לאובייקט</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">"אפקט 'בוקה' אינו זמין כרגע"</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">"‏'בוקה' פועל"</string>
+    <string name="photopro_strings_bokeh_txt">בוקה</string>
+    <string name="photopro_strings_bt_remote_control_txt">בקרת Bluetooth מרחוק</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">תמונות שצולמו בצילום רציף נשמרות באחסון הפנימי</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">לא ניתן להשתמש בצילום רציף באמצעות מהירות צמצם איטית</string>
+    <string name="photopro_strings_button_continue_txt">המשך</string>
+    <string name="photopro_strings_button_quit_txt">יציאה</string>
+    <string name="photopro_strings_cancel_txt">ביטול</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">הילוך איטי</string>
+    <string name="photopro_strings_change_save_destination_title_txt">וידיאו 4K</string>
+    <string name="photopro_strings_change_txt">שנה</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">איפוס</string>
+    <string name="photopro_strings_color_and_brightness_txt">צבע ובהירות</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">האחסון הפנימי מלא. האם לשמור את הנתונים בכרטיס ה-SD במקום זאת?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">האחסון הפנימי פגום או שהוא מוגן מפני כתיבה. האם לשמור את הנתונים בכרטיס ה-SD במקום זאת?</string>
+    <string name="photopro_strings_common_error_open_txt">לא ניתן לפתוח את %1$s</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">כרטיס ה-SD מלא. האם לשמור את הנתונים באחסון הפנימי במקום זאת?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">לא ניתן להשתמש בכרטיס ה-SD. האם לשמור את הנתונים בזיכרון הפנימי במקום זאת?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">משוב בנושא צילום רציף</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">הפונקציות הבאות מושבתות כעת.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">המתן עד שההתקן יתקרר ולאחר מכן הפעל מחדש את המצלמה.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">הפונקציות הבאות מושבתות</string>
+    <string name="photopro_strings_cooling_mode_txt">חלק מהתכונות מושבתות כדי למנוע עלייה בטמפרטורת ההתקן</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">הקצה פונקציה נוספת ללחצן AEL</string>
+    <string name="photopro_strings_custom_ael_txt">התאמה אישית של לחצן AEL</string>
+    <string name="photopro_strings_custom_disp_description_txt">"על ידי הקשה על לחצן DISP, ניתן להציג/להסתיר מידע במסך התצוגה המקדימה.
+בטל את הסימון בכל הפריטים בתפריט זה אם אינך מעוניין שהם יוצגו בעת הצגת המידע שלך באמצעות לחצן DISP."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">היסטוגרמה</string>
+    <string name="photopro_strings_custom_disp_level_txt">פלס</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">פרטי כותרת עליונה</string>
+    <string name="photopro_strings_custom_disp_txt">התאמה אישית של לחצן DISP</string>
+    <string name="photopro_strings_custom_fn_description_txt">"תוכל להקצות מחדש או לסדר מחדש את סדר פריטי ההגדרה בתפריט הפונקציות.
+הקש על אחד מפריטי הפונקציות כדי להקצות פונקציה אחרת לבחירתך מתוך הרשימה המוצגת משמאל.
+גרור ושחרר כל אחד מפריטי הפונקציות להלן כדי לסדר מחדש את הסדר שלהם."</string>
+    <string name="photopro_strings_custom_fn_txt">התאמה אישית של תפריט הפונקציות</string>
+    <string name="photopro_strings_custom_none_txt">לא הוקצה</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">דחית בעבר את מדיניות הפרטיות.</string>
+    <string name="photopro_strings_description_custom_ael_txt">נעילת חשיפה אוטומטית</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">הגדרת ISO למצב אוטומטי</string>
+    <string name="photopro_strings_description_custom_none_txt">השבתת לחצן ה-AEL</string>
+    <string name="photopro_strings_device_id_txt">מזהה התקן</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">אין מספיק סוללה בטלפון. כאשר הסוללה חלשה, המצלמה תיסגר באופן אוטומטי.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">ההקלטה הופסקה עקב סוללה חלשה. טען את ההתקן ונסה שוב.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">לא ניתן להשתמש במצלמה עקב סוללה חלשה. טען את ההתקן ונסה שוב.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">לביצוע הפעולה, היישום מחייב את ההרשאות הבאות.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"רשת
+כדי להתחבר ל-Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"מצב טיסה מופעל.
+כבה אותו מתוך 'הגדרות'."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"שם רשת: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi כבוי ומצב טיסה מופעל.
+שנה הגדרות אלה על-ידי הקשה על 'הגדרות'."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi כבוי.
+הפעל את ה-Wi-Fi מתוך 'הגדרות'."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">הגדרות</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">אפשר</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">דחה</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">הערה</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">כייל</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">איפוס</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">"אין די אחסון פנימי. 'צילום רציף' הופסק. מחק חלק מהקבצים כדי לפנות שטח אחסון."</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">הענקת הרשאות</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">מתחבר...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+הגנת סיסמה: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+אבטחה: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">לא ניתן להתחבר ל-Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">אם אתה מסכים לתנאים להלן, Sony תאסוף את &lt;b>&lt;a href=#personal-data>הנתונים האישיים&lt;/a>&lt;/b> שלך כדי לספק לך תמיכה מותאמת אישית ולשפר את ההתקנים והשירותים. Sony תטפל בנתונים שלך בהתאם ל&lt;b>&lt;a href=https://www.sonymobile.com/privacy/>מדיניות הפרטיות&lt;/a>&lt;/b> שלנו.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">תוכל להקליט סרטוני וידיאו אפילו בזירת צילום עם ניגודיות גבוהה ולהפוך אותם לדרמטיים ולקרובים יותר למציאות. השתמש במכשירים/בשירותים נתמכים כדי ליהנות מהתוכן עם הצבע והבהירות המקוריים שלו.</string>
+    <string name="photopro_strings_do_not_show_again_txt">אל תציג שוב</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">צילום HDR רציף: גבוה</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">צילום HDR רציף: נמוך</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">צילום רציף: גבוה</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">צילום רציף: נמוך</string>
+    <string name="photopro_strings_drive_continuous_txt">צילום רציף</string>
+    <string name="photopro_strings_drive_mode_txt">מצב צילום רצף</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">טיימר צילום עצמי: 10 שניות</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">טיימר צילום עצמי: 3 שניות</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">צילום עצמי: כבוי</string>
+    <string name="photopro_strings_drive_single_txt">צילום תמונות בודדות</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">HDR אוטומטי</string>
+    <string name="photopro_strings_dro_hdr_description_txt">הגדרה זו תמטב את טווח הערכים. עיבוד DRO משתמש בתמונה בודדת, בעוד שעיבוד HDR אוטומטי משלב מספר חשיפות כדי להשיג את התוצאה הרצויה.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">ממטב טווח דינמי</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/HDR אוטומטי</string>
+    <string name="photopro_strings_error_device_not_available_txt">לא ניתן להפעיל את המצלמה. הפעל מחדש את המצלמה או המכשיר.</string>
+    <string name="photopro_strings_error_dialog_title_txt">שגיאה</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">לא ניתן לשמור תמונות. ייתכן שיש בעיה באחסון הנתונים. אם אחסון הנתונים מוגדר להיות כרטיס SD, בדוק את כרטיס ה-SD.</string>
+    <string name="photopro_strings_error_fatal_txt">שגיאה לא ידועה</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">לא</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">כן</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">המצלמה תכבה כעת באופן זמני כדי להתקרר. ההקלטה שלך תישמר. אפס את היישום לאחר שהמכשיר יתקרר.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">הזיכרון מלא. מחק כמה קבצים מכרטיס ה-SD או מהאחסון הפנימי.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">הזיכרון לא זמין</string>
+    <string name="photopro_strings_error_memory_title_txt">שגיאת זיכרון</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">כרטיס SD אינו זמין</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">פיצוי חשיפה</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"ניתן לצלם תמונות דיוקן המתמקדות בפנים או בעיניים של אנשים וחיות.
+כדי לשנות את הפוקוס, הקש על הפנים של נושא התמונה שברצונך להתמקד בו."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"ניתן לצלם סרטונים המתמקדים בפנים או בעיניים של אנשים וחיות.
+כדי לשנות את הפוקוס, הקש על הפנים של נושא התמונה שברצונך להתמקד בו.
+הערה: כאשר הגדרה זאת מופעלת, ייתכן שמשך ההקלטה יתקצר עקב עליית טמפרטורת ההתקן."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">איתור פנים/מיקוד AF לעיניים מופעל</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">מיקוד אוטומטי לפנים/לעיניים</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">מיקוד AF לפנים/לעיניים: כבוי</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">מיקוד AF לפנים/לעיניים: פועל</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">פתח את נעילת המסך כדי להשתמש בפונקציה זאת</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">כדי לפתוח את תפריט ההגדרות, בטל את נעילת המסך.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">המסך נעול</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"כדי להתאים את אפקט 'בוקה', הקש על סמל 'בוקה' במסך התצוגה המקדימה והזז את המחוון.
+פונקציה זו נתמכת במצב (תצלום) בסיסי.
+הדגש את נושא התמונה באמצעות ניגודיות מרשימה על ידי טשטוש הרקע."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">צלם תמונות עם אפקט בוקה</string>
+    <string name="photopro_strings_feature_bokeh_txt">אפקט בוקה</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">ניתן לשנות את מצב צילום רצף כדי להשתמש בצילום רציף או בטיימר צילום עצמי.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">מצב צילום רצף</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"בעת צילום תמונות עם המצלמה הקדמית, הבט אל עדשת המצלמה הקדמית ליד רמקול האוזנייה.
+העיניים שלך יביטו אל הכיוון הנכון בתצלום."</string>
+    <string name="photopro_strings_feature_eye_position_txt">כיוון העין</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"ניתן לצלם תמונות דיוקן המתמקדות בפנים או בעיניים של אנשים וחיות.
+כדי לשנות את הפוקוס, הקש על הפנים של נושא התמונה שברצונך להתמקד בו. ניתן להפעיל או להשבית פונקציה זאת תחת 'תפריט' > 'מיקוד אוטומטי לפנים/לעיניים'."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">מיקוד אוטומטי לפנים/לעיניים</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"סובב את כף היד שלך לכיוון המצלמה. טיימר הצילום העצמי יתחיל לספור לאחור עם זיהוי כף היד שלך. לזיהוי קל יותר, הארך את אצבעותיך כלפי מעלה.
+כדי להפעיל פונקציה זאת, עבור למצלמה הקדמית במצב (תצלום) בסיסי והפעל את צמצם היד תחת 'תפריט'."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">צמצם היד</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"בעת שימוש בעדשה רחבה במיוחד (0.7x), ניתן לבחור העדפה. באמצעות בחירה באפשרות 'קבע סדרי עדיפויות של איכות תמונה', ניתן לצלם תמונות איכותיות בעלות טווח דינמי גבוה. בבעת בחירה באפשרות 'קבע סדרי עדיפויות של תיקון עיוותים', ניתן להפחית עיוות חזותי.
+פונקציה זאת פעילה בעת צילום תמונות באמצעות עדשה רחבה במיוחד. לאחר מעבר לעדשה רחבה במיוחד, ניתן להגדיר את העדיפות תחת 'תפריט' > 'תיקון עיוות עדשה רחבה במיוחד'."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">תיקון עדשה (תמונה)</string>
+    <string name="photopro_strings_feature_list_title_txt">מבוא לתכונות</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"צלם בקלות סלפי באמצעות אפקטים כגון 'בוקה' ויופי.
+כדי להשתמש בפונקציה זאת, הקש על האפשרות 'עוד' במסך התצוגה המקדימה ובחר באפשרות 'סלפי דיוקן'.
+סגנן את הסלפי שלך ותיהנה מתוצאות יצירתיות."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">סלפי דיוקן</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"ניתן לגשת בקלות לאינטרנט או להתחבר ל-Wi-Fi על ידי סריקת QR Code.
+פונקציה זאת פעילה במצב (תצלום) בסיסי. ניתן להפעיל או להשבית פונקציה זאת תחת 'תפריט' > 'קורא QR Code'."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">קורא QR Code</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">קורא QR Code</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">"תייג את התמונות והסרטונים שלך באמצעות המיקומים שבהם הם צולמו. ניתן לשנות הגדרה זאת מאוחר יותר תחת 'תפריט' > 'שמור מיקום'."</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">לשמור מיקום?</string>
+    <string name="photopro_strings_feature_selfie_txt">מצלמה קדמית</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">באפשרותך להקליט סרטון ב-120 fps בהילוך איטי באיכות HD</string>
+    <string name="photopro_strings_feature_slow_motion_txt">הילוך איטי</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"ניתן לעבור בקלות בין עדשות המצלמה כדי לצלם כל מצב שרוצים, גם אם זה אתגר יצירתי.
+הקש על הלחצן במסך התצוגה המקדימה כדי לעבור בין העדשות 0.7x (רחבה במיוחד), 1.0x (רחבה), 2.9x (טלפוטו) ו-4.4x (טלפוטו).
+ניתן להשתמש בפונקציה זאת במצב (תצלום) בסיסי וגם במצב (וידאו) בסיסי."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">שנה זווית בעזרת הלחצן</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"ניתן לעבור בקלות בין עדשות המצלמה כדי לצלם כל מצב שרוצים, גם אם זה אתגר יצירתי.
+הקש על הלחצן במסך התצוגה המקדימה כדי לעבור בין העדשות 0.7x (רחבה במיוחד), 1.0x (רחבה) ו-2.1x (סטנדרטית).
+ניתן להשתמש בפונקציה זאת במצב (תצלום) בסיסי וגם במצב (וידאו) בסיסי."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">מצלמה בעלת שלוש עדשות</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"הקשה על לחצן העדשה תציג מחוון שבו ניתן להשתמש כדי לכוונן את דרגת הזום.
+ניתן גם לצבוט את המסך או להשתמש בלחצני עוצמת הקול כדי להגדיל או להקטין את התצוגה."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">כיצד להגדיל/להקטין את התצוגה</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">מחק</string>
+    <string name="photopro_strings_file_format_description_txt">"בחר את תבנית הקובץ לתמונות סטילס.
+
+RAW: נדרשת תוכנה מיוחדת לעיבוד מאוחר של התמונות. תבנית קובץ זו מאפשרת לך לבצע כוונונים תוך הגבלת הפגיעה באיכות התמונות. התמונות ניתנות להדפסה לאחר העיבוד המאוחר.
+RAW ו-JPEG: שמירת התמונות בתבנית RAW המחייבת עיבוד מאוחר, ביחד עם שמירתן בתבנית JPEG.
+JPEG: שמירת התמונות בתבנית JPEG.
+
+הערות:
+קבצים בתבנית RAW יישמרו תמיד באחסון הפנימי ביחס גובה-רוחב של 4:3.
+צילום רציף ו-HDR אוטומטי אינם זמינים בעת בחירה בתבניות הקובץ RAW או RAW ו-JPEG."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW ו-JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">תבנית קובץ</string>
+    <string name="photopro_strings_flash_auto_txt">אוטומטי</string>
+    <string name="photopro_strings_flash_description_txt">"הגדר את מצב הפנס למצב 'מבזק אוטומטי', 'מבזק מילוי' וכדומה."</string>
+    <string name="photopro_strings_flash_fill_flash_txt">מבזק מילוי</string>
+    <string name="photopro_strings_flash_off_txt">כבוי</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">הפחתת עיניים אדומות</string>
+    <string name="photopro_strings_flash_torch_description_txt">הפעל את הפנס</string>
+    <string name="photopro_strings_flash_torch_off_txt">פנס: כבוי</string>
+    <string name="photopro_strings_flash_torch_on_txt">פנס: פועל</string>
+    <string name="photopro_strings_flash_torch_txt">פנס</string>
+    <string name="photopro_strings_flash_txt">מצב מבזק</string>
+    <string name="photopro_strings_focus_area_center_txt">מרכז</string>
+    <string name="photopro_strings_focus_area_txt">אזור למיקוד</string>
+    <string name="photopro_strings_focus_area_wide_txt">רחב</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">הגדר את צבע מסגרת אזור המיקוד</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">אדום</string>
+    <string name="photopro_strings_focus_frame_color_txt">צבע אזור למיקוד</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">לבן</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">מיקוד AF רציף</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">נעילת מיקוד AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">בחר שיטת מיקוד</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">זיהוי פנים</string>
+    <string name="photopro_strings_focus_mode_mf_txt">מיקוד ידני</string>
+    <string name="photopro_strings_focus_mode_txt">מצב מיקוד</string>
+    <string name="photopro_strings_geotagging_description_txt">שמור את התמונות והסרטונים שלך באמצעות המיקומים שבהם הם צולמו</string>
+    <string name="photopro_strings_geotagging_txt">שמור מיקום</string>
+    <string name="photopro_strings_gridline_description_txt">הגדר האם להציג או לא להציג את קווי הרשת שיסייעו לך לצלם תמונות</string>
+    <string name="photopro_strings_gridline_txt">קווי רשת</string>
+    <string name="photopro_strings_hand_shutter_description_txt">תוכל להתחיל את הספירה לאחור של טיימר הצילום העצמי על ידי סיבוב כף היד שלך לכיוון המצלמה הקדמית. לזיהוי קל יותר, הארך את אצבעותיך כלפי מעלה.</string>
+    <string name="photopro_strings_hand_shutter_txt">צמצם היד</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">הגדר האם לקבל או לא לקבל משוב חושי בעת אינטראקציה עם הצג, למשל בחוגת מצב צילום</string>
+    <string name="photopro_strings_haptic_feedback_txt">משוב חושי</string>
+    <string name="photopro_strings_hdr_off_txt">‏‏HDR: כבוי</string>
+    <string name="photopro_strings_hdr_on_txt">‏‏HDR: פועל</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">מסנן רוח חכם</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">רגישות ISO</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">ניתן להפעיל את Photography Pro על ידי לחיצה ארוכה על לחצן הצילום. היישום יופעל גם אם הטלפון יהיה במצב שינה או נעול.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">הפעל את היישום Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">הפעל עם לחצן הצילום</string>
+    <string name="photopro_strings_lens_correction_description_txt">"בעת שימוש בעדשה רחבה במיוחד, ניתן לבחור עדיפות. באמצעות בחירה באפשרות 'קבע סדרי עדיפויות של איכות תמונה', ניתן לצלם תמונות איכותיות בעלות טווח דינמי גבוה. בעת בחירה באפשרות 'קבע סדרי עדיפויות של תיקון עיוותים', ניתן להפחית עיוות חזותי."</string>
+    <string name="photopro_strings_lens_correction_off_txt">קבע סדרי עדיפויות של איכות תמונה</string>
+    <string name="photopro_strings_lens_correction_on_txt">קבע סדרי עדיפויות של תיקון עיוותים</string>
+    <string name="photopro_strings_lens_correction_txt">תיקון עיוות עדשה רחבה במיוחד</string>
+    <string name="photopro_strings_lens_txt">עדשה</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">כייל</string>
+    <string name="photopro_strings_level_calibration_description_txt">"במידת הצורך, תוכל לכייל את הפלס כדי לתקן סטיות בכיוון ההטיה. ודא שהמצלמה אופקית ולאחר מכן לחץ על 'כייל'."</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">הכיול הושלם</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">הגדרת הכיול אופסה</string>
+    <string name="photopro_strings_level_meter_calibration_txt">כיול פלס</string>
+    <string name="photopro_strings_lock_switch_txt">נעילה</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">ההקלטה הופסקה עקב מגבלת גודל קובץ מקסימלי</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">ההקלטה הופסקה מאחר שמגבלת זמן ההקלטה המרבי הושגה</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">לא ניתן לשמור. הזיכרון מלא.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">החל</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">שמור</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">הגדר</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">האם לשמור את השילוב הנוכחי של מצבים והגדרות?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"הגדרות המצלמה נשמרו.
+באפשרותך לאחזר בקלות הגדרות אלה באמצעות מצב הצילום MR."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">זיכרון להגדרות מצלמה</string>
+    <string name="photopro_strings_memory_recall_txt">אחזור הגדרות מצלמה</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">תמונה (מצלמה קדמית)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">תמונה</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">הילוך איטי</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">וידיאו (מצלמה קדמית)</string>
+    <string name="photopro_strings_menu_sub_video_txt">וידאו</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">חשיפה/צבע</string>
+    <string name="photopro_strings_menu_tab_focus_txt">מיקוד</string>
+    <string name="photopro_strings_menu_tab_setup_txt">הגדרה</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">צילום</string>
+    <string name="photopro_strings_menu_title_txt">תפריט</string>
+    <string name="photopro_strings_metering_center_txt">מרכז</string>
+    <string name="photopro_strings_metering_multi_txt">מרובה</string>
+    <string name="photopro_strings_metering_spot_txt">נקודתי</string>
+    <string name="photopro_strings_metering_txt">מצב מדידה</string>
+    <string name="photopro_strings_mic_setting_description_txt">"בחר באיזה מיקרופון להשתמש במהלך הקלטת סרטון:
+‏1. מיקרופון LR: מקליט צליל סטריאו באמצעות המיקרופון השמאלי והימני (בכיוון אנכי הם משמשים כמיקרופון עליון ותחתון)
+‏ 2. מיקרופון אחורי: מקליט צליל מונו באמצעות המיקרופון האחורי"</string>
+    <string name="photopro_strings_mic_setting_external_txt">מיקרופון חיצוני</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">מיקרופון LR (סטריאו)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">מיקרופון אחורי (מונו)</string>
+    <string name="photopro_strings_mic_setting_txt">מיקרופון</string>
+    <string name="photopro_strings_mode_auto_description_txt">המצלמה תזהה באופן אוטומטי את סוג זירת הצילום ותצלם תמונות עם הגדרות אוטומטיות תוך הפחתת רעש ונענוע המצלמה.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">"מצב אוטו'"</string>
+    <string name="photopro_strings_mode_basic_description_txt">"במצב זה ניתן לצלם תמונות באמצעות לחצן הצילום שעל המסך, בדומה לחוויית מצלמת סמארטפון רגילה.
+השתמש במצב זה כדי לצלם תמונות סלפי, סרטונים וכדי לסרוק קודי QR."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">מצב בסיסי</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">פעולה זאת תציג הסבר על כל מצב צילום בעת המעבר בין המצבים באמצעות חוגת מצב הצילום</string>
+    <string name="photopro_strings_mode_dial_guide_txt">מדריך חוגת מצב צילום</string>
+    <string name="photopro_strings_mode_m_description_txt">"שלוט באופן ידני במהירות הצמצם וברגישות ISO.
+על ידי חשיפה ארוכה יותר, ניתן לצלם תמונות הלוכדות תנועה נשרכת של עצמים באמצעות טשטוש תנועה."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">חשיפה ידנית</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">"אוטו' חכם (אחזור מהזיכרון)"</string>
+    <string name="photopro_strings_mode_mr_description_txt">"צלם תמונות באמצעות ההגדרות השמורות שלך.
+ניתן לרשום שילובי מצבים והגדרות הנמצאים בשימוש תדיר."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">אחזור מהזיכרון</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">חשיפה ידנית (אחזור מהזיכרון)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">"תוכנית אוטו' (אחזור מהזיכרון)"</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">עדיפות למהירות צמצם (אחזור מהזיכרון)</string>
+    <string name="photopro_strings_mode_p_description_txt">המצלמה תשלוט במהירות הצמצם באופן אוטומטי, כאשר הגדרות אחרות יישארו בשליטתך.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">"תוכנית אוטו'"</string>
+    <string name="photopro_strings_mode_s_description_txt">"שלוט במהירות הצמצם באופן ידני כדי לשנות את הדרך שבה אתה לוכד עצמים נעים.
+מהירויות צמצם גבוהות יקפיאו עצם הנמצא בתנועה, בזמן שמהירויות צמצם נמוכות יכולות ללכוד טשטוש תנועה בצורה טובה יותר."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">עדיפות למהירות צמצם</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">מצב צילום רצף הוגדר באופן אוטומטי לצילום תמונות בודדות משום שמצב Transfer &amp; Tagging add-on פועל</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">תבנית הקובץ הוגדרה באופן אוטומטי ל-JPEG כאשר מצב Transfer &amp; Tagging add-on פועל</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">לא ניתן להשתמש במצלמה בעת ריבוי חלונות או חלונות מוקפץ. סגור את החלון ונסה שוב. אם אתה משתמש בריבוי חלונות, באפשרותך לגרור את מרכז פס הפיצול כדי שהמצלמה תהיה במסך מלא.</string>
+    <string name="photopro_strings_multi_window_txt">גרור את מרכז פס הפיצול כדי לעבור למסך מלא של %1$s כדי להשתמש</string>
+    <string name="photopro_strings_ok_txt">אישור</string>
+    <string name="photopro_strings_personal_data_txt">נתונים אישיים</string>
+    <string name="photopro_strings_privacy_policy_txt">מדיניות פרטיות</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">מצלם תמונה. נא המתן.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">QR Code זה אינו נתמך</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">הקש כדי לפתוח את \"%1$s\" בדפדפן</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">לא ניתן להתחבר לרשת Wi-Fi זו</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">הקש כדי להתחבר לרשת Wi-Fi \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">קורא QR Code</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"ניתן לגשת בקלות לאינטרנט או להתחבר ל-Wi-Fi על ידי סריקת QR Code.
+פונקציה זאת פעילה במצב (תצלום) בסיסי."</string>
+    <string name="photopro_strings_qrcode_detection_txt">קורא QR Code</string>
+    <string name="photopro_strings_rec_txt">REC</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">האם לאפס את היישום Photo Pro להגדרות ברירת המחדל?</string>
+    <string name="photopro_strings_reset_settings_txt">אפס הגדרות</string>
+    <string name="photopro_strings_reset_txt">איפוס</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">אין אפשרות לשנות את יחס הגובה-רוחב כאשר תבנית הקובץ מוגדרת כ-RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">לא ניתן לשנות HDR אוטומטי כאשר בוחרים באפשרות של צילום רציף</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">לא ניתן לבחור באפשרות HDR אוטומטי כאשר נבחרת תבנית קובץ שאינה JPEG</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">"אפקט 'בוקה' לא זמין עם העדשות הנוכחיות שנבחרו"</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">"אפקט 'בוקה' לא זמין כאשר מצב Transfer &amp; Tagging add-on פועל"</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">"אין אפשרות להשתמש במצב 'צילום רציף: גבוה' באמצעות העדשה הנוכחית שנבחרה"</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">"לא ניתן להשתמש בצילום רציף כאשר באפקט 'בוקה' פועל"</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">צילום רציף אינו זמין בעת הבחירה בזום בעל רזולוציה גבוהה באמצעות בינה מלאכותית</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">"לא ניתן להשתמשב'צילום רציף' כאשר נבחרת תבנית קובץ שאינה JPEG."</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">צילום רציף לא זמין כאשר מצב Transfer &amp; Tagging add-on פועל</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">לא ניתן לשנות</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">"לא ניתן להשתמש במצב 'מבזק' בעת בחירה ב'צילום רציף'"</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">אין אפשרות להשתמש במצב מבזק באמצעות העדשה הנוכחית שנבחרה</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">לא ניתן להשתמש בפנס עם העדשה הנוכחית שנבחרה</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">לא ניתן לשנות את תבנית הקובץ לתבנית שאינה JPEG בעת הבחירה באפשרות HDR אוטומטי.</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">"לא ניתן לשנות את תבנית הקובץ לתבנית שאינה JPEG כאשר נבחר 'צילךום רציף'."</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">לא ניתן לשנות את תבנית הקובץ לתבנית אחרת מלבד JPEG כאשר מצב Transfer &amp; Tagging add-on פועל</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">לא ניתן לשנות הגדרה זאת כאשר מחובר מיקרופון חיצוני</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">הגדרה זו תומכת במהירות הצמצם הנוכחית. כדי לקבוע תצורה של הגדרה זו, שנה את מהירות הצמצם לשנייה אחת או פחות</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">לא ניתן לבחור RAW כאשר נבחר יחס גובה-רוחב שאינו 4:3</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">לא ניתן לשנות את גודל הווידאו במהלך הקלטה בהילוך איטי. כדי לשנות הגדרה זו, צא ממצב הילוך איטי.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">הגדרה זאת זמינה רק בעת השימוש בעדשה רחבה במיוחד</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">הגדרה זו אינה זמינה כאשר מצב HDR פעיל. כדי להגדיר את התצורה שלה, בטל את ההפעלה של מצב HDR.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">הגדרה זו אינה נתמכת עבור גודל הווידיאו הנוכחי. כדי לשנות את התצורה של הגדרה זו, שנה את גודל הווידאו.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">"אין אפשרות לשנות את גודל התצוגה במהלך שימוש באפקט 'בוקה'"</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">פרטי יישום</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">הרשאה ל%1$s</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">לביצוע הפעולה, היישום מחייב את ההרשאות הבאות.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">"כדי להעניק הרשאות, עבור אל 'פרטי יישום' > 'הרשאות'."</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">לא ניתן להמשיך</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">לצלם תצלום</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">כדי לצלם תמונות וסרטונים</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">כדי לאחזר מיקום</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">כדי להקליט קול</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">כדי להתחבר להתקנים קרובים</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">לצורך קריאה ושמירה של תמונות וסרטונים</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">לצורך שמירת תצלום</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">כדי לשמור תמונות וסרטונים</string>
+    <string name="photopro_strings_save_destination_description_txt">בחר האם לאחסן תמונות וסרטונים באחסון הפנימי של ההתקן שלך או בכרטיס SD</string>
+    <string name="photopro_strings_save_destination_internal_txt">אחסון פנימי</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">כרטיס SD</string>
+    <string name="photopro_strings_save_destination_title_txt">אחסון נתונים</string>
+    <string name="photopro_strings_save_destination_txt">אחסון נתונים</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">כרטיס SD אינו זמין</string>
+    <string name="photopro_strings_selftimer_10_txt">10 שניות</string>
+    <string name="photopro_strings_selftimer_3_txt">3 שניות</string>
+    <string name="photopro_strings_selftimer_description_txt">הגדר טיימר לצילום עצמי כדי לצלם תמונה באופן אוטומטי לאחר שמספר השניות שהוקצו חלף</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">השאר את עיניך במצלמה</string>
+    <string name="photopro_strings_selftimer_txt">צילום עצמי</string>
+    <string name="photopro_strings_settings_off_txt">כבוי</string>
+    <string name="photopro_strings_settings_on_txt">מופעל</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">השתמש תמיד במצב בסיסי</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">בחר את ברירת המחדל של מצב הצילום בעת הפעלת Photography Pro</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">המצב שהיה בשימוש אחרון</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">מצב צילום בעת ההפעלה</string>
+    <string name="photopro_strings_shooting_mode_txt">מצב צילום</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">מצלמת וידיאו</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">מהירות צמצם</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">לא ניתן לצלם תמונות כאשר HDR פועל</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">הפעל את האפקט שגורם לעור להיראות חלק יותר</string>
+    <string name="photopro_strings_soft_skin_effect_txt">אפקט עור רך</string>
+    <string name="photopro_strings_status_mic_external_txt">חיצוני</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">‏LR (סטריאו)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">אחורי (מונו)</string>
+    <string name="photopro_strings_store_fail_txt">לא ניתן לשמור</string>
+    <string name="photopro_strings_sw_license_txt">רישיון תוכנה</string>
+    <string name="photopro_strings_term_of_use_accept_txt">קבל</string>
+    <string name="photopro_strings_term_of_use_decline_txt">דחה</string>
+    <string name="photopro_strings_tips_txt">עצות</string>
+    <string name="photopro_strings_title_permissions_txt">הרשאה ל-Photo Pro</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">ביטול מיקוד בנגיעה</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">מיקוד אוטומטי</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"בחר מה לכוונן בעת הנגיעה במסך התצוגה המקדימה.
+
+מעקב אחר אובייקט: הפונקציה הטובה ביותר לצילום אובייקטים נעים. היא מוודאת שהמיקוד יינעל על האובייקט שעליו הקשת במסך התצוגה המקדימה, ומאפשרת לך לצלם אובייקטים נעים באופן ברור.
+מיקוד אוטומטי: הקש על החלק שברצונך להתמקד בו במסך התצוגה המקדימה.
+מיקוד ובהירות: התמקד במיקום הרצוי וכוונן את הבהירות שלו על ידי הקשה על מסך התצוגה המקדימה."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">מיקוד ובהירות</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">מעקב אחר אובייקט</string>
+    <string name="photopro_strings_touch_to_adjust_txt">גע כדי לכוונן</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">בטל מעקב אחר אובייקט</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"הפעלת פונקציה זאת תאפשר את Transfer &amp; Tagging add-on כדי להציג תמונות שצולמו במצלמת Xperia. התמונות יישמרו באחסון הפנימי.
+פונקציה זאת תואמת לתמונות שצולמו עם 'Photography Pro'.
+הפעלת פונקציה זאת תגדיר באופן אוטומטי את תבנית הקובץ ל-JPEG, ואת מצב צילום רצף לצילום תמונות בודדות."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">הבנתי</string>
+    <string name="photopro_strings_tutorial_button_next_txt">הבא</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">דלג</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony הוא מותג האהוב על-ידי צלמים הודות ליכולתו ליצור מוצרים שמאפשרים ליהנות בכל פעם מחדש מחדוות הצילום.
+לקוחות בכל רחבי העולם ממשיכים לבחור בניסיון ובטכנולוגיה שלנו.
+
+Photography Pro הוא יישום שמטרתו לשחזר את יכולת התפעול והפונקציות של המצלמות בקנה מידה מלא של Sony Imaging Products.
+Sony תומכת בשאיפה שלך לצילום יצירתי."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"בחר את מצב הצילום המתאים ביותר לנושא הצילום.
+לאחר מכן הגדר את מהירות הצמצם והחשיפה.
+החזק את המצלמה בצורה יציבה משני צדדיה וצלם את התמונה.
+
+מצבי הצילום כוללים:
+P (תוכנית אוטו')
+S (עדיפות למהירות צמצם)
+M (חשיפה ידנית)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"בחר את מצב הצילום הרצוי באמצעות חוגת מצב הצילום בפינה הימנית העליונה (פינה שמאלית עליונה בכיוון אופקי).
+
+באמצעות מצב בסיסי, ניתן לצלם תמונות וסרטונים בקלות עם המצלמה הקדמית בדרך דומה לזו של מצלמת סמארטפון רגילה.
+
+באמצעות המצבים Auto/P/S/M, ניתן לגשת להגדרות מתקדמות יותר כדי לצלם את תמונות מוצלחות במיוחד."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">מצב צילום</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">אופן השימוש</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"בעת השימוש במצבים Auto/P/S/M, יש להחזיק בקפידה את המצלמה בכיוון אופקי וללחוץ על לחצן הצילום בצד הימני העליון של ההתקן כדי לצלם תמונות.
+
+הבחירה באפשרות Auto תגדיר פונקציות כגון מהירות צמצם וחשיפה באופן אוטומטי.
+
+כדי להגדיר הגדרות באופן ידני, בחר באחד המצבים להלן.
+‏P (תוכנית אוטו')
+S (עדיפות למהירות צמצם)
+M (חשיפה ידנית)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">כיצד להשתמש במצבים Auto/P/S/M</string>
+    <string name="photopro_strings_tutorial_txt">ערכת לימוד</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">"לא ניתן להשתמש ב-Photo Pro באמצעות הצג החיצוני המחובר. כדי להשתמש ב-Photo Pro, סגור את היישום מהמסך 'יישומים אחרונים' של Xperia ולאחר מכן הפעל מחדש את התקן Xperia."</string>
+    <string name="photopro_strings_unlock_button_txt">בטל נעילה</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">השימוש במצלמה מוגבל משיקולי אבטחה</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">לצורך הקלטה יציבה של וידיאו ‎4K, אל תשנה הגדרה זו אלא אם אתה משתמש בכרטיס SD במהירות גבוהה (מסוג UHS Speed Class 1 ואילך. מומלץ להשתמש בכרטיס מסוג Speed Class 10).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">לצורך הקלטה יציבה של וידיאו בהילוך איטי, אל תשנה הגדרה זו אלא אם אתה משתמש בכרטיס SD במהירות גבוהה (מסוג UHS Speed Class 1 ואילך. מומלץ להשתמש בכרטיס מסוג Speed Class 10).</string>
+    <string name="photopro_strings_video_explanatory_txt">"לצורך הקלטה יציבה של וידיאו, מומלץ לשנות את אחסון הנתונים לאחסון פנימי. האם ברצונך לשנות אותו כעת?
+
+אם תמשיך להשתמש בכרטיס SD לאחסון נתונים, הקפד להשתמש בכרטיס SD במהירות גבוהה (מסוג UHS Speed Class 1 ואילך. מומלץ להשתמש בכרטיס מסוג Speed Class 10)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"באפשרותך לבחור מקודד עבור הקלטות וידאו 4K.
+
+‏H.264 (AVC): תבנית קידוד רגילה נתמכת על ידי רוב ההתקנים והשירותים.
+‏H.265 (HEVC): תבנית עם קצב דחיסה גבוה יותר. ודא שהתקני או שירותי ההפעלה תומכים בשיטה זאת."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">תבנית קובץ (‎4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"בחר גודל וידאו.
+‏HDR לא זמין בעת הבחירה באפשרות Full HD (60 fps) או HD."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">בחר גודל וידאו</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 fps)‎</string>
+    <string name="photopro_strings_video_size_full_hd_txt">HD 1080p</string>
+    <string name="photopro_strings_video_size_txt">גודל וידאו</string>
+    <string name="photopro_strings_video_stabilization_description_txt">ל-Xperia יש מערכת ייצוב היברידית הנקראת Optical SteadyShot - המשלבת בין ייצוב תמונה אופטי לבין ייצוב תמונה אלקטרוני בו-זמנית. המערכת מאפשרת לך לצלם סרטונים באופן חלק וללא רעידות גם בעת צילום תוך כדי תנועה.</string>
+    <string name="photopro_strings_video_stabilization_txt">ייצוב וידיאו</string>
+    <string name="photopro_strings_volumekey_description_txt">הקצה פונקציה נוספת ללחצני עוצמת הקול</string>
+    <string name="photopro_strings_volumekey_shutter_txt">צמצם</string>
+    <string name="photopro_strings_volumekey_txt">לחצן עוצמת הקול</string>
+    <string name="photopro_strings_volumekey_volume_txt">עוצמת קול</string>
+    <string name="photopro_strings_volumekey_zoom_txt">זום</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">כוונן - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">אוטומטי</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">כוונן</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">בוצע</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">נסה שוב</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">החל</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">מעונן</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">מותאם אישית 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">מותאם אישית 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">מותאם אישית 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">הגדר את איזון הלבן בהתבסס על מרכז התצוגה המקדימה</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">הכוונון נכשל</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">הכוונון הושלם</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">החל - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">אור יום</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">פלואורסצנט</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">נורת להט</string>
+    <string name="photopro_strings_whitebalance_shade_txt">צל</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">"טמפ' 1"</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">"טמפ' 2"</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">"טמפ' 3"</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">"טמפ':"</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">טמפרטורה</string>
+    <string name="photopro_strings_whitebalance_txt">איזון לבן</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">אין אפשרות לשנות את גודל התצוגה באמצעות המצלמה הקדמית</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">זום בעל רזולוציה גבוהה באמצעות AI</string>
+    <string name="photopro_strings_zoom_type_description_txt">"בחר הגדרת זום.
+
+‏ זום דיגיטלי: זום באמצעות עיבוד דיגיטלי המבוסס על נתוני חיישן התמונה.
+זום בעל רזולוציה גבוהה באמצעות AI: זום המשתמש בעיבוד דיגיטלי השומר יותר על איכות התמונה המקורית. שמירת תמונות עשויה לקחת זמן רב יותר. בעת הבחירה בצילום רציף, ייעשה שימוש בזום דיגיטלי באופן אוטומטי."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">זום דיגיטלי</string>
+    <string name="photopro_strings_zoom_type_txt">הגדרות זום</string>
+    <string name="search_menu_title">חיפוש</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">כבוי</string>
+    <string name="v7_preference_on">מופעל</string>
+</resources>

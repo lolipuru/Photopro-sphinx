@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"רשת
+כדי להתחבר ל-WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN כבוי ומצב טיסה מופעל.
+שנה הגדרות אלה על-ידי הקשה על 'הגדרות'."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN כבוי.
+הפעל את ה-WLAN מתוך 'הגדרות'."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">לא ניתן להתחבר ל-WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"ניתן לגשת בקלות לאינטרנט או להתחבר ל-WLAN על ידי סריקת QR Code.
+פונקציה זאת פעילה במצב (תצלום) בסיסי. ניתן להפעיל או להשבית פונקציה זאת תחת 'תפריט' > 'קורא QR Code'."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">הקש כדי להתחבר לרשת WLAN \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"ניתן לגשת בקלות לאינטרנט או להתחבר ל-WLAN על ידי סריקת QR Code.
+פונקציה זאת פעילה במצב (תצלום) בסיסי."</string>
+</resources>

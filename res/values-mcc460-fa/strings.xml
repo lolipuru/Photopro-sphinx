@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"شبکه
+برای اتصال به WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN خاموش و حالت «هواپیما» روشن است.
+لطفاً با ضربه زدن روی «تنظیمات»، این تنظیمات را تغییر دهید."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN خاموش است.
+لطفاً WLAN را از «تنظیمات» روشن کنید."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">اتصال به WLAN امکان‌پذیر نیست</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"از طریق اسکن یک QR Code می‌توانید به سرعت به وب دسترسی پیدا کنید یا به WLAN متصل شوید.
+این عملکرد در حالت پایه(عکس‌برداری) فعال است. این عملکرد را می‌توانید از طریق مراجعه به «منو > QR Code خوان» فعال یا غیرفعال کنید."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">برای اتصال به این شبکه WLAN ضربه بزنید‏: %1$s</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"از طریق اسکن یک QR Code می‌توانید به سرعت به وب دسترسی پیدا کنید یا به WLAN متصل شوید.
+این عملکرد در حالت پایه(عکس‌برداری) فعال است."</string>
+</resources>

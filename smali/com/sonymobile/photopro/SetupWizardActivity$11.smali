@@ -1,0 +1,84 @@
+.class Lcom/sonymobile/photopro/SetupWizardActivity$11;
+.super Ljava/lang/Object;
+.source "SetupWizardActivity.java"
+
+# interfaces
+.implements Landroid/content/DialogInterface$OnDismissListener;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/sonymobile/photopro/SetupWizardActivity;->showOptionalRuntimePermissionDialog()V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic this$0:Lcom/sonymobile/photopro/SetupWizardActivity;
+
+
+# direct methods
+.method constructor <init>(Lcom/sonymobile/photopro/SetupWizardActivity;)V
+    .locals 0
+
+    .line 610
+    iput-object p1, p0, Lcom/sonymobile/photopro/SetupWizardActivity$11;->this$0:Lcom/sonymobile/photopro/SetupWizardActivity;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public onDismiss(Landroid/content/DialogInterface;)V
+    .locals 1
+
+    .line 613
+    iget-object p1, p0, Lcom/sonymobile/photopro/SetupWizardActivity$11;->this$0:Lcom/sonymobile/photopro/SetupWizardActivity;
+
+    invoke-static {p1}, Lcom/sonymobile/photopro/SetupWizardActivity;->access$900(Lcom/sonymobile/photopro/SetupWizardActivity;)Lcom/sonymobile/photopro/view/tutorial/TutorialController;
+
+    move-result-object p1
+
+    sget-object v0, Lcom/sonymobile/photopro/view/tutorial/TutorialType;->SAVE_LOCATION:Lcom/sonymobile/photopro/view/tutorial/TutorialType;
+
+    invoke-virtual {p1, v0}, Lcom/sonymobile/photopro/view/tutorial/TutorialController;->hasNext(Lcom/sonymobile/photopro/view/tutorial/TutorialType;)Z
+
+    move-result p1
+
+    if-nez p1, :cond_0
+
+    .line 614
+    iget-object p1, p0, Lcom/sonymobile/photopro/SetupWizardActivity$11;->this$0:Lcom/sonymobile/photopro/SetupWizardActivity;
+
+    invoke-static {p1}, Lcom/sonymobile/photopro/SetupWizardActivity;->access$100(Lcom/sonymobile/photopro/SetupWizardActivity;)V
+
+    goto :goto_0
+
+    .line 616
+    :cond_0
+    iget-object p1, p0, Lcom/sonymobile/photopro/SetupWizardActivity$11;->this$0:Lcom/sonymobile/photopro/SetupWizardActivity;
+
+    invoke-static {p1}, Lcom/sonymobile/photopro/SetupWizardActivity;->access$900(Lcom/sonymobile/photopro/SetupWizardActivity;)Lcom/sonymobile/photopro/view/tutorial/TutorialController;
+
+    move-result-object p1
+
+    sget-object v0, Lcom/sonymobile/photopro/view/tutorial/TutorialType;->SAVE_LOCATION:Lcom/sonymobile/photopro/view/tutorial/TutorialType;
+
+    invoke-virtual {p1, v0}, Lcom/sonymobile/photopro/view/tutorial/TutorialController;->doNextAction(Lcom/sonymobile/photopro/view/tutorial/TutorialType;)V
+
+    .line 618
+    :goto_0
+    iget-object p0, p0, Lcom/sonymobile/photopro/SetupWizardActivity$11;->this$0:Lcom/sonymobile/photopro/SetupWizardActivity;
+
+    const/4 p1, 0x0
+
+    invoke-static {p0, p1}, Lcom/sonymobile/photopro/SetupWizardActivity;->access$1002(Lcom/sonymobile/photopro/SetupWizardActivity;Lcom/sonymobile/photopro/view/rotatableview/RotatableDialog;)Lcom/sonymobile/photopro/view/rotatableview/RotatableDialog;
+
+    return-void
+.end method

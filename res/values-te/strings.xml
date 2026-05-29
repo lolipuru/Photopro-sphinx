@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">హోమ్‌కు నావిగేట్ చేస్తుంది</string>
+    <string name="abc_action_bar_up_description">పైకి నావిగేట్ చేస్తుంది</string>
+    <string name="abc_action_menu_overflow_description">మరిన్ని ఎంపికలు</string>
+    <string name="abc_action_mode_done">పూర్తయింది</string>
+    <string name="abc_activity_chooser_view_see_all">అన్నీ చూడండి</string>
+    <string name="abc_activitychooserview_choose_application">యాప్‌ను ఎంచుకోండి</string>
+    <string name="abc_capital_off">ఆఫ్</string>
+    <string name="abc_capital_on">ఆన్</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">స్పేస్</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">వెతకండి…</string>
+    <string name="abc_searchview_description_clear">ప్రశ్నను తీసివేస్తుంది</string>
+    <string name="abc_searchview_description_query">శోధన ప్రశ్న</string>
+    <string name="abc_searchview_description_search">శోధన</string>
+    <string name="abc_searchview_description_submit">ప్రశ్నని సమర్పిస్తుంది</string>
+    <string name="abc_searchview_description_voice">వాయిస్ శోధన</string>
+    <string name="abc_shareactionprovider_share_with">వీరితో షేర్ చేస్తుంది</string>
+    <string name="abc_shareactionprovider_share_with_application">%sతో షేర్ చేస్తుంది</string>
+    <string name="abc_toolbar_collapse_description">కుదిస్తుంది</string>
+    <string name="ble_remote_control_button_any_problem_txt">సమస్యా పరిష్కారం</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">కొత్త కంట్రోలర్‌ను జత చేయి</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">మీరు Bluetooth రిమోట్ కంట్రోల్‌లో C1 బటన్‌కు మరొక విధిని కేటాయించండి</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">C1 బటన్ అనుకూలీకరణ</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">కేంద్రీకరణ విధానం</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">లెన్సు</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">షూటింగ్ విధానం</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">ప్రధాన/ముందు కెమెరా మధ్య మారండి</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">ఫోటో/వీడియోను మార్చు</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">లెన్సు</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">AF/MF మార్చండి</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">ప్రధాన/ముందు కెమెరా మధ్య మారండి</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">అనుమతించడం</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">నిరాకరించడం</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">ఈ ఫీచర్ కోసం Bluetoothని ఉపయోగించడానికి అప్లికేషన్‌ను అనుమతించాలా?</string>
+    <string name="ble_remote_control_description_txt">"మీరు %1$sలో విధులను రిమోట్‌గా ఉపయోగించడానికి Bluetooth ద్వారా Sony రిమోట్ కంట్రోల్‌ను జత చేయవచ్చు.
+కొత్త పరికరాన్ని జత చేయడం ప్రారంభించడానికి కొత్త కంట్రోలర్‌ను జత చేయి ట్యాప్ చేయండి."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">ఇప్పటికే జత చేయబడింది</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">రిమోట్‌ను పరికరంతో జత చేయలేకపోతే, సెట్టింగ్‌‌లకు వెళ్లి, రిమోట్ ఇప్పటికే Bluetooth పరికర జాబితాలో నమోదు చేయబడిందేమో తనిఖీ చేయండి. ఇప్పటికే నమోదు చేయబడితే, జాబితా నుండి రిమోట్‌ను తీసివేసి, మళ్లీ దానిని జత చేయడానికి ప్రయత్నించండి.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">సమస్యా పరిష్కారం</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">అంగీక., ఆన్ చే.</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">తిరస్కరించు</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">నిష్క్రమించు</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">సెట్టింగ్‌లకు వెళ్లు</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">సరే</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Bluetooth ఆఫ్ చేయబడినందున జత చేయడం రద్దు చేయబడింది</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">టైమ్ఔట్ కారణంగా జత చేయడం విఫలమైంది. తర్వాత మళ్ళీ ప్రయత్నించండి.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">తీవ్ర ఉపయోగంలో ఉన్నప్పుడు జాగ్రత్త కోసం ఈ పరికరం నిర్దిష్ట విధులను పరిమితం చేయవచ్చు. మీరు కెమెరా సమర్థత మోడ్‌ను ఆన్ చేసినట్లయితే, అప్లికేషన్ అత్యధిక పనితీరును కొనసాగిస్తుందని సూచించడానికి ఒక ఐకాన్ ప్రదర్శించబడుతుంది. ఈ ఐకాన్ ప్రదర్శించబడినప్పుడు, మీరు ఎక్కువ సమయంపాటు అప్లికేషన్‌ను ఉపయోగించవచ్చు.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Bluetooth ద్వారా కనెక్ట్ చేయబడిన రిమోట్ కంట్రోల్‌తో %1$sని ఉపయోగిస్తున్నప్పుడు మాత్రమే కెమెరా సమర్థత మోడ్ అందుబాటులో ఉంటుంది. %1$sని మూసివేయడం వలన ఈ విధి నిలిపివేయబడుతుంది.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">పరికర ఉష్ణోగ్రత సాధారణ ఆపరేటింగ్ ఉష్ణోగ్రత కంటే ఎక్కువగా పెరగవచ్చు. ఉష్ణోగ్రత పెరిగినప్పుడు, నోటిఫికేషన్ మరియు ఐకాన్ మిమ్మల్ని అప్రమత్తము చేస్తుంది. ఈ సందర్భంలో, మీ చేతితో పరికరాన్ని ఎల్లప్పుడూ పట్టుకుని ఉండవద్దు. కొనసాగించడానికి ముందు Bluetooth ద్వారా రిమోట్ కంట్రోల్ కనెక్ట్ చేయబడినట్లు నిర్ధారిస్తున్నారు.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">గమనిక</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"పరికర ఉష్ణోగ్రత చాలా అధికంగా ఉంది. %1$s చల్లబడటానికి తాత్కాలికంగా షట్ డౌన్ చేయబడింది.
+మీరు Bluetooth రిమోట్ కంట్రోల్‌ను కనెక్ట్ చేసినప్పుడు, మీరు కెమెరా సమర్థత మోడ్‌తో %1$sను ఉపయోగించడం కొనసాగించవచ్చు."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"పరికర ఉష్ణోగ్రత చాలా అధికంగా ఉంది. %1$s చల్లబడటానికి తాత్కాలికంగా షట్ డౌన్ చేయబడింది.
+మీరు Bluetooth రిమోట్ కంట్రోల్‌ను కనెక్ట్ చేసినట్లయితే, మీరు కెమెరా సమర్థత మోడ్‌తో %1$sను ఉపయోగించవచ్చు."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">ఈ ఫంక్షన్‌ను ఉపయోగించడానికి, Bluetooth ద్వారా రిమోట్ కంట్రోల్‌ను జత చేసిన తర్వాత [రిమోట్ కంట్రోల్ ఉపయోగించండి]ని ప్రారంభించండి.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"పరికర ఉష్ణోగ్రత చాలా అధికంగా ఉంది. %1$s చల్లబడటానికి తాత్కాలికంగా షట్ డౌన్ చేయబడింది.
+మీరు కెమెరా సమర్థత మోడ్‌ను ఆన్ చేసినప్పుడు, మీరు %1$sను Bluetooth రిమోట్ కంట్రోల్‌తో ఉపయోగించవచ్చు."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"ఈ విధిని ప్రారంభించడానికి, కనెక్ట్ చేసిన రిమోట్ కంట్రోల్‌తో ఇంటరాక్ట్ చేయండి.
+రద్దు చేయడానికి, నిష్క్రమించు ట్యాప్ చేయండి."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">కెమెరా సమర్థత మోడ్ ప్రారంభించబడింది</string>
+    <string name="ble_remote_control_endurance_mode_txt">కెమెరా సమర్థత మోడ్</string>
+    <string name="ble_remote_control_off_txt">ఆఫ్</string>
+    <string name="ble_remote_control_on_txt">ఆన్</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"జత చేయడం ప్రారంభించడానికి, రిమోట్ కంట్రోలర్‌తో ఇంటరాక్ట్ చేయండి.
+మీరు నోటిఫికేషన్‌లు మరియు డైలాగ్‌లను రెండుసార్లు స్వీకరిస్తారు. అన్నింటిలోనూ జత చేయి ఎంచుకుని, ఆపై జత చేయడం పూర్తి చేయడానికి జత చేసిన పరికరంలో ఏదైనా కీని నొక్కండి."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">కొత్త కంట్రోలర్‌ను జత చేయి</string>
+    <string name="ble_remote_control_title_txt">Bluetooth రిమోట్ కం.</string>
+    <string name="ble_remote_control_use_remote_controller_txt">రిమోట్ కంట్రోల్ ఉపయోగి.</string>
+    <string name="expand_button_title">అధునాతన</string>
+    <string name="external_display_connected_description_txt">మీరు వీలాగ్ మానిటర్ నుండి వ్యూఫైండర్ తనిఖీ చేయండి</string>
+    <string name="external_display_connected_title_txt">వీలాగ్ మానిటర్ కనెక్ట్ చేయబడింది</string>
+    <string name="external_display_note_about_external_mic_txt">గమనిక: బాహ్య మైక్‌ను ఉపయోగించడానికి, దయచేసి రికార్డ్ చేయడానికి ముందు వీలాగ్ మానిటర్‌కు దానిని కనెక్ట్ చేయండి. మీరు తర్వాత దీనిని కనెక్ట్ చేసినట్లయితే, మీరు వీలాగ్ మానిటర్‌ను మళ్లీ కనెక్ట్ చేయాలి.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">మీరు ఇంతకు ముందు గోప్యతా విధానాన్ని అంగీకరించారు, కానీ మీరు మీ నిర్ణయాన్ని మార్చుకోవచ్చు.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">ఎడమ బాణం</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">కుడి బాణం</string>
+    <string name="photopro_strings_accessibility_back_txt">వెనుకకు</string>
+    <string name="photopro_strings_accessibility_close_txt">మూసివేయి</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">ప్రాప్యత సౌలభ్యం: &lt;a href=\"%s\">పాక్షికంగా అనుకూలంగా ఉంది&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">మరింత చదవండి</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">లెన్స్ బటన్</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">కాన్ఫిగర్ చేయలేరు</string>
+    <string name="photopro_strings_accessibility_previous_txt">మునుపటి</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">ఇటీవల ఫోటోల స్టాక్</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">వీడియో రికార్డింగ్‌ను ప్రారంభించండి</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">వీడియో రికార్డింగ్‌ను పాజ్ చేయండి</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">వీడియో రికార్డింగ్‌ను పునఃప్రారంభించండి</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">వీడియోను రికార్డ్ చేస్తున్నప్పుడు స్నాప్‌షాట్ తీయండి</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">వీడియో రికార్డింగ్‌ను ఆపివేయండి</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">కౌంట్ డౌన్ ఆపివేస్తుంది</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">షటర్</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">ప్రధాన మరియు ముందు కెమెరాల మధ్య మారండి</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">ఫోటో మరియు వీడియో మధ్య మారండి</string>
+    <string name="photopro_strings_accessibility_title_txt">ప్రాప్యత సౌలభ్యం</string>
+    <string name="photopro_strings_addon_button_menu_txt">మరిన్ని</string>
+    <string name="photopro_strings_addon_creative_effect_txt">సృజనాత్మక ప్రభావం</string>
+    <string name="photopro_strings_addon_panorama_txt">పనోరమ</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">పోర్ట్రెయిట్ సెల్ఫీ</string>
+    <string name="photopro_strings_addon_slow_motion_txt">నెమ్మది కదలిక</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">స్థానాలను సేవ్ చేయడానికి, మీరు GPS మరియు/లేదా వైర్‌లెస్ నెట్‌వర్క్‌లను ఎనేబుల్ చేయాలి. ఇప్పుడే ఎనేబుల్ చేయాలా?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">స్థానాన్ని సేవ్ చేయి</string>
+    <string name="photopro_strings_anonymous_analytics_txt">అనామక విశ్లేషణలు</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">ముందు ఫోటో</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">ముందు వీడియో</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">వీడియో</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">ఫోటోల కారక నిష్పత్తిని ఎంచుకోండి</string>
+    <string name="photopro_strings_aspect_ratio_txt">కారక నిష్పత్తి</string>
+    <string name="photopro_strings_audio_on_all_txt">ఆన్: అన్ని</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">ఆన్: షటర్ మాత్రమే</string>
+    <string name="photopro_strings_audio_signals_description_txt">సెల్ఫ్-టైమర్ కౌంట్ డౌన్ అవుతున్నప్పుడు లేదా ఫోకస్ చేస్తున్నప్పుడు వంటి సమయాల్లో కెమెరా ధ్వనులను ప్లే చేయాలో, వద్దో సెట్ చేయండి. మీరు షట్టర్ ధ్వనిని మాత్రమే ప్లే చేయడానికి కూడా ఎంచుకోవచ్చు.</string>
+    <string name="photopro_strings_audio_signals_txt">ఆడియో సిగ్నల్‌లు</string>
+    <string name="photopro_strings_auto_power_off_txt">నిష్క్రియం కారణంగా Photo Pro త్వరలో మూసివేయబడుతుంది</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">నేపథ్యకాంతి చిత్తరువు</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">నేపథ్య కాంతి</string>
+    <string name="photopro_strings_auto_scene_document_txt">పత్రం</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">గోర్మెట్</string>
+    <string name="photopro_strings_auto_scene_infant_txt">శిశువు</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">ల్యాండ్‌స్కేప్</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">తక్కువ కాంతి</string>
+    <string name="photopro_strings_auto_scene_macro_txt">మ్యాక్రో</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">రాత్రి చిత్తరువు</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">రాత్రి సీన్</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">స్వయంచాలక సీన్ గుర్తింపు</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">మృదువైన స్నాప్</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">స్పాట్‌లైట్</string>
+    <string name="photopro_strings_bokeh_button_txt">బొకె</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">లెన్స్ శుభ్రంగా ఉందని మరియు మీ వేలు లెన్స్‌పై లేదని నిర్ధారించుకోండి</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">చాలా ప్రకాశవంతంగా ఉంది</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">ఆబ్జెక్ట్ నుండి మరింత దూరంగా వెళ్లండి</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">మరింత కాంతి అవసరం</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">ఆబ్జెక్ట్‌కు దెగ్గరిగా వెళ్లండి</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">ప్రస్తుతం బొకె అందుబాటులో లేదు</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">బొకె ఆన్</string>
+    <string name="photopro_strings_bokeh_txt">బొకె</string>
+    <string name="photopro_strings_bt_remote_control_txt">Bluetooth రిమోట్ కం.</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">నిరంతర షూటింగ్ ఫోటోలు అంతర్గత నిల్వలో సేవ్ చేయబడ్డాయి</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">స్లో షటర్ వేగంతో నిరంతర షూటింగ్‌ను ఉపయోగించలేరు</string>
+    <string name="photopro_strings_button_continue_txt">కొనసాగించు</string>
+    <string name="photopro_strings_button_quit_txt">నిష్క్రమించు</string>
+    <string name="photopro_strings_cancel_txt">రద్దు చేయి</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">స్లో మోషన్</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K వీడియో</string>
+    <string name="photopro_strings_change_txt">మార్చు</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">రీసెట్</string>
+    <string name="photopro_strings_color_and_brightness_txt">రంగు మరియు ప్రకాశం</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">అంతర్గత నిల్వ నిండింది. బదులుగా SD కార్డ్‌లో డేటాను సేవ్ చేయాలా?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">అంతర్గత నిల్వ పాడైంది లేదా వ్రాత రక్షితమైనది. బదులుగా SD కార్డ్‌లో డేటాను సేవ్ చేయాలా?</string>
+    <string name="photopro_strings_common_error_open_txt">%1$sని తెరవలేదు</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">SD కార్డ్ నిండింది. బదులుగా అంతర్గత నిల్వలో డేటాను సేవ్ చేయాలా?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">SD కార్డ్‌ను ఉపయోగించలేరు. బదులుగా అంతర్గత నిల్వలో డేటాను సేవ్ చేయాలా?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">నిరంతర షూటింగ్ అభిప్రాయం</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">కింది విధులు ప్రస్తుతం డిసేబుల్ చేయబడ్డాయి.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">దయచేసి మీ పరికరం చల్లబడే వరకు వేచి ఉండండి, ఆపై కెమెరాను తిరిగి ప్రారంభించండి.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">కింది విధులు డిసేబుల్ చేయబడ్డాయి</string>
+    <string name="photopro_strings_cooling_mode_txt">పరికరం ఉష్ణోగ్రత పెరగకుండా నివారించడానికి కొన్ని ఫీచర్‌లు నిలిపివేయబడ్డాయి</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">AEL బటన్‌కు మరొక విధిని కేటాయించండి</string>
+    <string name="photopro_strings_custom_ael_txt">AEL బటన్ అనుకూలీకరణ</string>
+    <string name="photopro_strings_custom_disp_description_txt">"DISP బటన్‌ను ట్యాప్ చేయడం ద్వారా, మీరు వ్యూఫైండర్‌లో సమాచారాన్ని చూపవచ్చు/దాచవచ్చు.
+మీరు DISP బటన్‌తో సమాచారాన్ని ప్రదర్శిస్తున్నప్పుడు మీరు చూపకూడదనుకునే ఈ మెనులోని ఏదైనా ఐటమ్ ఎంపిక తీసివేయండి."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">హిస్టోగ్రామ్</string>
+    <string name="photopro_strings_custom_disp_level_txt">స్థాయి</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">హెడర్ సమాచారం</string>
+    <string name="photopro_strings_custom_disp_txt">DISP బటన్ అనుకూలీకరణ</string>
+    <string name="photopro_strings_custom_fn_description_txt">"మీరు విధి మెనులో సెట్టింగ్ ఐటమ్‌లను మళ్లీ కేటాయించవచ్చు లేదా వాటి క్రమాన్ని మార్చవచ్చు.
+ఎడమవైపున ఉన్న జాబితా నుండి మీ ఎంపికకు మరొక విధిని కేటాయించడానికి దిగువ విధి ఐటమ్‌ల్లో ఒకదానిని ట్యాప్ చేయండి.
+క్రమాన్ని మార్చడానికి కింది విధి ఐటమ్‌ల్లో దేనినైనా లాగి, వదలండి."</string>
+    <string name="photopro_strings_custom_fn_txt">విధి మెను అనుకూలీకరణ</string>
+    <string name="photopro_strings_custom_none_txt">కేటాయించబడలేదు</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">మీరు ఇంతకు ముందు గోప్యతా విధానాన్ని నిరాకరించారు.</string>
+    <string name="photopro_strings_description_custom_ael_txt">ఆటో ఎక్స్‌పోజర్‌ను లాక్ చేయండి</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">ISOను స్వయంకు సెట్ చేయండి</string>
+    <string name="photopro_strings_description_custom_none_txt">AEL బటన్‌ను నిలిపివేయండి</string>
+    <string name="photopro_strings_device_id_txt">పరికరం ID</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">ఫోన్‌లో తగినంత బ్యాటరీ లేదు. బ్యాటరీ తక్కువగా ఉన్నప్పుడు, కెమెరా స్వయంచాలకంగా మూసివేయబడుతుంది.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">తక్కువ బ్యాటరీ కారణంగా రికార్డింగ్ ఆపివేయబడింది. మీ పరికరాన్ని ఛార్జ్ చేసి, మళ్లీ ప్రయత్నించండి.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">తక్కువ బ్యాటరీ కారణంగా కెమెరాను ఉపయోగించలేరు. మీ పరికరాన్ని ఛార్జ్ చేసి, మళ్లీ ప్రయత్నించండి.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">ఈ చర్యను అమలు చేయడానికి అప్లికేషన్‌కు కింది అనుమతి(తులు) అవసరం.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"నెట్‌వర్క్
+Wi-Fiకు కనెక్ట్ చేయడానికి"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"ఎయిర్‌ప్లైన్ మోడ్ ఆన్‌లో ఉంది.
+దయచేసి సెట్టింగ్‌లు నుండి ఎయిర్‌ప్లైన్ మోడ్‌ని ఆఫ్ చేయండి."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"నెట్‌వర్క్ పేరు: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi ఆఫ్ చేయబడింది మరియు ఎయిర్‌ప్లైన్ మోడ్ ఆన్ చేయబడింది.
+దయచేసి సెట్టింగులపై టాప్ చేయడం ద్వారా ఈ సెట్టింగ్‌లను మార్చండి."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi ఆఫ్‌లో ఉంది.
+దయచేసి సెట్టింగ్‌లు నుండి Wi-Fiని ఆన్ చేయండి."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">సెట్టింగులు</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">అనుమతించడం</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">నిరాకరించడం</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">గమనిక</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">కాలిబ్రేట్ చే.</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">రీసెట్ చేయి</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">తగినంత అంతర్గత నిల్వ స్థలం లేదు. నిరంతర షూటింగ్ ఆపివేయబడింది. నిల్వ స్థలాన్ని ఖాళీ చేయడానికి కొన్ని ఫైల్‌లను తొలగించండి.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">అనుమతి మంజూరు చేయడం</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">కనెక్ట్ చేస్తోంది...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+పాస్‌వర్డ్ రక్షణ: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+భద్రత: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Wi-Fiకి కనెక్ట్ చేయడం సాధ్యపడలేదు</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">మీరు దిగువన అంగీకరించినట్లయితే, Sony మీ &lt;b>&lt;a href=#personal-data>వ్యక్తిగత డేటా&lt;/a>&lt;/b>ను సేకరించి, అనుకూలీకరించిన మద్దతు అందిస్తుంది మరియు పరికరాలు మరియు సేవలను మెరుగుపరుస్తుంది. Sony మా &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>గోప్యతా విధానం&lt;/a>&lt;/b> ప్రకారం మీ డేటాను నిర్వహిస్తుంది.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">మీరు అధిక కాంట్రాస్ట్ సీన్‌లో కూడా వీడియోలను రికార్డ్ చేయవచ్చు మరియు మీరు నిజ జీవితంలో చూసే వాటికి మరింత నాటకీయంగా మరియు సరిపడేలా చేయవచ్చు. దయచేసి విషయాన్ని దాని అసలు రంగు మరియు ప్రకాశంతో ఆస్వాదించడానికి మద్దతు గల పరికరాలు/సేవలను ఉపయోగించండి.</string>
+    <string name="photopro_strings_do_not_show_again_txt">మళ్లీ చూపవద్దు</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">HDR నిరంతర షూటింగ్: అధికం</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">HDR నిరంతర షూటింగ్: తక్కువ</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">నిరంతర షూటింగ్: అధికం</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">నిరంతర షూటింగ్: తక్కువ</string>
+    <string name="photopro_strings_drive_continuous_txt">నిరంతర షూటింగ్</string>
+    <string name="photopro_strings_drive_mode_txt">డ్రైవ్ మోడ్</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">సెల్ఫ-టైమర్: 10 సెక</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">సెల్ఫ్-టైమర్: 3 సెక</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">సెల్ఫ్-టైమర్: ఆఫ్</string>
+    <string name="photopro_strings_drive_single_txt">ఏక షూటింగ్</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">స్వీయ HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">ఈ సెట్టింగ్ విలువల పరిధిని ఆప్టిమైజ్ చేస్తుంది. DRO ప్రక్రియ ఒకే చిత్రాన్ని ఉపయోగిస్తుంది, అయితే స్వీయ HDR ఫలితాన్ని పొందడానికి బహుళ ఎక్స్‌పోజర్‌లను మిళితం చేస్తుంది.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">D-పరిధిని ఆప్టిమైజర్</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/స్వీయ HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">కెమెరాను ప్రారంభించలేరు. కెమెరా లేదా పరికరాన్ని తిరిగి ప్రారంభించండి.</string>
+    <string name="photopro_strings_error_dialog_title_txt">దోషం</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">ఫోటోలను సేవ్ చేయలేరు. డేటా నిల్వతో సమస్య ఉండవచ్చు. డేటా నిల్వను SD కార్డుకు సెట్ చేసినట్లయితే, మీ SD కార్డు చెక్ చేయండి.</string>
+    <string name="photopro_strings_error_fatal_txt">తెలియని దోషం.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">వద్దు</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">అవును</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">కెమెరా చల్లబడటానికి ఇప్పుడు తాత్కాలికంగా ఆపివేయబడుతుంది. మీ రికార్డింగ్ సేవ్ చేయబడుతుంది. పరికరం చల్లబడిన తర్వాత అప్లికేషన్‌ను పునఃప్రారంభించండి.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">మెమొరీ నిండింది. SD కార్డు లేదా అంతర్గత నిల్వ నుంచి కొన్ని ఫైళ్లను తొలగించండి.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">మెమరీ అందుబాటులో లేదు</string>
+    <string name="photopro_strings_error_memory_title_txt">మెమరీ దోషం</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD కార్డ్ అందుబాటులో లేదు</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">ఎక్స్‌పోజర్‌ కాంపెన్సేషన్</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"మీరు వ్యక్తులు మరియు జంతువుల ముఖం లేదా కళ్లపై ఫోకస్ చేస్తూ పోట్రైట్ చిత్రీకరణ ఫోటోలు తీయవచ్చు.
+కేంద్రీకరణ లక్ష్యాలను మార్చడానికి, మీరు కేంద్రీకరించాలనుకుంటున్న సబ్జెక్టు ముఖంపై ట్యాప్ చేయండి."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"మీరు వ్యక్తులు మరియు జంతువుల ముఖం లేదా కళ్లపై కేంద్రీకరణ చేసి వీడియోలను తీయవచ్చు.
+కేంద్రీకరణ లక్ష్యాలను మార్చడానికి, మీరు కేంద్రీకరించాలనుకుంటున్న సబ్జెక్టు ముఖంపై ట్యాప్ చేయండి.
+గమనిక: ఈ సెట్టింగ్‌ను ప్రారంభించినప్పుడు, పరికర ఉష్ణోగ్రతలో పెంపుదల కారణంగా రికార్డింగ్ వ్యవధి తగ్గిపోవచ్చు."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">ఫేస్ డిటెక్షన్/కన్ను AF ఆన్</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">ముఖం/కన్ను AF</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">ముఖం/కన్ను AF: ఆఫ్</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">ముఖం/కన్ను AF: ఆన్</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">ఈ విధిని ఉపయోగించడానికి స్క్రీన్‌ను అన్‌లాక్ చేయండి</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">సెట్టింగులను తెరవడానికి, స్క్రీన్‌ను అన్‌లాక్ చేయండి.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">స్క్రీన్ లాక్ అయ్యింది</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"బొకె ప్రభావాన్ని సర్దుబాటు చేయడానికి, వ్యుఫైండర్‌లోని బొకె ఐకాన్‌పై ట్యాప్ చేసి, స్లయిడర్‌ని కదిలించండి.
+ఈ విధికి ప్రాథమిక (ఫోటో) మోడ్‌లో మద్దతు ఉంది.
+నేపథ్యాన్ని అస్పష్టం చేయడం ద్వారా అద్భుతమైన కాంట్రాస్ట్‌తో మీ సబ్జెక్టుల పాప్ చేయండి."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">బొకె ప్రభావంతో ఫోటోలను తీయండి</string>
+    <string name="photopro_strings_feature_bokeh_txt">బొకె ప్రభావం</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">డ్రైవ్ విధానాన్ని సింగిల్ లేదా నిరంతర షూటింగ్‌కు లేదా సెల్ఫ్-టైమర్‌కు మార్చవచ్చు.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">డ్రైవ్ మోడ్</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"ముందు కెమెరాతో ఫోటోలను తీసుకుంటున్నప్పుడు, మీ కళ్ళ దృష్టిని చెవి స్పీకర్ దగ్గరా ముందు కెమెరా లెన్స్‌పై పెట్టండి.
+మీ కళ్లు ఫోటోలో సరైన దిశలో చూస్తాయి."</string>
+    <string name="photopro_strings_feature_eye_position_txt">కళ్లు దిశ</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"మీరు వ్యక్తులు మరియు జంతువుల ముఖం లేదా కళ్లపై ఫోకస్ చేస్తూ పోట్రైట్ చిత్రీకరణ ఫోటోలు తీయవచ్చు.
+కేంద్రీకరణ లక్ష్యాలను మార్చడానికి, మీరు కేంద్రీకరించాలనుకుంటున్న సబ్జెక్టు ముఖంపై ట్యాప్ చేయండి. ఈ విధిని మెను > ముఖం/కన్ను AF నుండి ప్రారంభించవచ్చు లేదా నిలిపివేయవచ్చు."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">ముఖం/కన్ను AF</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"మీ అరచేతిని కెమెరావైపుగా తిప్పండి. మీ అరచేతిని గుర్తించినప్పుడు సెల్ఫీ-టైమర్ కౌంట్ డౌన్ ప్రారంభమవుతుంది. ఇది సులభంగా గుర్తించడానికి, మీ వేళ్లను పైకి సాగదీయండి.
+ఈ విధిని ప్రారంభించడానికి, ప్రాథమిక (ఫోటో) మోడ్‌లో ఉన్నప్పుడు ముందు కెమెరాకు మారి, మెనులోని హ్యాండ్ షటర్‌ను ఆన్ చేయండి."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">హ్యాండ్ షటర్</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"అత్యధిక విస్తృత లెన్స్ (0.7x)ను ఉపయోగించినప్పుడు, మీరు ప్రాధాన్యతను ఎంచుకోవచ్చు. చిత్ర నాణ్యత ప్రాధాన్యపరచండి ఎంచుకోవడం ద్వారా, మీరు అత్యధిక నాణ్యతా చిత్రాలను సంగ్రహించవచ్చు. మీరు వక్రీకరణ కోసం ప్రాధాన్యత సవరణను ఎంచుకున్నట్లయితే, మీరు దృశ్యమాన వక్రీకరణను తగ్గించవచ్చు.
+అత్యధిక విస్తృత లెన్సును ఉపయోగించి ఫోటోలను తీస్తున్నప్పుడు ఈ విధి యాక్టివ్‌గా ఉంటుంది. అత్యధిక విస్తృత లెన్సుకు మారిన తర్వాత, మీరు మెను > అత్యధిక విస్తృత లెన్స్ సవరణ నుండి ప్రాధాన్యతను కాన్ఫిగర్ చేయవచ్చు."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">లెన్స్ సర్దుబాటు (ఫోటో)</string>
+    <string name="photopro_strings_feature_list_title_txt">ఫీచర్‌లకు పరిచయం</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"సులభంగా బొకె మరియు సౌందర్య ప్రభావాలను ఉపయోగించి కళాత్మక సెల్ఫీని సంగ్రహించండి.
+ఈ విధిని ఉపయోగించడానికి, వ్యూఫైండర్‌లో మరిన్ని ట్యాప్ చేసి, పోర్ట్రెయిట్ సెల్ఫీని ఎంచుకోండి.
+మీ సెల్ఫీని స్టైల్ చేసి, సృజనాత్మక ఫలితాలను ఆనందించండి."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">పోర్ట్రెయిట్ సెల్ఫీ</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"మీరు QR కోడ్‌ను స్కాన్ చేయడం ద్వారా వేగంగా వెబ్‌ను యాక్సెస్ చేయండి లేదా Wi-Fiకు కనెక్ట్ చేయండి.
+ప్రాథమిక (ఫోటో) మోడ్‌లో ఉన్నప్పుడు ఈ విధి యాక్టివ్‌గా ఉంటుంది. ఈ విధిని మెను > QR Code రీడర్ నుండి ప్రారంభించవచ్చు లేదా నిలిపివేయవచ్చు."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code రీడర్</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code రీడర్</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">అవి తీసుకోబడిన స్థానాలతో మీ ఫోటోలు మరియు వీడియోలు ట్యాగ్ చేయండి. మీరు మెను > స్థానాన్ని సేవ్ చేయి ఎంపిక నుండి తర్వాత ఈ సెట్టింగ్ మార్చవచ్చు.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">స్థానాన్ని సేవ్ చేయాలా?</string>
+    <string name="photopro_strings_feature_selfie_txt">ముందు కెమెరా</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">మీరు HDలో 120 fps స్లో మోషన్ వీడియోను రికార్డ్ చేయవచ్చు</string>
+    <string name="photopro_strings_feature_slow_motion_txt">నెమ్మది కదలిక</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"మీ సృజనాత్మకతను సవాలు చేయడానికి ఏదైనా పరిస్థితిలో సంగ్రహించడానికి మీరు సులభంగా కెమెరా లెన్స్‌ల మధ్య మారవచ్చు.
+0.7x (అత్యధిక విస్తృత), 1.0x (విస్తృత), 2.9x (టెలీఫోటో) మరియు 4.4x (టెలీఫోటో) లెన్సుల మధ్య మారడానికి వ్యూఫైండర్‌లోని బటన్‌ను ట్యాప్ చేయండి.
+ఈ చర్యను మీరు ఫోటో మరియు వీడియో విధానం రెండింటిలో ఉపయోగించవచ్చు."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">బటన్‌తో కోణం మార్చండి</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"మీ సృజనాత్మకతను సవాలు చేయడానికి ఏదైనా పరిస్థితిలో సంగ్రహించడానికి మీరు సులభంగా కెమెరా లెన్స్‌ల మధ్య మారవచ్చు.
+0.7x (అత్యధిక విస్తృత), 1.0x (విస్తృత) మరియు 2.1x (ప్రామాణికం) లెన్సుల మధ్య మారడానికి వ్యూఫైండర్‌లోని బటన్‌ను ట్యాప్ చేయండి.
+ఈ చర్యను మీరు ఫోటో మరియు వీడియో విధానం రెండింటిలో ఉపయోగించవచ్చు."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">ట్రిపుల్ కెమెరా</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"లెన్స్ బటన్‌ను ట్యాప్ చేయడం వలన మీరు జూమ్ స్థాయిని సర్దుబాటు చేయడానికి ఉపయోగించగల స్లయిడర్ ప్రదర్శించబడుతుంది.
+మీరు జూమ్ చేయడానికి స్క్రీన్‌ను కూడా పించ్ చేయవచ్చు లేదా వాల్యూమ్ బటన్‌లను ఉపయోగించవచ్చు."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">జూమ్ ఇన్/అవుట్ ఎలా చేయాలి</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">తొలగించు</string>
+    <string name="photopro_strings_file_format_description_txt">"స్థిర చిత్రాల కోసం ఫైల్ ఫార్మాట్‌ను ఎంచుకోండి.
+
+RAW: తదుపరి-ప్రక్రియ ఫోటోలకు ప్రత్యేక సాఫ్ట్‌వేర్ అవసరం. చిత్రం క్షీణతను పరిమితం చేస్తూ సర్దుబాట్లు చేయడానికి ఇది మిమ్మల్ని అనుమతిస్తుంది. తదుపరి-ప్రక్రియ తర్వాత ముద్రించవచ్చు.
+RAW &amp; JPEG: తదుపరి ప్రక్రియ మరియు JPEG చిత్రాలు అవసరమయ్యే RAW చిత్రాలు రెండింటినీ సేవ్ చేస్తుంది.
+JPEG: JPEG చిత్రాలను సేవ్ చేస్తుంది.
+
+గమనికలు:
+RAW ఫార్మాట్ ఫైల్‌లు ఎల్లప్పుడూ 4:3 కారక నిష్పత్తితో అంతర్గత నిల్వకు సేవ్ చేయబడతాయి.
+RAW లేదా RAW &amp; JPEG ఎంచుకున్నప్పుడు నిరంతర షూటింగ్ మరియు స్వీయ HDR అందుబాటులో ఉండవు."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW మరియు JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">ఫైల్ ఫార్మాట్</string>
+    <string name="photopro_strings_flash_auto_txt">ఆటో</string>
+    <string name="photopro_strings_flash_description_txt">ఫ్లాష్ విధానాన్ని స్వీయ ఫ్లాష్, ఫ్లాష్‌ను పూరించే విధానం మొదలైన వాటికి సెట్ చేయండి.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">ఫ్లాష్‌ను పూరించు</string>
+    <string name="photopro_strings_flash_off_txt">ఆఫ్</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">ఎరుపు-కన్ను తగ్గింపు</string>
+    <string name="photopro_strings_flash_torch_description_txt">టార్చ్ ఆన్ చేయండి</string>
+    <string name="photopro_strings_flash_torch_off_txt">టార్చ్: ఆఫ్</string>
+    <string name="photopro_strings_flash_torch_on_txt">టార్చ్: ఆన్</string>
+    <string name="photopro_strings_flash_torch_txt">టార్చ్</string>
+    <string name="photopro_strings_flash_txt">ఫ్లాష్ మోడ్</string>
+    <string name="photopro_strings_focus_area_center_txt">మధ్య</string>
+    <string name="photopro_strings_focus_area_txt">కేంద్రీకరణ ప్రాంతం</string>
+    <string name="photopro_strings_focus_area_wide_txt">విస్తృత</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">ఫోకస్ ప్రాంతం ఫ్రేమ్ యొక్క రంగును సెట్ చేయండి</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">ఎరుపు</string>
+    <string name="photopro_strings_focus_frame_color_txt">ఫోకస్ ప్రాంతం రంగు</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">తెలుపు</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">నిరంతర AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">ఏక-షాట్ AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">కేంద్రీకరణ పద్ధతిని ఎంచుకోండి</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">ముఖ గుర్తింపు</string>
+    <string name="photopro_strings_focus_mode_mf_txt">మాన్యువల్ కేంద్రీకరణ</string>
+    <string name="photopro_strings_focus_mode_txt">కేంద్రీకరణ విధానం</string>
+    <string name="photopro_strings_geotagging_description_txt">మీ ఫోటోలు మరియు వీడియోలను వాటిని తీసిన స్థానాలతో సేవ్ చేయండి</string>
+    <string name="photopro_strings_geotagging_txt">స్థానాన్ని సేవ్ చేయి</string>
+    <string name="photopro_strings_gridline_description_txt">చిత్రాల కాంపోజిషన్‌తో మీకు సహాయపడటానికి గ్రిడ్ లైన్లను ప్రదర్శించాలో, వద్దో సెట్ చేయండి</string>
+    <string name="photopro_strings_gridline_txt">గ్రిడ్ లైన్లు</string>
+    <string name="photopro_strings_hand_shutter_description_txt">మీరు ముందు కెమెరా దిశగా మీ అరచేతిని తిప్పడం ద్వారా సెల్ఫ్-టైమర్ కౌంట్ డౌన్‌ను ప్రారంభించవచ్చు. ఇది సులభంగా గుర్తించడానికి, మీ వేళ్లను పైకి సాగదీయండి.</string>
+    <string name="photopro_strings_hand_shutter_txt">హ్యాండ్ షటర్</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">డిస్ప్లేతో ఇంటరాక్ట్ అవుతున్నప్పుడు హెప్టిక్ అభిప్రాయాన్ని పొందాలో, వద్దో సెట్ చేయండి, ఉదా. విధాన డయల్</string>
+    <string name="photopro_strings_haptic_feedback_txt">హెప్టిక్ అభిప్రాయం</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: ఆఫ్</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: ఆన్</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">నేర్పుగల గాలి ఫిల్టర్</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO సున్నితత్వం</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">మీరు పరికరం షటర్ బటన్‌ను నొక్కి, ఉంచడం ద్వారా Photography Proను లాంచ్ చేయవచ్చు. ఇది ఫోన్ నిద్రాణ మోడ్‌లో లేదా లాక్ చేయబడినప్పుటికీ పని చేస్తుంది.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Photography Proని ప్రారంభించు</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">షటర్ బటన్‌తో లాంచ్ చే.</string>
+    <string name="photopro_strings_lens_correction_description_txt">అత్యధిక విస్తృత లెన్సును ఉపయోగించినప్పుడు, మీరు ప్రాధాన్యతను ఎంచుకోవచ్చు. చిత్ర నాణ్యత ప్రాధాన్య. ఎంచు. ద్వారా, మీరు అత్య. నాణ్యతా చిత్రాలను సంగ్రహించవచ్చు. మీరు వక్రీకరణకు ప్రాధా. సవరణను ఎంచు., దృశ్యమాన వక్రీ.ను తగ్గించవచ్చు.</string>
+    <string name="photopro_strings_lens_correction_off_txt">చిత్ర నాణ్యత ప్రాధాన్యపరచండి</string>
+    <string name="photopro_strings_lens_correction_on_txt">వక్రీకరణ కోసం ప్రాధాన్యత సవరణ</string>
+    <string name="photopro_strings_lens_correction_txt">అత్యధిక విస్తృత లెన్స్‌ సవరణ</string>
+    <string name="photopro_strings_lens_txt">లెన్స్</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">కాలిబ్రేట్ చే.</string>
+    <string name="photopro_strings_level_calibration_description_txt">అవసరమైతే, మీరు వంపు దిశలో వ్యత్యాసాలను పరిష్కరించడానికి స్థాయిని కాలిబ్రేట్ చేయవచ్చు. కెమెరా క్షితిజ సమాంతరంగా ఉందని నిర్ధారించుకుని, ఆపై కాలిబ్రేట్ ఎంచుకోండి.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">కాలిబ్రేషన్ పూర్తయ్యింది</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">కాలిబ్రేషన్ సెట్టింగ్‌ రీసెట్ చేయబడింది</string>
+    <string name="photopro_strings_level_meter_calibration_txt">స్థాయి కాలిబ్రేషన్</string>
+    <string name="photopro_strings_lock_switch_txt">లాక్ చే.</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">గరిష్ట ఫైల్ పరిమాణం పరిమితి కారణంగా రికార్డింగ్ ఆపివేయబడింది</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">రికార్డు చేసే సమయ పరిమితి గరిష్టానికి చేరుకున్నందున రికార్డు చేయడం ఆపివేయబడింది</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">సేవ్ చేయలేరు. మెమరీ నిండింది.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">వర్తిం.</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">సేవ్ చేయి</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">సెట్ చేయి</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">విధానాలు మరియు సెట్టింగ్‌ల ప్రస్తుత కలయికను సేవ్ చెయ్యాలా?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"కెమెరా సెట్టింగ్‌లు సేవ్ చేయబడ్డాయి.
+మీరు MR షూటింగ్ విధానాన్ని ఉపయోగించి ఈ సెట్టింగ్‌లను సులభంగా రీకాల్ చేయవచ్చు."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">కెమెరా సెట్టింగ్‌ల మెమరీ</string>
+    <string name="photopro_strings_memory_recall_txt">రీకాల్ కెమెరా సెట్టింగ్‌లు</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">ఫోటో (ముందు భాగం)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">ఫోటో</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">స్లో మోషన్</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">వీడియో (ముందు భాగం)</string>
+    <string name="photopro_strings_menu_sub_video_txt">వీడియో</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">ఎక్స్‌పోజర్‌/రంగు</string>
+    <string name="photopro_strings_menu_tab_focus_txt">కేంద్రీకరణ</string>
+    <string name="photopro_strings_menu_tab_setup_txt">సెటప్</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">షూటింగ్</string>
+    <string name="photopro_strings_menu_title_txt">మెనూ</string>
+    <string name="photopro_strings_metering_center_txt">కేంద్రం</string>
+    <string name="photopro_strings_metering_multi_txt">మల్టీ</string>
+    <string name="photopro_strings_metering_spot_txt">స్పాట్</string>
+    <string name="photopro_strings_metering_txt">మీటరింగ్ మోడ్</string>
+    <string name="photopro_strings_mic_setting_description_txt">"వీడియో రికార్డింగ్ సమయంలో ఉపయోగించాల్సిన మైక్‌ను ఎంచుకోండి:
+1. LR మైక్: ఎడమ మరియు కుడి మైక్రోఫోన్‌లతో స్టీరియోను రికార్డ్ చేస్తుంది (పోట్రైట్ చిత్రీకరణ ఓరియెంటేషన్‌లో ఎగువ మరియు దిగువ)
+2. వెనుక మైక్: వెనుక మైక్రోఫోన్‌తో మోనో ధ్వనిని రికార్డ్ చేస్తుంది"</string>
+    <string name="photopro_strings_mic_setting_external_txt">బాహ్య మైక్</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">LR మైక్ (స్టీరియో)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">వెనుక మైక్ (మోనో)</string>
+    <string name="photopro_strings_mic_setting_txt">మైక్</string>
+    <string name="photopro_strings_mode_auto_description_txt">కెమెరా స్వయంచాలకంగా సీన్ యొక్క రకాన్ని గుర్తిస్తుంది మరియు అస్పష్టత మరియు కెమెరా కదలికలను తగ్గించడానికి స్వీయ సెట్టింగ్‌లతో ఫోటోలను తీస్తుంది.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">స్వీయ మోడ్</string>
+    <string name="photopro_strings_mode_basic_description_txt">"ఈ మోడ్‌లో, మీరు సాధారణ స్మార్ట్‌ఫోన్ కెమెరా అనుభవం వలె స్క్రీన్‌పై షటర్ బటన్‌ను ఉపయోగించి ఫోటోలను తీయవచ్చు.
+సెల్ఫీలను తీయడానికి, వీడియోలను షూట్ చేయడానికి మరియు QR కోడ్‌లను స్కాన్ చేయడానికి ఈ మోడ్‌ను ఉపయోగించండి."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">ప్రాథమిక విధానం</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">ఇది విధాన డయల్‌తో మోడ్‌లను మార్చుతున్నప్పుడు ప్రతి షూటింగ్ విధానం యొక్క వివరణను ప్రదర్శిస్తుంది</string>
+    <string name="photopro_strings_mode_dial_guide_txt">విధాన డయల్ గైడు</string>
+    <string name="photopro_strings_mode_m_description_txt">"మాన్యువల్‌గా షటర్ వేగం మరియు ISO సున్నితత్వాన్ని నియంత్రించండి.
+ఎక్కువ సమయంపాటు ఎక్స్‌పోజర్ కావడం వలన, మోషన్ బ్లర్ ఉపయోగించి ఆబ్జెక్ట్‌ల ట్రయలింగ్ మోషన్‌ను సంగ్రహించే ఫోటోలను తీయడానికి సాధ్యమవుతుంది."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">మాన్యువల్ ఎక్స్‌పోజర్</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">తెలివైన స్వీయం (మెమరీ రీకాల్)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"మీ సేవ్ చేసిన సెట్టింగ్‌లను ఉపయోగించి ఫోటోలు తీయండి.
+తరచూ ఉపయోగించే విధానాలు మరియు సెట్టింగ్‌ల కలయికను నమోదు చేయవచ్చు."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">మెమరీ రీకాల్</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">మాన్యువల్ బహిర్గత (మెమరీ రీకాల్l)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">ప్రోగ్రామ్ స్వీయం (మెమరీ రీకాల్)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">షటర్ వేగం ప్రాధాన్యత (మెమరీ రీకాల్)</string>
+    <string name="photopro_strings_mode_p_description_txt">కెమెరా స్వయంచాలకంగా షటర్ వేగాన్ని నియంత్రిస్తుంది, మిగిలిన సెట్టింగ్‌లను మీరు సెట్ చేయవచ్చు.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">స్వీయ ప్రోగ్రామ్</string>
+    <string name="photopro_strings_mode_s_description_txt">"మీరు కదిలే ఆబ్జెక్ట్‌లను ఎలా సంగ్రహించాలో మార్చడానికి మాన్యువల్‌గా షటర్ వేగాన్ని నియంత్రించండి.
+స్లో షటర్ వేగాలు చలన అస్పష్టతను ఉత్తమంగా సంగ్రహిస్తాయి కనుక చలనంలోని ఆబ్జెక్ట్‌ను ఫ్రీజ్ చేయడానికి వేగవంతమైన షటర్ వేగాలు కనిపిస్తాయి."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">షటర్ వేగం ప్రాధాన్యత</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">బదిలీ &amp; ట్యాగింగ్ యాడ్-ఆన్ మోడ్ ఆన్‌లో ఉన్నందున డ్రైవ్ మోడ్ స్వయంచాలకంగా సింగిల్ షూటింగ్‌కు సెట్ చేయబడింది</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">బదిలీ &amp; ట్యాగింగ్ యాడ్-ఆన్ మోడ్ ఆన్‌లో ఉన్నందున ఫైల్ ఫార్మేట్ స్వయంచాలకంగా JPEGకు సెట్ చేయబడింది</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">బహుళ-విండో లేదా పాప్-అప్ విండోలో కెమెరాను ఉపయోగించలేరు. విండోను మూసివేసి, మళ్లీ ప్రయత్నించండి. మీరు బహుళ-విండోను ఉపయోగిస్తున్నట్లయితే, మీరు కెమెరాను పూర్తి స్క్రీన్‌గా మార్చడానికి మధ్యలోని స్ప్లిట్ బార్‌ను లాగవచ్చు.</string>
+    <string name="photopro_strings_multi_window_txt">%1$s ను ఉపయోగించడానికి పూర్తి స్క్రీన్‌కు మారడానికి లైన్ విభజన మధ్యలో పట్టుకోని పైకి లేదా కిందికి లాగండి</string>
+    <string name="photopro_strings_ok_txt">సరే</string>
+    <string name="photopro_strings_personal_data_txt">వ్యక్తిగత డేటా</string>
+    <string name="photopro_strings_privacy_policy_txt">గోప్యతా విధానం</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">ఫోటో తీస్తోంది. దయచేసి వేచి ఉండండి.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">ఈ QR Code‌కి మద్దతు లేదు</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">మీ బ్రౌజర్‌లో \"%1$s\"ని తెరవడానికి టాప్ చే.</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">ఈ Wi-Fi నెట్‌వర్క్‌కు కనెక్ట్ చేయడం సాధ్యపడలేదు</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Wi-Fi నెట్‌వర్క్ కనెక్ట్ చేయ. టాప్ చే.: \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code రీడర్</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"మీరు QR కోడ్‌ను స్కాన్ చేయడం ద్వారా వేగంగా వెబ్‌ను యాక్సెస్ చేయండి లేదా Wi-Fiకు కనెక్ట్ చేయండి.
+ప్రాథమిక (ఫోటో) మోడ్‌లో ఉన్నప్పుడు ఈ విధి యాక్టివ్‌గా ఉంటుంది."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code రీడర్</string>
+    <string name="photopro_strings_rec_txt">REC</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Photo Proని డీఫాల్ట్ సెట్టింగ్‌లను సెచ్ చేయాలా?</string>
+    <string name="photopro_strings_reset_settings_txt">సెట్టింగ్‌లను రీసెట్ చేయి</string>
+    <string name="photopro_strings_reset_txt">రీసెట్ చేయి</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">ఫైల్ ఫార్మేట్ RAWకు సెట్ చేయబడినప్పుడు కారక నిష్పత్తిని మార్చలేరు</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">నిరంతర షూటింగ్ ఎంచుకున్నప్పుడు స్వీయ HDRని ఎంచుకోలేరు</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">JPEG కాకుండా ఇతర ఫైల్ ఫార్మేట్‌ను ఎంచుకున్నప్పుడు ఆడియో HDRను ఎంచుకోవడం సాధ్యం కాదు</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">ప్రస్తుతం ఎంచుకున్న లెన్సుతో బొకె ప్రభావం అందుబాటులో లేదు</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">బదిలీ &amp; ట్యాగింగ్ యాడ్-ఆన్ విధానం ఆన్‌లో ఉన్నప్పుడు బొకె ప్రభావం అందుబాటులో ఉండదు</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">ప్రస్తుతం ఎంచుకున్న లెన్స్‌తో నిరంతర షూటింగ్: అధికంను ఉపయోగించలేరు</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">బొకే ప్రభావం ఆన్‌లో ఉన్నప్పుడు నిరంతర షూటింగ్‌ను ఉపయోగించలేరు</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">AI అద్బుతమైన రిజల్యూషన్ జూమ్ ఎంచుకున్నప్పుడు నిరంతర షూటింగ్ అందుబాటులో ఉండదు</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">ఫైల్ ఫార్మాట్‌ను JPEG కాకుండా మరొక దానిని ఎంచుకున్నప్పుడు నిరంతర షూటింగ్‌ను ఉయోగించడం సాధ్యం కాదు</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">బదిలీ &amp; ట్యాగింగ్ యాడ్-ఆన్ విధానం ఆన్‌లో ఉన్నప్పుడు నిరంతర షూటింగ్ అందుబాటులో ఉండదు</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">మార్చలేరు</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">నిరంతర షూటింగ్ ఎంచుకోబడినప్పుడు ఫ్లాష్ విధానాన్ని ఉపయోగించలేరు</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">ప్రస్తుతం ఎంచుకున్న లెన్స్‌తో ఫ్లాష్ మోడ్‌ని ఉపయోగించలేరు</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">ప్రస్తుతం ఎంచుకున్న లెన్స్‌తో టార్చ్‌ను ఉపయోగించలేము</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">స్వీయ HDRను ఎంచుకున్నప్పుడు JPEG కాకుండా ఇతర దానికి ఫైల్ ఫార్మేట్‌ను మార్చడం సాధ్యం కాదు</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">నిరంతర షూటింగ్‌ను ఎంచుకున్నప్పుడు ఫైల్ ఫార్మాట్‌ను JPEG కాకుండా వేరొక దానికి మార్చడం సాధ్యం కాదు</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">బదిలీ &amp; ట్యాగింగ్ యాడ్-ఆన్ విధానం ఆన్‌లో ఉన్నప్పుడు ఫైల్ ఫార్మేట్‌ను JPEGకు కాకుండా ఇతర దానికి మార్చడం సాధ్యం కాదు</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">బాహ్య మైక్‌కు కనెక్ట్ చేసినప్పుడు ఈ సెట్టింగ్‌ను మార్చలేరు</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">ఈ సెట్టింగ్ ప్రస్తుత షటర్ వేగాన్ని మద్దతు ఇవ్వదు. ఈ సెట్టింగ్‌ను కాన్ఫిగర్ చేయడానికి, షటర్ వేగాన్ని 1 సెకన్ లేదా ఇంకా తక్కువకు మార్చండి.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">కారక నిష్పత్తి 4:3 ఎంచుకున్నప్పుడు RAWను ఎంచుకోవడం సాధ్యం కాదు</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">నెమ్మది కదలికలో రికార్డ్ చేస్తున్నప్పుడు వీడియో పరిమాణాన్ని మార్చడం సాధ్యం కాదు. ఈ సెట్టింగ్‌ను మార్చడానికి నెమ్మది కదలిక విధానం నుండి నిష్క్రమించండి.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">అత్యధిక విస్తృత లెన్సు ఉపయోగిస్తున్నప్పుడు మాత్రమే ఈ సెట్టింగ్ అందుబాటులో ఉంటుంది</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">HDR ఆన్‌తో ఈ సెట్టింగు అందుబాటులో లేదు. దీన్ని కాన్ఫిగర్ చేయడానికి HDRను ఆఫ్ చేయండి.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">ఈ సెట్టింగ్ ప్రస్తుత వీడియో పరిమాణానికి మద్దతు ఇవ్వదు. ఈ సెట్టింగ్‌ను కాన్ఫిగర్ చేయడానికి, వీడియో పరిమాణాన్ని మార్చండి.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">బొకె ప్రభావాన్ని ఉపయోగిస్తు. జూమ్ చేయలేరు</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">యాప్ సమాచారం</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">%1$s అనుమతి</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">ఈ చర్యను అమలు చేయడానికి అప్లికేషన్‌కు కింది అనుమతి(తులు) అవసరం.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">అనుమతులను మంజూరు చేయడానికి, అప్లికేషన్ సమాచారం > అనుమతులు కు వెళ్ళండి.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">కొనసాగించలేరు</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">ఫోటోలు తీయడానికి</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">ఫోటోలు మరియు వీడియోలను తీయడానికి</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">స్థానాన్ని తిరిగి పొందడానికి</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">ధ్వనిని రికార్డు చేయడానికి</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">సమీప పరికరాలకు కనెక్ట్ చేయడానికి</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">ఫోటోలు మరియు వీడియోలను చదవడానికి మరియు సేవ్ చేయడానికి</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">ఫోటోలు సేవ్ చేయడానికి</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">ఫోటోలు మరియు వీడియోలను సేవ్ చేయడానికి</string>
+    <string name="photopro_strings_save_destination_description_txt">మీ పరికరం యొక్క అంతర్గత నిల్వలో లేదా SD కార్డ్‌లో ఫోటోలు మరియు వీడియోలను నిల్వ చేయాలో, లేదో ఎంచుకోండి</string>
+    <string name="photopro_strings_save_destination_internal_txt">అంతర్గత నిల్వ</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD కార్డ్</string>
+    <string name="photopro_strings_save_destination_title_txt">డేటా నిల్వ</string>
+    <string name="photopro_strings_save_destination_txt">డేటా నిల్వ</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD కార్డ్ అందుబాటులో లేదు</string>
+    <string name="photopro_strings_selftimer_10_txt">10 సెక.</string>
+    <string name="photopro_strings_selftimer_3_txt">3 సెక.</string>
+    <string name="photopro_strings_selftimer_description_txt">నిర్దిష్ట సెకన్లు గడిచిన తర్వాత స్వయంచాలకంగా ఫోటో తీయడానికి సెల్ఫ్-టైమర్‌ను సెట్ చేయండి</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">మీ కళ్లతో కెమెరా వైపు చూడండి</string>
+    <string name="photopro_strings_selftimer_txt">సెల్ఫ్-టైమర్</string>
+    <string name="photopro_strings_settings_off_txt">ఆఫ్</string>
+    <string name="photopro_strings_settings_on_txt">ఆన్</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">ఎల్లప్పు. ప్రాథమిక విధానం ఉపయో.</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Photography Pro లాంచ్ చేస్తున్నప్పుడు డీఫాల్ట్ షూటింగ్ విధానాన్ని ఎంచుకోండి</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">చివరిగా ఉపయోగించిన విధానం</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">లాంచ్ సమయంలో షూటింగ్ విధానం</string>
+    <string name="photopro_strings_shooting_mode_txt">షూటింగ్ విధానం</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">వీడియో కెమెరా</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">షటర్ వేగం</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">HDR ఆన్‌లో ఉన్నప్పుడు స్నాప్‍‌షాట్‌లను తీయడం సాధ్యం కాదు</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">స్కిన్ మృదువుగా కనిపించే ప్రభావాన్ని ఆన్ చేయండి</string>
+    <string name="photopro_strings_soft_skin_effect_txt">మృదువైన చర్మం ప్రభావం</string>
+    <string name="photopro_strings_status_mic_external_txt">బాహ్య</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">LR (స్టీరియో)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">వెనుక (మోనో)</string>
+    <string name="photopro_strings_store_fail_txt">సేవ్ చేయలేరు</string>
+    <string name="photopro_strings_sw_license_txt">సాఫ్ట్‌వేర్ లైసెన్స్</string>
+    <string name="photopro_strings_term_of_use_accept_txt">అంగీకరించండి</string>
+    <string name="photopro_strings_term_of_use_decline_txt">తిరస్కరించండి</string>
+    <string name="photopro_strings_tips_txt">చిట్కాలు</string>
+    <string name="photopro_strings_title_permissions_txt">Photo Pro అనుమతి</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">టచ్ ఫోకస్‌ను రద్దు చేయి</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">స్వీయఫోకస్</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"మీరు వ్యూఫైండర్‌ని టచ్ చేసినప్పుడు ఏమి సర్దుబాటు చెయ్యాలో ఎంచుకోండి.
+
+ఆబ్జెక్ట్‌ను ట్రాక్ చేయి: కదులుతున్న ఆబ్జెక్ట్‌లను షూట్ చేయడానికి ఉత్తమ విధి. మీరు వ్యూఫైండర్‌లో ట్యాప్ చేసిన ఆబ్జెక్ట్‌పై ఫోకస్ లాక్ అయ్యే ఉంచుతుంది, ఇది మీరు కదిలే ఆబ్జెక్ట్‌లను స్పష్టంగా షూట్ చేయడానికి అనుమతిస్తుంది.
+స్వీయఫోకస్: మీరు వ్యూఫైండర్‌లో ఎక్కడ ఫోకస్ చేయాలో ట్యాప్ చేయండి.
+ఫోకస్ మరియు ప్రకాశం: వ్యూఫైండర్‌ను ట్యాప్ చేయడం ద్వారా కేంద్రీకరణను ఆన్ చేసి, కావల్సిన స్థానంలో ప్రకాశాన్ని సర్దుబాటు చేయండి."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">ఫోకస్ మరియు ప్రకాశం</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">ఆబ్జెక్ట్ ట్రాకింగ్</string>
+    <string name="photopro_strings_touch_to_adjust_txt">సర్దుబాటు కోసం టచ్ చేయండి</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">ఆబ్జెక్ట్‌ను ట్రాక్ చేయడాన్ని రద్దు చేయి</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"ఈ విధి ఆన్ చేయడం వలన Transfer &amp; Tagging add-on Xperia కెమెరాతో తీసిన ఫోటోలను ప్రదర్శించడానికి అనుమతించబడుతుంది. ఫోటోలు అంతర్గత నిల్వలో సేవ్ చేయబడతాయి.
+ఈ విధి Photography Proతో తీసిన ఫోటోలతో అనుకూలతను కలిగి ఉంది.
+ఈ విధిని ఆన్ చేసినట్లయితే ఫైల్ ఫార్మేట్ స్వయంచాలకంగా JPEGకు మరియు డ్రైవ్ మోడ్ సింగిల్ షూటింగ్‌కు సెట్ చేయబడతాయి."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Transfer &amp; Tagging add-on మోడ్</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">అర్థమైంది</string>
+    <string name="photopro_strings_tutorial_button_next_txt">తదుపరి</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">దాటవేయి</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"ఫోటోగ్రఫీ యొక్క అపరమితమైన ఆనందాన్ని మరియు అద్భుతాన్ని వ్యాప్తి చేసే ఉత్పత్తులను సృష్టించడం కోసం Sony ఫోటోగ్రఫర్లు ఇష్టపడ్డ బ్రాండ్.
+ప్రపంచవ్యాప్తంగా ఉన్న వినియోగదారులు మా అనుభవం మరియు సాంకేతికత పరిజ్ఞానాన్ని ఎంపిక చేస్తారు.
+
+Photography Pro Sony Imaging Products నుండి పూర్తి-స్థాయి కెమెరాల యొక్క కార్యచరణ మరియు విధులను తిరిగి సృష్టించడానికి ప్రయత్నిస్తుంది.
+Sony మీ ఫోటోగ్రఫీ సృజనాత్మకతకు మద్దతు ఇస్తుంది."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"మీ సబ్జెక్ట్‌కు సరిపడే అనుకూలమైన షూటింగ్ మోడ్‌ను ఎంచుకోండి.
+తద్వారా షటర్ వేగం మరియు ఎక్స్‌పోజర్‌‌ను సెట్ చేయండి.
+అన్ని సైడ్‌లలో కెమెరాను స్థిరంగా పట్టుకోని, ఫోటో తీయండి.
+
+షూటింగ్ మోడ్‌లు వీటిని కలిగి ఉంటాయి:
+P (స్వీయ ప్రోగ్రామ్)
+S (షటర్ వేగం ప్రాధాన్యత)
+M (మాన్యువల్ ఎక్స్‌పోజర్)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"ఎగువ కుడివైపున (ల్యాండ్‌స్కేప్ ఓరియెంటేషన్‌లో ఎగువ ఎడమ వైపున) మోడ్ డయల్ ఉపయోగించి మీ ప్రాధాన్య షూటింగ్ మోడ్‌ను ఎంచుకోండి.
+
+ప్రాథమిక విధానంతో, మీరు సాధారణ స్మార్ట్‌ఫోన్ కెమెరా వలె అదే విధంగా ముందు కెమెరాతో సులభంగా ఫోటోలు మరియు వీడియోలను తీయవచ్చు.
+
+Auto/P/S/M మోడ్‌లతో, మీరు మీ ఉత్తమ పోటోలను తీయడానికి మరింత అధునాతన సెట్టింగ్‌లను యాక్సెస్ చేయవచ్చు."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">షూటింగ్ విధానం</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">ఎలా ఉపయోగించాలి</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Auto/P/S/M మోడ్‌లను ఉపయోగిస్తున్నప్పుడు, కెమెరాను ల్యాండ్‌స్కేప్ ఓరియెంటేషన్‌లో కదపకుండా పట్టుకుని, ఫోటోలను తీయడానికి పరికరం కుడివైపు ఎగువన ఉన్న షటర్ బటన్‌ని నొక్కండి.
+
+స్వయం ఎంచుకోవడం వలన షటర్ వేగం మరియు ప్రత్యక్షీకరణ వంటి విధులు స్వయంచాలకంగా సెట్ చేయబడతాయి.
+
+మాన్యువల్‌గా సెట్టింగ్‌లను కాన్ఫిగర్ చేయడానికి, దిగువ మోడ్‌లలో ఒకదానిని ఎంచుకోండి.
+P (స్వీయ ప్రోగ్రాము)
+S (షటర్ వేగం ప్రాధాన్యత)
+M (మాన్యువల్ ఎక్స్‌పోజర్)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Auto/P/S/M మోడ్‌లను ఎలా ఉపయోగించాలి</string>
+    <string name="photopro_strings_tutorial_txt">ట్యూటోరియల్</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">కనెక్ట్ చేసిన బాహ్య డిస్ప్లేతో Photo Proను ఉపయోగించలేరు. Photo Proను ఉపయోగించడానికి, మీ Xperiaలో ఇటీవలి అప్లికేషన్‌లు స్క్రీన్ నుండి అప్లికేషన్‌ను మూసివేసి, ఆపై దానిని పునఃప్రారంభించండి.</string>
+    <string name="photopro_strings_unlock_button_txt">అన్‌లాక్ చేయి</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">భద్రతా కారణాల కోసం కెమెరాను ఉపయోగించడం పరిమితం చేయబడింది</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">స్థిరమైన 4K వీడియో రికార్డింగ్ కోసం, మీరు తప్పనిసరిగా అధిక వేగ SD కార్డ్ (UHS వేగ తరగతి 1 లేదా తదుపరిది లేదా వేగ తరగతి 10 సిఫార్సు చేయబడింది) ఉపయోగిస్తే మినహా ఈ సెట్టింగ్‌ను మార్చకూడదు.</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">స్థిరమైన నెమ్మది చలన రికార్డింగ్ కోసం, మీరు అధిక వేగ SD కార్డ్ (UHS వేగ తరగతి 1 లేదా తదుపరిది లేదా వేగ తరగతి 10 సిఫార్సు చేయబడింది) ఉపయోగిస్తే మినహా ఈ సెట్టింగ్‌ను మార్చవద్దు.</string>
+    <string name="photopro_strings_video_explanatory_txt">"స్థిరమైన వీడియో రికార్డింగ్ కోసం, మీరు డేటా నిల్వను అంతర్గత నిల్వకు మార్చాలని మేము సిఫార్సు చేస్తున్నాము. మీరు ఇప్పుడు మార్చాలనుకుంటున్నారా?
+
+మీరు SD కార్డ్‌ను డేటా నిల్వ వలె ఉపయోగించడాన్ని కొనసాగిస్తే, అధిక వేగ SD కార్డ్ (UHS వేగ తరగతి 1 లేదా తదుపరిది లేదా వేగ తరగతి 10 సిఫార్సు చేయబడింది) ఉపయోగిస్తున్నట్లు నిర్ధారించుకోండి."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"మీరు 4K వీడియో రికార్డింగ్‌ల కోసం ఎన్‌కోడర్‌ను ఎంచుకోవచ్చు.
+
+H.264 (AVC): ఎన్‌కోడింగ్ కోసం ప్రామాణిక ఫార్మేట్‌కు అత్యధిక పరికరాలు మరియు సేవలు మద్దతు ఇస్తాయి.
+H.265 (HEVC): అత్యధిక కుదింపు నిష్పత్తితో ఫార్మేట్. మీ ప్లేబ్యాక్ పరికరాలు లేదా సేవలు ఈ పద్ధతికి మద్దతు ఇస్తాయని నిర్ధారించుకోండి."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">ఫైల్ ఫార్మాట్ (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"వీడియో పరిమాణాన్ని ఎంచుకోండి.
+పూర్తి HD (60 fps) లేదా HDని ఎంచుకున్నప్పుడు HDR అందుబాటులో ఉండదు."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">వీడియో పరిమాణాన్ని ఎంచుకోండి</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">పూర్తి HD (60 fps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">పూర్తి HD</string>
+    <string name="photopro_strings_video_size_txt">వీడియో పరిమాణం</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Xperiaలో Optical SteadyShot అని పిలిచే ప్రత్యేక హైబ్రీడ్ స్థిరీకరణ సిస్టమ్ ఉంది - ఇది ఆప్టికల్ చిత్ర స్థిరీకరణ మరియు ఎలక్ట్రానిక్ చిత్ర స్థిరీకరణను ఒకే సమయంలో మిళితం చేస్తుంది. ఇది కదులుతూ రికార్డ్ చేసినప్పుడు కూడా స్థిరమైన మరియు సరళమైన వీడియోలను అందిస్తుంది.</string>
+    <string name="photopro_strings_video_stabilization_txt">వీడియో స్టెబిలైజేషన్</string>
+    <string name="photopro_strings_volumekey_description_txt">వాల్యూమ్ బటన్‌లకు మరొక విధిని కేటాయించండి</string>
+    <string name="photopro_strings_volumekey_shutter_txt">షటర్</string>
+    <string name="photopro_strings_volumekey_txt">వాల్యూమ్ బటన్‌ను ఇలా ఉప.</string>
+    <string name="photopro_strings_volumekey_volume_txt">వాల్యూమ్</string>
+    <string name="photopro_strings_volumekey_zoom_txt">జూమ్</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">సర్దుబాటు చేయండి - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">స్వయంచాలకం</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">సవరిం.</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">పూర్తి</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">మళ్లీ ప్రయత్నించు</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">వర్తిం.</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">మేఘావృతం</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">అనుకూల 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">అనుకూల 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">అనుకూల 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">ప్రివ్యూ కేంద్రం ఆధారంగా వైట్ బాలెన్స్ సెట్ చేయండి</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">సర్దుబాటు విఫలమైంది</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">సర్దుబాటు పూర్తయ్యింది</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">వర్తించు - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">పగటికాంతి</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">ఫ్లోరోసెంట్</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">వేడి మంట</string>
+    <string name="photopro_strings_whitebalance_shade_txt">ఛాయ</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">ఉష్ణోగ్రత 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">ఉష్ణోగ్రత 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">ఉష్ణోగ్రత 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">ఉష్ణోగ్రత:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">ఉష్ణోగ్రత</string>
+    <string name="photopro_strings_whitebalance_txt">వైట్ బ్యాలెన్స్</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">ముందు కెమెరాతో జూమ్ చేయలేరు</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">AI అద్బుతమైన రిజల్యూషన్ జూమ్</string>
+    <string name="photopro_strings_zoom_type_description_txt">"జూమ్ సెట్టింగ్‌ను ఎంచుకోండి.
+
+డిజిటల్ జూమ్: చిత్ర సెన్సార్ డేటా ఆధారంగా డిజిటల్ ప్రాసెసింగ్ ఉపయోగించి జూమ్ చేయండి.
+AI అద్భుతమైన రిజల్యూషన్ జూమ్: అసలు చిత్ర నాణ్యతను దాదాపు నిల్వ చేసే డిజిటల్ ప్రాసెసింగ్‌ను ఉపయోగించే జూమ్. ఫోటోలను సేవ్ చేయడానికి ఎక్కువ సమయం పట్టవచ్చు. నిరంతర షూటింగ్‌ను ఎంచుకున్నప్పుడు ఇది స్వయంచాలకంగా డిజిటల్ జూమ్ వలె పని చేస్తుంది."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">డిజిటల్ జూమ్</string>
+    <string name="photopro_strings_zoom_type_txt">జూమ్ సెట్టింగ్‌లు</string>
+    <string name="search_menu_title">శోధన</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">ఆఫ్ చేయండి</string>
+    <string name="v7_preference_on">ఆన్ చేయండి</string>
+</resources>

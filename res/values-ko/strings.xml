@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">홈으로 이동</string>
+    <string name="abc_action_bar_up_description">위로 이동</string>
+    <string name="abc_action_menu_overflow_description">추가 옵션</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_activity_chooser_view_see_all">전체 보기</string>
+    <string name="abc_activitychooserview_choose_application">앱 선택</string>
+    <string name="abc_capital_off">사용 중지</string>
+    <string name="abc_capital_on">사용</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">스페이스바</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">검색...</string>
+    <string name="abc_searchview_description_clear">검색어 삭제</string>
+    <string name="abc_searchview_description_query">검색어</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">검색어 보내기</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
+    <string name="abc_shareactionprovider_share_with">공유 대상:</string>
+    <string name="abc_shareactionprovider_share_with_application">%s과(와) 공유</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="ble_remote_control_button_any_problem_txt">문제 해결</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">새 컨트롤러 페어링</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">블루투스 리모컨의 C1 버튼에 다른 기능을 지정할 수 있습니다</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">C1 버튼 사용자 지정</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">초점 설정 모드</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">렌즈</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">촬영 모드</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">기본/전면 카메라 전환</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">사진/비디오 전환</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">렌즈</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">AF/MF 전환</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">기본/전면 카메라 전환</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">허용</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">거부</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">앱이 이 기능에 블루투스를 사용하도록 허용하시겠습니까?</string>
+    <string name="ble_remote_control_description_txt">"블루투스를 통해 소니 리모컨을 페어링하여 %1$s의 기능을 원격으로 사용할 수 있습니다.
+새 컨트롤러 페어링을 눌러 새 기기 페어링을 시작합니다."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">이미 페어링됨</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">리모컨이 기기와 페어링되지 않으면, 설정으로 이동하여 리모컨이 이미 블루투스 기기 목록에 등록되었는지 확인하십시오. 이미 등록된 경우 목록에서 리모컨을 제거하고 다시 페어링해보십시오.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">문제 해결</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">동의 및 켜기</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">거절</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">종료</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">설정으로 이동</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">확인</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">블루투스가 꺼져 있어 페어링이 취소되었습니다</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">시간 초과로 인해 페어링에 실패했습니다. 나중에 다시 시도하세요.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">이 기기는 집중적으로 사용할 경우 예방 조치로 특정 기능을 제한할 수 있습니다. 카메라 지속 모드를 켜면 앱이 높은 성능을 유지할 것임을 나타내는 아이콘이 표시됩니다. 이 아이콘이 표시되면 앱을 더 오랜 시간 동안 사용할 수 있습니다.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">카메라 지속 모드는 블루투스를 통해 연결된 리모컨으로 %1$s을(를) 사용할 때만 사용할 수 있습니다. %1$s을(를) 닫으면 이 기능이 종료됩니다.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">기기 온도는 일반적인 작동 온도 이상 올라갈 수 있습니다. 온도가 올라가면 알림과 아이콘이 알려줍니다. 이 경우 기기를 손에 계속 들고 있지 마십시오. 계속하기 전에 리모컨이 블루투스를 통해 연결되었는지 확인하십시오.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">주의</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"기기 온도가 너무 높습니다. 냉각을 위해 %1$s이(가) 일시적으로 종료됩니다.
+블루투스 리모컨을 연결하면 카메라 지속 모드로 %1$s을(를) 계속 사용할 수 있습니다."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"기기 온도가 너무 높습니다. 냉각을 위해 %1$s이(가) 일시적으로 종료됩니다.
+블루투스 리모컨을 연결하면 카메라 지속 모드로 %1$s을(를) 사용할 수 있습니다."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">이 기능을 사용하려면 블루투스를 통해 리모컨을 페어링한 후 [리모컨 사용]을 실행하십시오.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"기기 온도가 너무 높습니다. 냉각을 위해 %1$s이(가) 일시적으로 종료됩니다.
+카메라 지속 모드를 켜면 블루투스 리모컨과 함께 %1$s을(를) 사용할 수 있습니다."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"이 기능을 실행하려면 연결된 리모컨과 상호 작용하십시오.
+취소하려면 종료를 누릅니다."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">카메라 지속 모드 실행됨</string>
+    <string name="ble_remote_control_endurance_mode_txt">카메라 지속 모드</string>
+    <string name="ble_remote_control_off_txt">끄기</string>
+    <string name="ble_remote_control_on_txt">켜기</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"페어링을 시작하려면, 리모컨과 상호 작용하십시오.
+알림과 대화 상자를 두 번 받게 됩니다. 이 모두에 대한 페어링을 선택한 후, 페어링된 기기에서 아무 키나 눌러 페어링을 완료합니다."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">새 컨트롤러 페어링</string>
+    <string name="ble_remote_control_title_txt">블루투스 리모컨</string>
+    <string name="ble_remote_control_use_remote_controller_txt">리모컨 사용</string>
+    <string name="expand_button_title">고급</string>
+    <string name="external_display_connected_description_txt">Vlog Monitor에서 뷰파인더를 확인할 수 있습니다</string>
+    <string name="external_display_connected_title_txt">Vlog Monitor 연결됨</string>
+    <string name="external_display_note_about_external_mic_txt">참고: 외부 마이크를 사용하려면 녹음 전에 Vlog Monitor에 연결하십시오. 녹음 후에 연결하면 Vlog Monitor를 다시 연결해야 합니다.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">이전에 개인정보 보호정책을 수락했지만 언제든지 거부할 수 있습니다.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">왼쪽 화살표</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">오른쪽 화살표</string>
+    <string name="photopro_strings_accessibility_back_txt">뒤로</string>
+    <string name="photopro_strings_accessibility_close_txt">닫기</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">접근성: &lt;a href=\"%s\">부분적으로 준수&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">자세히 보기</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">렌즈 버튼</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">구성할 수 없음</string>
+    <string name="photopro_strings_accessibility_previous_txt">이전</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">최근 사진 모음</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">비디오 녹화 시작</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">비디오 녹화 일시 중지</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">비디오 녹화 재개</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">동영상 녹화 중에 스냅샷 촬영</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">비디오 녹화 중지</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">카운팅 중지</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">셔터</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">기본 카메라와 전면 카메라 간 전환</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">사진 및 비디오 간 전환</string>
+    <string name="photopro_strings_accessibility_title_txt">접근성</string>
+    <string name="photopro_strings_addon_button_menu_txt">자세히</string>
+    <string name="photopro_strings_addon_creative_effect_txt">크리에이티브 효과</string>
+    <string name="photopro_strings_addon_panorama_txt">파노라마</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">인물 셀카</string>
+    <string name="photopro_strings_addon_slow_motion_txt">슬로 모션</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">위치를 저장하려면 GPS 및/또는 무선 네트워크를 사용하도록 설정해야 합니다. 지금 사용하도록 설정하시겠습니까?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">위치 저장</string>
+    <string name="photopro_strings_anonymous_analytics_txt">익명 분석</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">전면 사진</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">전면 비디오</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">비디오</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">사진의 가로 세율 비율 선택</string>
+    <string name="photopro_strings_aspect_ratio_txt">가로 세로 비율</string>
+    <string name="photopro_strings_audio_on_all_txt">켜기: 모두</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">켜기: 셔터만</string>
+    <string name="photopro_strings_audio_signals_description_txt">셀프타이머가 카운트다운을 하거나 초점을 맞출 때 등 어떤 카메라 사운드를 재생할지 설정합니다. 사진 촬영음만 재생하도록 선택할 수도 있습니다.</string>
+    <string name="photopro_strings_audio_signals_txt">오디오 신호</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro가 비활성 상태이므로 곧 종료됨</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">역광 인물</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">역광</string>
+    <string name="photopro_strings_auto_scene_document_txt">문서</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">요리</string>
+    <string name="photopro_strings_auto_scene_infant_txt">아기</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">풍경</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">낮은 조명</string>
+    <string name="photopro_strings_auto_scene_macro_txt">접사</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">야간 인물</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">야경</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">자동 배경 인식</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">소프트 스냅</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">스포트라이트</string>
+    <string name="photopro_strings_bokeh_button_txt">보케</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">렌즈가 깨끗한지 그리고 손가락이 렌즈에 놓여 있지 않은지 확인</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">너무 밝음</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">대상에서 멀리 이동합니다.</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">더 많은 조명이 필요합니다.</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">대상 가까이로 이동합니다.</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">현재 보케를 사용할 수 없음</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">보케 켜기</string>
+    <string name="photopro_strings_bokeh_txt">보케</string>
+    <string name="photopro_strings_bt_remote_control_txt">블루투스 리모컨</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">연속 촬영 사진은 내부 저장소에 저장됨</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">느린 셔터 속도로는 연속 촬영을 사용할 수 없음</string>
+    <string name="photopro_strings_button_continue_txt">계속</string>
+    <string name="photopro_strings_button_quit_txt">종료</string>
+    <string name="photopro_strings_cancel_txt">취소</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">슬로 모션</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K 비디오</string>
+    <string name="photopro_strings_change_txt">변경</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">초기화</string>
+    <string name="photopro_strings_color_and_brightness_txt">색상 및 밝기</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">내부 저장소가 가득 찼습니다. 대신 SD 카드에 데이터를 저장하시겠습니까?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">내부 저장소가 손상되었거나 쓰기 보호되어 있습니다. 대신 SD 카드에 데이터를 저장하시겠습니까?</string>
+    <string name="photopro_strings_common_error_open_txt">%1$s을(를) 열 수 없음</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">SD 카드가 가득 찼습니다. 대신 내부 저장소에 데이터를 저장하시겠습니까?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">SD 카드를 사용할 수 없습니다. 대신 내부 저장소에 데이터를 저장하시겠습니까?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">연속 촬영 피드백</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">다음 기능은 현재 사용하지 않도록 설정되어 있습니다.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">기기의 열이 식을 때까지 기다렸다가 카메라를 다시 시작하세요.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">다음 기능을 사용할 수 없음</string>
+    <string name="photopro_strings_cooling_mode_txt">기기 온도 상승을 방지하기 위해 일부 기능이 종료됩니다</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">AEL 버튼에 다른 기능 할당</string>
+    <string name="photopro_strings_custom_ael_txt">AEL 버튼 사용자 지정</string>
+    <string name="photopro_strings_custom_disp_description_txt">"DISP 버튼을 눌러 뷰파인더의 정보를 표시하거나 숨길 수 있습니다.
+DISP 버튼을 사용하여 정보를 표시할 때 이 메뉴의 항목이 표시되지 않도록 하려면 해당 항목을 선택 취소하세요."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">히스토그램</string>
+    <string name="photopro_strings_custom_disp_level_txt">수평 유지</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">머리글 정보</string>
+    <string name="photopro_strings_custom_disp_txt">DISP 버튼 사용자 지정</string>
+    <string name="photopro_strings_custom_fn_description_txt">"기능 메뉴에서 설정 항목을 다시 할당하거나 순서를 바꿀 수 있습니다.
+왼쪽 목록에서 선택한 다른 기능을 할당하려면 아래 기능 항목 중 하나를 누릅니다.
+순서를 바꾸려면 아래 기능 항목 중 하나를 끌어서 놓습니다."</string>
+    <string name="photopro_strings_custom_fn_txt">기능 메뉴 사용자 지정</string>
+    <string name="photopro_strings_custom_none_txt">할당된 항목 없음</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">이전에 개인정보 보호정책을 거부했습니다.</string>
+    <string name="photopro_strings_description_custom_ael_txt">자동 노출 잠금</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">ISO 설정이 자동으로 변경됨</string>
+    <string name="photopro_strings_description_custom_none_txt">AEL 버튼 사용 안 함</string>
+    <string name="photopro_strings_device_id_txt">기기 ID</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">휴대폰의 배터리가 충분하지 않습니다. 배터리가 부족한 경우 카메라가 자동으로 꺼집니다.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">배터리가 부족하여 녹화가 중지되었습니다. 기기를 충전한 후 다시 시도하세요.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">배터리가 부족하여 카메라를 사용할 수 없습니다. 기기를 충전한 후 다시 시도하세요.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">이 작업을 수행하려면 앱에 다음 권한이 필요합니다.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"네트워크
+Wi-Fi에 연결하기 위해"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"비행 모드가 켜져 있습니다.
+설정에서 비행 모드를 끄세요."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"네트워크 이름: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi가 꺼져 있고 비행 모드가 켜져 있습니다.
+설정을 눌러 이러한 설정을 변경하세요."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi가 꺼져 있습니다.
+설정에서 Wi-Fi를 켜세요."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">설정</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">허용</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">거부</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">참고</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">보정</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">재설정</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">내부 저장 공간이 부족합니다. 연속 촬영이 중지되었습니다. 일부 파일을 삭제하여 저장 공간을 확보하세요.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">권한 부여</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">연결 중...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+암호 보호: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+보안: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Wi-Fi에 연결할 수 없음</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">아래에 동의하면 소니에서 사용자 지정 지원을 제공하고 기기 및 서비스를 개선하기 위해 사용자의 &lt;b>&lt;a href=#personal-data>개인 데이터&lt;/a>&lt;/b>를 수집합니다. 소니는 수집한 데이터를 &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>개인 정보 보호 정책&lt;/a>&lt;/b>에 따라 처리합니다.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">대비가 높은 장면에서도 비디오를 녹화하여 현실에 가깝게 더 극적으로 표현할 수 있습니다. 원래 색상 및 밝기로 콘텐츠를 즐기려면 지원되는 기기/서비스를 사용하세요.</string>
+    <string name="photopro_strings_do_not_show_again_txt">다시 표시하지 않음</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">HDR 연속 촬영: 높음</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">HDR 연속 촬영: 낮음</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">연속 촬영: 높음</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">연속 촬영: 낮음</string>
+    <string name="photopro_strings_drive_continuous_txt">연속 촬영</string>
+    <string name="photopro_strings_drive_mode_txt">드라이브 모드</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">셀프타이머: 10초</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">셀프타이머: 3초</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">셀프타이머: 꺼짐</string>
+    <string name="photopro_strings_drive_single_txt">단일 촬영</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">자동 HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">이 설정은 값 범위를 최적화합니다. DRO 프로세싱이 단일 이미지를 사용하는 반면 자동 HDR은 여러 노출을 결합하여 결과물을 얻습니다.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">DRO</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/자동 HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">카메라를 시작할 수 없습니다. 카메라 또는 기기를 재시작하세요.</string>
+    <string name="photopro_strings_error_dialog_title_txt">오류</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">사진을 저장할 수 없습니다. 데이터 저장소와 관련된 문제가 있을 수 있습니다. 데이터 저장소가 SD 카드로 설정되어 있는 경우 SD 카드를 확인해 보세요.</string>
+    <string name="photopro_strings_error_fatal_txt">알 수 없는 오류</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">아니요</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">예</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">열을 식히기 위하여 카메라를 일시적으로 종료합니다. 해당 기록은 저장됩니다. 기기의 열이 식으면 앱을 재시작하세요.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">메모리가 가득 찼습니다. SD 카드 또는 내부 저장소에서 일부 파일을 삭제하십시오.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">메모리 사용 불가</string>
+    <string name="photopro_strings_error_memory_title_txt">메모리 오류</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD 카드를 사용할 수 없음</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">노출 보상</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"사람이나 동물의 얼굴이나 눈에 초점을 맞춘 인물 사진을 찍을 수 있습니다.
+초점 대상을 변경하려면 초점을 맞추고 싶은 피사체의 얼굴을 누릅니다."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"사람과 동물의 얼굴이나 눈에 초점을 맞춘 비디오를 촬영할 수 있습니다.
+초점 대상을 변경하려면 초점을 맞추고 싶은 피사체의 얼굴을 누릅니다.
+메모: 이 설정이 실행되면 기기 온도 상승으로 인해 녹화 시간이 단축될 수 있습니다."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">얼굴 인식/Eye AF 켜기</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">Face/Eye AF</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">Face/Eye AF: 끄기</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">Face/Eye AF: 켜기</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">화면의 잠금을 해제하여 이 기능 사용</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">설정을 열려면 화면을 잠금 해제해야 합니다.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">화면 잠김</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"보케 효과를 조정하려면 뷰파인더에서 보케 아이콘을 누른 후 슬라이더를 움직이세요.
+이 기능은 기본(사진) 모드에서 지원됩니다.
+배경을 흐리게 하여 피사체가 인상적인 대비로 돋보이게 하세요."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">보케 효과를 사용하여 사진 찍기</string>
+    <string name="photopro_strings_feature_bokeh_txt">보케 효과</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">드라이브 모드는 단일 촬영이나 연속 촬영 또는 셀프타이머를 사용하도록 변경할 수 있습니다.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">드라이브 모드</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"전면 카메라로 사진을 촬영할 때는 이어 스피커 근처의 전면 카메라 렌즈를 쳐다보세요.
+그러면 사진에서 시선이 올바른 방향을 향하게 됩니다."</string>
+    <string name="photopro_strings_feature_eye_position_txt">응시 방향</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"사람이나 동물의 얼굴이나 눈에 초점을 맞춘 인물 사진을 찍을 수 있습니다.
+초점 대상을 변경하려면 초점을 맞추고 싶은 피사체의 얼굴을 누릅니다. 이 기능은 메뉴 > Face/Eye AF에서 활성화 또는 비활성화할 수 있습니다."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">Face/Eye AF</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"카메라를 향해 손바닥을 뒤집으세요. 손바닥이 인식되면 셀프타이머가 카운트다운을 시작합니다. 쉽게 감지되도록 하려면 손가락을 위로 길게 뻗으세요.
+이 기능을 활성화하려면 기본(사진) 모드에서 전면 카메라로 전환하고 메뉴에서 핸드 셔터를 켭니다."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">손 인식 셔터</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"초광각 렌즈(0.7x)를 사용하는 경우 우선순위를 선택할 수 있습니다. 이미지 품질 우선순위를 선택하면 다이나믹 고품질 이미지를 캡처할 수 있습니다. 왜곡 보정 우선순위를 지정하면 시각적 왜곡을 줄일 수 있습니다.
+이 기능은 초광각 렌즈를 사용하여 사진을 촬영할 때 활성화됩니다. 초광각 렌즈로 전환한 후 메뉴 > 초광각 렌즈 보정에서 우선순위를 구성할 수 있습니다."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">렌즈 보정(사진)</string>
+    <string name="photopro_strings_feature_list_title_txt">기능 소개</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"보케 및 뷰티 효과를 사용하여 예술적 셀카를 쉽게 캡처하세요.
+이 기능을 사용하려면 뷰파인더에서 자세히를 누르고 인물 셀카를 선택합니다.
+셀카 스타일을 지정하여 창의적인 결과를 즐기세요."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">인물 셀카</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"QR Code를 스캔하여 빠르게 웹에 접속하거나 Wi-Fi에 연결할 수 있습니다.
+이 기능은 기본(사진) 모드일 때 활성화됩니다. 이 기능은 메뉴 > QR Code 리더에서 활성화 또는 비활성화할 수 있습니다."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code 리더</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code 리더</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">사진 및 비디오가 촬영된 위치에 태그를 지정합니다. 이 설정은 메뉴 > 위치 저장에서 나중에 변경할 수 있습니다.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">위치를 저장하시겠습니까?</string>
+    <string name="photopro_strings_feature_selfie_txt">전면 카메라</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">HD에서 120fps 슬로 모션으로 비디오를 녹화할 수 있음</string>
+    <string name="photopro_strings_feature_slow_motion_txt">슬로 모션</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"카메라 렌즈 간을 쉽게 전환하여 원하는 상황을 포착해 창의력을 발휘할 수 있습니다.
+뷰파인더의 버튼을 눌러 0.7x(초광각), 1.0x(광각), 2.9x(망원) 및 4.4x(망원) 렌즈 간에 전환할 수 있습니다.
+이 기능은 기본(사진) 모드와 기본(비디오) 모드에서 모두 사용할 수 있습니다."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">버튼으로 각도 전환</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"카메라 렌즈 간을 쉽게 전환하여 원하는 상황을 포착해 창의력을 발휘할 수 있습니다.
+뷰파인더의 버튼을 눌러 0.7x(초광각), 1.0x(광각) 및 2.1x(표준) 렌즈 간에 전환할 수 있습니다.
+이 기능은 기본(사진) 모드와 기본(비디오) 모드에서 모두 사용할 수 있습니다."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">트리플 카메라</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"렌즈 버튼을 누르면 확대/축소 수준을 조정하는 데 사용할 수 있는 슬라이더가 표시됩니다.
+화면을 손가락으로 모으거나 볼륨 버튼을 사용하여 확대/축소할 수도 있습니다."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">확대/축소 방법</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">삭제</string>
+    <string name="photopro_strings_file_format_description_txt">"정지 이미지의 파일 형식을 선택합니다.
+
+RAW:사진을 후처리하려면 특수 소프트웨어가 필요합니다. 이 소프트웨어를 사용하면 이미지 품질 저하를 제한하면서 조정할 수 있습니다. 후처리 후 인쇄할 수 있습니다.
+RAW 및 JPEG: 후처리해야 할 RAW 이미지와 JPEG 이미지를 모두 저장합니다.
+JPEG: JPEG 이미지를 저장합니다.
+
+참고:
+RAW 형식 파일은 항상 4:3 가로 세로 비율로 내부 저장소에 저장됩니다.
+RAW 또는 RAW 및 JPEG를 선택한 경우 연속 촬영 및 자동 HDR을 사용할 수 없습니다."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW 및 JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">파일 형식</string>
+    <string name="photopro_strings_flash_auto_txt">자동</string>
+    <string name="photopro_strings_flash_description_txt">플래시 모드를 자동 플래시, 필 플래시 등으로 설정합니다.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">플래시 채우기</string>
+    <string name="photopro_strings_flash_off_txt">끄기</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">적목 현상 감소</string>
+    <string name="photopro_strings_flash_torch_description_txt">플래시 기능 켜기</string>
+    <string name="photopro_strings_flash_torch_off_txt">손전등: 꺼짐</string>
+    <string name="photopro_strings_flash_torch_on_txt">손전등: 켜짐</string>
+    <string name="photopro_strings_flash_torch_txt">손전등</string>
+    <string name="photopro_strings_flash_txt">플래시 모드</string>
+    <string name="photopro_strings_focus_area_center_txt">중심</string>
+    <string name="photopro_strings_focus_area_txt">초점 영역</string>
+    <string name="photopro_strings_focus_area_wide_txt">광각</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">초점 영역 프레임의 색상 설정</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">빨간색</string>
+    <string name="photopro_strings_focus_frame_color_txt">초점 영역 색상</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">흰색</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">연속 AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">단일 촬영 AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">초점 방법 선택</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">얼굴 인식</string>
+    <string name="photopro_strings_focus_mode_mf_txt">수동 초점</string>
+    <string name="photopro_strings_focus_mode_txt">초점 설정 모드</string>
+    <string name="photopro_strings_geotagging_description_txt">사진 및 비디오를 촬영된 위치와 함께 저장</string>
+    <string name="photopro_strings_geotagging_txt">위치 저장</string>
+    <string name="photopro_strings_gridline_description_txt">격자 선 표시 여부를 설정하여 이미지 구성에 대한 도움 받기</string>
+    <string name="photopro_strings_gridline_txt">격자 선</string>
+    <string name="photopro_strings_hand_shutter_description_txt">전면 카메라를 향해 손바닥을 돌리면 셀프타이머 카운트다운을 시작할 수 있습니다. 쉽게 감지되도록 하려면 손가락을 위로 길게 뻗으세요.</string>
+    <string name="photopro_strings_hand_shutter_txt">손 인식 셔터</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">디스플레이와 상호 작용 시 햅틱 피드백(예: 모드 다이얼)의 수신 여부를 설정합니다</string>
+    <string name="photopro_strings_haptic_feedback_txt">햅틱 피드백</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: 꺼짐</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: 켜짐</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">인텔리전트 윈드 필터</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO 감도</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">기기 셔터 버튼을 누르고 있으면 Photography Pro를 실행할 수 있습니다. 이 기능은 스마트폰이 절전 모드 또는 잠금 모드이더라도 작동합니다.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Photography Pro 실행</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">셔터 버튼으로 실행</string>
+    <string name="photopro_strings_lens_correction_description_txt">초광각 렌즈를 사용하는 경우 우선순위를 선택할 수 있습니다. 이미지 품질 우선순위를 선택하면 다이나믹 고품질 이미지를 캡처할 수 있습니다. 왜곡 보정 우선순위를 지정하면 시각적 왜곡을 줄일 수 있습니다.</string>
+    <string name="photopro_strings_lens_correction_off_txt">이미지 품질 우선순위 지정</string>
+    <string name="photopro_strings_lens_correction_on_txt">왜곡 보정 우선순위 지정</string>
+    <string name="photopro_strings_lens_correction_txt">초광각 렌즈 보정</string>
+    <string name="photopro_strings_lens_txt">렌즈</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">보정</string>
+    <string name="photopro_strings_level_calibration_description_txt">필요한 경우 수평 유지를 보정하여 기울기 방향의 편차를 수정할 수 있습니다. 카메라가 수평인지 확인한 다음 보정을 선택하세요.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">보정이 완료됨</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">보정 설정이 재설정됨</string>
+    <string name="photopro_strings_level_meter_calibration_txt">수평 유지 보정</string>
+    <string name="photopro_strings_lock_switch_txt">잠금</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">최대 파일 크기 제한으로 인해 녹음이 중단됨</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">최대 녹화 시간 제한으로 인해 녹화가 중지되었습니다.</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">메모리가 가득 차서 저장할 수 없습니다.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">적용</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">저장</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">설정</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">현재 모드와 설정 조합을 저장하시겠습니까?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"카메라 설정이 저장되었습니다.
+MR 촬영 모드를 사용하여 이러한 설정을 쉽게 호출할 수 있습니다."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">카메라 설정 메모리</string>
+    <string name="photopro_strings_memory_recall_txt">카메라 설정 호출</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">사진(전면)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">사진</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">슬로 모션</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">비디오(전면)</string>
+    <string name="photopro_strings_menu_sub_video_txt">비디오</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">노출/색상</string>
+    <string name="photopro_strings_menu_tab_focus_txt">초점</string>
+    <string name="photopro_strings_menu_tab_setup_txt">설정</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">촬영</string>
+    <string name="photopro_strings_menu_title_txt">메뉴</string>
+    <string name="photopro_strings_metering_center_txt">중앙</string>
+    <string name="photopro_strings_metering_multi_txt">다중</string>
+    <string name="photopro_strings_metering_spot_txt">스팟</string>
+    <string name="photopro_strings_metering_txt">측광 모드</string>
+    <string name="photopro_strings_mic_setting_description_txt">"비디오를 녹화하는 동안 사용할 마이크 선택:
+1. 좌우 마이크: 왼쪽/오른쪽 마이크(세로 방향일 때는 위쪽/아래쪽)로 스테레오 사운드를 녹음합니다.
+2. 후면 마이크: 후면 마이크로 모노 사운드를 녹음합니다."</string>
+    <string name="photopro_strings_mic_setting_external_txt">외부 마이크</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">좌우 마이크(스테레오)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">후면 마이크(모노)</string>
+    <string name="photopro_strings_mic_setting_txt">마이크</string>
+    <string name="photopro_strings_mode_auto_description_txt">카메라가 자동으로 장면 유형을 감지하고 자동 설정으로 사진을 촬영하면서 노이즈와 카메라 흔들림을 줄입니다.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">자동 모드</string>
+    <string name="photopro_strings_mode_basic_description_txt">"이 모드에서는 일반 스마트폰 카메라와 유사한 방식으로 온스크린 셔터 버튼을 사용하여 촬영할 수 있습니다.
+이 모드를 사용하여 셀카를 찍고 비디오를 촬영하고 QR 코드를 스캔합니다."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">기본 모드</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">모드 다이얼로 모드를 변경할 때 각 촬영 모드의 설명이 표시됩니다.</string>
+    <string name="photopro_strings_mode_dial_guide_txt">모드 다이얼 가이드</string>
+    <string name="photopro_strings_mode_m_description_txt">"셔터 속도와 ISO 감도를 수동으로 제어합니다.
+더 오래 노출하면 모션 블러를 사용하여 물체의 후행 동작을 포착하는 사진을 찍을 수 있습니다."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">수동 노출</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">인텔리전트 자동(메모리 호출)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"저장된 설정을 사용하여 사진을 촬영합니다.
+자주 사용하는 모드 및 설정의 조합을 등록할 수 있습니다."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">메모리 호출</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">수동 노출(메모리 호출)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">자동 프로그램(메모리 호출)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">셔터 속도 우선순위(메모리 호출)</string>
+    <string name="photopro_strings_mode_p_description_txt">카메라는 셔터 속도를 자동으로 제어하고 다른 설정은 사용자가 결정합니다.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">자동 프로그램</string>
+    <string name="photopro_strings_mode_s_description_txt">"셔터 속도를 수동으로 제어하여 움직이는 물체를 캡처하는 방법을 변경합니다.
+빠른 셔터 속도는 움직이는 물체를 정지하는 것처럼 보이지만 느린 셔터 속도는 모션 블러를 더 잘 포착할 수 있습니다."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">셔터 속도 우선순위</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on 모드가 켜져 있어 드라이브 모드가 단일 촬영으로 자동 설정되었습니다.</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on 모드가 켜져 있어 파일 형식이 JPEG로 자동 설정되었습니다.</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">다중 창 또는 팝업 창에서는 카메라를 사용할 수 없습니다. 창을 닫고 나중에 다시 시도하세요. 다중 창을 사용하는 경우 분할 막대의 중간을 끌어 카메라를 전체 화면으로 만들 수 있습니다.</string>
+    <string name="photopro_strings_multi_window_txt">분할 막대의 중간을 끌어 사용할 전체 화면 %1$s 앱으로 전환</string>
+    <string name="photopro_strings_ok_txt">확인</string>
+    <string name="photopro_strings_personal_data_txt">개인 데이터</string>
+    <string name="photopro_strings_privacy_policy_txt">개인 정보 보호 정책</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">사진을 찍는 중입니다. 기다려 주세요.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">이 QR Code는 지원되지 않음</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">링크를 열려면 누름: \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Wi-Fi 네트워크에 연결할 수 없음</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Wi-Fi 네트워크에 연결하려면 누름: \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code 리더</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"QR Code를 스캔하여 빠르게 웹에 접속하거나 Wi-Fi에 연결할 수 있습니다.
+이 기능은 기본(사진) 모드일 때 활성화됩니다."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code 리더</string>
+    <string name="photopro_strings_rec_txt">REC</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Photo Pro를 기본 설정으로 초기화하시겠습니까?</string>
+    <string name="photopro_strings_reset_settings_txt">설정 초기화</string>
+    <string name="photopro_strings_reset_txt">초기화</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">파일 형식을 RAW로 설정한 경우에는 가로 세로 비율을 변경할 수 없습니다.</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">연속 촬영이 선택된 경우 자동 HDR을 선택할 수 없습니다.</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">JPEG 이외의 파일 형식을 선택하면 자동 HDR을 선택할 수 없습니다.</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">현재 선택한 렌즈에서는 보케 효과를 사용할 수 없습니다.</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on 모드가 켜져 있으면 보케 효과를 사용할 수 없습니다.</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">현재 선택한 렌즈로는 연속 촬영: 높음을 사용할 수 없음</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">보케 효과가 켜져 있는 동안에는 연속 촬영을 사용할 수 없습니다.</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">AI 초고해상도 줌을 선택한 경우 연속 촬영을 사용할 수 없습니다.</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">JPEG 이외의 파일 형식이 선택된 경우 연속 촬영을 사용할 수 없음</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on이 켜져 있으면 연속 촬영 기능을 사용할 수 없습니다.</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">변경할 수 없음</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">연속 촬영을 선택한 경우 플래시 모드를 사용할 수 없음</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">현재 선택한 렌즈로는 플래시 모드를 사용할 수 없음</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">현재 선택한 렌즈로는 손전등 기능을 사용할 수 없음</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">자동 HDR을 선택한 경우 파일 형식을 JPEG 이외의 형식으로 변경할 수 없습니다.</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">연속 촬영이 선택된 경우 파일 형식을 JPEG 이외의 형식으로 변경할 수 없음</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on 모드가 켜져 있으면 JPEG 이외의 파일 형식으로 변경할 수 없습니다.</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">외부 마이크가 연결되어 있는 동안에는 이 설정을 변경할 수 없습니다.</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">이 설정은 현재 셔터 속도를 지원하지 않습니다. 이 설정을 구성하려면 셔터 속도를 1초 이하로 변경하세요.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">4:3 이외의 가로 세로 비율을 선택한 경우 RAW를 선택할 수 없음</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">슬로 모션으로 녹화하는 경우 비디오 크기를 변경할 수 없습니다. 이 설정을 변경하려면 슬로 모션 모드를 종료하세요.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">이 설정은 초광각 렌즈를 사용할 때만 사용할 수 있음</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">HDR이 켜져 있으면 이 설정을 사용할 수 없습니다. 이 설정을 구성하려면 HDR을 끄세요.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">현재 비디오 크기에서는 이 설정이 지원되지 않습니다. 이 설정을 구성하려면 비디오 크기를 변경하세요.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">보케 효과를 사용하는 중에는 확대/축소할 수 없음</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">응용프로그램 정보</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">%1$s 권한</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">이 작업을 수행하려면 앱에 다음 권한이 필요합니다.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">권한을 부여하려면 앱 정보 > 권한으로 이동하세요.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">계속할 수 없음</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">사진 촬영</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">사진 및 비디오 촬영</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">위치 검색</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">소리 녹음</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">주변 기기 연결 목적</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">사진 및 비디오를 읽기 및 저장하려면</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">사진 저장</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">사진 및 비디오 저장</string>
+    <string name="photopro_strings_save_destination_description_txt">사진 및 비디오를 기기 내부 저장소 또는 SD 카드 중 어디에 저장할지 선택</string>
+    <string name="photopro_strings_save_destination_internal_txt">내부 저장소</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD 카드</string>
+    <string name="photopro_strings_save_destination_title_txt">데이터 저장소</string>
+    <string name="photopro_strings_save_destination_txt">데이터 저장소</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD 카드를 사용할 수 없음</string>
+    <string name="photopro_strings_selftimer_10_txt">10초</string>
+    <string name="photopro_strings_selftimer_3_txt">3초</string>
+    <string name="photopro_strings_selftimer_description_txt">지정된 초 단위 시간이 지나면 자동으로 사진을 찍도록 셀프타이머를 설정합니다.</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">카메라를 응시</string>
+    <string name="photopro_strings_selftimer_txt">셀프타이머</string>
+    <string name="photopro_strings_settings_off_txt">끄기</string>
+    <string name="photopro_strings_settings_on_txt">켜기</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">항상 기본 모드 사용</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Photography Pro 실행 시 기본 촬영 모드 선택</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">마지막으로 사용된 모드</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">실행 시 촬영 모드</string>
+    <string name="photopro_strings_shooting_mode_txt">촬영 모드</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">비디오 카메라</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">셔터 속도</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">HDR이 켜진 경우 스냅샷을 찍을 수 없습니다</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">피부를 더 매끄러워 보이게 하는 효과 켜기</string>
+    <string name="photopro_strings_soft_skin_effect_txt">소프트 스킨 효과</string>
+    <string name="photopro_strings_status_mic_external_txt">외부</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">좌우(스테레오)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">후면(모노)</string>
+    <string name="photopro_strings_store_fail_txt">저장할 수 없음</string>
+    <string name="photopro_strings_sw_license_txt">소프트웨어 라이선스</string>
+    <string name="photopro_strings_term_of_use_accept_txt">수락</string>
+    <string name="photopro_strings_term_of_use_decline_txt">거절</string>
+    <string name="photopro_strings_tips_txt">팁</string>
+    <string name="photopro_strings_title_permissions_txt">Photo Pro 사용 권한</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">터치 초점 취소</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">자동 초점</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"뷰파인더 터치 시 조정할 항목을 선택합니다.
+
+대상 추적: 움직이는 물체를 촬영하는 데 최고의 기능입니다. 뷰파인더에서 누른 물체에 계속 초점을 유지하여 움직이는 물체를 선명하게 촬영할 수 있습니다.
+자동 초점: 뷰파인더에서 초점을 맞출 위치를 누릅니다.
+초점 및 밝기: 뷰파인더를 눌러 초점을 맞추고 원하는 위치의 밝기를 조정합니다."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">초점 및 밝기</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">대상 추적</string>
+    <string name="photopro_strings_touch_to_adjust_txt">조정하려면 터치</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">대상 추적 취소</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"이 기능을 켜면 Transfer &amp; Tagging add-on에서 Xperia 카메라로 촬영한 사진을 표시할 수 있습니다. 사진은 내부 저장소에 저장됩니다.
+이 기능은 Photography Pro로 촬영한 사진과 호환됩니다.
+이 기능을 켜면 파일 형식이 JPEG로, 드라이브 모드가 단일 촬영으로 자동 설정됩니다."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Transfer &amp; Tagging add-on 모드</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">확인</string>
+    <string name="photopro_strings_tutorial_button_next_txt">다음</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">건너뛰기</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony는 사진 촬영의 끝없는 기쁨과 경이로움을 널리 퍼뜨리는 제품을 제작해 포토그래퍼의 사랑을 받는 브랜드입니다.
+Sony의 경험과 기술은 계속해서 전 세계 고객의 선택을 받고 있습니다.
+
+Photography Pro는 Sony Imaging Products을 통해 본격적인 카메라의 작동과 기능을 재현합니다.
+Sony는 창의력 넘치는 사진을 응원합니다."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"피사체에 적합한 촬영 모드를 선택하세요.
+셔터 속도와 노출을 설정하세요.
+카메라가 흔들리지 않게 양쪽으로 잡고 사진을 찍으세요.
+
+촬영 모드는 다음과 같습니다.
+P(자동 프로그램)
+S(셔터 속도 우선순위)
+M(수동 노출)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"오른쪽 상단(가로 방향인 경우 왼쪽 상단)에 있는 모드 다이얼을 사용하여 원하는 촬영 모드를 선택합니다.
+
+기본 모드를 사용하면 일반 스마트폰 카메라와 유사한 방식으로 전면 카메라로 사진과 비디오를 쉽게 촬영할 수 있습니다.
+
+Auto/P/S/M 모드를 사용하면 고급 설정에 접속하여 이상적인 사진을 촬영할 수도 있습니다."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">촬영 모드</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">사용 방법</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Auto/P/S/M 모드를 사용하는 경우 카메라를 가로 방향으로 단단히 잡고 기기의 오른쪽 상단에 있는 셔터 버튼을 눌러 사진을 촬영합니다.
+
+자동을 선택하면 셔터 속도 및 노출과 같은 기능이 자동으로 설정됩니다.
+
+설정을 수동으로 구성하려면 아래 모드 중 하나를 선택합니다.
+P(자동 프로그램)
+S(셔터 속도 우선순위)
+M(수동 노출)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Auto/P/S/M 모드 사용 방법</string>
+    <string name="photopro_strings_tutorial_txt">가이드</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Photo Pro를 연결된 외부 디스플레이와 함께 사용할 수 없습니다. Photo Pro를 사용하려면 Xperia 최근 앱 화면에서 앱을 닫았다가 다시 시작하십시오.</string>
+    <string name="photopro_strings_unlock_button_txt">잠금 해제</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">보안상의 이유로 카메라의 사용이 제한됨</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">4K 비디오를 안정적으로 녹화하려면 고속 SD 카드(UHS Speed Class 1 이상 또는 Speed Class 10 권장)를 사용하지 않는 이상 이 설정을 변경해서는 안 됩니다.</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">슬로 모션 비디오를 안정적으로 녹화하려면 고속 SD 카드(UHS Speed Class 1 이상 또는 Speed Class 10 권장)를 사용하지 않는 이상 이 설정을 변경해서는 안 됩니다.</string>
+    <string name="photopro_strings_video_explanatory_txt">"비디오를 안정적으로 녹화하려면 데이터 저장소를 내부 저장소로 변경하는 것이 좋습니다. 지금 변경하시겠습니까?
+
+SD 카드를 데이터 저장소로 계속 사용하려면 고속 SD 카드(UHS Speed Class 1 이상 또는 Speed Class 10 권장)를 사용해야 합니다."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"4K 비디오 녹화용 인코더를 선택할 수 있습니다.
+
+H.264(AVC): 대부분의 기기 및 서비스에서 지원하는 인코딩용 표준 형식입니다.
+H.265(HEVC): 더 높은 압축률로 포맷하세요. 재생 기기 또는 서비스가 이 방법을 지원하는지 확인하세요."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">파일 형식(4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"비디오 크기를 선택합니다.
+풀 HD(60 fps) 또는 HD를 선택하면 HDR을 사용할 수 없습니다."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">비디오 크기 선택</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">풀 HD(60fps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">풀 HD</string>
+    <string name="photopro_strings_video_size_txt">비디오 크기</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Xperia에는 광학 이미지 손떨림 보정과 전자 이미지 손떨림 보정을 동시에 결합하는 광학 SteadyShot이라는 고유한 하이브리드 손떨림 보정 시스템이 있습니다. 이 시스템은 움직이면서 녹화를 할 때도 비디오가 흔들림 없고 매끄럽도록 합니다.</string>
+    <string name="photopro_strings_video_stabilization_txt">비디오 보정</string>
+    <string name="photopro_strings_volumekey_description_txt">볼륨 버튼에 다른 기능 할당</string>
+    <string name="photopro_strings_volumekey_shutter_txt">셔터</string>
+    <string name="photopro_strings_volumekey_txt">다음 기능으로 볼륨 버튼 사용</string>
+    <string name="photopro_strings_volumekey_volume_txt">볼륨</string>
+    <string name="photopro_strings_volumekey_zoom_txt">확대/축소</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">조정 - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">자동</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">조정</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">완료</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">재시도</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">적용</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">흐림</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">사용자 정의 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">사용자 정의 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">사용자 정의 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">미리보기 중심을 기준으로 화이트 밸런스 설정</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">조정 실패</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">조정 완료</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">설정 - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">일광</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">형광등</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">백열등</string>
+    <string name="photopro_strings_whitebalance_shade_txt">그늘</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">온도 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">온도 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">온도 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">온도:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">색온도</string>
+    <string name="photopro_strings_whitebalance_txt">화이트 밸런스</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">전면 카메라로 확대/축소할 수 없음</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">AI 초고해상도 줌</string>
+    <string name="photopro_strings_zoom_type_description_txt">"확대/축소 설정을 선택합니다.
+
+디지털 줌: 이미지 센서 데이터를 기반으로 디지털 처리를 사용하여 확대/축소합니다.
+AI 초고해상도 줌: 원본 이미지 품질을 더 많이 보존하는 디지털 처리를 사용하여 확대/축소합니다. 사진을 저장하는 데 더 오랜 시간이 소요될 수 있습니다. 연속 촬영을 선택하면 자동으로 디지털 줌으로 작동합니다."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">디지털 줌</string>
+    <string name="photopro_strings_zoom_type_txt">확대/축소 설정</string>
+    <string name="search_menu_title">검색</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">사용 안함</string>
+    <string name="v7_preference_on">사용</string>
+</resources>

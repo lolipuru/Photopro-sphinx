@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Xarxa
+Per connectar-vos a la WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"La WLAN està desactivada i el mode Avió està activat.
+Canvieu aquests paràmetres puntejant CONFIGURACIÓ."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"La WLAN està desactivada.
+Activeu-la a CONFIGURACIÓ."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">No es pot connectar a la WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Podeu accedir ràpidament a la web o connectar-vos a la WLAN escanejant un QR Code.
+Aquesta funció estarà activa en el mode Bàsic (Foto). Aquesta funció es pot habilitar o inhabilitar des de MENÚ > Lector del QR Code."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Punt. i connecteu-vos a la WLAN \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Podeu accedir ràpidament a la web o connectar-vos a la WLAN escanejant un QR Code.
+Aquesta funció estarà activa en el mode Bàsic (Foto)."</string>
+</resources>

@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Tunjukkan jalan ke rumah</string>
+    <string name="abc_action_bar_up_description">Kembali ke atas</string>
+    <string name="abc_action_menu_overflow_description">Opsi lain</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih aplikasi</string>
+    <string name="abc_capital_off">NONAKTIF</string>
+    <string name="abc_capital_on">AKTIF</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spasi</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Telusuri...</string>
+    <string name="abc_searchview_description_clear">Hapus kueri</string>
+    <string name="abc_searchview_description_query">Telusuri kueri</string>
+    <string name="abc_searchview_description_search">Telusuri</string>
+    <string name="abc_searchview_description_submit">Kirim kueri</string>
+    <string name="abc_searchview_description_voice">Penelusuran suara</string>
+    <string name="abc_shareactionprovider_share_with">Bagikan dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Bagikan dengan %s</string>
+    <string name="abc_toolbar_collapse_description">Ciutkan</string>
+    <string name="ble_remote_control_button_any_problem_txt">Pemecahan masalah</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Pasangkan kontroler baru</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Anda dapat menentukan fungsi lain ke tombol C1 pada Remote control Bluetooth</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">Pengaturan khusus tombol C1</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Mode fokus</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Lensa</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Mode memotret</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Alihkan kamera utama/depan</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Alihkan foto/video</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Lensa</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Alihkan AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Alihkan kamera utama/depan</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Izinkan</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Tolak</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Izinkan aplikasi menggunakan Bluetooth untuk fitur ini?</string>
+    <string name="ble_remote_control_description_txt">"Anda dapat memasangkan Sony remote control melalui Bluetooth untuk menggunakan fungsi dalam %1$s secara jarak jauh.
+Ketuk Pasangkan kontroler baru untuk mulai memasangkan perangkat baru."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Sudah dipasangkan</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Jika remote tidak dapat dipasangkan dengan perangkat, masuk ke Setelan dan periksa apakah remote telah didaftarkan dalam daftar perangkat Bluetooth. Jika sudah terdaftar, keluarkan remote dari daftar dan coba pasangkan lagi.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Pemecahan masalah</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Setuju &amp; aktif</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Tolak</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Keluar</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Buka Setelan</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">OK</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Pemasangan dibatalkan karena Bluetooth dinonaktifkan</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Pemasangan gagal karena waktu habis. Silakan coba lagi nanti.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Perangkat ini dapat membatasi fungsi tertentu sebagai tindakan pencegahan saat digunakan secara intensif. Jika Anda menyalakan Mode daya tahan kamera, sebuah ikon akan ditampilkan untuk mengindikasikan bahwa aplikasi akan mempertahankan kinerja tinggi. Saat ikon ini ditampilkan, Anda dapat menggunakan aplikasi dalam periode waktu yang lebih lama.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Mode daya tahan kamera hanya akan tersedia saat menggunakan %1$s dengan remote control yang terhubung melalui Bluetooth. Menutup %1$s akan menonaktifkan fungsi ini.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Suhu perangkat dapat meningkat di atas suhu pengoperasian khusus. Ketika suhu meningkat pemberitahuan dan ikon akan mengingatkan Anda. Jika ini terjadi, jangan terus memegang perangkat di tangan Anda. Jika ini terjadi, jangan terus memegang perangkat di tangan Anda. Harap pastikan remote control terhubung melalui Bluetooth sebelum melanjutkan.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Perhatian</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Suhu perangkat terlalu tinggi. %1$s akan dimatikan sementara agar perangkat dingin.
+Jika Anda menghubungkan remote control Bluetooth, Anda dapat terus menggunakan %1$s dengan Mode daya tahan kamera."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Suhu perangkat terlalu tinggi. %1$s akan dimatikan sementara agar perangkat dingin.
+Jika Anda menghubungkan remote control Bluetooth, Anda dapat menggunakan %1$s dengan Mode daya tahan kamera."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Untuk menggunakan fungsi ini, aktifkan [Gunakan remote control] setelah memasangkan remote control melalui Bluetooth.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Suhu perangkat terlalu tinggi. %1$s akan dimatikan sementara agar perangkat dingin.
+Jika Anda menyalakan mode daya tahan kamera, Anda dapat menggunakan %1$s dengan remote control Bluetooth."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Untuk mengaktifkan fungsi ini, interaksi dengan remote control yang terhubung.
+Untuk membatalkan, ketuk KELUAR."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Mode daya tahan kamera diaktifkan</string>
+    <string name="ble_remote_control_endurance_mode_txt">Mode daya tahan kamera</string>
+    <string name="ble_remote_control_off_txt">Mati</string>
+    <string name="ble_remote_control_on_txt">Aktif</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Untuk mulai memasangkan, interaksi dengan pengontrol remote.
+Anda akan menerima pemberitahuan dan dialog dua kali. Pilih PASANGKAN di semuanya, lalu tekan tombol apa saja pada perangkat yang dipasangkan untuk menyelesaikan pemasangan."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Pasangkan kontroler baru</string>
+    <string name="ble_remote_control_title_txt">Remote control Bluetooth</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Gunakan remote control</string>
+    <string name="expand_button_title">Lanjutan</string>
+    <string name="external_display_connected_description_txt">Anda kini dapat memeriksa jendela bidik dari Monitor Vlog</string>
+    <string name="external_display_connected_title_txt">Monitor Vlog tersambung</string>
+    <string name="external_display_note_about_external_mic_txt">Catatan: Untuk menggunakan mikrofon eksternal, hubungkan ke Monitor Vlog sebelum merekam. Jika Anda menghubungkan setelahnya, Anda perlu menhubungkan kembali ke Monitor Vlog.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Anda sebelumnya telah menerima kebijakan privasi namun Anda selalu dapat mengubahnya.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Tanda panah kiri</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Tanda panah kanan</string>
+    <string name="photopro_strings_accessibility_back_txt">Kembali</string>
+    <string name="photopro_strings_accessibility_close_txt">Tutup</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Aksesibilitas: &lt;a href=\"%s\">Sebagian sesuai&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Baca lbh lnjt</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Tombol lensa</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Tidak dapat dikonfigurasi</string>
+    <string name="photopro_strings_accessibility_previous_txt">Sebelumnya</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Tumpukan foto terbaru</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Mulai perekaman video</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Jeda perekaman video</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Lanjutkan perekaman video</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Ambil tangkapan layar selama merekam video</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Hentikan perekaman video</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Hentikan hitung mundur</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Rana</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Alihkan antara kamera utama dan depan</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Alihkan antara foto dan video</string>
+    <string name="photopro_strings_accessibility_title_txt">Aksesibilitas</string>
+    <string name="photopro_strings_addon_button_menu_txt">Lainnya</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Efek kreatif</string>
+    <string name="photopro_strings_addon_panorama_txt">Panorama</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Potret swafoto</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Gerakan lambat</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Untuk menyimpan lokasi, Anda harus mengaktifkan GPS dan/atau jaringan nirkabel. Aktifkan sekarang?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Simpan lokasi</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Analitik anonim</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Foto depan</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Video depan</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Video</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Pilih rasio aspek untuk foto</string>
+    <string name="photopro_strings_aspect_ratio_txt">Rasio aspek</string>
+    <string name="photopro_strings_audio_on_all_txt">Aktif: Semua</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Aktif: Rana saja</string>
+    <string name="photopro_strings_audio_signals_description_txt">Atur suara kamera mana yang akan diputar, seperti saat timer-otomatis dihitung mundur atau saat memfokuskan. Anda juga dapat memilih untuk memutar hanya suara rana.</string>
+    <string name="photopro_strings_audio_signals_txt">Sinyal audio</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro akan segera ditutup karena tidak ada aktivitas</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Potret cahaya latar</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Cahaya latar</string>
+    <string name="photopro_strings_auto_scene_document_txt">Dokumen</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Makanan</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Bayi</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Lanskap</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Cahaya rendah</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Makro</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Potret malam</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Pemandangan malam</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Pendeteksi pemandangan otomatis</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Bidikan halus</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Titik cahaya</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Pastikan lensa bersih, dan jari Anda tidak menempel pada lensa</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Terlalu terang</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Bergerak menjauh dari objek</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Butuh lebih banyak cahaya</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Bergerak mendekat ke objek</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Bokeh saat ini tidak tersedia</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Bokeh Aktif</string>
+    <string name="photopro_strings_bokeh_txt">Bokeh</string>
+    <string name="photopro_strings_bt_remote_control_txt">Remote control Bluetooth</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Foto dari Pemotretan lanjut disimpan di penyimpanan internal</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Tidak dpt mgnkn Pemotretan lanjut dengan kecepatan rana lambat</string>
+    <string name="photopro_strings_button_continue_txt">Lanjutkan</string>
+    <string name="photopro_strings_button_quit_txt">KELUAR</string>
+    <string name="photopro_strings_cancel_txt">Batal</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Gerak lambat</string>
+    <string name="photopro_strings_change_save_destination_title_txt">Video 4K</string>
+    <string name="photopro_strings_change_txt">Ubah</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Reset</string>
+    <string name="photopro_strings_color_and_brightness_txt">Warna dan kecerahan</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Penyimpanan internal penuh. Simpan data di kartu SD?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Penyimpanan internal rusak atau tidak dapat ditulis. Simpan data di kartu SD?</string>
+    <string name="photopro_strings_common_error_open_txt">"Tdk dpt m'buka %1$s"</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">Kartu SD penuh. Simpan data di penyimpanan internal?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">Tidak dapat menggunakan kartu SD. Simpan data di penyimpanan internal?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Umpn blk pemotretan terus-menerus</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Fungsi-fungsi berikut saat ini dinonaktifkan.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Tunggu hingga perangkat Anda mendingin, lalu nyalakan ulang kamera.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Fungsi berikut ini dinonaktifkan</string>
+    <string name="photopro_strings_cooling_mode_txt">Beberapa fitur dinonaktifkan agar mencegah kenaikan suhu perangkat</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Tetapkan fungsi lainnya ke tombol AEL</string>
+    <string name="photopro_strings_custom_ael_txt">Pengaturan khusus tombol AEL</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Dengan mengetuk tombol DISP, Anda dapat menampilkan/menyembunyikan informasi pada jendela bidik.
+Batal centang item apa saja dalam menu ini jika Anda tidak pernah ingin ditampilkan saat Anda menampilkan informasi dengan tombol DISP."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histogram</string>
+    <string name="photopro_strings_custom_disp_level_txt">Tingkat</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Informasi header</string>
+    <string name="photopro_strings_custom_disp_txt">Pengaturan khusus tombol DISP</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Anda dapat menetapkan kembali atau mengurutkan ulang item setelan dalam menu fungsi.
+Ketuk satu item fungsi di bawah untuk menetapkan fungsi yang lain dari pilihan Anda dari daftar di sebelah kiri,
+Seret dan letakkan salah satu item fungsi di bawah untuk diurutkan kembali."</string>
+    <string name="photopro_strings_custom_fn_txt">Pengaturan khusus menu fungsi</string>
+    <string name="photopro_strings_custom_none_txt">Belum ditetapkan</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Anda sebelumnya telah menolak kebijakan privasi.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Kunci pencahayaan otomatis</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Setel ISO ke Otomatis</string>
+    <string name="photopro_strings_description_custom_none_txt">Nonaktifkan tombol AEL</string>
+    <string name="photopro_strings_device_id_txt">ID perangkat</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Baterai ponsel tidak cukup. Ketika baterai lemah, kamera akan ditutup secara otomatis.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Rekaman dihentikan karena baterai lemah. Isi daya perangkat Anda, dan coba lagi.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Tidak dapat menggunakan kamera karena baterai lemah. Isi daya perangkat Anda, dan coba lagi.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Aplikasi ini memerlukan izin berikut untuk melakukan tindakan ini.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Jaringan
+Untuk menyambungkan ke Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Mode pesawat hidup.
+Matikan mode Pesawat dari SETELAN."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Nama jaringan: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi dimatikan dan mode Pesawat dihidupkan.
+Ubah setelan ini dengan mengetuk SETELAN."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi dimatikan.
+Aktifkan Wi-Fi dari SETELAN."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Setelan</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Izinkan</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Tolak</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Catatan</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Kalibrasi</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Atur ulang</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Penyimpanan internal tidak cukup. Pemotretan Terus-menerus dihentikan. Hapus beberapa file untuk mengosongkan ruang penyimpanan.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Berikan izin</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Menyambung...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Proteksi sandi: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Keamanan: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Tidak dapat tersambung ke Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Jika setuju dengan yang di bawah ini, Sony akan mengumpulkan &lt;b>&lt;a href=#personal-data>data pribadi&lt;/a>&lt;/b> untuk menyediakan dukungan yang disesuaikan dan meningkatkan perangkat serta layanan. Sony akan menangani data Anda berdasarkan &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>Kebijakan Privasi&lt;/a>&lt;/b> kami.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Anda dapat merekam video bahkan dalam pemandangan kontras tinggi, dan menjadikannya lebih dramatis serta mendekati apa yang Anda lihat di kehidupan nyata. Gunakan perangkat/layanan yang didukung untuk menikmati konten dengan warna dan kecerahan aslinya.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Jangan tampilkan lagi</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">Pemotretan lanjut HDR: Tinggi</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">Pemotretan lanjut HDR: Rendah</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Pemotretan lanjut: Hai</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Pemotretan lanjut: Rendah</string>
+    <string name="photopro_strings_drive_continuous_txt">Pemotretan berkelanjutan</string>
+    <string name="photopro_strings_drive_mode_txt">Mode berkendara</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Self-timer: 10 dtk</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Self-timer: 3 dtk</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Timer otomatis: Mati</string>
+    <string name="photopro_strings_drive_single_txt">Pemotretan tunggal</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">HDR Otomatis</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Pengaturan ini akan mengoptimalkan rentang nilai. Pemrosesan DRO menggunakan satu gambar, sedangkan HDR Oto. menggabungkan beberapa pencahayaan untuk mencapai hasil.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Pengoptimal Rentang-D</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/HDR Otomatis</string>
+    <string name="photopro_strings_error_device_not_available_txt">Tidak dapat memulai kamera. Mulai ulang kamera atau perangkat.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Galat</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Tidak dapat menyimpan foto. Terjadi masalah dengan penyimpanan data. Jika penyimpanan Data disetel ke kartu SD, periksa kartu SD Anda.</string>
+    <string name="photopro_strings_error_fatal_txt">Galat tidak dikenal.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Tidak</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Ya</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Kamera akan dinonaktifkan sementara untuk mendinginkan. Rekaman Anda akan disimpan. Mulai ulang apl setelah perangkat didinginkan.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Memori penuh. Hapus sebagian berkas dari kartu SD atau penyimpanan internal.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Memori tidak tersedia</string>
+    <string name="photopro_strings_error_memory_title_txt">Galat memori</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">Kartu SD tidak tersedia</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Kompensasi pencahayaan</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Anda dapat mengambil foto potret yang berfokus pada wajah atau mata orang dan binatang.
+Untuk mengubah target fokus, ketuk wajah subjek yang ingin Anda fokuskan."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Anda dapat merekam video yang berfokus pada wajah atau mata orang dan binatang.
+Untuk mengubah target fokus, ketuk wajah subjek yang ingin Anda fokuskan.
+Catatan: Saat setelan ini diaktifkan, durasi perekaman mungkin dipersingkat karena kenaikan suhu perangkat."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Deteksi Wajah/AF Mata Hidup</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">AF Wajah/Mata</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">AF Wajah/Mata Mati</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">AF Wajah/Mata Nyala</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Buka kunci layar untuk menggunakan fungsi ini</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Untuk membuat setelan, buka kunci layar.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Layar dikunci</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Untuk menyesuaikan efek Bokeh, ketuk ikon Bokeh di jendela bidik dan geser penggeser.
+Fungsi ini didukung dalam mode Dasar (Foto).
+Jadikan subjek Anda menonjol dengan kontras impresif dengan mengaburkan latar belakang."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Ambil foto dengan efek bokeh</string>
+    <string name="photopro_strings_feature_bokeh_txt">Efek bokeh</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Mode drive dapat diubah untuk menggunakan pemotretan Tunggal atau Terus-menerus, atau timer-otomatis.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Mode berkendara</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Saat mengambil foto dengan kamera depan, perhatikan lensa kamera depan di dekat speaker telinga.
+Mata Anda akan melihat ke arah yang tepat dalam foto."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Arah mata</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Anda dapat mengambil foto potret yang berfokus pada wajah atau mata orang dan binatang.
+Untuk mengubah target fokus, ketuk wajah subjek yang ingin Anda fokuskan. Fungsi ini dapat diaktifkan atau dinonaktifkan dari MENU > AF Wajah/Mata."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">AF Wajah/Mata</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Putar telapak tangan Anda ke arah kamera. Timer otomatis akan mulai menghitung mundur saat telapak tangan Anda dikenali. Agar lebih mudah terdeteksi, rentangkan jari Anda ke atas.
+Untuk mengaktifkan fungsi ini, alihkan ke kamera depan saat mode Dasar (foto) dan aktifkan Bidik tangan dalam MENU."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Bidik tangan</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Saat menggunakan lensa ultra lebar (0,7x), Anda bisa pilih prioritas. Dengan Prioritaskan kualitas gambar, Anda bisa ambil gambar kualitas tinggi dinamis. Jika pilih Prioritaskan koreksi untuk distorsi, Anda bisa kurangi distorsi visual.
+Fungsi ini aktif saat mengambil foto menggunakan lensa ultra lebar. Setelah beralih ke lensa ultra lebar, Anda dapat mengonfigurasi prioritas dari MENU > Koreksi lensa ultra lebar."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Koreksi lensa (foto)</string>
+    <string name="photopro_strings_feature_list_title_txt">Pengenalan fitur</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Dengan mudah menangkan selfie artistik menggunakan efek Bokeh dan kecantikan.
+Untuk menggunakan fungsi ini, ketuk Lainnya dalam jendela bidik dan pilih Potret swafoto.
+Bergaya dengan selfie dan nikmati hasil yang kreatif."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Potret swafoto</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Anda bisa secara cepat mengakses web atau tersambung ke Wi-Fi dengan memindai QR Code.
+Fungsi ini diaktifkan saat dalam mode Dasar (Foto). Fungsi ini dapat diaktifkan atau dinonaktifkan dari MENU > Pembaca QR Code."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">Pembaca QR Code</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">Pembaca QR Code</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Tag foto dan video Anda dengan lokasi pengambilannya. Anda dapat mengubah setelan ini nanti dari MENU > Simpan lokasi.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Simpan lokasi?</string>
+    <string name="photopro_strings_feature_selfie_txt">Kamera depan</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Anda dapat merekam video gerakan lambat 120 fps dalam HD</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Gerakan lambat</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Anda dapat dengan mudah beralih antara lensa kamera untuk menangkap situasi apa pun dalam menantang kreativitas Anda.
+Ketuk tombol dalam jendela bidik untuk beralih antara lensa 0,7x (ultra lebar), 1,0x (lebar), 2,9x (telefoto), dan 4,4x (telefoto).
+Anda dapat menggunakan fungsi ini baik dalam mode Dasar (Foto) dan Dasar (Video)."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Beralih sudur dengan tombol</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Anda dapat dengan mudah beralih antara lensa kamera untuk menangkap situasi apa pun dalam menantang kreativitas Anda.
+Ketuk tombol dalam jendela bidik untuk beralih antara lensa 0,7x (ultra lebar), 1,0x (lebar), dan 2,1x (standar).
+Anda dapat menggunakan fungsi ini baik dalam mode Dasar (Foto) dan Dasar (Video)."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Tiga kamera</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Mengetuk tombol lensa akan menampilkan penggeser yang dapat Anda gunakan untuk menyesuaikan tingkat zum.
+Anda juga dapat mencubit layar atau menggunakan tombol volume untuk mengezum."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Cara zum/memperkecil</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Hapus</string>
+    <string name="photopro_strings_file_format_description_txt">"Pilih format berkas untuk gambar foto.
+
+RAW: Memerlukan perangkat lunak khusus untuk foto pascaproses. Ini memungkinkan Anda melakukan penyesuaian sambil membatasi penurunan kualitas gambar. Dicetak setelah pemrosesan.
+RAW &amp; JPEG: Menyimpan gambar RAW yang membutuhkan gambar pasca-pemrosesan dan JPEG.
+JPEG: Menyimpan gambar JPEG.
+
+Catatan:
+Berkas format RAW akan selalu disimpan ke penyimpanan internal dengan rasio aspek 4: 3.
+Pemotretan terus-menerus dan HDR Otomatis tidak tersedia saat RAW atau RAW &amp; JPEG dipilih."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW &amp; JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Format File</string>
+    <string name="photopro_strings_flash_auto_txt">Otomatis</string>
+    <string name="photopro_strings_flash_description_txt">Atur mode flash ke Flash otomatis, Flash pengisi, dll.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Flash pengisi</string>
+    <string name="photopro_strings_flash_off_txt">Mati</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Anti mata-merah</string>
+    <string name="photopro_strings_flash_torch_description_txt">Aktifkan senter</string>
+    <string name="photopro_strings_flash_torch_off_txt">Lampu senter: Mati</string>
+    <string name="photopro_strings_flash_torch_on_txt">Lampu senter: Aktif</string>
+    <string name="photopro_strings_flash_torch_txt">Lampu senter</string>
+    <string name="photopro_strings_flash_txt">Mode kilat</string>
+    <string name="photopro_strings_focus_area_center_txt">Pusat</string>
+    <string name="photopro_strings_focus_area_txt">Area fokus</string>
+    <string name="photopro_strings_focus_area_wide_txt">Lebar</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Atur warna bingkai area fokus</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Merah</string>
+    <string name="photopro_strings_focus_frame_color_txt">Warna area fokus</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Putih</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">AF berkelanjutan</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">AF bidikan tunggal</string>
+    <string name="photopro_strings_focus_mode_description_txt">Pilih metode fokus</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Deteksi wajah</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Fokus manual</string>
+    <string name="photopro_strings_focus_mode_txt">Mode fokus</string>
+    <string name="photopro_strings_geotagging_description_txt">Simpan foto dan video Anda dengan lokasi pengambilannya</string>
+    <string name="photopro_strings_geotagging_txt">Simpan lokasi</string>
+    <string name="photopro_strings_gridline_description_txt">Atur apakah ingin atau tidak menampilkan garis grid untuk membantu Anda dengan komposisi gambar</string>
+    <string name="photopro_strings_gridline_txt">Garis grid</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Anda dapat mulai menghitung mundur timer otomatis dengan membalikkan telapak tangan ke kamera depan. Agar lebih mudah terdeteksi, rentangkan jari Anda ke atas.</string>
+    <string name="photopro_strings_hand_shutter_txt">Bidik tangan</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Atur apakah ingin mendapatkan masukan haptic saat berinteraksi dengan tampilan, misalnya mode panggilan</string>
+    <string name="photopro_strings_haptic_feedback_txt">Masukan haptic</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Mati</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: Aktif</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Filter angin cerdas</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">Sensitifitas ISO</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Anda dapat meluncurkan Photography Pro dengan menekan dan menahan tombol rana perangkat. Ini berfungsi meskipun ponsel dalam mode tidur atau terkunci.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Luncurkan Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Luncurkan dgn tombol rana</string>
+    <string name="photopro_strings_lens_correction_description_txt">Saat memakai lensa ultra lebar, Anda bisa pilih prioritas. Dgn Prioritaskan kualitas gambar, Anda bisa ambil gambar kualitas tinggi dinamis. Jika pilih Prioritaskan koreksi untuk distorsi, Anda bisa kurangi distorsi visual.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Prioritaskan kualitas gambar</string>
+    <string name="photopro_strings_lens_correction_on_txt">Prioritaskan koreksi untuk distorsi</string>
+    <string name="photopro_strings_lens_correction_txt">Koreksi lensa ultra lebar</string>
+    <string name="photopro_strings_lens_txt">Lensa</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Kalibrasi</string>
+    <string name="photopro_strings_level_calibration_description_txt">Jika perlu, Anda dapat mengkalibrasi Tingkat untuk memperbaiki penyimpangan dalam arah kemiringan. Pastikan kamera mendatar, lalu pilih Kalibrasii.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Kalibrasi selesai</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Setelan kalibrasi telah diatur ulang</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Kalibrasi tingkat</string>
+    <string name="photopro_strings_lock_switch_txt">Kunci</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Rekaman dihentikan karena batas ukuran berkas maksimum</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Rekaman dihentikan karena batasan waktu rekaman maksimum</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Tidak dapat menyimpan. Memori penuh.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Pakai</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Simpan</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Setel</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Simpan kombinasi mode dan setelan saat ini?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Setelan kamera disimpan.
+Anda dapat dengan mudah memanggil setelan ini menggunakan mode pemotretan MR."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Memori Atur Kamera</string>
+    <string name="photopro_strings_memory_recall_txt">Atur kamera panggil</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Foto (Depan)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Foto</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Gerakan lambat</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Video (Depan)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Video</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Pencahayaan/Warna</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Fokus</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Persiapan</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Memotret</string>
+    <string name="photopro_strings_menu_title_txt">Menu</string>
+    <string name="photopro_strings_metering_center_txt">Tengah</string>
+    <string name="photopro_strings_metering_multi_txt">Multi</string>
+    <string name="photopro_strings_metering_spot_txt">Spot</string>
+    <string name="photopro_strings_metering_txt">Mode pengukuran</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Pilih mic mana yang akan digunakan selama perekaman video:
+1. Mic KK: Rekam suara stereo dengan mikrofon kiri dan kanan (atas dan bawah saat berada dalam orientasi portret)
+2. Mic belakang: Rekam suara mono dengan mikrofon belakang"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Mic eksternal</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">Mic KK (stereo)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Mic belakang (mono)</string>
+    <string name="photopro_strings_mic_setting_txt">Mic</string>
+    <string name="photopro_strings_mode_auto_description_txt">Kamera akan secara otomatis mendeteksi jenis pemandangan dan mengambil foto dengan setelan otomatis selagi mengurangi noise dan guncangan kamera.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Mode Oto.</string>
+    <string name="photopro_strings_mode_basic_description_txt">"Dalam mode ini Anda dapat mengambil foto menggunakan tombol rana pada layar, serupa dengan pengalaman kamera smartphone biasa.
+Gunakan mode ini untuk mengambil selfie, merekam video, dan memindai QR code."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Mode Dasar</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Ini akan menampilkan penjelasan dari setiap Mode memotret saat mengganti mode dengan mode panggilan</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Panduan mode panggilan</string>
+    <string name="photopro_strings_mode_m_description_txt">"Secara manual mengontrol kecepatan rana dan sensitifitas ISO.
+Dengan pencahayaan lebih lama, dimungkinkan untuk mengambil foto yang menangkap jejak gerakan objek menggunakan keburaman gerakan."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Pencahayaan Manual</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Otomatis cerdas (Pemanggilan memori)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Mengambil foto menggunakan setelan yang Anda simpan.
+Anda dapat mendaftarkan kombinasi mode dan setelan yang sering digunakan."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Pemanggilan memori</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Pencahayaan manual (Pemanggilan memori)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Otomatis program (Pemanggilan memori)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Prioritas kecepatan rana (Pemanggilan memori)</string>
+    <string name="photopro_strings_mode_p_description_txt">Kamera akan mengontrol kecepatan rana secara otomatis, dengan setelan lain terserah Anda.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Program Oto.</string>
+    <string name="photopro_strings_mode_s_description_txt">"Secara manual mengontrol kecepatan rana untuk mengubah cara Anda menangkap objek yang bergerak.
+Kecepatan rana cepat akan muncul untuk membekukan objek dalam gerakan, sementara kecepatan rana lambat dapat menangkap keburaman gerakan dengan lebih baik."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Prioritas Kecepatan Rana</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Mode drive telah disetel secara otomatis ke Pemotretan singel karena mode Transfer &amp; Tagging add-on sedang aktif</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Format file telah disetel secara otomatis ke JPEG karena mode Transfer &amp; Tagging add-on sedang aktif</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Tidak dapat menggunakan Multi jendela atau jendela pop-up. Tutup jendela dan coba lagi. Jika Anda menggunakan Multi jendela, Anda dapat menarik bagian tengah bilah pemisah untuk membuat kamera layar penuh.</string>
+    <string name="photopro_strings_multi_window_txt">Tarik bagian tengah bilah pemisah untuk beralih ke layar penuh %1$s untuk menggunakan</string>
+    <string name="photopro_strings_ok_txt">OK</string>
+    <string name="photopro_strings_personal_data_txt">Data pribadi</string>
+    <string name="photopro_strings_privacy_policy_txt">Kebijakan privasi</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Mengambil foto. Harap tunggu.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">QR Code tidak didukung</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Ktk utk buka \"%1$s\" di browser</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Tidak dapat tersambung ke jaringan Wi-Fi ini</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Ketuk utk sambung ke jrgn Wi-Fi \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">Pembaca QR Code</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Anda bisa secara cepat mengakses web atau tersambung ke Wi-Fi dengan memindai QR Code.
+Fungsi ini diaktifkan saat dalam mode Dasar (Foto)."</string>
+    <string name="photopro_strings_qrcode_detection_txt">Pembaca QR Code</string>
+    <string name="photopro_strings_rec_txt">REC</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Atur Ulang Photo Pro ke setelan default?</string>
+    <string name="photopro_strings_reset_settings_txt">Reset setelan</string>
+    <string name="photopro_strings_reset_txt">Setel ulang</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Tidak dapat mengubah rasio aspek ketika format file diatur ke RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Tidak dapat memilih HDR otomatis saat Pengambilan terus menerus dipilih</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Tidak dapat memilih HDR otomatis saat format file selain dari JPEG dipilih</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Efek bokeh tidak tersedia dengan lensa yang dipilih saat ini</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Efek bokeh tidak tersedia saat mode Transfer &amp; Tagging add-on diaktifkan</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Tidak dapat menggunakan pemotretan lanjut: Tinggi dengan lensa yang saat ini dipilih</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Tidak dapat menggunakan Pemotretan Terus-menerus saat efek Bokeh aktif</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Pemotretan Terus-menerus tidak tersedia saat Zum resolusi super AI dipilih</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Tidak dapat menggunakan Pemotretan Terus-menerus saat format file selain dari JPEG dipilih</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Pemotretan terus menerus tidak tersedia saat mode Transfer &amp; Tagging add-on diaktifkan</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Tidak dapat diubah</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Tidak dapat menggunakan Mode flash ketika Pemotretan Terus-menerus dipilih</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Tidak dapat menggunakan mode Kilat dengan lensa yang saat ini dipilih</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Tidak dapat menggunakan Lampu senter dengan lensa yang dipilih saat ini</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Tidak dapat mengubah format file ke format yang lain selain JPEG saat HDR otomatis dipilih</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Tidak dapat mengubah format file ke format lain selain dari JPEG saat Pemotretan Terus-menerus dipilih</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Tidak dapat mengubah format file ke format lain selain dari JPEG saat mode Transfer &amp; Tagging add-on diaktifkan</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Tidak dapat mengubah setelan ini selagi mic eksternal terhubung</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Setelan ini tidak mendukung kecepatan rana saat ini. Untuk mengonfigurasi setelan ini, ubah kecepatan rana menjadi 1 detik atau kurang.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Tidak dapat memilih RAW saat rasio aspek lebih dari 4:3 dipilih</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Tidak dapat mengubah ukuran video saat merekam gerakan lambat. Untuk mengubah setelan ini keluar dari mode gerakan lambat.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Setelan ini hanya tersedia saat menggunakan lensa ultra lebar</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Setelan tidak tersedia jika HDR Aktif. Untuk mengonfigurasi ini, nonaktifkan HDR.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Setelan ini tidak didukung untuk ukuran video saat ini. Untuk mengonfigurasi setelan ini, ubah ukuran video.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Tidak dapat zum saat menggunakan efek Bokeh</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">INFO APLIKASI</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">Izin %1$s</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Aplikasi ini memerlukan izin berikut untuk melakukan tindakan ini.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Untuk memberikan izin, buka Info aplikasi > Izin.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Tidak dapat melanjutkan</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Untuk mengambil foto</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Untuk mengambil foto dan video</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Untuk mengambil lokasi</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Untuk merekam suara</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Agar terhubung ke perangkat sekitar</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Untuk membaca dan menyimpan foto dan video</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Untuk menyimpan foto</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Untuk menyimpan foto dan video</string>
+    <string name="photopro_strings_save_destination_description_txt">Pilih apakah ingin menyimpan foto dan video pada penyimpanan internal perangkat Anda atau di kartu SD</string>
+    <string name="photopro_strings_save_destination_internal_txt">Penyimpanan internal</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">Kartu SD</string>
+    <string name="photopro_strings_save_destination_title_txt">Penyimpanan data</string>
+    <string name="photopro_strings_save_destination_txt">Penyimpanan data</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">Kartu SD tidak tersedia</string>
+    <string name="photopro_strings_selftimer_10_txt">10 dtk.</string>
+    <string name="photopro_strings_selftimer_3_txt">3 dtk.</string>
+    <string name="photopro_strings_selftimer_description_txt">Atur timer-otomatis untuk mengambil foto secara otomatis setelah jumlah detik yang ditentukan telah berlalu</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Arahkan mata Anda ke kamera</string>
+    <string name="photopro_strings_selftimer_txt">Timer otomatis</string>
+    <string name="photopro_strings_settings_off_txt">Mati</string>
+    <string name="photopro_strings_settings_on_txt">Aktif</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Selalu gunakan mode Dasar</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Pilih Mode memotret default saat meluncurkan Photography Pro</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Mode yang terakhir digunakan</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Mode memotret pada peluncuran</string>
+    <string name="photopro_strings_shooting_mode_txt">Mode memotret</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Kamera video</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Kecepatan rana</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Tidak dapat mengambil tangkapan layar saat HDR menyala.</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Aktifkan efek yang membuat kulit tampak lebih halus</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Efek kulit halus</string>
+    <string name="photopro_strings_status_mic_external_txt">Eksternal</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">KK (stereo)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Belakang (mono)</string>
+    <string name="photopro_strings_store_fail_txt">Tidak dapat menyimpan</string>
+    <string name="photopro_strings_sw_license_txt">Lisensi perangkat lunak</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Terima</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Tolak</string>
+    <string name="photopro_strings_tips_txt">Tips</string>
+    <string name="photopro_strings_title_permissions_txt">Izin Photo Pro</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Batalkan Fokus sentuh</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Fokus Oto.</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Pilih apa yang akan disesuaikan saat Anda menyentuh jendela bidik.
+
+Pelacakan objek: Fungsi terbaik untuk perekaman objek bergerak. Fitur membuat fokus terkunci pada objek yang Anda ketuk dalam jendela bidik, memungkinkan untuk merekam objek bergerak secara jelas.
+Fokus otomatis: Ketuk yang ingin Anda fokuskan dalam jendela bidik.
+Fokus dan kecerahan: Fokus pada dan sesuaikan kecerahan dari posisi yang diinginkan dengan mengetuk jendela bidik."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Fokus dan kecerahan</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Pelacakan objek</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Sentuh untuk menyesuaikan</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Batalkan Pelacakan objek</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Mengaktifkan fungsi ini akan memungkinkan Transfer &amp; Tagging add-on untuk menampilkan foto yang diambil dengan kamera Xperia. Foto akan disimpan dalam penyimpanan internal.
+Fungsi ini kompatibel dengan foto yang diambil dengan Photography Pro.
+Mengaktifkan fungsi ini akan secara otomatis menyetel format file ke JPEG, dan Mode Drive ke Pemotretan singel."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Mode Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Dapat</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Berikutnya</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Lewati</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony merupakan merek yang dicintai para fotografer, karena menciptakan produk yang terus menyebarkan kegembiraan dan keajaiban fotografi.
+Pengalaman dan teknologi kami terus dipilih oleh pelanggan di seluruh dunia.
+
+Photography Pro berupaya menciptakan kembali operabilitas dan fungsi kamera skala penuh dari Sony Imaging Products
+. Sony mendukung kreativitas fotografi Anda."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Pilih mode Pemotretan yang ideal untuk disesuaikan dengan subjek Anda.
+Selanjutnya atur kecepatan rana dan pencahayaan.
+Pegang kamera dengan stabil dari samping, dan ambil gambar.
+
+Mode pemotretan meliputi:
+P (Program otomatis)
+S (Prioritas kecepatan rana)
+M (Pencahayaanr Manual)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Pilih mode pemotretan pilihan Anda menggunakan mode panggilan di kanan atas (kiri atas saat orientasi lanskap).
+
+Dengan Mode Dasar, Anda dapat dengan mudah mengambil foto dan video dengan kamera depan dengan cara yang serupa dengan kamera smartphone biasa.
+
+Dengan Mode Auto/P/S/M, Anda dapat mengakses setelan yang bahkan lebih canggih untuk mengambil foto ideal."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Mode memotret</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Cara penggunaan</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Saat menggunakan mode Auto/P/S/M, pegang kamera dengan mantap dalam orientasi lanskap dan tekan tombol rana pada sisi kanan atas perangkat untuk mengambil foto.
+
+Memilih Auto akan mengeset fungsi seperti kecepatan rana dan pencahayaan secara otomatis.
+
+Untuk mengonfigurasi setelan secara manual, pilih salah satu mode di bawah ini.
+P (Program Oto.)
+S (Prioritas Kecepatan Rana)
+M (Pencahayaan manual)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Cara menggunakan mode Auto/P/S/M</string>
+    <string name="photopro_strings_tutorial_txt">Tutorial</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Tidak dapat menggunakan Photo Pro dengan tampilan eksternal yang tersambung. Untuk menggunakan Photo Pro, tutup aplikasi dari layar Apl terkini di Xperia lalu nyalakan ulang.</string>
+    <string name="photopro_strings_unlock_button_txt">Buka kunci</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Penggunaan kamera dibatasi karena alasan keamanan</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Untuk rekaman video 4K yang stabil, Anda tidak boleh mengubah setelan ini kecuali menggunakan kartu SD kecepatan tinggi (Kelas Kecepatan UHS 1 atau lebih tinggi, atau Kelas Kecepatan 10 disarankan).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Untuk rekaman gerak lambat yang stabil, Anda tidak boleh mengubah setelan ini kecuali menggunakan kartu SD kecepatan tinggi (Kelas Kecepatan UHS 1 atau lebih tinggi, atau Kelas Kecepatan 10 disarankan).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Untuk rekaman video yang stabil, kami sarankan Anda mengubah penyimpanan data ke penyimpanan internal. Anda ingin mengubahnya sekarang?
+
+Jika Anda melanjutkan menggunakan kartu SD sebagai penyimpanan data, pastikan menggunakan kartu SD kecepatan tinggi (Kelas Kecepatan UHS 1, atau Kelas Kecepatan 10 disarankan)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Anda dapat memilih enkoder untuk perekaman video 4K.
+
+H.264 (AVC): Format standar untuk pengkodean didukung oleh sebagian besar perangkat dan layanan.
+H.265 (HEVC): Format dengan rasio kompresi yang lebih tinggi. Pastikan bahwa perangkat putar ulang atau layanan mendukung metode ini."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Format berkas (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Pilih ukuran video.
+HDR tidak tersedia saat Full HD (60 fps) atau HD dipilih."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Pilih ukuran video</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 fps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Full HD</string>
+    <string name="photopro_strings_video_size_txt">Ukuran video</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Xperia memiliki sistem stabilisasi hibrida unik yang disebut dengan Optical SteadyShot - mengombinasikan stabilisasi gambar optik dan stabilisasi gambar elektronik secara bersamaan. Hal ini memberikan Anda video bebas guncangan dan mulus ketika merekam pada saat bergerak.</string>
+    <string name="photopro_strings_video_stabilization_txt">Stabilisasi video</string>
+    <string name="photopro_strings_volumekey_description_txt">Tetapkan fungsi lain ke tombol volume</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Rana</string>
+    <string name="photopro_strings_volumekey_txt">Gunakan Tombol volume sbg</string>
+    <string name="photopro_strings_volumekey_volume_txt">Volume</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Zoom</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Sesuaikan - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Otomatis</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Ssaikn</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Slsai</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Coba lagi</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Atur</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Berawan</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Kustom 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Kustom 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Kustom 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Atur keseimbangan putih berdasarkan pusat pratinjau</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Penyesuaian gagal</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Penyesuaian selesai</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Atur - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Siang Hari</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Floresensi</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Berpijar</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Bayangan</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Suhu 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Suhu 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Suhu 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Suhu:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Suhu</string>
+    <string name="photopro_strings_whitebalance_txt">"K'smbngn putih"</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Tidak dapat zum dengan kamera depan</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">Zum resolusi super AI</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Pilih setelan zum.
+
+Zum digital: Zum menggunakan pemrosesan digital berdasarkan data sensor gambar.
+Zum resolusi super AI: Zum menggunakan pemrosesan digital yang mempertahankan lebih banyak kualitas gambar asli. Menyimpan foto mungkin membutuhkan waktu lebih lama. Ini akan secara otomatis berfungsi sebagai Zum digital saat Pemotretan Terus-menerus dipilih."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Zum digital</string>
+    <string name="photopro_strings_zoom_type_txt">Setelan zum</string>
+    <string name="search_menu_title">Telusuri</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">NONAKTIF</string>
+    <string name="v7_preference_on">AKTIF</string>
+</resources>

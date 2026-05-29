@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Functie +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">spatie</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="ble_remote_control_button_any_problem_txt">Problemen oplossen</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Nieuwe controller koppelen</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">U kunt een andere functie toewijzen aan de knop C1 op de Bluetooth-afstandsbed.</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">Knop C1 aanpassen</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Scherpstelmodus</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Lens</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Opnamemodus</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Hoofdcamera/camera aan voorzijde</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Schakelen tussen foto en video</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Lens</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Schakelen tussen AF en MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Hoofdcamera/camera aan voorzijde</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Toestaan</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Afwijzen</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">De app toestaan om Bluetooth voor deze functie te gebruiken?</string>
+    <string name="ble_remote_control_description_txt">"U kunt een Sony-afstandsbediening via Bluetooth koppelen om functies in %1$s op afstand te gebruiken.
+Tik op Nieuwe controller koppelen om te beginnen met het koppelen van een nieuw apparaat."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Al gekoppeld</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Als de afstandsbediening niet kan worden gekoppeld aan het apparaat, gaat u naar Instellingen en controleert u of de afstandsbediening in de lijst met Bluetooth-apparaten al is geregistreerd. Als de afstandsbediening al is geregistreerd, verwijdert u deze uit de lijst en probeert u deze opnieuw te koppelen.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Problemen oplossen</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Akkoord/inschak.</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Weigeren</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Afsluiten</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Naar instellingen</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">OK</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Het koppelen is geannuleerd omdat Bluetooth was uitgeschakeld</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Koppelen is mislukt vanwege een time-out. Probeer het later opnieuw.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Dit apparaat kan bepaalde functies inperken als voorzorgsmaatregel bij intensief gebruik. Als u Uithoudingsmodus voor camera inschakelt, wordt een pictogram weergegeven om aan te geven dat de prestaties van de app op een hoger niveau blijven. Wanneer dit pictogram wordt weergegeven, kunt u de app langere tijd gebruiken.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Uithoudingsmodus camera is alleen beschikbaar wanneer %1$s wordt gebruikt met een afstandsbediening die is verbonden via Bluetooth. Door %1$s te sluiten, schakelt u deze functie uit.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">De apparaattemperatuur kan oplopen boven de normale gebruikstemperatuur. Als de temperatuur oploopt, wordt u gewaarschuwd met een melding en een pictogram. Houd het apparaat daarna niet langer vast. Zorg ervoor dat de afstandsbediening is verbonden via Bluetooth voordat u doorgaat.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Let op</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Apparaattemperatuur te hoog. %1$s wordt tijdelijk afgesloten, zodat het apparaat kan afkoelen.
+Als u een Bluetooth-afstandsbediening verbindt, kunt u %1$s met Uithoudingsmodus camera blijven gebruiken."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Apparaattemperatuur te hoog. %1$s wordt tijdelijk afgesloten, zodat het apparaat kan afkoelen.
+Als u een Bluetooth-afstandsbediening verbindt, kunt u %1$s gebruiken met Uithoudingsmodus camera."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Als u deze functie wilt gebruiken, schakelt u [Afstandsbediening gebruiken] in nadat u een afstandsbediening via Bluetooth hebt gekoppeld.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Apparaattemperatuur te hoog. %1$s wordt tijdelijk afgesloten, zodat het apparaat kan afkoelen.
+Als u Uithoudingsmodus camera inschakelt, kunt u %1$s gebruiken met een Bluetooth-afstandsbediening."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Gebruik de verbonden afstandsbediening om deze functie in te schakelen.
+Tik op AFSLUITEN om te annuleren."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Uithoudingsmodus camera ingeschakeld</string>
+    <string name="ble_remote_control_endurance_mode_txt">Uithoudingsmodus camera</string>
+    <string name="ble_remote_control_off_txt">Uit</string>
+    <string name="ble_remote_control_on_txt">Aan</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Werk met de afstandsbediening om te beginnen met het koppelen.
+U ziet meldingen en dialoogvensters twee keer. Selecteer telkens KOPPELEN en druk vervolgens op een toets op het gekoppelde apparaat om het koppelen te voltooien."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Nieuwe controller koppelen</string>
+    <string name="ble_remote_control_title_txt">Bluetooth-afstandsbed.</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Afstandsbediening gebruiken</string>
+    <string name="expand_button_title">Geavanceerd</string>
+    <string name="external_display_connected_description_txt">U kunt de zoeker controleren via het Vlog-beeldscherm</string>
+    <string name="external_display_connected_title_txt">Vlog-beeldscherm verbonden</string>
+    <string name="external_display_note_about_external_mic_txt">Opmerking: als u een externe microfoon wilt gebruiken, sluit u deze aan op het Vlog-beeldscherm voordat u opneemt. Als u deze later aansluit, moet u het Vlog-beeldscherm opnieuw aansluiten.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">U hebt het privacybeleid in het verleden geaccepteerd, maar u kunt altijd van mening veranderen.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Linkerpijl</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Rechterpijl</string>
+    <string name="photopro_strings_accessibility_back_txt">Terug</string>
+    <string name="photopro_strings_accessibility_close_txt">Sluiten</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Toegankelijkheid: &lt;a href=\"%s\">Gedeeltelijk compatibel&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Lees meer</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Lensknop</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Kan niet worden geconfigureerd</string>
+    <string name="photopro_strings_accessibility_previous_txt">Vorige</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">"Een stapel recente foto's"</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Video-opname starten</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Video-opname onderbreken</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Video-opname hervatten</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Foto nemen tijdens video-opname</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Video-opname stoppen</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Stop aftellen</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Sluiter</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Schakelen tussen hoofdcamera en camera aan voorzijde</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Schakelen tussen foto en video</string>
+    <string name="photopro_strings_accessibility_title_txt">Toegankelijkheid</string>
+    <string name="photopro_strings_addon_button_menu_txt">Meer</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Creatief effect</string>
+    <string name="photopro_strings_addon_panorama_txt">Panorama</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Portretselfie</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Slow-motion</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Schakel GPS en/of draadloze netwerken in om locaties op te slaan. Nu inschakelen?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Locatie opslaan</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Anonieme analyse</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Voorzijdefoto</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Video voorzijde</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Video</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">"Selecteer de hoogte-breedteverhouding voor foto's"</string>
+    <string name="photopro_strings_aspect_ratio_txt">Hoogte-breedteverh.</string>
+    <string name="photopro_strings_audio_on_all_txt">Aan: alle</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Aan: alleen sluiter</string>
+    <string name="photopro_strings_audio_signals_description_txt">Stel in welke camerageluiden worden afgespeeld, zoals wanneer de zelfontspanner aftelt of wanneer u scherpstelt. U kunt er ook voor kiezen om alleen het sluitergeluid af te spelen.</string>
+    <string name="photopro_strings_audio_signals_txt">Audiosignalen</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro wordt binnenkort gesloten vanwege inactiviteit</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Tegenlichtportret</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Tegenlicht</string>
+    <string name="photopro_strings_auto_scene_document_txt">Document</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Voedsel</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Kind</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Landschap</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Weinig licht</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Macro</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Nachtportret</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Nachtscène</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Automatische scèneherkenning</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Soft snap</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Spotlight</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Zorg dat de lens schoon is en dat uw vinger niet op de lens ligt</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Te helder</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Beweeg verder weg van het voorwerp</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Meer licht nodig</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Beweeg dichter bij het voorwerp</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Bokeh is op dit moment niet beschikbaar</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Bokeh aan</string>
+    <string name="photopro_strings_bokeh_txt">Bokeh</string>
+    <string name="photopro_strings_bt_remote_control_txt">Bluetooth-afstandsbed.</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">"Foto's van Continue opname zijn opgeslagen in het interne geheugen"</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Kan Continue opname niet gebruiken bij een trage sluitersnelheid</string>
+    <string name="photopro_strings_button_continue_txt">Doorgaan</string>
+    <string name="photopro_strings_button_quit_txt">AFSLUITEN</string>
+    <string name="photopro_strings_cancel_txt">Annuleren</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Slow-motion</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K-video</string>
+    <string name="photopro_strings_change_txt">Wijzigen</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Reset</string>
+    <string name="photopro_strings_color_and_brightness_txt">Kleur en helderheid</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Interne opslag is vol. Gegevens in plaats daarvan op de SD-kaart opslaan?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Interne opslag is beschadigd of beveiligd tegen schrijven. Gegevens in plaats daarvan op de SD-kaart opslaan?</string>
+    <string name="photopro_strings_common_error_open_txt">Kan %1$s niet openen</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">SD-kaart is vol. Gegevens in plaats daarvan in de interne opslag opslaan?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">Kan de SD-kaart niet gebruiken. Gegevens in plaats daarvan in de interne opslag opslaan?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Continue opname-feedback</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">De volgende functies zijn momenteel uitgeschakeld.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Wacht tot het apparaat is afgekoeld en start de camera opnieuw.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">De volgende functies zijn uitgeschakeld</string>
+    <string name="photopro_strings_cooling_mode_txt">Bepaalde functies zijn uitgeschakeld om de apparaattemperatuurstijging te voorkomen</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Wijs een andere functie toe aan de AEL-knop</string>
+    <string name="photopro_strings_custom_ael_txt">Aanpassing van AEL-knop</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Door op de DISP-knop te tikken, kunt u informatie in de zoeker weergeven/verbergen.
+Schakel een item in dit menu uit als niet wilt dat het wordt weergegeven wanneer u informatie met de DISP-knop weergeeft."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histogram</string>
+    <string name="photopro_strings_custom_disp_level_txt">Waterpas</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Headerinformatie</string>
+    <string name="photopro_strings_custom_disp_txt">Aanpassing van DISP-knop</string>
+    <string name="photopro_strings_custom_fn_description_txt">"U kunt instellingsitems opnieuw toewijzen of de volgorde wijzigen in het functiemenu.
+Tik op een van de onderstaande functie-items om een andere gewenste functie uit de lijst links toe te wijzen.
+Sleep een van de functie-items en zet het hieronder neer om de volgorde te wijzigen."</string>
+    <string name="photopro_strings_custom_fn_txt">Aanpassing van functiemenu</string>
+    <string name="photopro_strings_custom_none_txt">Niet toegewezen</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">U hebt het privacybeleid in het verleden geweigerd.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Automatische sluitertijd vergrendelen</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">ISO instellen op Autom.</string>
+    <string name="photopro_strings_description_custom_none_txt">De AEL-knop uitschakelen</string>
+    <string name="photopro_strings_device_id_txt">Apparaat-id</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Onvoldoende batterijvermogen op de telefoon. Wanneer de batterij bijna leeg is, wordt de camera automatisch gesloten.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Opnemen gestopt omdat de accu bijna leeg is. Laad uw apparaat op en probeer opnieuw.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Kan camera niet gebruiken omdat de accu bijna leeg is. Laad uw apparaat op en probeer opnieuw.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">De app vereist de volgende machtigingen om deze actie uit te voeren.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Netwerk
+Om verbinding met Wi-Fi te maken"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Vliegmodus is ingeschakeld.
+Schakel Vliegmodus uit via de INSTELLINGEN."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Netwerknaam: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi is is uitgeschakeld en Vliegmodus is ingeschakeld.
+Verander deze instellingen door op INSTELLINGEN te tikken."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi is uitgeschakeld.
+Schakel Wi-Fi in via de INSTELLINGEN."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Instellingen</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Toestaan</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Afwijzen</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Opmerking</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">IJken</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Resetten</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Onvoldoende intern geheugen. Continue opname is gestopt. Verwijder enkele bestanden om ruimte vrij te maken.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Toestemming geven</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Bezig met verbinding maken...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Wachtwoordbeveiliging: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Beveiliging: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Kan geen verbinding maken met Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Als u akkoord gaat met het onderstaande, verzamelt Sony uw &lt;b>&lt;a href=#personal-data>persoonlijke gegevens&lt;/a>&lt;/b> om aangepaste ondersteuning te leveren en apparaten en services te verbeteren. Sony behandelt uw gegevens volgens ons &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>privacybeleid&lt;/a>&lt;/b>.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">"U kunt zelfs video's opnemen in scènes met veel contrast en ze nog dramatische en levensechter maken. Gebruik een ondersteund apparaat/service om van de originele kleuren en helderheid van de inhoud te genieten."</string>
+    <string name="photopro_strings_do_not_show_again_txt">Niet meer tonen</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">Continue HDR-opname: hoog</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">Continue HDR-opname: laag</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Continue opname: hoog</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Continue opname: laag</string>
+    <string name="photopro_strings_drive_continuous_txt">Continue opname</string>
+    <string name="photopro_strings_drive_mode_txt">Transportfunctie</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Zelfontspanner: 10 sec</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Zelfontspanner: 3 sec</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Zelfontspanner: Uit</string>
+    <string name="photopro_strings_drive_single_txt">Enkele opname</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">Auto HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Deze instelling optimaliseert het bereik van waarden. DRO-verwerking gebruikt één afbeelding en Auto HDR combineert verschillende belichtingen om een resultaat te bereiken.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">D-Range optimizer</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/Auto HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">Kan de camera niet starten. Start de camera of het apparaat opnieuw op.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Fout</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">"Kan geen foto's opslaan. Mogelijk is er een probleem met de gegevensopslag. Controleer de SD-kaart als gegevensopslag hiervoor is ingesteld."</string>
+    <string name="photopro_strings_error_fatal_txt">Onbekende fout.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Nee</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Ja</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">De camera wordt tijdelijk afgesloten om af te koelen. Uw opnamen worden opgeslagen. Start de app opnieuw zodra het apparaat is afgekoeld.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Geheugen is vol. Verwijder enkele bestanden van de SD-kaart of de interne opslag.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Geheugen niet beschikbaar</string>
+    <string name="photopro_strings_error_memory_title_txt">Geheugenfout</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD-kaart niet beschikbaar</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Belichtingscompensatie</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"U kunt portretfoto's nemen die zijn scherpgesteld op het gezicht of de ogen van mensen en dieren.
+Als u op iemand anders wilt scherpstellen, tikt u op het gezicht van degene waarop u wilt scherpstellen."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"U kunt video's maken die zijn scherpgesteld op het gezicht of de ogen van mensen en dieren.
+Als u op iemand anders wilt scherpstellen, tikt u op het gezicht van degene waarop u wilt scherpstellen.
+Opmerking: Wanneer deze instelling is ingeschakeld, kan de opnameduur worden ingekort vanwege een stijgende apparaattemperatuur."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Gezichtsherkenning/Oog AF aan</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">Gezicht/Oog AF</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">Gezicht/Oog AF: Uit</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">Gezicht/Oog AF: Aan</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Ontgrendel het scherm om deze functie te gebruiken</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Open de instellingen, ontgrendel het scherm.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Scherm vergrendeld</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Tik in de zoeker op het Bokeh-pictogram en beweeg de schuifregelaar om het Bokeh-effect aan te passen.
+Deze functie wordt ondersteund in de Basismodus (foto).
+Zorg dat uw onderwerpen opvallen met het indrukwekkende contrast door de achtergrond te vervagen."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Fotograferen met bokeh-effect</string>
+    <string name="photopro_strings_feature_bokeh_txt">Bokeh-effect</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">De transportfunctie kan worden gewijzigd voor gebruik van Enkele opname, Continue opname of de zelfontspanner.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Transportfunctie</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Als u een foto met de camera aan de voorzijde maakt, kijkt u recht in de lens van de camera aan de voorzijde bij de oorspeaker.
+Uw ogen kijken in de juiste richting op de foto."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Oogrichting</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"U kunt portretfoto's nemen die zijn scherpgesteld op het gezicht of de ogen van mensen en dieren.
+Als u op iemand anders wilt scherpstellen, tikt u op het gezicht van degene waarop u wilt scherpstellen. Deze functie kan worden in- of uitgeschakeld via MENU > Gezicht/Oog AF."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">Gezicht/Oog AF</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Draai uw handpalm in de richting van de camera. De zelfontspanner begint af te tellen wanneer uw handpalm wordt herkend. Strek uw vingers naar boven om de herkenning te versnellen.
+Als u deze functie wilt inschakelen, schakelt u naar de camera aan de voorzijde in de Basismodus (foto) en schakelt u de handontspanner in MENU in."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Handontspanner</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Als u de ultragroothoeklens (0.7x) gebruikt, kunt u een prioriteit selecteren. Als u Prioriteit aan beeldkwaliteit selecteert, kunt u kwalitatief hoogstaande dynamische afbeeldingen vastleggen. Als u Prioriteit aan vervormingscorrectie selecteert, kunt u visuele vervorming beperken.
+Deze functie is actief wanneer u foto's neemt met de ultragroothoeklens. Nadat u naar de ultragroothoeklens hebt geschakeld, kunt u de prioriteit configureren via MENU > Ultragroothoeklens-correctie."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Lenscorrectie (foto)</string>
+    <string name="photopro_strings_feature_list_title_txt">Introductie van functies</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Maak eenvoudig een artistieke selfie met Bokeh- en schoonheidseffecten.
+Als u deze functie wilt gebruiken, tikt u op Meer in de zoeker en selecteert u Portretselfie.
+Pas de stijl van uw selfie aan en geniet van het creatieve resultaat."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Portretselfie</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"U kunt snel toegang krijgen tot internet of verbinding maken met Wi-Fi door een QR Code te scannen.
+Deze functie is geactiveerd in de Basismodus (foto). Deze functie kan worden in- of uitgeschakeld via MENU > QR Codelezer."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Codelezer</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Codelezer</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">"Label uw foto's en video's met de locaties waar ze zijn gemaakt. U kunt deze instelling later wijzigen via MENU > Locatie opslaan."</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Locatie opslaan?</string>
+    <string name="photopro_strings_feature_selfie_txt">Camera aan voorzijde</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">U kunt een video opnemen in 120 fps slow motion en HD</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Slow motion</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"U kunt eenvoudig schakelen tussen cameralenzen om elke situatie vast te leggen en uw creativiteit te stimuleren.
+Tik op de knop in de zoeker om te schakelen tussen lenzen van 0.7x (ultragroothoek), 1.0x (groothoek), 2.9x (tele) en 4.4x (tele).
+U kunt deze functie zowel in Basismodus (foto) als Basismodus (video) gebruiken."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Schakel tussen hoeken met de knop</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"U kunt eenvoudig schakelen tussen cameralenzen om elke situatie vast te leggen en uw creativiteit te stimuleren.
+Tik op de knop in de zoeker om te schakelen tussen lenzen van 0.7x (ultragroothoek), 1.0x (groothoek) en 2.1x (standaard).
+U kunt deze functie zowel in Basismodus (foto) als Basismodus (video) gebruiken."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Drievoudige camera</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Als u op de lensknop tikt, wordt een schuifregelaar weergegeven waarmee u het zoomniveau kunt aanpassen.
+U kunt ook op het scherm knijpen of de volumeknoppen gebruiken om te zoomen."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">In-/uitzoomen</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Verwijderen</string>
+    <string name="photopro_strings_file_format_description_txt">"Selecteer de bestandsindeling voor stilstaande beelden.
+
+RAW: voor het naverwerken van foto's is speciale software vereist. U kunt dan aanpassingen maken terwijl de beeldkwaliteit minimaal verslechtert. Na naverwerking is afdrukken mogelijk.
+RAW en JPEG: slaat zowel RAW-afbeeldingen op voor naverwerking als JPEG-afbeeldingen.
+JPEG: slaat JPEG-afbeeldingen op.
+
+Opmerkingen:
+Bestanden in RAW-indeling worden altijd opgeslagen in het interne geheugen met een beeldverhouding van 4:3 aspect ratio.
+Continue opname en Auto HDR zijn niet beschikbaar als RAW of RAW en JPEG wordt geselecteerd."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW en JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Bestandsindeling</string>
+    <string name="photopro_strings_flash_auto_txt">Automatisch</string>
+    <string name="photopro_strings_flash_description_txt">Stel de flitsfunctie in op Automatische flits, Opvulflits, enz.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Opvulflits</string>
+    <string name="photopro_strings_flash_off_txt">Uit</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Rode-ogenreductie</string>
+    <string name="photopro_strings_flash_torch_description_txt">Schakel lamp in</string>
+    <string name="photopro_strings_flash_torch_off_txt">Zaklantaarn: Uit</string>
+    <string name="photopro_strings_flash_torch_on_txt">Zaklantaarn: Aan</string>
+    <string name="photopro_strings_flash_torch_txt">Zaklantaarn</string>
+    <string name="photopro_strings_flash_txt">Flitsfunctie</string>
+    <string name="photopro_strings_focus_area_center_txt">Midden</string>
+    <string name="photopro_strings_focus_area_txt">Scherpstelgebied</string>
+    <string name="photopro_strings_focus_area_wide_txt">Breed</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Stel de kleur van het kader van het scherpstelgebied in</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Rood</string>
+    <string name="photopro_strings_focus_frame_color_txt">Kleur van scherpstelgebied</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Wit</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">Continue AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">Enkelvoudige AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">Selecteer een scherpstelmethode</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Gezichtsherkenning</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Handmatige scherpstelling</string>
+    <string name="photopro_strings_focus_mode_txt">Scherpstel-modus</string>
+    <string name="photopro_strings_geotagging_description_txt">"Sla uw foto's en video's op met de locaties waar ze zijn gemaakt"</string>
+    <string name="photopro_strings_geotagging_txt">Locatie opslaan</string>
+    <string name="photopro_strings_gridline_description_txt">Stel in of rasterlijnen wel of niet worden weergegeven om u te helpen bij beeldcompositie</string>
+    <string name="photopro_strings_gridline_txt">Rasterlijnen</string>
+    <string name="photopro_strings_hand_shutter_description_txt">U kunt het aftellen van de zelfontspanner starten door uw handpalm naar de voorkant van de camera te draaien. Strek uw vingers naar boven om de herkenning te versnellen.</string>
+    <string name="photopro_strings_hand_shutter_txt">Handontspanner</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Instellen of u haptische feedback wilt wanneer u interactief met het scherm, bijv. de modusschakelaar, werkt</string>
+    <string name="photopro_strings_haptic_feedback_txt">Haptische feedback</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Uit</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: Aan</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Slim windfilter</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO-gevoeligheid</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">U kunt Photography Pro starten door de sluiterknop ingedrukt te houden. Dit functioneert ook in de slaapstand of als de telefoon is vergrendeld.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Photography Pro starten</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Starten met sluiterknop</string>
+    <string name="photopro_strings_lens_correction_description_txt">Als u de ultragroothoeklens gebruikt, kunt u een prioriteit selecteren. Als u Prioriteit aan beeldkwaliteit selecteert, kunt u kwalitatief hoogstaande dynamische afbeeldingen vastleggen. Als u Prioriteit aan vervormingscorrectie selecteert, kunt u de visuele vervorming beperken.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Prioriteit aan beeldkwaliteit</string>
+    <string name="photopro_strings_lens_correction_on_txt">Prioriteit aan vervormingscorrectie</string>
+    <string name="photopro_strings_lens_correction_txt">Ultragroothoeklens-correctie</string>
+    <string name="photopro_strings_lens_txt">Lens</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">IJken</string>
+    <string name="photopro_strings_level_calibration_description_txt">Indien nodig kunt u het waterpasniveau ijken om afwijkingen in de kantelrichting te verhelpen. Zorg dat de camera horizontaal is en kies vervolgens IJken.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">IJken voltooid</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">IJkinstelling is gereset</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Waterpas ijken</string>
+    <string name="photopro_strings_lock_switch_txt">Vast</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Opname is gestopt omdat de maximale bestandsgrootte is bereikt</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Opname is gestopt omdat de maximale opnametijd is bereikt</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Kan niet opslaan. Geheugen vol.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Toep.</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Opslaan</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Instellen</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">De huidige combinatie van modi en instellingen opslaan?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Camera-instellingen zijn opgeslagen.
+U kunt deze instellingen eenvoudig oproepen met de MR-opnamemodus."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Camera-instellingengeheugen</string>
+    <string name="photopro_strings_memory_recall_txt">Camera-inst. oproepen</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Foto (voorzijde)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Foto</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Slow motion</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Video (voorzijde)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Video</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Belichting/kleur</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Scherpstellen</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Instellen</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Opname</string>
+    <string name="photopro_strings_menu_title_txt">Menu</string>
+    <string name="photopro_strings_metering_center_txt">Midden</string>
+    <string name="photopro_strings_metering_multi_txt">Multi</string>
+    <string name="photopro_strings_metering_spot_txt">Punt</string>
+    <string name="photopro_strings_metering_txt">Lichtmeetfunctie</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Selecteer welke microfoon u wilt gebruiken voor video-opnamen:
+1. LR-microfoon: Neemt stereogeluid op met de linker- en rechtermicrofoon (boven- en ondermicrofoon in de staande stand)
+2. Achtermicrofoon: Neemt monogeluid op met de achtermicrofoon"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Externe microfoon</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">LR-microfoon (stereo)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Achtermicrofoon (mono)</string>
+    <string name="photopro_strings_mic_setting_txt">Mic.</string>
+    <string name="photopro_strings_mode_auto_description_txt">"De camera detecteert automatisch het type scène en neemt foto's met automatische instellingen terwijl ruis en cameratrilling worden onderdrukt."</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Automatische modus</string>
+    <string name="photopro_strings_mode_basic_description_txt">"In deze modus kunt u foto's nemen met de sluiterknop op het scherm, net zoals u gewend bent met uw smartphonecamera.
+Gebruik deze modus om selfies te maken, video's op te nemen en QR Codes te scannen."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Basismodus</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Geeft uitleg over elke opnamemodus wanneer u tussen modi schakelt met de modusschakelaar</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Gids voor modusschakelaar</string>
+    <string name="photopro_strings_mode_m_description_txt">"Regel handmatig de sluitersnelheid en ISO-gevoeligheid.
+Door een langere blootstelling wordt het mogelijk om foto's te nemen die het bewegingsspoor van objecten vastleggen door bewegingswaas te gebruiken."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Handmatige belichting</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Slim automatisch (Geheugen oproepen)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Maak foto's met uw opgeslagen instellingen.
+U kunt vaak gebruikte combinaties van modi en instellingen registreren."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Geheugen oproepen</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Handmatige belichting (Geheugen oproepen)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Program automatisch (Geheugen oproepen)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Prioriteit voor sluitersnelheid (Geheugen oproepen)</string>
+    <string name="photopro_strings_mode_p_description_txt">De camera regelt automatisch de sluitersnelheid en u beheert de overige instellingen.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Automatisch</string>
+    <string name="photopro_strings_mode_s_description_txt">"Regel de sluitersnelheid handmatig om te wijzigen hoe bewegende objecten worden vastgelegd.
+Bij snelle sluitersnelheden lijkt het alsof een object in beweging wordt bevroren, terwijl met tragere sluitersnelheden de bewegingswaas beter kan worden vastgelegd."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Prioriteit voor sluitersnelheid</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Transportfunctie is automatisch ingesteld op Enkele opname omdat de modus Transfer &amp; Tagging add-on aan is</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Bestandsindeling is automatisch ingesteld op JPEG omdat de modus Transfer &amp; Tagging add-on aan is</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Kan camera niet gebruiken in Meerdere vensters of een pop-upvenster. Sluit het venster en probeer het opnieuw. Als u Meerdere vensters gebruikt, kunt u het midden van de splitsbalk verslepen om volledig scherm voor de camera in te schakelen.</string>
+    <string name="photopro_strings_multi_window_txt">Versleep het midden van de splitsbalk om naar het volledige scherm te schakelen en %1$s te gebruiken</string>
+    <string name="photopro_strings_ok_txt">OK</string>
+    <string name="photopro_strings_personal_data_txt">Persoonlijke gegevens</string>
+    <string name="photopro_strings_privacy_policy_txt">Privacybeleid</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Foto wordt gemaakt. Even geduld.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Deze QR Code wordt niet ondersteund</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Tik om de koppeling te openen: \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Kan geen verbinding maken met dit Wi-Fi-netwerk</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Tik en verbind met Wi-Fi-netwerk \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Codelezer</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"U kunt snel toegang krijgen tot internet of verbinding maken met Wi-Fi door een QR Code te scannen.
+Deze functie is geactiveerd in de Basismodus (foto)."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Codelezer</string>
+    <string name="photopro_strings_rec_txt">REC</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Standaardinstellingen van Photo Pro herstellen?</string>
+    <string name="photopro_strings_reset_settings_txt">Instellingen herstellen</string>
+    <string name="photopro_strings_reset_txt">Opnieuw instellen</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Kan de hoogte-breedteverhouding niet veranderen als de bestandsindeling is ingesteld op RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Kan Auto HDR niet selecteren als Continue opname is geselecteerd</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Auto HDR kan niet worden geselecteerd wanneer een andere bestandsindeling dan JPEG is geselecteerd</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Bokeh-effect is niet beschikbaar met de momenteel geselecteerde lens</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Bokeh-effect is niet beschikbaar wanneer de modus Transfer &amp; Tagging add-on mode is ingeschakeld</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Kan Continue opname: hoog niet gebruiken met de actueel geselecteerde lens</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Continue opname kan niet worden gebruikt wanneer het Bokeh-effect aan is</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Continue opname is niet beschikbaar wanneer AI-superresolutiezoom is geselecteerd</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Kan Continue opname niet gebruiken als een andere bestandsindeling dan JPEG is geselecteerd</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Continue opname is niet beschikbaar wanneer Transfer &amp; Tagging add-on is ingeschakeld</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Kan niet wijzigen</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Kan Flitsfunctie niet gebruiken als Continue opname is geselecteerd</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Kan Flitsfunctie niet gebruiken met de actueel geselecteerde lens</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Kan lamp niet gebruiken met de actueel geselecteerde lens</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Bestandsindeling kan niet worden gewijzigd in een andere indeling dan JPEG wanneer Auto HDR is geselecteerd</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Kan de bestandsindeling niet wijzigen in een andere indeling dan JPEG wanneer Continue opname is geselecteerd</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Kan de bestandsindeling niet wijzigen in andere indeling dan JPEG wanneer de modus Transfer &amp; Tagging add-on is ingeschakeld</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Kan deze instelling niet wijzigen wanneer een externe microfoon is aangesloten</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Deze instelling ondersteunt de huidige sluitersnelheid niet. Configureer deze instelling door de sluitersnelheid op 1 seconde of lager te zetten.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Kan RAW niet selecteren als een hoogte-breedteverhouding van 4:3 is geselecteerd</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Videoformaat kan niet worden gewijzigd bij opnemen in Slow motion. Sluit de Slow motion-modus af om deze instelling te wijzigen.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Deze instelling is alleen beschikbaar wanneer u de ultragroothoeklens gebruikt</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Deze instelling is niet beschikbaar als HDR is ingeschakeld. Schakel HDR uit om dit te configureren.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Deze instelling wordt niet ondersteund voor de huidige videogrootte. Wijzig de videogrootte om deze instelling te configureren.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Kan niet zoomen als Bokeh-effect wordt gebruikt</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">APP-INFO</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">Machtiging voor %1$s</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">De app vereist de volgende machtigingen om deze actie uit te voeren.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Ga naar App-info > Toestemmingen om toestemmingen te verlenen.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Kan niet doorgaan</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">"Om foto's vast te leggen"</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">"Om foto's en video's vast te leggen"</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Om locatie op te halen</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Om geluid op te nemen</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Verbinden met apparaten in de buurt</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">"Foto's en video's lezen en opslaan"</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">"Om foto's op te slaan"</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">"Om foto's en video's op te slaan"</string>
+    <string name="photopro_strings_save_destination_description_txt">"Kies of u foto's en video's in het interne geheugen van uw apparaat of op een SD-kaart wilt opslaan"</string>
+    <string name="photopro_strings_save_destination_internal_txt">Intern geheugen</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD-kaart</string>
+    <string name="photopro_strings_save_destination_title_txt">Gegevensopslag</string>
+    <string name="photopro_strings_save_destination_txt">Gegevensopslag</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD-kaart niet beschikbaar</string>
+    <string name="photopro_strings_selftimer_10_txt">10 sec.</string>
+    <string name="photopro_strings_selftimer_3_txt">3 sec.</string>
+    <string name="photopro_strings_selftimer_description_txt">Stel een zelfontspanner in om automatisch een foto te nemen nadat een ingesteld aantal seconden is verstreken</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Kijk naar de camera</string>
+    <string name="photopro_strings_selftimer_txt">Zelfontspanner</string>
+    <string name="photopro_strings_settings_off_txt">Uit</string>
+    <string name="photopro_strings_settings_on_txt">Aan</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Altijd Basismodus gebruiken</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Selecteer de standaard opnamemodus bij het starten van Photography Pro</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Laatst gebruikte modus</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Opnamemodus bij starten</string>
+    <string name="photopro_strings_shooting_mode_txt">Opnamemodus</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Videocamera</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Sluitersnelheid</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">"Kan geen foto's nemen wanneer HDR aan is"</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Schakel een effect in om huid gladder weer te geven</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Zachte-huideffect</string>
+    <string name="photopro_strings_status_mic_external_txt">Extern</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">LR (stereo)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Achter (mono)</string>
+    <string name="photopro_strings_store_fail_txt">Opslaan niet mogelijk.</string>
+    <string name="photopro_strings_sw_license_txt">Softwarelicentie</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Accepteren</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Weigeren</string>
+    <string name="photopro_strings_tips_txt">Tips</string>
+    <string name="photopro_strings_title_permissions_txt">Photo Pro-toestemming</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Aanraakscherpstelling annuleren</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Automatisch scherpstellen</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Selecteer wat u wilt aanpassen als u de zoeker aanraakt.
+
+Objecttracering De beste functie voor het opnemen van bewegende objecten. De scherpstelling blijft vergrendeld op het object waarop u in de zoeker hebt getikt, waardoor u bewegende objecten duidelijk kunt opnemen.
+Automatisch scherpstellen: Tik waar u in de zoeker wilt scherpstellen.
+Scherpstellen en helderheid: Stel scherp en pas de helderheid van de gewenste positie aan door in de zoeker te tikken."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Scherpstellen en helderheid</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Objecttracering</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Aanraken om aan te passen</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Objecttracering annuleren</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Als u deze functie inschakelt, kan de Transfer &amp; Tagging add-on foto's weergeven die zijn genomen met de Xperia-camera. Foto's worden opgeslagen in het interne geheugen.
+Deze functie is compatibel met foto's die met Photography Pro worden genomen.
+Als u deze functie inschakelt, wordt de bestandsindeling automatisch ingesteld op JPEG, en de Transportfunctie op Enkele opname."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Modus Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Ik snap het</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Volgende</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Overslaan</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony is een merk dat geliefd is bij fotografen vanwege de producten die voor grenzeloos plezier en de verwondering van fotografie staan.
+Klanten overal ter wereld kiezen keer op keer voor onze expertise en technologie.
+
+Photography Pro bootst het gebruik en de functies van complete camera's van Sony Imaging Products na.
+Sony ondersteunt fotografische creativiteit."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Kies de ideale Opnamemodus voor het onderwerp.
+Stel vervolgens de sluitersnelheid en de belichting in.
+Houd de camera stevig vast aan de zijkanten en maak een foto.
+
+De opnamemodi zijn:
+P (Automatisch)
+S (Prioriteit voor sluitersnelheid)
+M (Handmatige belichting)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Selecteer uw voorkeursopnamemodus met de modusschakelaar in de rechterbovenhoek (de linkerbovenhoek in de landschapsmodus).
+
+Met de basismodus kunt u eenvoudig foto's en video's maken met de camera aan de voorzijde, net zoals bij een smartphonecamera.
+
+Met de modus Auto/P/S/M hebt u ook toegang tot meer geavanceerde instellingen om perfecte foto's te nemen."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Opnamemodus</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Zo werkt het</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Wanneer u de modi Auto/P/S/M gebruikt, houdt u de camera in de landschapsmodus en drukt u op de sluiterknop in de rechterbovenhoek van het apparaat om foto's te nemen.
+
+Als u Auto selecteert, worden functies zoals sluitersnelheid en belichting automatisch ingesteld.
+
+Als u instellingen handmatig wilt configureren, selecteert u een van de onderstaande modi.
+P (Automatisch)
+S (Prioriteit voor sluitersnelheid)
+M (Handmatige belichting)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Modi Auto/P/S/M gebruiken</string>
+    <string name="photopro_strings_tutorial_txt">Tutorial</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Kan Photo Pro niet gebruiken met het verbonden externe scherm. Om Photo Pro te gebruiken, sluit u de app via het scherm met recente apps op uw Xperia en start u de app opnieuw.</string>
+    <string name="photopro_strings_unlock_button_txt">Ontgrendelen</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Gebruik van camera om beveiligingsredenen beperkt</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Voor stabiele 4K-video-opnames mag u deze instelling niet veranderen, tenzij u een high-speed SD-kaart gebruikt (UHS Speed Class 1 of hoger of Speed Class 10 wordt aangeraden).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Voor stabiele slow-motion video-opnames mag u deze instelling niet veranderen, tenzij u een high-speed SD-kaart gebruikt (UHS Speed Class 1 of hoger of Speed Class 10 wordt aangeraden).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Voor stabiele video-opnames wordt aanbevolen dat u de gegevensopslag verandert in Interne opslag. Wilt u dit nu veranderen?
+
+Als u de SD-kaart als gegevensopslag blijft gebruiken, zorg dan dat u een high-speed SD-kaart gebruikt (UHS Speed Class 1 of hoger of Speed Class 10 wordt aangeraden)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"U kunt een encoder selecteren voor 4K-video-opnamen.
+
+H.264 (AVC): Standaardindeling voor codering die wordt ondersteund door de meeste apparaten en services.
+H.265 (HEVC): Indeling met een hogere compressieverhouding. Verzeker u ervan dat uw afspeelapparaten of -services deze methode ondersteunen."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Bestandsindeling (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Selecteer een videoformaat.
+HDR is niet beschikbaar wanneer Full HD (60 fps) of HD is geselecteerd."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Selecteer een videogrootte</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 fps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Full HD</string>
+    <string name="photopro_strings_video_size_txt">Videogrootte</string>
+    <string name="photopro_strings_video_stabilization_description_txt">"De Xperia heeft een uniek hybride stabilisatiesysteem, Optical SteadyShot genoemd, dat optische beeldstabilisatie en elektronische beeldstabilisatie combineert. U krijgt trilvrije en vloeiende video's, zelfs wanneer u onderweg opneemt."</string>
+    <string name="photopro_strings_video_stabilization_txt">Videostabilisatie</string>
+    <string name="photopro_strings_volumekey_description_txt">Wijs een andere functie toe aan de volumeknoppen</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Sluiter</string>
+    <string name="photopro_strings_volumekey_txt">Volumeknop gebruiken als</string>
+    <string name="photopro_strings_volumekey_volume_txt">Volume</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Zoomfunctie</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Aanpassen - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Automatisch</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Wijzig</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Klaar</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Opnieuw</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Stel in</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Bewolkt</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Eigen 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Eigen 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Eigen 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Stel witbalans in op basis van het midden van het voorbeeld</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Aanpassing mislukt</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Aanpassing voltooid</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Stel in - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Daglicht</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Tl-licht</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Gloeilamp</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Schaduw</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Temp. 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Temp. 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Temp. 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Temp.:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Temperatuur</string>
+    <string name="photopro_strings_whitebalance_txt">Witbalans</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Kan met niet zoomen met camera aan de voorzijde</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">AI-superresolutiezoom</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Selecteer een zoominstelling.
+
+Digitale zoom: zoom met digitale verwerking op basis van beeldsensorgegevens.
+AI-superresolutiezoom: zoom met digitale verwerking die meer van de originele afbeeldingskwaliteit behoudt. Het opslaan van foto's kan langer duren. Deze werkt automatisch als Digitale zoom wanneer Continue opname wordt geselecteerd."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Digitale zoom</string>
+    <string name="photopro_strings_zoom_type_txt">Zoominstellingen</string>
+    <string name="search_menu_title">Zoeken</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">UIT</string>
+    <string name="v7_preference_on">AAN</string>
+</resources>

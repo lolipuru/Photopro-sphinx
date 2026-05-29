@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Liigu avalehele</string>
+    <string name="abc_action_bar_up_description">Liigu üles</string>
+    <string name="abc_action_menu_overflow_description">Rohkem valikuid</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Kuva kõik</string>
+    <string name="abc_activitychooserview_choose_application">Valige rakendus</string>
+    <string name="abc_capital_off">VÄLJAS</string>
+    <string name="abc_capital_on">SEES</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">kustuta</string>
+    <string name="abc_menu_enter_shortcut_label">sisestusklahv</string>
+    <string name="abc_menu_function_shortcut_label">Funktsiooniklahv +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Tõstuklahv +</string>
+    <string name="abc_menu_space_shortcut_label">tühik</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menüü +</string>
+    <string name="abc_search_hint">Otsige …</string>
+    <string name="abc_searchview_description_clear">Päringu tühistamine</string>
+    <string name="abc_searchview_description_query">Otsingupäring</string>
+    <string name="abc_searchview_description_search">Otsing</string>
+    <string name="abc_searchview_description_submit">Päringu esitamine</string>
+    <string name="abc_searchview_description_voice">Häälotsing</string>
+    <string name="abc_shareactionprovider_share_with">Jaga:</string>
+    <string name="abc_shareactionprovider_share_with_application">Jagamine rakendusega %s</string>
+    <string name="abc_toolbar_collapse_description">Ahendamine</string>
+    <string name="ble_remote_control_button_any_problem_txt">Tõrkeotsing</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Seo uus kaugjuhtimispult</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Bluetoothi kaugjuhtimispuldi nupule C1 saate määrata teise funktsiooni</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">C1-nupu kohandamine</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Teravustamisrežiim</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Objektiiv</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Jäädvustusrežiim</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Põhi- ja esikaamera vahel lülitumine</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Fotot ja video vahel lülitumine</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Objektiiv</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">AF ja MF vahel lülitumine</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Põhi- ja esikaamera vahel lülitumine</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Luba</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Keela</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Kas lubada rakendusel selle funktsiooni jaoks Bluetoothi kasutada?</string>
+    <string name="ble_remote_control_description_txt">"Funktsioonide %1$s-s kaugjuhtimiseks saate siduda Sony kaugjuhtimispuldi Bluetoothi kaudu.
+Uue seadme sidumisega alustamiseks puudutage Seo uus kaugjuhtimispult."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">On juba seotud</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Kui kaugjuhtimispulti ei õnnestunud seadmega siduda, minge jaotisse Seaded ja kontrollige, kas kaugjuhtimispult on juba Bluetooth-seadmete loendis registreeritud. Kui olete selle juba registreerinud, eemaldage pult loendist ja proovige uuesti siduda.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Tõrkeotsing</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Nõus ja aktiveerin</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Keeldu</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Välju</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Vali Seaded</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">OK</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Sidumine tühistati, kuna Bluetooth oli välja lülitatud</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Sidumine nurjus tegevusetuse tõttu. Proovige hiljem.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">See seade võib intensiivse kasutamise korral ettevaatusabinõuna teatud funktsioone piirata. Kui lülitate kaamera vastupidavusrežiimi sisse, kuvatakse ikoon, mis näitab, et rakendus säilitab suure jõudluse. Kui seda ikooni kuvatakse, saate rakendust kasutada pikema aja jooksul.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Kaamera vastupidavusrežiim on saadaval ainult siis, kui kasutate %1$s Bluetoothi kaudu ühendatud kaugjuhtimispulti. %1$s sulgemisel lülitatakse see funktsioon välja.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Seadme temperatuur võib tõusta üle tavapärase töötemperatuuri. Kui temperatuur tõuseb, teavitavad teid teade ja ikoon. Sel juhul hoiduge seadme pidevalt käes hoidmisest. Enne jätkamist veenduge, et kaugjuhtimispult oleks Bluetoothiga ühendatud.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Tähelepanu</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Seadme temperatuur on liiga kõrge. %1$s suletakse ajutiselt jahtumiseks.
+Kui ühendate Bluetooth-kaugjuhtimispuldi, saate jätkata %1$s-i kaamera vastupidavusrežiimis kasutamist."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Seadme temperatuur on liiga kõrge. %1$s suletakse ajutiselt jahtumiseks.
+Kui ühendate Bluetooth-kaugjuhtimispuldi, saate %1$s-i kaamera vastupidavusrežiimis kasutada."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Selle funktsiooni kasutamiseks lubage [Kaugjuhtimispuldi kasutamine] pärast kaugjuhtimispuldi Bluetoothi kaudu sidumist.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Seadme temperatuur on liiga kõrge. %1$s suletakse ajutiselt jahtumiseks.
+Kui lülitate kaamera vastupidavusrežiimi sisse, saate %1$s-i Bluetoothi kaugjuhtimispuldiga kasutada."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Selle funktsiooni lubamiseks kasutage ühendatud kaugjuhtimispulti.
+Tühistamiseks puudutage VÄLJU."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Kaamera vastupidavusrežiim on lubatud</string>
+    <string name="ble_remote_control_endurance_mode_txt">Kaamera vastupidavusrežiim</string>
+    <string name="ble_remote_control_off_txt">Väljas</string>
+    <string name="ble_remote_control_on_txt">Sees</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Sidumisega alustamiseks suhelge kaugjuhtimispuldiga.
+Te saate kaks korda teadaandeid ja dialooge. Valige kõigil SEO ja seejärel sidumise lõpetamiseks vajutage mis tahes ühendatud seadme nuppu."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Seo uus kaugjuhtimispult</string>
+    <string name="ble_remote_control_title_txt">Bluetoothi kaugjuhtim</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Kaugjuhtimispuldi kasutamine</string>
+    <string name="expand_button_title">Täpsem</string>
+    <string name="external_display_connected_description_txt">Pildinäidikut saate kontrollida Vlog Monitorist</string>
+    <string name="external_display_connected_title_txt">Vlog Monitor on ühendatud</string>
+    <string name="external_display_note_about_external_mic_txt">Märkus: Välise mikrofoni kasutamiseks ühendage see enne salvestamist Vlog Monitoriga. Kui ühendate selle pärast, peate Vlog Monitori uuesti ühendama.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Olete privaatsuspoliitikaga varem nõustunud, kuid saate alati oma meelt muuta.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Vasak nool</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Parem nool</string>
+    <string name="photopro_strings_accessibility_back_txt">Tagasi</string>
+    <string name="photopro_strings_accessibility_close_txt">Sule</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Juurdepääs: &lt;a href=\"%s\">Osaliselt vastavuses&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Lisateave</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Objektiivi-nupp</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Ei saa konfigureerida</string>
+    <string name="photopro_strings_accessibility_previous_txt">Tagasi</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Viimati tehtud fotode virn</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Videosalvestusega alustamine</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Videosalvestuse peatamine</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Videosalvestuse jätkamine</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Video salvestamise ajal tehke hetktõmmis</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Videosalvestuse lõpetamine</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Ajaarvestuse katkestamine</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Katik</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Põhi- ja esikaamera vahel lülitumine</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Foto ja video vahel lülitumine</string>
+    <string name="photopro_strings_accessibility_title_txt">Juurdepääs</string>
+    <string name="photopro_strings_addon_button_menu_txt">Veel</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Loov efekt</string>
+    <string name="photopro_strings_addon_panorama_txt">Panoraamfotod</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Selfi foto</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Aegluup</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Asukohtade salvestamiseks saate lubada GPS-i ja/või raadiovõrgu. Kas lubada kohe?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Salvesta asukoht</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Anonüümne statistika</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Esikaamerafoto</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Esivideokaamera</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Video</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Valige fotode kuvasuhe</string>
+    <string name="photopro_strings_aspect_ratio_txt">Kuvasuhe</string>
+    <string name="photopro_strings_audio_on_all_txt">Sees: kõik</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Sees: ainult katik</string>
+    <string name="photopro_strings_audio_signals_description_txt">Määrake, milliseid kaamera helisid taasesitada, näiteks kui automaatne taimer loendab või teravustab. Võite valida ka ainult katiku heli esitamise.</string>
+    <string name="photopro_strings_audio_signals_txt">Helisignaalid</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro suletakse peagi, kuna seda pole kasutatud</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Tagavalgusega portree</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Tagavalgus</string>
+    <string name="photopro_strings_auto_scene_document_txt">Dokument</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Toit</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Sülelaps</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Maastik</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Vähene valgus</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Makrovõte</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Öine portree</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Öövõte</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Automaatne pildistusolude tuvastus</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Udustatud taust</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Prožektor</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Veenduge, et objektiiv on puhas ja sõrme poleks objektiivil</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Liiga hele</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Liikuge objektist kaugemale</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Vaja on rohkem valgust</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Liikuge objektile lähemale</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Bokeh pole hetkel saadaval</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Tausta udusus (Bokeh) sees</string>
+    <string name="photopro_strings_bokeh_txt">Tausta udusus (bokeh)</string>
+    <string name="photopro_strings_bt_remote_control_txt">Bluetoothi kaugjuhtim</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Mitmikvõtte fotod on salvestatud sisemällu</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Mitmikvõtet ei saa kasutada pika säriaja korral.</string>
+    <string name="photopro_strings_button_continue_txt">Jätka</string>
+    <string name="photopro_strings_button_quit_txt">SULE</string>
+    <string name="photopro_strings_cancel_txt">Tühista</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Aegluup</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K-video</string>
+    <string name="photopro_strings_change_txt">Muuda</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Nulli</string>
+    <string name="photopro_strings_color_and_brightness_txt">Värv ja heledus</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Sisemälu on täis. Kas salvestada andmed SD-kaardile?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Sisemälu on rikutud või kirjutuskaitstud. Kas salvestada andmed SD-kaardile?</string>
+    <string name="photopro_strings_common_error_open_txt">Ei saa avada: %1$s</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">SD-kaart on täis. Kas salvestada andmed sisemällu?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">SD-kaarti ei saa kasutada. Kas salvestada andmed sisemällu?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Mitmikvõtte tagasiside</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Järgmised funktsioonid on praegu välja lülitatud.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Oodake, kuni seade jahtub ja taaskäivitage seejärel kaamera.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Järgmised funktsioonid on keelatud</string>
+    <string name="photopro_strings_cooling_mode_txt">Mõned funktsioonid on seadme temperatuuri tõusu vältimiseks keelatud</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Määrake AEL-nupule veel üks funktsioon</string>
+    <string name="photopro_strings_custom_ael_txt">AEL-nupu kohandamine</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Puudutades nuppu DISP, saate pildiotsijas teavet kuvada / peita.
+Tühjendage selle menüü kirjete märkeruudud, kui te ei soovi, et neid kuvatakse teabe kuvamisel DISP-nupuga."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histogramm</string>
+    <string name="photopro_strings_custom_disp_level_txt">Loodis</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Päise teave</string>
+    <string name="photopro_strings_custom_disp_txt">DISP-nupu kohandamine</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Funktsioonimenüüs saate kirjeid uuesti määrata või järjestada.
+Vasakpoolsest loendist teise valitud funktsiooni määramiseks puudutage ühte allolevatest funktsioonidest.
+Ümberkorraldamiseks lohistage ükskõik millist allolevatest funktsioonidest."</string>
+    <string name="photopro_strings_custom_fn_txt">Funktsioonimenüü kohandamine</string>
+    <string name="photopro_strings_custom_none_txt">Pole määratud</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Olete privaatsuspoliitika varem tagasi lükanud.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Automaatsärituse lukustamine</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">ISO väärtuse määramine Automaatseks</string>
+    <string name="photopro_strings_description_custom_none_txt">AEL-nupu keelamine</string>
+    <string name="photopro_strings_device_id_txt">Seadme ID</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Telefoni aku tase pole piisav. Kui aku hakkab tühjaks saama, sulgub kaamera automaatselt.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Salvestamine katkestati, sest aku on tühi. Laadige seade täis ja proovige uuesti.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Kaamerat ei saa kasutada, sest aku on tühi. Laadige seade täis ja proovige uuesti.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Rakendus vajab toimingu sooritamiseks järgmisi lubasid.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Võrk
+Wi-Fi ühenduse loomiseks"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Lennurežiim on sisse lülitatud.
+Lülitage lennurežiim välja kuval SEADED."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Võrgu nimi: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi on välja lülitatud ja lennurežiim on sisse lülitatud.
+Nende seadete muutmiseks puudutage nuppu SEADED."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi on välja lülitatud.
+Lülitage Wi-Fi sisse kuval SEADED."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Seaded</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Luba</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Keela</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Märkus</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Kalibreeri</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Lähtesta</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Pole piisavalt sisemälu. Mitmikvõte on peatatud. Salvestusruumi vabastamiseks kustutage mõni fail.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Lubade andmine</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Ühendamine...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Paroolikaitse: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Turve: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Wi-Fi ühendust ei saa luua</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Kui te allpool nõustute, kogub Sony teie &lt;b>&lt;a href=#personal-data>isikuandmeid&lt;/a>&lt;/b> kohandatud tugiteenuste osutamiseks ning seadmete ja teenuste parendamiseks. Sony töötleb teie andmeid vastavalt oma &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>privaatsuspoliitikale&lt;/a>&lt;/b>.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Saate salvestada videoid ka kõrge kontrastsusega oludes ja muuta need põnevamaks ning reaalsuses nähtavale lähedasemaks.Sisu nautimiseks originaalvärvide ja -kontrastsusega kasutage toetatud seadmeid/teenuseid.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Ära enam kuva</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">HDRi mitmikvõte: palju</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">HDRi mitmikvõte: vähe</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Mitmikvõte: palju</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Mitmikvõte: vähe</string>
+    <string name="photopro_strings_drive_continuous_txt">Mitmikvõte</string>
+    <string name="photopro_strings_drive_mode_txt">Päästikurežiim</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Automaattaimer: 10 s</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Automaattaimer: 3 s</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Automaattaimer: Väljas</string>
+    <string name="photopro_strings_drive_single_txt">Üksikvõte</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">Auto HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">See seade optimeerib väärtuste vahemiku. DRO-töötlus kasutab üht pilti, kuid Auto HDR liidab tulemuse saavutamiseks mitu eri säriajaga kaadrit.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">D-vahemiku optimeerija</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/auto HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">Kaamerat ei saa käivitada. Taaskäivitage kaamera või seade.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Tõrge</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Fotosid ei saanud salvestada. Probleem võib olla andmetalletuskohas. Kui andmete talletamiskohaks on määratud SD-kaart, kontrollige oma SD-kaarti.</string>
+    <string name="photopro_strings_error_fatal_txt">Tundmatu tõrge</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Ei</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Jah</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Kaamera lülitub jahtumiseks ajutiselt välja. Tehtud salvestised salvestatakse. Kui seade on jahtunud, käivitage rakendus uuesti.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Mälu on täis. Kustutage SD-kaardilt või sisemälust mõni fail.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Mälu pole saadaval</string>
+    <string name="photopro_strings_error_memory_title_txt">Mälutõrge</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD-kaart pole saadaval</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Säriajaparandus</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Saate teha fotosid, mis keskenduvad inimeste või loomade silmadele.
+Fookuse sihtpunkti muutmiseks koputage selle näo kujutist, kellele soovite fookuse suunata."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Saate teha videosid, mis keskenduvad inimeste või loomade silmadele.
+Fookuse sihtpunkti muutmiseks koputage selle näo kujutist, kellele soovite fookuse suunata.
+Märkus. Kui see säte on lubatud, võib salvestusaeg seadme temperatuuri tõusu tõttu lühendada."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Näotuvastus/silma AF sees</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">Näo/silma AF</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">Näo/silma AF: Välja</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">Näo/silma AF: Sisse</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Selle funktsiooni kasutamiseks avage ekraan</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Seade kuvamiseks avage ekraan.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Ekraan on lukus</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Tausta udususe (bokeh) efekti reguleerimiseks puudutage pildiotsijas Bokehi ikooni ja liigutage liugurit.
+See funktsioon on põhirežiimis (Foto) toetatud.
+Tõstke objektid esile populaarse muljetavaldava kontrastiga, hägustades tausta."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Tehke fotosid bokeh-efektiga</string>
+    <string name="photopro_strings_feature_bokeh_txt">Tausta udususe (bokeh) efekt</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Päästikurežiimi saab muuta nii Üksik- kui ka Mitmikvõtte või Automaatse taimeri kasutamiseks.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Päästikurežiim</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Esikaameraga pildistades hoidke silmad eesmise kaamera objektiivil, kuulari lähedal.
+Teie silmad vaatavad fotol õiges suunas."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Pilgu suund</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Saate teha fotosid, mis keskenduvad inimeste või loomade silmadele.
+Fookuse sihtpunkti muutmiseks koputage selle näo kujutist, kellele soovite fookuse suunata. Selle funktsiooni saab lubada või keelata menüüs MENÜÜ > Näo/Silma AF."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">Näo/silma AF</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Suunake peopesa kaamera poole. Peopesa tuvastamisel lülitub automaatne taimer sisse. Hõlpsamaks tuvastamiseks sirutage sõrmed üles.
+Selle funktsiooni lubamiseks lülituge põhirežiimis (foto) esikaamerale ja lülitage MENÜÜ alt sisse Käsitsi katik."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Käsikatik</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Ülilaia objektiivi (0,7x) kasutamise korral saate määrata oma eelistuse. Valik Eelista pildikvaliteeti laseb teil jäädvustada dünaamilisi kvaliteetpilte. Valik Eelista moonutuse parandust aitab vähendada pildimoonutusi.
+See funktsioon on aktiivne, kui pildistate ülilaia objektiiviga. Pärast ülilaiale objektiivile üleminekut saate prioriteedi konfigureerida menüüs MENÜÜ > Ülilaia objektiivi korrigeerimine."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Objektiivi parandus (foto)</string>
+    <string name="photopro_strings_feature_list_title_txt">Funktsioonide tutvustus</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Tausta udususe (bokehi) ja iluefektide abil saate hõlpsalt jäädvustada kunstilise selfi.
+Selle funktsiooni kasutamiseks puudutage pildinäidikus Rohkem ja valige Portree selfie
+Muutke oma selfie stiilseks ja tundke rõõmu loovatest tulemustest."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Selfi foto</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"QR Code'i skannides pääsete kiiresti veebi või saate luua Wi-Fi ühenduse.
+See funktsioon on põhirežiimis (foto) aktiivne. Selle funktsiooni saab lubada või keelata menüüs MENÜÜ > QR Code'i lugeja"</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code’i luger</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code’i luger</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Sildistage fotod ja videod asukohtadega, kus need tehti. Seda sätet saate hiljem muuta MENÜÜ > Salvesta asukoht.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Kas salvestada asukoht?</string>
+    <string name="photopro_strings_feature_selfie_txt">Esikaamera</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Saate jäädvustada 120 kaadrit/sekundis DH aegluup-video</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Aegluup</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Saate hõlpsalt vahetada kaamera objektiive, et jäädvustada loomingulisust nõudvaid olukordi.
+Puudutage pildinäidikus nuppu, et valida 0,7x (ülilai), 1,0x (lai), 2,9x (telefoto) või 4,4x (telefoto) objektiiv.
+Saate seda funktsiooni kasutada nii põhirežiimides Foto kui ka Video."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Nupuga nurga vahetamine</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Saate hõlpsalt vahetada kaamera objektiive, et jäädvustada loomingulisust nõudvaid olukordi.
+Puudutage pildinäidikus nuppu, et valida 0,7x (ülilai), 1,0x (lai) või 2,1x (standard) objektiiv.
+Saate seda funktsiooni kasutada nii põhirežiimides Foto kui ka Video."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Kolmikkaamera</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Objektiivinuppu puudutades kuvatakse liugur, mida saab kasutada suumi taseme reguleerimiseks.
+Samuti saate suumimiseks ekraani näpistada või kasutada helitugevusnuppe."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Kuidas sisse/välja suumida</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Kustuta</string>
+    <string name="photopro_strings_file_format_description_txt">"Valige fotode failivorming.
+
+RAW: nõuab fotode järeltöötluseks eritarkvara. Lubab teil fotod korrigeerida, piirates kujutise kvaliteedi halvenemist. Pärast järeltöötlust saab printida.
+RAW &amp; JPEG: salvestab nii järeltöötlust nõudvad RAW-kujutised kui ka JPEG-kujutised.
+JPEG: salvestab JPEG-kujutised.
+
+Märkused.
+RAW-vormingus failid salvestatakse alati sisemällu kuvasuhtega 4:3.
+Mitmikvõte ja Auto HDR pole saadaval, kui valitud on RAW või RAW &amp; JPEG."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW ja JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Failivorming</string>
+    <string name="photopro_strings_flash_auto_txt">Automaatne</string>
+    <string name="photopro_strings_flash_description_txt">Valige välgurežiimiks Automaatne välk, Täitevälk jne.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Täitevälk</string>
+    <string name="photopro_strings_flash_off_txt">Väljas</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Punasilmsuse vähendamine</string>
+    <string name="photopro_strings_flash_torch_description_txt">Taskulambi sisselülitamine</string>
+    <string name="photopro_strings_flash_torch_off_txt">Taskulamp: Väljas</string>
+    <string name="photopro_strings_flash_torch_on_txt">Taskulamp: Sisse</string>
+    <string name="photopro_strings_flash_torch_txt">Taskulamp</string>
+    <string name="photopro_strings_flash_txt">Välgurežiim</string>
+    <string name="photopro_strings_focus_area_center_txt">Keskosa</string>
+    <string name="photopro_strings_focus_area_txt">Fookusala</string>
+    <string name="photopro_strings_focus_area_wide_txt">Lai</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Määrake fookusala raami värv</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Punane</string>
+    <string name="photopro_strings_focus_frame_color_txt">Fookusala värv</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Valge</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">Pidev AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">Ühekordne AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">Valige fookuse meetod</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Näotuvastus</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Käsifookus</string>
+    <string name="photopro_strings_focus_mode_txt">Teravustamis-režiim</string>
+    <string name="photopro_strings_geotagging_description_txt">Salvestage fotod ja videod asukohtadega, kus need tehti.</string>
+    <string name="photopro_strings_geotagging_txt">Salvesta asukoht</string>
+    <string name="photopro_strings_gridline_description_txt">Saate valida, kas kuvada ruudustiku jooned piltide koostamisel</string>
+    <string name="photopro_strings_gridline_txt">Ruudujooned</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Taimeri lugemist saate alustada, kui pöörate oma peopesa esikaamera poole. Hõlpsamaks tuvastamiseks sirutage sõrmed üles.</string>
+    <string name="photopro_strings_hand_shutter_txt">Käsikatik</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Määrake, kas kuvariga suhtlemisel saada haptilist tagasisidet või mitte, nt režiimi valimisketas</string>
+    <string name="photopro_strings_haptic_feedback_txt">Haptiline tagasiside</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Väljas</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: Sisse</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Nutikas tuulefilter</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO-tundlikkus</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Rakenduse Photography Pro käivitamiseks vajutage pikalt seadme katikunuppu. See töötab ka juhul, kui telefon on unerežiimis või lukustatud.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Käivita Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Katikunupuga käivitamiseks</string>
+    <string name="photopro_strings_lens_correction_description_txt">Ülilaia objektiivi kasutamise korral saate määrata oma eelistuse. Valik Eelista pildikvaliteeti laseb teil jäädvustada dünaamilisi kvaliteetpilte. Valik Eelista moonutuse parandust aitab vähendada pildimoonutusi.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Eelista pildikvaliteeti</string>
+    <string name="photopro_strings_lens_correction_on_txt">Eelista moonutuse parandust</string>
+    <string name="photopro_strings_lens_correction_txt">Ülilaia objektiivi korrigeerimine</string>
+    <string name="photopro_strings_lens_txt">Objek.</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Kalibreeri</string>
+    <string name="photopro_strings_level_calibration_description_txt">Vajadusel saate kalibreerida funktsiooni Loodis, et parandada nihked kalde suunas. Veenduge, et kaamera oleks horisontaalses asendis, ja valige seejärel Kalibreeri.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Kalibreerimine on lõpetatud</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Kalibreerimisseade on lähtestatud</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Loodi kalibreerimine</string>
+    <string name="photopro_strings_lock_switch_txt">Lukus</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Salvestamine lõppes maksimaalse failimahu piirangu tõttu</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Salvestamine peatus maksimaalse salvestamisaja piirangu tõttu</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Ei saanud salvestada. Mälu on täis.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Apply</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Salvesta</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Määra</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Kas salvestada praegune režiimide ja seadete kombinatsioon?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Kaameraseaded on salvestatud.
+Saate need seaded hõlpsalt tuua MR-pildistamisrežiimi abil."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Kaameraseadete mälu</string>
+    <string name="photopro_strings_memory_recall_txt">Toomise kaamerasead.</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Foto (esikaamera)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Foto</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Aegluup</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Video (esikaamera)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Video</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Säriaeg/värv</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Teravustamine</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Häälestus</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Pildistamine</string>
+    <string name="photopro_strings_menu_title_txt">Menüü</string>
+    <string name="photopro_strings_metering_center_txt">Keskel</string>
+    <string name="photopro_strings_metering_multi_txt">Mitu</string>
+    <string name="photopro_strings_metering_spot_txt">Punktmõõtmine</string>
+    <string name="photopro_strings_metering_txt">Mõõtmisrežiim</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Valige, millist mikrofoni soovite videosalvestuse ajal kasutada:
+1. Vasak-Parem mikrofon: salvestab stereoheli vasaku ja parema mikrofoniga (ülevalt ja alt, kui see on püstises asendis).
+2. Tagumine mikrofon: salvestab mono-heli tagumise mikrofoniga"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Väline mikrofon</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">Vasak-Parem mikrofon (stereo)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Tagumine mikrofon (mono)</string>
+    <string name="photopro_strings_mic_setting_txt">Mikrofon</string>
+    <string name="photopro_strings_mode_auto_description_txt">Kaamera tuvastab automaatselt pildistamisolud ja pildistab automaatse seadistusega, vähendades samal ajal müra ja kaamera värisemist.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Automaatrežiim</string>
+    <string name="photopro_strings_mode_basic_description_txt">"Selles režiimis saate pildistada ekraanil oleva katikunupu abil, sarnaselt tavalisele nutitelefoni kaamerale.
+Kasutage seda režiimi selfide tegemiseks, videote jäädvustamiseks ja QR Code'ide skannimiseks."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Põhirežiim</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Režiimi valimiskettaga režiimide vahetamisel kuvatakse iga jäädvustusrežiimi selgitus</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Režiimivalimise juhend</string>
+    <string name="photopro_strings_mode_m_description_txt">"Kontrollige säriaega ja ISO-tundlikkust käsitsi.
+Pikem säriaae võimaldab teha hägususe abil fotosid, mis jäädvustavad objektide taga oleva liikumise."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Käsitsi määratud säriaeg</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Nutikas autom. (Mälust toomine)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Pildistage salvestatud seadete abil.
+Saate registreerida sageli kasutatavaid režiimide ja seadete kombinatsioone."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Mälust toomine</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Käsitsi määratud säriaeg (Mälust toomine)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Automaatprogramm (Mälust toomine)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Ainult säriaja seadmine (Mälust toomine)</string>
+    <string name="photopro_strings_mode_p_description_txt">Kaamera juhib säriaega automaatselt, teised seaded jäetakse teie valida.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Automaatprogramm</string>
+    <string name="photopro_strings_mode_s_description_txt">"Kontrollige säriaega käsitsi, et muuta liikuvate objektide jäädvustamist.
+Kiire säriaeg külmutab liikuva objekti, samal ajal kui aeglane säriaeg võib paremini tabada liikumise hägusust."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Ainult säriaja seadmine</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Päästikurežiim on automaatselt seatud üksikvõtteks, sest lisarežiim Transfer &amp; Tagging on sisse lülitatud</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Failiformaadiks on automaatselt määratud JPEG, sest lisarežiim Transfer &amp; Tagging on sisse lülitatud</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Kaamerat ei saa kasutada mitme akna või hüpikakna korral. Sulgege aken ja proovige uuesti. Kui kasutate mitut akent, saate kaamera täisekraaniliseks muutmiseks lohistada jagatud riba keskele.</string>
+    <string name="photopro_strings_multi_window_txt">Tõmba poolitusriba keskpaika, et lülitada %1$s täisekraanile</string>
+    <string name="photopro_strings_ok_txt">OK</string>
+    <string name="photopro_strings_personal_data_txt">Isiklikud andmed</string>
+    <string name="photopro_strings_privacy_policy_txt">Privaatsuspoliitika</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Pildistamine. Oodake.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Seda QR Code’i ei toetata</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Puudutage avamaks link \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Selle WiFi-võrguga ei saa ühendust luua</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Koput. ühend. Wi-Fi võrguga „%1$s“</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code’i luger</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"QR Code'i skannides pääsete kiiresti veebi või saate luua Wi-Fi ühenduse.
+See funktsioon on põhirežiimis (foto) aktiivne."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code’i luger</string>
+    <string name="photopro_strings_rec_txt">SALV.</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Kas lähtestada Photo Pro vaikeseadetele?</string>
+    <string name="photopro_strings_reset_settings_txt">Lähtesta seaded</string>
+    <string name="photopro_strings_reset_txt">Lähtesta</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Kuvasuhet ei saa muuta, kui failivorminguks on seatud RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Auto HDR-i ei saa valida, kui on valitud Mitmikvõte</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Auto HDR-i ei saa valida, kui valitud on JPEG-vormingust erinev failivorming</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Tausta udusus (Bokeh) pole praegu valitud objektiiviga saadaval</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Tausta ududus (Bokeh) pole saadaval, kui režiim Transfer &amp; Tagging add-on on sisse lülitatud.</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Valitud objektiiviga ei saa kasutada režiimi Mitmikvõte: palju</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Tausta udususe (Bokeh) sisselülitamisel ei saa Mitmikvõtet kasutada</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Mitmikvõte ei ole saadaval, kui on valitud AI super-resolutsiooniga suum</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Mitmikvõtet ei saa kasutada, kui valitud on JPEG-vormingust erinev failivorming</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Mitmikvõte pole saadaval, kui režiim Transfer &amp; Tagging add-on on sisse lülitatud.</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Ei saa muuta</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Välgurežiimi ei saa kasutada koos valikuga Mitmikvõte</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Valitud objektiiviga ei saa kasutada Välgurežiimi</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Praegu valitud objektiiviga ei saa valgustit kasutada</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Kui on valitud auto HDR, ei saa failivormingut JPEG muuta</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Kui on valitud Mitmikvõte, ei saa failivormingut JPEG muuta</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Kui on valitud režiim Transfer &amp; Tagging add-on, ei saa failivormingut JPEG muuta</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Seda seadistust ei saa muuta, kui väline mikrofon on ühendatud.</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">See seadistus ei toeta praegust säriaega. Selle seadistuse konfigureerimiseks muutke säriaeg 1 sekundi peale või vähemaks.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">RAW-d ei saa valida, kui valitud on muu kuvasuhe peale 4:3</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Aegluubirežiimis ei saa video suurust muuta. Seade muutmiseks väljuge aegluubirežiimist.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">See seade on saadaval ainult ülilaia objektiivi kasutamisel</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Seade ei ole saadaval, kui HDR on sees. Konfigureerimiseks lülitage HDR välja.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Seda seadet ei saa praeguse video suuruse puhul kasutada. Selle seade konfigureerimiseks muutke video suurust.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Bokeh-efekti kasutamise ajal ei saa suumida</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">RAKEND. TEAVE</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">Rakenduse %1$s luba</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Rakendus vajab toimingu sooritamiseks järgmisi lubasid.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Lubade andmiseks valige Rakenduse teave > Load.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Ei saanud jätkata</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Pildistamiseks</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Fotode ja videote tegemine</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Asukohateabe toomine</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Heli salvestamine</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Ühenduse loomiseks lähedal asuvate seadmetega</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Fotode ja videote lugemiseks ja salvestamiseks</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Fotode salvestamiseks</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Fotode ja videote salvestamine</string>
+    <string name="photopro_strings_save_destination_description_txt">Valige, kas salvestada fotod ja videod oma seadme sisemällu või SD-kaardile</string>
+    <string name="photopro_strings_save_destination_internal_txt">Sisemälu</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD-kaart</string>
+    <string name="photopro_strings_save_destination_title_txt">Andmemälu</string>
+    <string name="photopro_strings_save_destination_txt">Andmemälu</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD-kaart pole saadaval</string>
+    <string name="photopro_strings_selftimer_10_txt">10 sekundit</string>
+    <string name="photopro_strings_selftimer_3_txt">3 sekundit</string>
+    <string name="photopro_strings_selftimer_description_txt">Määrake taimer automaatselt pildistama pärast määratud sekundite arvu möödumist</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Hoidke pilk kaameral</string>
+    <string name="photopro_strings_selftimer_txt">Automaattaimer</string>
+    <string name="photopro_strings_settings_off_txt">Väljas</string>
+    <string name="photopro_strings_settings_on_txt">Sees</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Kasutage alati põhirežiimi</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Valige Photography Pro käivitamisel vaikimisi Jäädvustusrežiim</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Viimati kasutatud režiim</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Jäädvustusrežiim käivitamisel</string>
+    <string name="photopro_strings_shooting_mode_txt">Jäädvustusrežiim</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Videokaamera</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Säriaeg</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">HDR-i sisselülitamisel ei saa hetktõmmiseid teha</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Lülitage sisse efekt, mis muudab naha siledamaks</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Pehme naha efekt</string>
+    <string name="photopro_strings_status_mic_external_txt">Välimine</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">Vasak-Parem (stereo)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Tagumine (mono)</string>
+    <string name="photopro_strings_store_fail_txt">Ei saanud salvestada</string>
+    <string name="photopro_strings_sw_license_txt">Tarkvaralitsents</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Nõustu</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Keeldu</string>
+    <string name="photopro_strings_tips_txt">Nõuanded</string>
+    <string name="photopro_strings_title_permissions_txt">Photo Pro luba</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Tühista puutefookus</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Autofookus</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Valige, mida pildinäidikut puudutades korrigeerida.
+
+Objekti jälgimine: Parim funktsioon liikuvate objektide pildistamiseks. See hoiab fookuse pildinäidikus puudutatud ja lukustatud objektil, võimaldades liikuvaid objekte selgelt pildistada.
+Automaatne teravustamine: Puudutage pildinäidikus kohta, mida soovite teravustada.
+Teravustamine ja heledus: Keskenduge soovitud asukoha heledusele ja reguleerige seda, puudutades pildnäidikus."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Teravustamine ja heledus</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Objekti jälitamine</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Kohandamiseks puudutage</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Objekti jälgimise tühistamine</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Selle funktsiooni sisselülitamisel saab rakenduses Transfer &amp; Tagging add-on kuvada Xperia kaameraga tehtud fotosid. Fotod salvestatakse sisemällu.
+See funktsioon ühildub Photography Pro abil tehtud fotodega.
+Selle funktsiooni sisselülitamine seab automaatselt failiformaadiks JPEG ja päästikurežiimiks üksikvõtte."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Režiim Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Sain aru</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Järgmine</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Jäta vahele</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony tootemarki hindavad kõrgelt fotograafid, kelle looming innustab piiritud rõõmu ja paneb mõtlema fotograafia imetabastele võimalustele.
+Meie kogemust ja tehnoloogiat eelistavad kliendid kogu maailmast.
+
+Photography Pro pakub ettevõtte Sony Imaging Products profikaamerate kasutusvõimalusi ja funktsioone.
+Sony võimaldab teil fotograafias loovuse valla päästa."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Valige subjekti jaoks sobivaim pildistamisrežiim.
+Seejärel seadke säriaeg (katikukiirus) ja säriaeg (heledus).
+Hoidke kaamerat kindlalt selle servadest ja pildistage.
+
+Pildistamisrežiimid on järgmised:
+P (Automaatprogramm);
+S (Ainult säriaja seadmine);
+M (Käsitsi määratud säriaeg)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Valige eelistatud jäädvustusrežiim, kasutades paremas ülaosas asuvat režiimi valimisketast (horisontaalasendis üleval vasakul).
+
+Põhirežiimi abil saate esikaameraga lihtsalt fotosid ja videoid teha sarnaselt tavalise nutitelefoni kaameraga.
+
+Režiimidega Auto/P/S/M saate oma ideaalsete fotode tegemiseks kasutada veelgi täpsemaid seadeid."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Jäädvustusrežiim</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Kasutusjuhend</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Režiimide Auto/P/S/M kasutamisel hoidke kaamerat pildistamiseks kindlalt horisontaalasendis ja vajutage seadme paremas ülanurgas asuvat katikunuppu.
+
+Automaatrežiimi Auto valimine määrab automaatselt sellised funktsioonid nagu katiku kiirus ja säriaeg.
+
+Seadete käsitsi konfigureerimiseks valige üks alltoodud režiimidest.
+P (Automaatprogramm)
+S (Ainult säriaja seadmine)
+M (Käsitsi määratud säriaeg)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Kuidas režiime Auto/P/S/M kasutada</string>
+    <string name="photopro_strings_tutorial_txt">Õpetus</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Rakendust Photo Pro ei saa ühendatud välise ekraaniga kasutada. Photo Pro kasutamiseks sulgege rakendus Xperia hiljutiste rakenduste ekraanil ja taaskäivitage see.</string>
+    <string name="photopro_strings_unlock_button_txt">Ava</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Kaamera kasutamine on turbekaalutlustel piiratud</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">4K-video stabiilseks salvestamiseks ärge seda seadet muutke, v.a juhul, kui kasutate kiiret SD-kaarti (soovitatav on vähemalt UHS-kiirusklass 1 või kiirusklass 10).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Aegluubis video stabiilseks salvestamiseks ärge seda seadet muutke, v.a juhul, kui kasutate kiiret SD-kaarti (soovitatav on vähemalt UHS-kiirusklass 1 või kiirusklass 10).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Stabiilseks video salvestamiseks soovitame andmete talletamiseks valida sisemälu. Kas soovite kohe muuta?
+
+Kui jätkate SD-kaardi mäluruumina kasutamist, kasutage kindlasti kiiret SD-kaarti (soovituslik on UHS-i kiirusklass 1 või suurem või kiirusklass 10)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"4K videosalvestiste jaoks saate valida kodeerija.
+
+H.264 (AVC): Kodeerimise standardvorming, mida toetab enamik seadmeid ja teenuseid.
+H.265 (HEVC): Vorming suurema tihendusastmega. Veenduge, et teie taasesitusseadmed või teenused toetaksid seda meetodit."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Failivorming (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Valige video suurus.
+HDR pole saadaval, kui on valitud Täis-HD (60 fps) või HD."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Video suuruse valimine</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Täis-HD (60 kaadrit/s)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Täis-HD</string>
+    <string name="photopro_strings_video_size_txt">Video suurus</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Xperial on ainulaadne hübriidstabiliseerimissüsteem nimega Optical SteadyShot, mis kombineerib samaaegselt nii optilise kui ka elektroonilise pildistabilisaatori. See võimaldab värisemisvabu ja sujuvaid videoid ka liikvel olles.</string>
+    <string name="photopro_strings_video_stabilization_txt">Video stabiliseerimine</string>
+    <string name="photopro_strings_volumekey_description_txt">Helitugevusnuppudele teise funktsiooni määramiseks</string>
+    <string name="photopro_strings_volumekey_shutter_txt">pildistamiseks</string>
+    <string name="photopro_strings_volumekey_txt">Kasuta helitugevuse nuppu kui</string>
+    <string name="photopro_strings_volumekey_volume_txt">helitugevuse reguleerimiseks</string>
+    <string name="photopro_strings_volumekey_zoom_txt">suumimiseks</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Reguleerimine – %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Automaatne</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Koh.</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Valm.</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Proovi uuesti</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Raken.</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Pilvine</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Kohandatud 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Kohandatud 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Kohandatud 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Rakenda valge tasakaal eelvaate keskkoha alusel</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Reguleerimine nurjus</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Reguleerimine on valmis</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Rakendamine – %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Päevavalgus</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Luminofoorlamp</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Hõõglamp</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Vari</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Temp 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Temp 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Temp 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Temp:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Temperatuur</string>
+    <string name="photopro_strings_whitebalance_txt">Valge tasakaal</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Esikaameraga ei saa suumida</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">AI super-resolutsiooniga suum</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Valige suumi seade.
+
+Digitaalne suum: suum pildisensori andmetel põhineva digitaalse töötluse abil.
+AI super-resolutsiooniga suum: digitaalse töötluse abil suum, mis säilitab suurema osa originaalsest pildikvaliteedist. Fotode salvestamine võib võtta kauem aega. Kui valitakse mitmikvõte, määratakse see automaatselt digitaalseks suumiks."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Digitaalne suum</string>
+    <string name="photopro_strings_zoom_type_txt">Suumi seaded</string>
+    <string name="search_menu_title">Otsing</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">VÄLJAS</string>
+    <string name="v7_preference_on">SEES</string>
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ble_remote_control_c1_button_custom_title_txt">C1 button customisation</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Pairing cancelled because Bluetooth was turned off</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">The device temperature may increase above typical operating temperature. When the temperature increases, a notification and icon will alert you. In this case, don’t hold the device in your hand. Please make sure the remote control is connected via Bluetooth before continuing.</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"To start pairing, interact with the remote controller.
+You will receive notifications and dialogues two times. Select PAIR on all of them, then press any key on the paired device to finish pairing."</string>
+    <string name="photopro_strings_color_and_brightness_txt">Colour and brightness</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Internal storage full. Save data on SD card instead?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Internal storage is corrupt or write-protected. Save data on SD card instead?</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Please wait for your device to cool down, then restart the camera.</string>
+    <string name="photopro_strings_custom_ael_txt">AEL button customisation</string>
+    <string name="photopro_strings_custom_disp_txt">DISP button customisation</string>
+    <string name="photopro_strings_custom_fn_txt">Function menu customisation</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Recording has stopped due to low battery. Charge your device and try again.</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Aeroplane mode is on.
+Please turn off Aeroplane mode from SETTINGS."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Network name: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi is turned off and Aeroplane mode is turned on.
+Please change these settings by tapping on SETTINGS."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Connecting...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Password protection: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Security: 
+"</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">If you agree below, Sony will collect your &lt;b>&lt;a href=#personal-data>personal data&lt;/a>&lt;/b> to provide customised support and improve devices and services. Sony will handle your data per our &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>Privacy Policy&lt;/a>&lt;/b>.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">You can record videos even in high contrast scene, and make them more dramatic and closer to what you see in real life. Please use supported devices/services to enjoy the content with its original colour and brightness.</string>
+    <string name="photopro_strings_dro_hdr_description_txt">This setting will optimise the range of values. DRO processing uses a single image, whereas Auto HDR combines multiple exposures to achieve the result.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">D-Range Optimiser</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Memory full. Delete some files from SD card or internal storage.</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Face detection/Eye AF on</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">The drive mode can be changed to use Single or Continuous shooting, or the self-timer.</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Turn your palm towards the camera. The self-timer will start counting down when your palm is recognised. To make it easier to detect, extend your fingers upward.
+To enable this function, switch to the front camera while in Basic (photo) mode and turn on Hand shutter in MENU."</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"When using the ultra-wide lens (0.7x), you can select a priority. By selecting Prioritise image quality, you can capture dynamic high-quality images. If you select Prioritise correction for distortion, you can reduce visual distortion.
+This function is active when taking photos using the ultra-wide lens. After switching to the ultra-wide lens, you can configure the priority from MENU > Ultra-wide lens correction."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"You can easily switch between camera lenses to capture any situation to challenge your creativity.
+Tap the button in the viewfinder to switch between 0.7x (ultra-wide), 1.0x (wide), and 2.1x (standard) lenses.
+You can use this function in both Basic (Photo) and Basic (Video) mode."</string>
+    <string name="photopro_strings_flash_torch_off_txt">Torch: Off</string>
+    <string name="photopro_strings_flash_torch_on_txt">Torch: On</string>
+    <string name="photopro_strings_flash_torch_txt">Torch</string>
+    <string name="photopro_strings_focus_area_center_txt">Centre</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Set the colour of the focus area frame</string>
+    <string name="photopro_strings_focus_frame_color_txt">Focus area colour</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Manual focus</string>
+    <string name="photopro_strings_hand_shutter_txt">Hand shutter</string>
+    <string name="photopro_strings_lens_correction_description_txt">When using the ultra-wide lens, you can select a priority. By selecting Prioritise image quality, you can capture dynamic high-quality images. If you select Prioritise correction for distortion, you can reduce visual distortion.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Prioritise image quality</string>
+    <string name="photopro_strings_lens_correction_on_txt">Prioritise correction for distortion</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Recording stopped due to maximum file size limitation</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Recording stopped because of a maximum recording time limitation</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Photo (front)</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Video (front)</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Exposure/Colour</string>
+    <string name="photopro_strings_metering_center_txt">Centre</string>
+    <string name="photopro_strings_mode_basic_description_txt">"In this mode you can take photos using the onscreen shutter button, similar to the usual smartphone camera experience.
+Use this mode to take selfies, shoot videos, and scan QR codes."</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Programme auto (Memory recall)</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Programme auto</string>
+    <string name="photopro_strings_multi_window_txt">Drag the middle of the split bar to switch to full-screen %1$s to use</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">This QR Code is not supported</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Cannot use Continuous shooting: High with the currently selected lens</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Cannot select Continuous shooting while using Bokeh effect</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Cannot use Torch with the currently selected lens</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">To retrieve locations</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">To record sounds</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Soft Skin Effect</string>
+    <string name="photopro_strings_sw_license_txt">Software licence</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony is a brand beloved by photographers for creating products that spread the endless joy and wonder of photography.
+Our experience and technology continues to be chosen by customers around the world.
+
+Photography Pro seeks to recreate the operability and functions of full-scale cameras from Sony Imaging Products.
+Sony supports your photographic creativity."</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Choose the ideal Shooting mode to match your subject.
+Next, set the shutter speed and exposure.
+Hold the camera steady from the sides, and take a picture.
+
+Shooting modes include:
+P (Programme auto)
+S (Shutter speed priority)
+M (Manual exposure)"</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"When using Auto/P/S/M modes, firmly hold the camera in landscape orientation and press the shutter button on the upper right hand side of the device to take photos.
+
+Selecting Auto will set functions like shutter speed and exposure automatically.
+
+To configure settings manually, select one of the modes below.
+P (Programme auto)
+S (Shutter speed priority)
+M (Manual exposure)"</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">For stable 4K video recording, you must not change this setting unless you use a high-speed SD card (UHS Speed Class 1 or higher, or Speed Class 10 are recommended).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">"For stable slow-motion video recording, don't change this setting unless you use a high-speed SD card (UHS Speed Class 1 or higher, or Speed Class 10 are recommended)."</string>
+    <string name="photopro_strings_video_explanatory_txt">"For stable video recording, we recommend that you change data storage to Internal storage. Would you like to change now?
+
+If you continue to use SD card as data storage, make sure that you use a high-speed SD card (UHS Speed Class 1 or higher, or Speed Class 10 recommended)."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">File format (4K)</string>
+    <string name="photopro_strings_video_stabilization_description_txt">The Xperia has a unique hybrid stabilisation system called Optical SteadyShot - combining optical image stabilisation and electronic image stabilisation simultaneously. It gives you shake free and smooth videos even when recording on the move.</string>
+    <string name="photopro_strings_video_stabilization_txt">Video stabilisation</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Apply</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Set white balance based on the centre of the preview</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Apply - %1$s</string>
+</resources>

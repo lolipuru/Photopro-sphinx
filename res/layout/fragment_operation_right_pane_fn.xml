@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="?android:dividerHorizontal" android:splitMotionEvents="false" android:showDividers="beginning|end|middle"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/fn_row_1" android:layout_width="fill_parent" android:layout_height="@dimen/photopro_fn_button_height" android:divider="?android:dividerVertical" android:splitMotionEvents="false" android:showDividers="middle" android:dividerPadding="@dimen/photopro_fn_button_divider_padding" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/fn_row_2" android:layout_width="fill_parent" android:layout_height="@dimen/photopro_fn_button_height" android:divider="?android:dividerVertical" android:splitMotionEvents="false" android:showDividers="middle" android:dividerPadding="@dimen/photopro_fn_button_divider_padding" />
+</LinearLayout>

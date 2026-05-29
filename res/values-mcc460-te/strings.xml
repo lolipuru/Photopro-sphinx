@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"నెట్‌వర్క్
+WLANకు కనెక్ట్ చేయడానికి"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN ఆఫ్ చేయబడింది మరియు ఎయిర్‌ప్లైన్ మోడ్ ఆన్ చేయబడింది.
+దయచేసి సెట్టింగులపై టాప్ చేయడం ద్వారా ఈ సెట్టింగ్‌లను మార్చండి."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN ఆఫ్‌లో ఉంది.
+దయచేసి సెట్టింగ్‌లు నుండి WLANని ఆన్ చేయండి."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">WLANకి కనెక్ట్ చేయడం సాధ్యపడలేదు</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"మీరు QR కోడ్‌ను స్కాన్ చేయడం ద్వారా వేగంగా వెబ్‌ను యాక్సెస్ చేయండి లేదా WLANకు కనెక్ట్ చేయండి.
+ప్రాథమిక (ఫోటో) మోడ్‌లో ఉన్నప్పుడు ఈ విధి యాక్టివ్‌గా ఉంటుంది. ఈ విధిని మెను > QR Code రీడర్ నుండి ప్రారంభించవచ్చు లేదా నిలిపివేయవచ్చు."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">WLAN నెట్‌వర్క్ కనెక్ట్ చేయ. టాప్ చే.: \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"మీరు QR కోడ్‌ను స్కాన్ చేయడం ద్వారా వేగంగా వెబ్‌ను యాక్సెస్ చేయండి లేదా WLANకు కనెక్ట్ చేయండి.
+ప్రాథమిక (ఫోటో) మోడ్‌లో ఉన్నప్పుడు ఈ విధి యాక్టివ్‌గా ఉంటుంది."</string>
+</resources>

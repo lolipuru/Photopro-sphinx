@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center" android:height="6.0dip" android:width="40.0dip">
+        <bitmap android:gravity="center" android:src="@drawable/photopro_right_panel_lock_on_icn" />
+    </item>
+</layer-list>

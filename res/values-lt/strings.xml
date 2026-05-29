@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Eiti į pagrindinį puslapį</string>
+    <string name="abc_action_bar_up_description">Naršyti aukštyn</string>
+    <string name="abc_action_menu_overflow_description">Daugiau parinkčių</string>
+    <string name="abc_action_mode_done">Atlikta</string>
+    <string name="abc_activity_chooser_view_see_all">Žr. viską</string>
+    <string name="abc_activitychooserview_choose_application">Pasirinkite programą</string>
+    <string name="abc_capital_off">IŠJUNGTI</string>
+    <string name="abc_capital_on">ĮJUNGTI</string>
+    <string name="abc_menu_alt_shortcut_label">„Alt“ +</string>
+    <string name="abc_menu_ctrl_shortcut_label">„Ctrl“ +</string>
+    <string name="abc_menu_delete_shortcut_label">„delete“</string>
+    <string name="abc_menu_enter_shortcut_label">„enter“</string>
+    <string name="abc_menu_function_shortcut_label">„Function“ +</string>
+    <string name="abc_menu_meta_shortcut_label">„Meta“ +</string>
+    <string name="abc_menu_shift_shortcut_label">„Shift“ +</string>
+    <string name="abc_menu_space_shortcut_label">„space“</string>
+    <string name="abc_menu_sym_shortcut_label">„Sym“ +</string>
+    <string name="abc_prepend_shortcut_label">„Menu“ +</string>
+    <string name="abc_search_hint">Ieškoti…</string>
+    <string name="abc_searchview_description_clear">Išvalyti užklausą</string>
+    <string name="abc_searchview_description_query">Paieškos užklausa</string>
+    <string name="abc_searchview_description_search">Ieškoti</string>
+    <string name="abc_searchview_description_submit">Pateikti užklausą</string>
+    <string name="abc_searchview_description_voice">Paieška balsu</string>
+    <string name="abc_shareactionprovider_share_with">Bendrinti su</string>
+    <string name="abc_shareactionprovider_share_with_application">Bendrinti naudojant programą „%s“</string>
+    <string name="abc_toolbar_collapse_description">Sutraukti</string>
+    <string name="ble_remote_control_button_any_problem_txt">Trikčių diagnostika</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Sujungti naują valdiklį</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">C1 mygtukui „Bluetooth“ nuotolinio valdymo pulte galite priskirti kitą funkciją</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">C1 mygtuko tinkinimas</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Fokusavimo režimas</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Objektyvas</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Fotografavimo režimas</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Perjungti pagrindinę / priekinę kamerą</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Perjungti nuotraukas / vaizdo įrašus</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Objektyvas</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Perjungti AF / MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Perjungti pagrindinę / priekinę kamerą</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Leisti</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Nepriimti</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Leisti programai naudoti „Bluetooth“ šiai funkcijai?</string>
+    <string name="ble_remote_control_description_txt">"Galite sujungti „Sony“ nuotolinį valdymą per „Bluetooth“ ir naudoti funkcijas nuotoliniu būdu %1$s.
+Palieskite „Sujungti naują valdiklį“, norėdami pradėti jungti naują įrangą."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Jau sujungta</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Jei nuotolinio įrenginio negalima sujungti su šiuo įrenginiu, eikite į dalį „Nustatymai“ ir patikrinkite, ar nuotolinis įrenginys jau užregistruotas „Bluetooth“ įrenginių sąraše. Jei jau užregistruotas, pašalinkite nuotolinį įrenginį iš sąrašo ir pabandykite sujungti vėl.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Trikčių diagnostika</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Sutikti ir įjungti</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Atsisakyti</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Išeiti</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Eiti į „Nustatymus“</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">Gerai</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Sujungimas atšauktas, nes „Bluetooth“ buvo išjungtas</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Sujungti nepavyko dėl laiko pereikvojimo. Vėliau bandykite dar kartą.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Intensyviai naudojant, kaip atsargumo priemonė šioje įrangoje gali būti apribojamos kai kurios funkcijos. Įjungus fotoaparato patvarumo režimą, pasirodys piktograma nurodanti, kad programa palaikys didelį našumą. Kai rodoma ši piktograma, galite naudoti programą ilgesnį laiką.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Fotoaparato patvarumo režimas galimas tik naudojant %1$s su nuotoliniu valdymu, prijungtu per „Bluetooth“. Uždarius %1$s, ši funkcija nebeveiks.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Įrangos temperatūra gali pakilti aukščiau įprastos veikimo temperatūros. Kai temperatūra pakils, pranešimas ir piktograma jus įspės. Šiuo atveju, nebelaikykite įrangos rankoje. Prieš tęsdami įsitikinkite, kad nuotolinis valdymas yra prijungtas per „Bluetooth“.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Dėmesio</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Įrangos temperatūra per aukšta. %1$s laikinai išsijungs, kad atvėstų.
+Jei prijungiate „Bluetooth“ nuotolinį valdymą, galite toliau naudoti %1$s su fotoaparato patvarumo režimu."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Įrangos temperatūra per aukšta. %1$s laikinai išsijungs, kad atvėstų.
+Jei prijungiate „Bluetooth“ nuotolinį valdymą, galite naudoti %1$s su fotoaparato patvarumo režimu."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Norėdami naudoti šią funkciją, susiekite nuotolinį valdymą per „Bluetooth“ ir įjunkite [Naudokite nuotolinį valdymą].</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Įrangos temperatūra per aukšta. %1$s laikinai išsijungs, kad atvėstų.
+Jei įjungiate fotoaparato patvarumo režimą, galite naudoti %1$s su „Bluetooth“ nuotoliniu valdymu."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Norėdami įjungti šią funkciją, naudokite prijungtą nuotolinį valdymą.
+Norėdami atšaukti, palieskite IŠEITI."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Fotoaparato patvarumo režimas įjungtas</string>
+    <string name="ble_remote_control_endurance_mode_txt">Fotoaparato patvar. režimas</string>
+    <string name="ble_remote_control_off_txt">Išjungt.</string>
+    <string name="ble_remote_control_on_txt">Įjungt.</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Norėdami pradėti jungti sąveikaukite su nuotoliniu valdikliu.
+Du kartus gausite pranešimus ir dialogus. Visais atvejais pasirinkite SUJUNGTI, tada paspauskite bet kurį sujungtos įrangos klavišą, kad baigtumėte jungti."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Sujungti naują valdiklį</string>
+    <string name="ble_remote_control_title_txt">„Bluetooth“ nuotol. vald.</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Naudokite nuotolinį valdymą</string>
+    <string name="expand_button_title">Išplėstinė</string>
+    <string name="external_display_connected_description_txt">Vaizdo ieškiklį galima patikrinti vaizdo tinklaraščių monitoriuje</string>
+    <string name="external_display_connected_title_txt">Vaizdo tinklaraščių monitorius prijungtas</string>
+    <string name="external_display_note_about_external_mic_txt">Pastaba: Norėdami naudoti išorinį mikrofoną, prieš įrašydami prijunkite jį prie vaizdo tinklaraščių monitoriaus. Jei jį prijungsite vėliau, jums reikės iš naujo prijungti vaizdo tinklaraščių monitorių.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Anksčiau sutikote su privatumo politika, tačiau visada galite apsigalvoti.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Rodyklė į kairę</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Rodyklė į dešinę</string>
+    <string name="photopro_strings_accessibility_back_txt">Atgal</string>
+    <string name="photopro_strings_accessibility_close_txt">Uždaryti</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Prieinamumas: &lt;a href=\"%s\">Iš dalies atitinka&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Daugiau</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Objektyvo mygtukas</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Nekonfigūruojama</string>
+    <string name="photopro_strings_accessibility_previous_txt">Ankstesnis</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Naujausių nuotraukų grupė</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Pradėti vaizdo įrašymą</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Pristabdyti vaizdo įrašymą</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Tęsti vaizdo įrašymą</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Sukurti momentinę kopiją įrašant vaizdo įrašą</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Sustabdyti vaizdo įrašymą</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Stabdyti atgalinį skaičiavimą</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Užraktas</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Perjunkite pagrindinį (-ę) ir priekinį (-ę) fotoaparatus (vaizdo kameras)</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Perjunkite nuotraukas ir vaizdo įrašus</string>
+    <string name="photopro_strings_accessibility_title_txt">Prieinamumas</string>
+    <string name="photopro_strings_addon_button_menu_txt">Daugiau</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Kūrimo efektas</string>
+    <string name="photopro_strings_addon_panorama_txt">Panorama</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Portretas asmenukė</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Sulėtintai</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Jei norite išsaugoti vietų, turite aktyvinti GPS ir (arba) belaidžius tinklus. Aktyvinti dabar?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Išsaugoti vietą</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Anoniminė analizė</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Priek. nuotrauka</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Pr. vaiz. kam.</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Video</string>
+    <string name="photopro_strings_application_fullname_txt">„Photography Pro“</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">„Photo Pro“</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Pasirinkite nuotraukų vaizdo proporcijas</string>
+    <string name="photopro_strings_aspect_ratio_txt">Vaizdo proporcijos</string>
+    <string name="photopro_strings_audio_on_all_txt">Įjungta: visi</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Įjungta: tik fotografavimas</string>
+    <string name="photopro_strings_audio_signals_description_txt">Nustatykite, kuriuos fotoaparato (vaizdo kameros) garsus leisti, pavyzdžiui, kai veikia automatinio fotografavimo atgalinis skaičiavimas ar fokusuojant. Taip pat galite pasirinkti leisti tik užrakto garsą.</string>
+    <string name="photopro_strings_audio_signals_txt">Garso signalai</string>
+    <string name="photopro_strings_auto_power_off_txt">Programa „Photo Pro“ netrukus bus uždaryta dėl neveiklumo</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Portretas su foniniu apšvietimu</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Foninis apšvietimas</string>
+    <string name="photopro_strings_auto_scene_document_txt">Dokumentas</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Gurmanas</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Vaikas</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Peizažas</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Silpnas apšvietimas</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Makrorežimas</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Portretas naktį</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Naktinis peizažas</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Automatinis vaizdo atpažinimas</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Švelni nuotrauka</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Prožektorius</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Įsitikinkite, ar objektyvas švarus ir ar neuždėjote ant jo savo piršto</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Per šviesu</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Pasitraukite toliau nuo objekto</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Reikia daugiau šviesos</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Ateikite arčiau objekto</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">„Bokeh“ šiuo metu nepasiekiamas</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Įjungtas „Bokeh“</string>
+    <string name="photopro_strings_bokeh_txt">Bokeh</string>
+    <string name="photopro_strings_bt_remote_control_txt">„Bluetooth“ nuotol. vald.</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Nuotraukų serijos nuotraukos išsaugotos vidinėje saugykloje</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Negalima naudoti nuotraukų serijos esant lėtam fotografavimo greičiui</string>
+    <string name="photopro_strings_button_continue_txt">Tęsti</string>
+    <string name="photopro_strings_button_quit_txt">BAIGTI</string>
+    <string name="photopro_strings_cancel_txt">Atšaukti</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Sulėtintai</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K vaizdo įrašas</string>
+    <string name="photopro_strings_change_txt">Keisti</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Atkurti</string>
+    <string name="photopro_strings_color_and_brightness_txt">Spalva ir ryškumas</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Vidinė atmintis pilna. Geriau išsaugoti duomenis SD kortelėje?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Vidinė atmintis sugadinta arba į ją neleidžiama įrašyti. Geriau išsaugoti duomenis SD kortelėje?</string>
+    <string name="photopro_strings_common_error_open_txt">%1$s neatsidaro</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">SD kortelė pilna. Geriau išsaugoti duomenis vidinėje atmintyje?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">SD kortelės naudoti negalima. Geriau išsaugoti duomenis vidinėje atmintyje?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Nepertraukiamo fotogr. grįžtamasis ryšys</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Toliau nurodytos funkcijos šiuo metu išjungtos.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Palaukite, kol įrenginys atauš, tada iš naujo paleiskite fotoaparatą (vaizdo kamerą).</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Toliau nurodytos funkcijos pasyvintos</string>
+    <string name="photopro_strings_cooling_mode_txt">Kai kurios funkcijos išjungtos, kad įrenginio temperatūra nepadidėtų</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Priskirti kitą funkciją AEL mygtukui</string>
+    <string name="photopro_strings_custom_ael_txt">AEL mygtuko tinkinimas</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Bakstelėdami DISP mygtuką galite rodyti / slėpti informaciją vaizdo ieškiklyje.
+Jei nenorite, kad ji būtų rodoma, kai pasirenkate rodyti informaciją DISP mygtuku, atžymėkite bet kurį elementą šiame meniu."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histograma</string>
+    <string name="photopro_strings_custom_disp_level_txt">Lygiavimas</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Antraštės informacija</string>
+    <string name="photopro_strings_custom_disp_txt">DISP mygtuko tinkinimas</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Funkcijų meniu galite iš naujo priskirti ar iš naujo surikiuoti nustatymo elementus.
+Bakstelėkite vieną iš toliau esančių funkcijų elementų, jei norite priskirti kitą norimą funkciją iš kairėje esančio sąrašo.
+Norėdami iš naujo surikiuoti, nuvilkite bet kuriuos funkcijų elementus."</string>
+    <string name="photopro_strings_custom_fn_txt">Funkcijų meniu tinkinimas</string>
+    <string name="photopro_strings_custom_none_txt">Nepriskirta</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Anksčiau atmetėte privatumo politiką.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Užrakinti automatinį išlaikymą</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Nustatyti ISO į „Auto“</string>
+    <string name="photopro_strings_description_custom_none_txt">Pasyvinti AEL mygtuką</string>
+    <string name="photopro_strings_device_id_txt">Prietaiso ID</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Nepakanka telefono akumuliatoriaus energijos. Kai energijos per mažai, kamera užsidarys automatiškai.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Įrašymas sustabdytas dėl išeikvoto akumuliatoriaus. Įkraukite įrenginį ir pabandykite dar kartą.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Nepavyksta naudoti kameros dėl išeikvoto akumuliatoriaus. Įkraukite įrenginį ir pabandykite dar kartą.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Norint atlikti šį veiksmą programai reikia toliau nurodyto (-ų) leidimo (-ų).</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Tinklas
+Prisijungti prie „Wi-Fi“"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Įjungtas skrydžio režimas.
+Išjunkite skrydžio režimą pasirinkę NUSTATYMAI."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Tinklo pavadinimas: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"„Wi-Fi“ išjungtas, įjungtas skrydžio režimas.
+Pakeiskite šiuos nustatymus spustelėję NUSTATYMAI."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"„Wi-Fi“ išjungtas.
+Įjunkite „Wi-Fi“ pasirinkę NUSTATYMAI."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Nustatymai</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Leisti</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Nepriimti</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Pastaba</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Kalibruoti</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Atkurti</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Nepakanka vidinės atminties. Nepertraukiamas fotografavimas sustabdytas. Ištrinkite kai kuriuos failus, kad atlaisvintumėte vietos saugykloje.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Suteikti leidimus</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Jungiamasi...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Slaptažodžio apsauga: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Sauga: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Negalima prisijungti prie „Wi-Fi“</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Jei sutinkate su šiomis sąlygomis, „Sony“ rinks jūsų &lt;b>&lt;a href=#personal-data>asmens duomenis&lt;/a>&lt;/b>, kad teiktų tinkintą palaikymą bei tobulintų įrenginius ir paslaugas. „Sony“ jūsų duomenis tvarkys vadovaudamasi &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>privatumo politika&lt;/a>&lt;/b>.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Galite įrašyti didelio kontrasto vaizdo įrašus, išryškinti juos ir priartinti prie to, kas matoma realiame gyvenime. Naudokite palaikomus įrenginius / paslaugas, kad galėtumėte mėgautis turiniu, jo originaliomis spalvomis ir ryškumu.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Daugiau neberodyti</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">HDR nuotraukų serija: daug</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">HDR nuotraukų serija: mažai</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Nuotraukų serija: didelis kiekis</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Nuotraukų serija: mažas kiekis</string>
+    <string name="photopro_strings_drive_continuous_txt">Nuotraukų serija</string>
+    <string name="photopro_strings_drive_mode_txt">Važiavimo režimas</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Automatinis fotografavimas: 10 s</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Automatinis fotografavimas: 3 s</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Laikmatis: išjungt.</string>
+    <string name="photopro_strings_drive_single_txt">Viena nuotrauka</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">Automatinis HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Pasirinkus šį nustatymą, optimizuojamas reikšmių intervalas. DRO apdorojimui naudojamas vienas vaizdas, o pasirinkus automatinį HDR sujungiami keli išlaikymo atvejai, kad būtų pasiektas rezultatas.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Dinam. diapazono opt. priemonė</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO / automatinis HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">Fotoaparato paleisti negalima. Iš naujo paleiskite fotoaparatą arba įrenginį.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Klaida</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Nuotraukų išsaugoti nepavyko. Problema gali būti susijusi su duomenų atmintine. Jei SD kortelė nustatyta kaip duomenų atmintinė, patikrinkite SD kortelę.</string>
+    <string name="photopro_strings_error_fatal_txt">Nežinoma klaida.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Ne</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Taip</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Kamera laikinai išsijungs, kad atvėstų. Jūsų įrašai bus išsaugoti. Iš naujo paleiskite programą, kai įrenginys atvės.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Atmintis pilna. Ištrinkite kai kuriuos failus iš SD kortelės arba vidinės atminties.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Atmintis negalima</string>
+    <string name="photopro_strings_error_memory_title_txt">Atminties klaida</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD kortelė nepasiekiama</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Išlaikymo kompensavimas</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Galite fotografuoti portretines nuotraukas, sufokusuotas į žmonių arba gyvūnų veidą ar akis.
+Norėdami pakeisti fokusavimo taikinius, palieskite subjekto, kurį norite fokusuoti, veidą."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Galite filmuoti vaizdo įrašus, sufokusuotus į žmonių arba gyvūnų veidą ar akis.
+Norėdami pakeisti fokusavimo taikinius, palieskite subjekto, kurį norite fokusuoti, veidą.
+Pastaba. Kai šis nustatymas įjungtas, įrašo trukmė gali sutrumpėti dėl padidėjusios įrenginio temperatūros."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Įjungtas veido aptikimas / akių AF</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">Veido / akių automatinis fokusavimas</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">Veido / akių auto. fokus.: Išjungtas</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">Veido / akių auto. fokus.: Įjungtas</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Norėdami naudoti šią funkciją, atrakinkite ekraną</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Norėdami atidaryti nustatymus, atrakinkite ekraną.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Ekranas užrakintas</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Norėdami reguliuoti „Bokeh“ efektą, vaizdo ieškiklyje bakstelėkite „Bokeh“ piktogramą ir judinkite šliaužiklį.
+Ši funkcija palaikoma pagrindiniu (fotografavimo) režimu.
+Išpopuliarinkite savo subjektus su įspūdingu kontrastu suliedami foną."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Fotografuokite su „Bokeh“ efektu</string>
+    <string name="photopro_strings_feature_bokeh_txt">„Bokeh“ efektas</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Važiavimo režimą galima pakeisti, norint naudoti vieną nuotrauką, nuotraukų seriją arba automatinį fotografavimą.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Važiavimo režimas</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Kai fotografuojate priekiniu fotoaparatu, žiūrėkite į priekinio fotoaparato objektyvą, esantį šalia garsiakalbio.
+Jūsų žvilgsnis nuotraukoje bus nukreiptas tiesiai."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Žvilgsnio kryptis</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Galite fotografuoti portretines nuotraukas, sufokusuotas į žmonių arba gyvūnų veidą ar akis.
+Norėdami pakeisti fokusavimo taikinius, palieskite subjekto, kurį norite fokusuoti, veidą. Šią funkciją įjungti arba išjungti galima pasirinkus „MENIU > Veido / akių automatinis fokusavimas“."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">Veido / akių automatinis fokusavimas</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Pasukite delną į fotoaparatą. Atpažinus jūsų delną paleidžiamas atgalinis automatinio fotografavimo skaičiavimas. Kad jį būtų lengviau aptikti, ištieskite pirštus į viršų.
+Norėdami įjungti šią funkciją, perjunkite į priekinį fotoaparatą veikiant pagrindiniu (fotografavimo) režimu ir MENIU įjunkite rankinį užraktą."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Rankinis užraktas</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Naudodami itin platų objektyvą (0.7x), galite pasirinkti prioritetą. Pasirinkę prioritetu nustatyti vaizdo kokybę, galite fiksuoti dinamiškus aukštos kokybės vaizdus. Pasirinkę prioritetu nustatyti iškraipymų korekciją, sumažinkite vaizdo iškraipymą.
+Ši funkcija yra aktyvi, kai fotografuojama naudojant itin platų objektyvą. Perjungę į itin platų objektyvą, prioritetą galite konfigūruoti pasirinkę „MENIU“ > „Itin plataus objektyvo korekcija“."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Objektyvo korekcija (nuotrauka)</string>
+    <string name="photopro_strings_feature_list_title_txt">Funkcijų pristatymas</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Lengvai fotografuokite meniškas asmenukes naudodami „Bokeh“ ir kitus nuostabius efektus.
+Norėdami naudoti šią funkciją, vaizdo ieškikyje bakstelėkite „Daugiau“ ir pasirinkite „Portretas asmenukė“.
+Pagražinkite savo asmenukę ir mėgaukitės kūrybiškais rezultatais."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Portretas asmenukė</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Galite greitai pasiekti saityną arba prisijungti prie „Wi-Fi“ nuskaitę „QR Code“.
+Ši funkcija yra aktyvi pagrindiniu (fotografavimo) režimu. Šią funkciją įjungti arba išjungti galima pasirinkus „MENIU > „QR Code“ skaitytuvas“."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code skaitytuvas</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code skaitytuvas</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Pažymėkite nuotraukose ir vaizdo įrašuose jų užfiksavimo vietą. Šį nustatymą galėsite pakeisti vėliau pasirinkę „MENIU > Išsaugoti vietą“.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Išsaugoti vietą?</string>
+    <string name="photopro_strings_feature_selfie_txt">Priekinė kamera</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Vaizdo įrašą galite įrašyti sulėtintai 120 fps greičiu HD formatu</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Sulėtintai</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Galite lengvai perjungti kameros objektyvus, kad pasinaudotumėte visomis progomis padidinti savo kūrybingumą.
+Palieskite mygtuką vaizdo ieškiklyje, kad perjungtumėte objektyvus: 0.7x (itin platus), 1.0x (platus), 2.9x (teleobjektyvas) ir 4.4x (teleobjektyvas).
+Šią funkciją galite naudoti tiek pagrindiniu (fotografavimo), tiek pagrindiniu (filmavimo) režimu."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Kampo perjungimas mygtuku</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Galite lengvai perjungti kameros objektyvus, kad pasinaudotumėte visomis progomis padidinti savo kūrybingumą.
+Palieskite mygtuką vaizdo ieškiklyje, kad perjungtumėte objektyvus: 0.7x (itin platus), 1.0x (platus) ir 2.1x (standartinis).
+Šią funkciją galite naudoti tiek pagrindiniu (fotografavimo), tiek pagrindiniu (filmavimo) režimu."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Trijų fotoaparatų</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Bakstelėjus objektyvo mygtuką, rodomas šliaužiklis, kurį galėsite naudoti artinimo ir tolinimo lygiui reguliuoti.
+Taip pat galite suimti ekraną pirštais arba naudoti garsumo mygtukus, kad priartintumėte ir nutolintumėte."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Kaip artinti ir tolinti</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Trinti</string>
+    <string name="photopro_strings_file_format_description_txt">"Pasirinkite failo formatą nejudantiems vaizdams.
+
+RAW: norint apdoroti nuotraukas, reikalinga speciali programinė įranga. Tai leidžia atlikti vaizdo pakeitimus apribojant vaizdo kokybės pablogėjimą. Spausdintina apdorojus.
+RAW &amp; JPEG: įrašo tiek RAW vaizdus, kuriuos reikia apdoroti, tiek JPEG vaizdus.
+JPEG: įrašo JPEG vaizdus.
+
+Pastabos:
+RAW formato failai visada bus įrašomi į vidinę saugyklą 4:3 vaizdo aspektu.
+Nepertraukiamas fotografavimas ir „Auto HDR“ nepasiekiami, kai pasirinktas RAW arba RAW &amp; JPEG."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW ir JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Failo formatas</string>
+    <string name="photopro_strings_flash_auto_txt">Automatiškai</string>
+    <string name="photopro_strings_flash_description_txt">Nustatykite blykstės režimą į automatinę blykstę, visada veikiančią blykstę ir t. t.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Įjungti blykstę</string>
+    <string name="photopro_strings_flash_off_txt">Išjungt.</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Raudonų akių efekto sumaž.</string>
+    <string name="photopro_strings_flash_torch_description_txt">Įjunkite žibintuvėlį</string>
+    <string name="photopro_strings_flash_torch_off_txt">Žibintuvėlis: išjungt.</string>
+    <string name="photopro_strings_flash_torch_on_txt">Žibintuvėlis: įjungtas</string>
+    <string name="photopro_strings_flash_torch_txt">Žibintas</string>
+    <string name="photopro_strings_flash_txt">Blykstės režimas</string>
+    <string name="photopro_strings_focus_area_center_txt">Centrinė sritis</string>
+    <string name="photopro_strings_focus_area_txt">Fokusavimo sritis</string>
+    <string name="photopro_strings_focus_area_wide_txt">Plati sritis</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Nustatykite fokusavimo srities rėmelio spalvą</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Raudona</string>
+    <string name="photopro_strings_focus_frame_color_txt">Fokusavimo srities spalva</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Balta</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">Nuotraukų serijos AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">Vienos nuotraukos AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">Pasirinkite fokusavimo metodą</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Veido aptikimas</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Rankinis fokusavimas</string>
+    <string name="photopro_strings_focus_mode_txt">Fokusavimo režimas</string>
+    <string name="photopro_strings_geotagging_description_txt">Įrašykite nuotraukas ir vaizdo įrašus su jų užfiksavimo vieta</string>
+    <string name="photopro_strings_geotagging_txt">Išsaugoti vietą</string>
+    <string name="photopro_strings_gridline_description_txt">Nustatykite, ar rodyti tinklelio linijas, kurios padeda komponuoti vaizdus</string>
+    <string name="photopro_strings_gridline_txt">Tinklelio linijos</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Galite paleisti atgalinį automatinio fotografavimo skaičiavimą pasukdami delną link priekinės kameros. Kad jį būtų lengviau aptikti, ištieskite pirštus į viršų.</string>
+    <string name="photopro_strings_hand_shutter_txt">Rankinis užraktas</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Nustatykite, ar norite, kad veiktų lytėjimo reakcija sąveikaujant su ekranu, pvz., režimų skalė</string>
+    <string name="photopro_strings_haptic_feedback_txt">Lytėjimo reakcija</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: išjungt.</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: įjungtas</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Išmanusis vėjo filtras</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO jautrumas</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Galite paleisti „Photography Pro“ paspausdami ir palaikydami įrenginio užrakto mygtuką. Tai galima padaryti net jei įjungtas miego režimas arba telefonas užrakintas.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Paleisti Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Paleisti užrakto mygtuku</string>
+    <string name="photopro_strings_lens_correction_description_txt">Naudodami itin platų objektyvą, galite pasirinkti prioritetą. Pasirinkę prioritetu nustatyti vaizdo kokybę, fiksuokite dinamiškus aukštos kokybės vaizdus. Pasirinkę prioritetu nustatyti iškraipymų korekciją, sumažinkite vaizdo iškraipymą.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Prioritetu nustatyti vaizdo kokybę</string>
+    <string name="photopro_strings_lens_correction_on_txt">Prioritetu nust. iškraipymų korekciją</string>
+    <string name="photopro_strings_lens_correction_txt">Itin plataus objektyvo korekcija</string>
+    <string name="photopro_strings_lens_txt">Objek.</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Kalibruoti</string>
+    <string name="photopro_strings_level_calibration_description_txt">Jei būtina, galite sukalibruoti lygiavimą, kad pašalintumėte pokrypio krypties netikslumus. Įsitikinkite, kad kamera yra horizontali, tada pasirinkite Kalibruoti.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Kalibravimas baigtas</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Kalibravimo nuostata nustatyta iš naujo</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Lygiavimo kalibravimas</string>
+    <string name="photopro_strings_lock_switch_txt">Užrak.</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Pasiekus didžiausią leistiną failo dydį įrašymas sustabdytas</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Pasiekus didžiausios įrašymo trukmės ribą įrašymas sustabdytas</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Negalima išsaugoti. Atmintis pilna.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Taikyti</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Išsaugoti</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Nustatyti</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Įrašyti esamą režimų ir nustatymų derinį?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Kameros nustatymai įrašyti.
+Galite lengvai iškviesti šiuos nustatymus naudodami MR fotografavimo režimą."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Kameros nustatymų atmintis</string>
+    <string name="photopro_strings_memory_recall_txt">Kameros nust. iškv.</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Nuotrauka (priekinė)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Nuotrauka</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Sulėtintai</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Vaizdo įrašas (priekinis)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Vaizdo įrašas</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Išlaikymas / spalva</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Fokusavimas</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Sąranka</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Fotografavimas</string>
+    <string name="photopro_strings_menu_title_txt">Meniu</string>
+    <string name="photopro_strings_metering_center_txt">Centrinis</string>
+    <string name="photopro_strings_metering_multi_txt">Įvairus</string>
+    <string name="photopro_strings_metering_spot_txt">Taškinis</string>
+    <string name="photopro_strings_metering_txt">Matavimo režimas</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Pasirinkite, kurį mikrofoną naudoti įrašant vaizdo įrašą:
+1. LR mikrofonas: įrašinėja stereofoninį garsą kairiuoju ir dešiniuoju mikrofonu (viršuje ir apačioje esant vertikaliajai padėčiai)
+2. Galinis mikrofonas: įrašinėja monofoninį garsą galiniu mikrofonu"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Išorinis mikrofonas</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">LR mikrofonas (stereofoninis)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Galinis mikrofonas (monofoninis)</string>
+    <string name="photopro_strings_mic_setting_txt">Mikrofonas</string>
+    <string name="photopro_strings_mode_auto_description_txt">Fotoaparatas automatiškai aptiks peizažo tipą ir fotografuos pagal automatinius nustatymus, kai mažinamas triukšmas ir fotoaparato sujudinimas.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Automatinis režimas</string>
+    <string name="photopro_strings_mode_basic_description_txt">"Šiuo režimu galite fotografuoti naudodami užrakto mygtuką ekrane – panašiai, kaip ir įprastiniu intelektualiojo telefono fotoaparatu.
+Šį režimą naudokite asmenukėms fotografuoti, vaizdams filmuoti bei QR kodams nuskaityti."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Pagrindinis režimas</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Bus rodomas visų fotografavimo režimų paaiškinimas režimų skale keičiant režimus</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Režimų skalės vadovas</string>
+    <string name="photopro_strings_mode_m_description_txt">"Neautomatiškai valdykite fotografavimo greitį ir ISO jautrumą.
+Išlaikant ilgiau galima fotografuoti taip, kad būtų fiksuojami judančių objektų keliai naudojant neryškų vaizdą."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Rankinis išlaikymas</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Išmanusis automatinis reguliavimas (nustatymų iškvietimas iš atminties)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Fotografuokite naudodami išsaugotus nustatymus.
+Galite registruoti dažnai naudojamas režimų ir nustatymų kombinacijas."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Nustatymų iškvietimas iš atminties</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Rankinis išlaikymas (nustatymų iškvietimas iš atminties)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Automatinė programa (nustatymų iškvietimas iš atminties)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Užrakto greičio prioritetas (nustatymų iškvietimas iš atminties)</string>
+    <string name="photopro_strings_mode_p_description_txt">Fotoaparatas automatiškai kontroliuos užrakto greitį, o kitus nustatymus galėsite valdyti patys.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Automatinis nustatymas</string>
+    <string name="photopro_strings_mode_s_description_txt">"Norėdami pakeisti, kaip fotografuoti judančius objektus, užrakto greitį valdykite patys.
+Sparčiu fotografavimo greičiu parodoma, kaip užfiksuoti judantį objektą, o lėtu fotografavimo greičiu galima geriau fotografuoti neryškų vaizdą."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Pirmenybė fotografavimo greičiui</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Važiavimo režimas automatiškai nustatytas naudoti vieną nuotrauką, nes įjungtas „Transfer &amp; Tagging add-on“ režimas</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Failo formatas automatiškai nustatytas į JPEG, nes įjungtas „Transfer &amp; Tagging add-on“ režimas</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Negalima naudoti kameros keliuose languose arba kontekstinių pranešimų lange. Uždarykite langą ir bandykite dar kartą. Jei naudojate kelis langus, galite vilkti skiriamosios linijos vidurį ir naudoti visą kameros ekraną.</string>
+    <string name="photopro_strings_multi_window_txt">Vilkite skiriamosios linijos vidurį norėdami pereiti į visą ekraną ir naudoti %1$s</string>
+    <string name="photopro_strings_ok_txt">Gerai</string>
+    <string name="photopro_strings_personal_data_txt">Asmeniniai duomenys</string>
+    <string name="photopro_strings_privacy_policy_txt">Privatumo politika</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Fotografuojama. Prašome palaukti.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Šis QR Code nepalaikomas</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Atidarykite \"%1$s\" savo naršyklėje</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Negalima prisijungti prie šio „Wi-Fi“ tinklo</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Bakst., kad prisij. prie „Wi-Fi“ tinklo „%1$s“</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code skaitytuvas</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Galite greitai pasiekti žiniatinklį arba prisijungti prie „Wi-Fi“ nuskaitę „QR Code“.
+Ši funkcija yra aktyvi pagrindiniu (fotografavimo) režimu."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code skaitytuvas</string>
+    <string name="photopro_strings_rec_txt">ĮRAŠOMA</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Atkurti numatytuosius „Photo Pro“ nustatymus?</string>
+    <string name="photopro_strings_reset_settings_txt">Nustatyti nustatymus iš naujo</string>
+    <string name="photopro_strings_reset_txt">Atkurti</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Negalima pakeisti vaizdo proporcijų, kai nustatytas RAW failo formatas</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Negalima pasirinkti automatinio HDR, kai pasirinkta nuotraukų serija</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Negalima pasirinkti automatinio HDR, kai pasirinktas kitas nei JPEG failo formatas</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">„Bokeh“ efektas negalimas su dabartiniu pasirinktu objektyvu</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">„Bokeh“ efektas negalimas, kai įjungtas „Transfer &amp; Tagging add-on“ režimas</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Su šiuo metu pasirinktu objektyvu negalima naudoti funkcijos „Nuotraukų serija: didelis kiekis“</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Negalima naudoti nuotraukų serijos, kai įjungtas „Bokeh“ efektas</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Kai pasirinktas DI labai didelės raiškos artinimas ir tolinimas, nuotraukų serija negalima</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Negalima naudoti Nuotraukų serijos, kai pasirinktas kitas nei JPEG failo formatas</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Nuotraukų serija negalima, kai įjungtas „Transfer &amp; Tagging add-on“ režimas</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Negalima keisti</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Neįmanoma naudoti Blykstės režimo, kai pasirenkamas Nepertraukiamas fotografavimas</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Su šiuo metu pasirinktu objektyvu negalima naudoti blykstės režimo</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Su šiuo metu pasirinktu objektyvu negalima naudoti žibinto</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Negalima keisti failo formato į kitą nei JPEG, kai pasirinktas automatinis HDR</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Negalima keisti failo formato į kitą nei JPEG, kai pasirinkta Nuotraukų serija</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Negalima keisti failo formato į kitą nei JPEG, kai pasirinktas „Transfer &amp; Tagging add-on“ režimas</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Negalima pakeisti šio nustatymo, kol prijungtas išorinis mikrofonas</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Ši nuostata nepalaiko šiuo metu nustatyto užrakto greičio. Norėdami sukonfigūruoti šį nustatymą, pakeiskite užrakto greitį iki 1 sek. ar mažiau.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Negalima pasirinkti RAW, kai pasirinktas kitas nei 4:3 kraštinių santykis</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Negalima keisti vaizdo dydžio įrašant sulėtintai. Norėdami keisti šį nustatymą, išeikite iš sulėtinto vaizdo režimo.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Šis nustatymas galimas tik naudojant itin platų objektyvą</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Šis nustatymas, įjungus HDR, neveikia. Norėdami jį konfigūruoti, išjunkite HDR.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Šio nustatymo negalima keisti pasirinkus dabartinį vaizdo įrašo dydį. Norėdami konfigūruoti šį nustatymą, pakeiskite vaizdo įrašo dydį.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Negalima keisti mastelio, kol naudojamas „Bokeh“ efektas</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">PROGR. INFORM.</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">„%1$s“ leidimas</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Norint atlikti šį veiksmą programai reikia toliau nurodyto (-ų) leidimo (-ų).</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Norėdami suteikti leidimų eikite į „Programų informacija“ > „Leidimai“.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Nepavyko tęsti</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Nuotraukoms daryti</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Nuotraukoms ir vaizdo įrašams daryti</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Vietovės informacijai gauti</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Garsui įrašyti</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Prisijungti prie netoliese esančios įrangos</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Vaizdo įrašams nuskaityti ir įrašyti</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Nuotraukoms išsaugoti</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Nuotraukoms ir vaizdo įrašams išsaugoti</string>
+    <string name="photopro_strings_save_destination_description_txt">Pasirinkite, ar saugoti nuotraukas ir vaizdo įrašus įrenginio vidinėje atmintyje ar SD kortelėje</string>
+    <string name="photopro_strings_save_destination_internal_txt">Vidinė atmintis</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD kortelė</string>
+    <string name="photopro_strings_save_destination_title_txt">Duomenų atmintis</string>
+    <string name="photopro_strings_save_destination_txt">Duomenų saugykla</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD kortelė nepasiekiama</string>
+    <string name="photopro_strings_selftimer_10_txt">10 sek.</string>
+    <string name="photopro_strings_selftimer_3_txt">3 sek.</string>
+    <string name="photopro_strings_selftimer_description_txt">Nustatykite, kad automatinio fotografavimo funkcija automatiškai padarytų nuotrauką, praėjus nustatytui sekundžių skaičiui</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Žiūrėkite į kamerą</string>
+    <string name="photopro_strings_selftimer_txt">Laikmatis</string>
+    <string name="photopro_strings_settings_off_txt">Išjungt.</string>
+    <string name="photopro_strings_settings_on_txt">Įjungt.</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Visuomet naudokite pagrindinį režimą</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Paleisdami „Photography Pro“ pasirinkite numatytąjį fotografavimo režimą</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Paskutinis naudotas režimas</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Fotografavimo režimas paleisties metu</string>
+    <string name="photopro_strings_shooting_mode_txt">Fotografavimo režimas</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Vaizdo kamera</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Fotografavimo greitis</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Kai įjungtas HDR, negalima kurti momentinių kopijų</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Įjunkite efektą, dėl kurio oda atrodo glotnesnė</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Švelnios odos efektas</string>
+    <string name="photopro_strings_status_mic_external_txt">Išorinis</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">LR (stereofoninis)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Galinis (monofoninis)</string>
+    <string name="photopro_strings_store_fail_txt">Nepavyko išsaugoti</string>
+    <string name="photopro_strings_sw_license_txt">Programinės įrangos licencija</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Priimti</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Atsisakyti</string>
+    <string name="photopro_strings_tips_txt">Patarimai</string>
+    <string name="photopro_strings_title_permissions_txt">„Photo Pro“ leidimas</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Atšaukti fokusavimą palietus</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Automatinis fokusavimas</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Pasirinkite, ką norite koreguoti palietę vaizdo ieškiklį.
+
+Objekto sekimas: geriausia funkcija norint fiksuoti judančius objektus. Ji užfiksuoja fokusavimą ties objektu, kurį bakstelėjote vaizdo ieškiklyje, kad galėtumėte aiškiau fiksuoti judančius objektus.
+Automatinis fokusavimas: Bakstelėkite toje vaizdo ieškiklio vietoje, kurią norite fokusuoti.
+Fokusavimas ir ryškumas: Sufokusuokite norimą vietą ir sureguliuokite jos ryškumą bakstelėdami vaizdo ieškiklį."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Fokusavimas ir ryškumas</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Objekto stebėjimas</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Paliesti norint pritaikyti</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Atšaukti objekto sekimą</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Įjungus šią funkciją, „Transfer &amp; Tagging add-on“ galės rodyti „Xperia“ fotoaparatu užfiksuotas nuotraukas. Nuotraukos bus išsaugotos vidinėje saugykloje.
+Ši funkcija suderinama su nuotraukomis, padarytomis naudojant „Photography Pro“.
+Įjungus šią funkciją failo formatas automatiškai nustatomas į JPEG, o važiavimo režimas – naudoti vieną nuotrauką."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">„Transfer &amp; Tagging add-on“ režimas</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Supratau</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Pirmyn</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Praleisti</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"„Sony“ yra fotografų pamėgtas prekių ženklas, gaminantis produktus, kuriais skleidžiamas begalinis fotografavimo džiaugsmas ir stebuklas.
+Mūsų patirtį ir technologijas ir toliau renkasi klientai visame pasaulyje.
+
+Naudojant „Photography Pro“ siekiama atkurti įvairiausių „Sony Imaging Products“ kamerų veikimą ir funkcijas.
+„Sony“ remia jūsų fotografinį kūrybiškumą."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">„Photography Pro“</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Pasirinkite idealų fotografavimo režimą, tinkantį jūsų objektui.
+Tuomet nustatykite fotografavimo greitį ir išlaikymą.
+Tvirtai laikykite kamerą už kraštų ir fotografuokite.
+
+Galimi fotografavimo režimai:
+P (automatinis nustatymas)
+S (pirmenybė fotografavimo greičiui)
+M (rankinis išlaikymas)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Pasirinkite pageidaujamą fotografavimo režimą naudodami viršuje dešinėje esančią režimų skalę (viršuje kairėje – horizontaliojoje padėtyje).
+
+Naudodami pagrindinį režimą, galite lengvai fotografuoti ir filmuoti priekine kamera – panašiai, kaip ir įprastu (-a) intelektualiojo telefono fotoaparatu (vaizdo kamera).
+
+Naudodami „Auto/P/S/M“ režimus, galite pasiekti dar daugiau išplėstinių nustatymų, kad galėtumėte dar tobuliau fotografuoti."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Fotografavimo režimas</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Kaip naudoti</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Naudodami „Auto/P/S/M“ režimus, tvirtai laikykite fotoaparatą horizontaliojoje padėtyje ir viršutinėje dešinėje įrenginio pusėje paspauskite užrakto mygtuką, kad galėtumėte fotografuoti.
+
+Pasirinkus „Auto“, automatiškai nustatomos tokios funkcijos, kaip užrakto greitis ir išlaikymas.
+
+Norėdami neautomatiškai konfigūruoti nustatymus, pasirinkite vieną iš toliau nurodytų režimų.
+P (automatinis nustatymas)
+S (pirmenybė fotografavimo greičiui)
+M (rankinis išlaikymas)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Kaip naudoti „Auto/P/S/M“ režimus</string>
+    <string name="photopro_strings_tutorial_txt">Mokymo programa</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Negalima naudoti „Photo Pro“ su prijungtu išoriniu ekranu. Norėdami naudoti „Photo Pro“, uždarykite programą iš „Xperia“ naujausių programų ekrano ir tada paleiskite ją iš naujo.</string>
+    <string name="photopro_strings_unlock_button_txt">Atrakinti</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Kameros naudojimas apribotas dėl saugumo</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Norėdami užtikrinti stabilų 4K vaizdo įrašymą, neturėtumėte keisti šio nustatymo, nebent naudojate didelės spartos SD kortelę (rekomenduojama 1 ar aukštesnė UHS spartos klasė arba 10 spartos klasė).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Norėdami užtikrinti stabilų sulėtintą filmavimą, nekeiskite šio nustatymo, nebent naudojate didelės spartos SD kortelę (rekomenduojama 1 ar aukštesnė UHS spartos klasė arba 10 spartos klasė).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Jei norite užtikrinti stabilų vaizdo įrašymą, rekomenduojame pakeisti duomenų saugyklą į vidinę atmintį. Ar norėtumėte pakeisti dabar?
+
+Jei norite kaip duomenų saugyklą ir toliau naudoti SD kortelę, naudokite didelės spartos SD kortelę (rekomenduojama 1 ar aukštesnė UHS spartos klasė arba 10 spartos klasė)"</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Galite pasirinkti 4K vaizdo įrašų koduotuvą.
+
+H.264 (AVC): Standartinį kodavimo formatą palaiko dauguma įrenginių ir paslaugų.
+H.265 (HEVC): Didesnio suglaudinimo lygio formatas. Įsitikinkite, kad jūsų atkūrimo įrenginiai arba paslaugos palaiko šį metodą."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Failo formatas (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Pasirinkite vaizdo dydį.
+HDR negalimas pasirinkus „Full HD“ (60 fps) arba HD."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Pasirinkite vaizdo įrašo dydį</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 kadr./s)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">„Full HD“</string>
+    <string name="photopro_strings_video_size_txt">Vaizdo įrašo dydis</string>
+    <string name="photopro_strings_video_stabilization_description_txt">„Xperia“ turi unikalią hibridinę stabilizavimo sistemą pavadinimu „Optical SteadyShot“ – tai vienu veikiantis optinis vaizdo stabilizavimas ir elektroninis vaizdo stabilizavimas. Ji užtikrina, kad vaizdo įrašai būtų be supurtymo efektų ir sklandūs, netgi kai įrašoma judant.</string>
+    <string name="photopro_strings_video_stabilization_txt">Vaizdo stabilizavimas</string>
+    <string name="photopro_strings_volumekey_description_txt">Priskirkite kitą funkciją garsumo mygtukams</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Užrakto</string>
+    <string name="photopro_strings_volumekey_txt">Naudoti gars. mygt. kaip</string>
+    <string name="photopro_strings_volumekey_volume_txt">Garsumo</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Artinimo ir tolinimo</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Reguliuoti – %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Automatiškai</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Taisyti</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Atlikta</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Bandyti vėl</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Taikyti</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Debesuota</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Pritaikytas 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Pritaikytas 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Pritaikytas 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Baltos spalvos balansą pritaikykite pagal peržiūros centrą</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Pritaikyti nepavyko</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Pritaikyta</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Taikyti – %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Dienos šviesa</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Fluorescentinė šv.</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Kait. lemp. šviesa</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Šešėliai</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Temp. 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Temp. 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Temp. 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Temp.:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Temperatūra</string>
+    <string name="photopro_strings_whitebalance_txt">Derin. pagal baltą</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Negalima keisti mastelio naudojant priekinę kamerą</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">DI labai didelės raiškos art. ir tol.</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Pasirinkite artinimo ir tolinimo nustatymą.
+
+Skaitmeninis artinimas ir tolinimas: artinkite ir tolinkite naudodami skaitmeninį apdorojimą pagal vaizdo jutiklio duomenis.
+DI labai didelės raiškos artinimas ir tolinimas: artinkite ir tolinkite naudodami skaitmeninį apdorojimą, išlaikantį didesnę originalaus vaizdo kokybę. Nuotraukų įrašymas gali trukti ilgiau. Pasirinkus nuotraukų seriją, funkcija automatiškai veiks kaip skaitmeninis artinimas ir tolinimas."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Skaitmeninis artinimas ir tolinimas</string>
+    <string name="photopro_strings_zoom_type_txt">Artinimo ir tolinimo nustatymai</string>
+    <string name="search_menu_title">Ieškoti</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">IŠJUNGTA</string>
+    <string name="v7_preference_on">ĮJUNGTA</string>
+</resources>

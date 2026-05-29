@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/content_parent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sonymobile.photopro.view.widget.SwapAxisFrameLayout android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/content_frame" android:background="?android:windowBackground" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </com.sonymobile.photopro.view.widget.SwapAxisFrameLayout>
+</LinearLayout>

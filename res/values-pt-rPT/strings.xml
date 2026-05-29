@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navegar para casa</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+    <string name="abc_activitychooserview_choose_application">Escolher uma aplicação</string>
+    <string name="abc_capital_off">DESATIVADO</string>
+    <string name="abc_capital_on">ATIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">eliminar</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Função +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">espaço</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">Pesquisar…</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_shareactionprovider_share_with">Partilhar com</string>
+    <string name="abc_shareactionprovider_share_with_application">Partilhar com a aplicação %s</string>
+    <string name="abc_toolbar_collapse_description">Reduzir</string>
+    <string name="ble_remote_control_button_any_problem_txt">Resolução de problemas</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Emp. novo cont.</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Pode atribuir outra função ao botão C1 no controlo remoto Bluetooth</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">Personalização do botão C1</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Modo de foco</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Lente</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Modo de fotografia</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Alternar câmara principal/frontal</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Alternar fotografia/vídeo</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Lente</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Alternar AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Alternar câmara principal/frontal</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Permitir</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Recusar</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Permitir que a aplicação utilize o Bluetooth para esta funcionalidade?</string>
+    <string name="ble_remote_control_description_txt">"Pode emparelhar um controlo remoto Sony por Bluetooth para utilizar remotamente as funções do %1$s.
+Toque em Emp. novo cont. para iniciar o emparelhamento de um novo dispositivo."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Já emparelhado</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Se não foi possível emparelhar o controlo remoto com o dispositivo, aceda a Definições e verifique se o controlo remoto já está registado na lista de dispositivos Bluetooth. Se o controlo remoto já estiver registado, remova-o da lista e tente emparelhá-lo novamente.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Resolução de problemas</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Concordar e ativar</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Recusar</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Sair</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Aced. a Definições</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">OK</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Emparelhamento cancelado porque o Bluetooth foi desativado</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Falha no emparelhamento devido ao limite de tempo. Tente de novo mais tarde.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Este dispositivo poderá limitar, por precaução, determinadas funções em condições de utilização intensiva. Ao ativar o Modo resistência da câmara, será exibido um ícone para indicar que a aplicação manterá um desempenho elevado. Quando este ícone é exibido, é possível utilizar a aplicação por um período de tempo mais longo.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">O Modo resistência da câmara só está disponível quando se utiliza a %1$s com um controlo remoto ligado por Bluetooth. Ao fechar a %1$s esta função será desativada.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">A temperatura do dispositivo poderá aumentar acima da temperatura de funcionamento normal. Quando a temperatura aumenta, é gerado um alerta através de uma notificação e um ícone. Neste caso, não segurar continuamente o dispositivo na mão. Certifique-se de que o controlo remoto está ligado por Bluetooth antes de continuar.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Atenção</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Temperatura do dispositivo muito alta. A %1$s será temporariamente encerrada a fim de arrefecer.
+Ao ligar um controlo remoto Bluetooth, é possível continuar a utilizar a %1$s com o Modo resistência da câmara."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Temperatura do dispositivo muito alta. A %1$s será temporariamente encerrada a fim de arrefecer.
+Ao ligar um controlo remoto Bluetooth, é possível utilizar a %1$s com o Modo resistência da câmara."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Para utilizar esta função, ativar [Utilizar controlo remoto] após emparelhar um controlo remoto por Bluetooth.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Temperatura do dispositivo muito alta. A %1$s será temporariamente encerrada a fim de arrefecer.
+Ao ativar o Modo resistência da câmara, é possível utilizar a %1$s com um controlo remoto Bluetooth."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Para ativar esta função, interagir com o controlo remoto ligado.
+Para cancelar, tocar em SAIR."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Modo resistência da câmara ativado</string>
+    <string name="ble_remote_control_endurance_mode_txt">Modo resistência da câmara</string>
+    <string name="ble_remote_control_off_txt">Desativar</string>
+    <string name="ble_remote_control_on_txt">Ativar</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Para iniciar o emparelhamento, interaja com o controlo remoto.
+Receberá notificações e diálogos duas vezes. Selecione EMPARELHAR em todos e prima qualquer uma das teclas do dispositivo emparelhado para concluir o emparelhamento."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Emp. novo cont.</string>
+    <string name="ble_remote_control_title_txt">Cont. rem. Bluetooth</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Utilizar controlo remoto</string>
+    <string name="expand_button_title">Avançadas</string>
+    <string name="external_display_connected_description_txt">Pode ver o visor da câmara a partir do Monitor de Vlog</string>
+    <string name="external_display_connected_title_txt">Monitor de Vlog ligado</string>
+    <string name="external_display_note_about_external_mic_txt">Nota: para utilizar um microfone externo, ligue-o ao Monitor de Vlog antes da gravação. Se o ligar depois, tem de voltar a ligar o Monitor de Vlog.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Aceitou anteriormente a política de privacidade, mas pode mudar de ideias em qualquer altura.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Seta para a esquerda</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Seta para a direita</string>
+    <string name="photopro_strings_accessibility_back_txt">Anterior</string>
+    <string name="photopro_strings_accessibility_close_txt">Fechar</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Acessibilidade: &lt;a href=\"%s\">Conformidade parcial&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Ler mais</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Botão de lente</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Não configurável</string>
+    <string name="photopro_strings_accessibility_previous_txt">Anterior</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Uma pilha de fotografias recentes</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Iniciar gravação de vídeo</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Colocar gravação de vídeo em pausa</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Retomar gravação de vídeo</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Tirar instantâneo ao gravar vídeo</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Parar gravação de vídeo</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Parar contagem decrescente</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Obturador</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Alternar entre as câmaras principal e frontal</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Alternar entre fotografia e vídeo</string>
+    <string name="photopro_strings_accessibility_title_txt">Acessibilidade</string>
+    <string name="photopro_strings_addon_button_menu_txt">Mais</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Efeito criativo</string>
+    <string name="photopro_strings_addon_panorama_txt">Panorama</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Selfie retrato</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Câmara lenta</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Para guardar locais, tem de ativar o GPS e/ou redes sem fios. Ativar agora?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Guardar local</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Análise anónima</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Fotografia frontal</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Vídeo frontal</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Vídeo</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Selecione o formato das fotografias</string>
+    <string name="photopro_strings_aspect_ratio_txt">Formato</string>
+    <string name="photopro_strings_audio_on_all_txt">Ativado: Tudo</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Ativado: Apenas obturador</string>
+    <string name="photopro_strings_audio_signals_description_txt">Define os sons da câmara a reproduzir, como quando o temporizador auto está em contagem decrescente ou ao focar. Também pode optar por reproduzir apenas o som do obturador.</string>
+    <string name="photopro_strings_audio_signals_txt">Sinais de áudio</string>
+    <string name="photopro_strings_auto_power_off_txt">O Photo Pro irá fechar em breve devido a inatividade</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Retrato com luz de fundo</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Luz de fundo</string>
+    <string name="photopro_strings_auto_scene_document_txt">Documento</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Gourmet</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Bebé</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Paisagem</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Baixa luminosidade</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Macro</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Retrato noturno</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Cena nocturna</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Reconhecimento automático de cena</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Foto suave</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Projetor</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Veja se a lente está limpa e que o seu dedo não tapa a lente</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Muito brilho</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Afaste-se ainda mais do objeto</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Mais luz necessária</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Aproxime-se do objeto</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">O Bokeh não está disponível</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Bokeh ativado</string>
+    <string name="photopro_strings_bokeh_txt">Bokeh</string>
+    <string name="photopro_strings_bt_remote_control_txt">Cont. rem. Bluetooth</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Fotografias da Fotografia contínua guardadas no armaz. interno</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Impossível usar Fotografia contínua com veloc. de obturador baixa</string>
+    <string name="photopro_strings_button_continue_txt">Continuar</string>
+    <string name="photopro_strings_button_quit_txt">SAIR</string>
+    <string name="photopro_strings_cancel_txt">Cancelar</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Câmara lenta</string>
+    <string name="photopro_strings_change_save_destination_title_txt">Vídeo 4K</string>
+    <string name="photopro_strings_change_txt">Alterar</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Reinic.</string>
+    <string name="photopro_strings_color_and_brightness_txt">Cor e brilho</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Armazenamento interno cheio. Guardar dados no cartão SD, em alternativa?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">O armazenamento interno está danificado ou protegido contra escrita. Guardar dados no cartão SD, em alternativa?</string>
+    <string name="photopro_strings_common_error_open_txt">Impos. abrir o %1$s</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">Cartão SD cheio. Guardar dados no armazenamento interno, em alternativa?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">Não é possível utilizar o cartão SD. Guardar dados no armazenamento interno, em alternativa?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Feedback de fotografia contínua</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">As funções seguintes estão atualmente desativadas.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Aguarde que o dispositivo arrefeça e, em seguida, reinicie a câmara.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">As seguintes funções estão desativadas</string>
+    <string name="photopro_strings_cooling_mode_txt">Algumas funcionalidades estão desativadas para impedir o aumento da temperatura do dispositivo</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Atribua outra função ao botão AEL</string>
+    <string name="photopro_strings_custom_ael_txt">Personalização do botão AEL</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Ao tocar no botão DISP, pode mostrar/ocultar informações no visor da câmara.
+Desmarque qualquer um dos itens neste menu que não pretenda que seja mostrado quando visualiza informações com o botão DISP."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histograma</string>
+    <string name="photopro_strings_custom_disp_level_txt">Nível</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Informações do cabeçalho</string>
+    <string name="photopro_strings_custom_disp_txt">Personalização do Botão DISP</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Pode reatribuir ou reordenar os itens das definições no Menu Função.
+Toque num dos itens de função abaixo para atribuir outra função da sua escolha a partir da lista no lado esquerdo.
+Arraste e largue qualquer um dos itens de funções abaixo para reordená-los."</string>
+    <string name="photopro_strings_custom_fn_txt">Personalização do Menu Função</string>
+    <string name="photopro_strings_custom_none_txt">Não atribuída</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Recusou anteriormente a política de privacidade.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Bloquear exposição automática</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Definir ISO como Automático</string>
+    <string name="photopro_strings_description_custom_none_txt">Desativar o botão AEL</string>
+    <string name="photopro_strings_device_id_txt">ID do dispositivo</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Telemóvel sem bateria suficiente. Quando a bateria estiver fraca, a câmara fechar-se-á automaticamente.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">A gravação foi interrompida devido a bateria fraca. Carregue o dispositivo e tente novamente.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Não é possível utilizar a câmara devido a bateria fraca. Carregue o dispositivo e tente novamente.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Para realizar esta ação, a aplicação necessita das permissões seguintes.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Rede
+Para ligar ao Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"O Modo de voo está ligado.
+Desligue o Modo de voo nas DEFINIÇÕES."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Nome da rede: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"O Wi-Fi está desligado e o Modo de voo está ligado.
+Altere estas definições ao tocar em DEFINIÇÕES."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"O Wi-Fi está desligado.
+Ligue o Wi-Fi nas DEFINIÇÕES."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Definições</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Permitir</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Recusar</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Nota</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Calibrar</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Repor</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Sem armazenamento interno suficiente. A Fotografia contínua foi interrompida. Elimine alguns ficheiros para libertar espaço de armazenamento.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Conceder permissões</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">A ligar...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Proteção por palavra-passe: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Segurança: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Não é possível ligar ao Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Se concordar abaixo, a Sony irá recolher os seus &lt;b>&lt;a href=#personal-data>dados pessoais&lt;/a>&lt;/b> para fornecer suporte personalizado e melhorar os dispositivos e serviços. A Sony irá tratar os seus dados em conformidade com a nossa &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>Política de Privacidade&lt;/a>&lt;/b>.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Pode gravar vídeos mesmo num cenário de alto contraste e torná-los mais dramáticos e próximos daquilo que vê na vida real. Utilize dispositivos/serviços suportados para desfrutar do conteúdo na cor e brilho originais.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Não voltar a mostrar</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">Foto contínua HDR: Alta</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">Foto contínua HDR: Baixa</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Fotografia contínua: Alta</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Fotografia contínua: Baixa</string>
+    <string name="photopro_strings_drive_continuous_txt">Fotografia contínua</string>
+    <string name="photopro_strings_drive_mode_txt">Modo de avanço</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Temporizador auto: 10 seg.</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Temporizador auto: 3 seg.</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Temporizador automático: Desligado</string>
+    <string name="photopro_strings_drive_single_txt">Fotografia única</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">HDR auto</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Esta definição irá otimizar o intervalo de valores. O processamento DRO utiliza uma única imagem, enquanto o HDR auto combina várias exposições para atingir o resultado.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Otimizador de alcance D</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/HDR auto</string>
+    <string name="photopro_strings_error_device_not_available_txt">Não é possível iniciar a câmara. Reinicie a câmara ou o dispositivo.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Erro</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Não foi possível guardar fotografias. Poderá existir um problema com o armazenamento de dados. Se o Armazenamento de dados estiver definido para Cartão SD, verifique este último.</string>
+    <string name="photopro_strings_error_fatal_txt">Erro desconhecido.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Não</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Sim</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">A câmara irá desligar-se temporariamente para arrefecer. As gravações serão guardadas. Reinicie a aplicação assim que o dispositivo arrefecer.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Memória cheia. Elimine alguns ficheiros do cartão SD ou do armazenamento interno.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Memória não disponível</string>
+    <string name="photopro_strings_error_memory_title_txt">Erro de memória</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">Cartão SD não disponível</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Compensação da exposição</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Pode tirar fotografias de retrato que foquem o rosto ou os olhos das pessoas e animais.
+Para alterar os alvos da focagem, toque no rosto do objeto que gostaria de focar."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Pode gravar vídeos que foquem o rosto ou os olhos das pessoas e dos animais.
+Para alterar os alvos da focagem, toque no rosto do objeto que gostaria de focar.
+Nota: Quando esta definição está ativada, a duração da gravação pode ser reduzida devido a aumentos na temperatura do dispositivo."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Deteção de cara/AF Olhos ligado</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">AF de rosto/olhos</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">AF de rosto/olhos: Desativar</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">AF de rosto/olhos: Ativar</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Desbloquear ecrã para utilizar esta função</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Para abrir as definições, desbloqueie o ecrã.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Ecrã bloqueado</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Para ajustar o efeito Bokeh, toque no ícone Bokeh no visor da câmara e desloque o controlo de deslize.
+Esta função é suportada no modo Básico (Fotografia).
+Dê destaque aos objetos ao desfocar o fundo para criar um contraste impressionante."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Tirar fotografias com o efeito Bokeh</string>
+    <string name="photopro_strings_feature_bokeh_txt">Efeito Bokeh</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">O modo de avanço pode ser alterado para utilizar Fotografia única ou contínua, ou o temporizador auto.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Modo de avanço</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Quando tirar fotografias com a câmara frontal, mantenha os olhos na lente da câmara frontal, próximo do auscultador.
+Os olhos olham na direção certa numa fotografia."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Direção do olho</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Pode tirar fotografias de retrato que foquem o rosto ou os olhos das pessoas e animais.
+Para alterar os alvos da focagem, toque no rosto do objeto que gostaria de focar. Esta função pode ser ativada ou desativada em MENU > AF de rosto/olhos."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">AF de rosto/olhos</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Rode a palma da mão na direção da câmara. O temporizador auto inicia a contagem decrescente quando a palma da mão for reconhecida. Para facilitar a deteção, estique os dedos para cima.
+Para ativar esta função, alterne para a câmara frontal no modo Básico (fotografia) e ative Obturador manual em MENU."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Obturador manual</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Quando utilizar a lente ultragrande (0.7x), pode selecionar uma prioridade. Ao selecionar Priorizar qualidade da imagem, pode captar imagens dinâmicas de alta qualidade. Se selecionar Priorizar correção da distorção, pode reduzir a distorção visual.
+Esta função está ativada quando tira fotografias com a lente ultragrande. Depois de alternar para a lente ultragrande, pode configurar a prioridade em MENU > Correção de lente ultragrande."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Correção da lente (fotografia)</string>
+    <string name="photopro_strings_feature_list_title_txt">Conhecer as funcionalidades</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Capture facilmente uma selfie artística com efeitos Bokeh e de embelezamento.
+Para utilizar esta função, toque em Mais no visor da câmara e selecione Selfie retrato.
+Estilize a sua selfie e desfrute de resultados criativos."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Selfie retrato</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Pode aceder rapidamente à Web ou ligar-se ao Wi-Fi através da digitalização de um QR Code.
+Esta função está ativada enquanto estiver no modo Básico (Fotografia). Esta função pode ser ativada ou desativada em MENU > Leitor de QR Code."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">Leitor de QR Code</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">Leitor de QR Code</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Etiquete os seus vídeos e fotografias com os locais onde foram realizados. Pode alterar esta definição mais tarde em MENU > Guardar local.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Guardar local?</string>
+    <string name="photopro_strings_feature_selfie_txt">Câmara dianteira</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Pode gravar um vídeo em câmara lenta a 120 fps em HD</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Câmara lenta</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Pode alternar facilmente entre as lentes da câmara para capturar todas as situações que desafiem a sua criatividade.
+Toque no botão no visor da câmara para alternar entre as lentes 0.7x (ultragrande), 1.0x (ampliada), 2.9x (teleobjetiva) e 4.4x (teleobjetiva).
+Pode utilizar esta função no modo Básico (Fotografia) e no modo Básico (Vídeo)."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Alternar ângulo com o botão</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Pode alternar facilmente entre as lentes da câmara para capturar todas as situações que desafiem a sua criatividade.
+Toque no botão no visor da câmara para alternar entre as lentes 0.7x (ultragrande), 1.0x (ampliada), e 2.1x (padrão).
+Pode utilizar esta função no modo Básico (Fotografia) e no modo Básico (Vídeo)."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Câmara tripla</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Se tocar no botão da lente, aparece um controlo de deslize que pode utilizar para ajustar o nível de zoom.
+Também pode aplicar zoom com os botões de volume ou ao aproximar ou afastar os dedos no ecrã."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Como ampliar/reduzir</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Eliminar</string>
+    <string name="photopro_strings_file_format_description_txt">"Selecione o formato de ficheiro para imagens fixas.
+
+RAW: requer software especial para pós-processamento de fotografias. Isto permite-lhe fazer ajustes enquanto limita a deterioração de imagem. Pode imprimir depois do pós-processamento.
+RAW e JPEG: guarda as imagens RAW que requeiram pós-processamento e imagens JPEG.
+JPEG: guarda imagens JPEG.
+
+Notas:
+Os ficheiros RAW serão sempre guardados no armazenamento interno com uma proporção de 4:3.
+A Fotografia contínua e a HDR auto não estão disponíveis quando RAW ou RAW e JPEG estiver selecionado."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW e JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Formato de ficheiro</string>
+    <string name="photopro_strings_flash_auto_txt">Automático</string>
+    <string name="photopro_strings_flash_description_txt">Defina o modo de lanterna como Flash auto, Forçar flash, etc.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Forçar flash</string>
+    <string name="photopro_strings_flash_off_txt">Desativar</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Redução olhos verm.</string>
+    <string name="photopro_strings_flash_torch_description_txt">Ative a lanterna</string>
+    <string name="photopro_strings_flash_torch_off_txt">Lanterna: Desligada</string>
+    <string name="photopro_strings_flash_torch_on_txt">Lanterna: Ligada</string>
+    <string name="photopro_strings_flash_torch_txt">Lanterna</string>
+    <string name="photopro_strings_flash_txt">Modo flash</string>
+    <string name="photopro_strings_focus_area_center_txt">Centro</string>
+    <string name="photopro_strings_focus_area_txt">Área de focagem</string>
+    <string name="photopro_strings_focus_area_wide_txt">Ampla</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Defina a cor da moldura da área de focagem</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Vermelho</string>
+    <string name="photopro_strings_focus_frame_color_txt">Cor da área de focagem</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Branca</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">AF contínua</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">Disparo único AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">Selecione um modo de focagem</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Deteção de cara</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Focagem manual</string>
+    <string name="photopro_strings_focus_mode_txt">Modo de foco</string>
+    <string name="photopro_strings_geotagging_description_txt">Guarde os vídeos e as fotografias com os locais onde foram realizados</string>
+    <string name="photopro_strings_geotagging_txt">Guardar local</string>
+    <string name="photopro_strings_gridline_description_txt">Defina se pretende ou não apresentar as linhas de grelha durante a composição das imagens</string>
+    <string name="photopro_strings_gridline_txt">Linhas de grelha</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Pode iniciar a contagem decrescente do temporizador auto ao virar a palma da mão para a câmara frontal. Para facilitar a deteção, estique os dedos para cima.</string>
+    <string name="photopro_strings_hand_shutter_txt">Obturador manual</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Defina se pretende obter comentários táteis ao interagir com o ecrã; por exemplo, o seletor de modo</string>
+    <string name="photopro_strings_haptic_feedback_txt">Comentários táteis</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Desligado</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: Ligado</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Filtro intelig. de ruído do vento</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">Sensibilidade ISO</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Para iniciar a aplicação Photography Pro, prima sem soltar o botão do obturador do dispositivo. Esta ação funciona mesmo se o telemóvel estiver bloqueado ou no modo de suspensão.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Iniciar Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Iniciar c/ bot obtur</string>
+    <string name="photopro_strings_lens_correction_description_txt">Quando utilizar a lente ultragrande, pode selecionar uma prioridade. Ao selec. Priorizar qualidade da imagem, pode captar imagens dinâmicas de alta qualidade. Se selecionar Priorizar correção da distorção, pode reduzir a distorção visual.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Priorizar qualidade da imagem</string>
+    <string name="photopro_strings_lens_correction_on_txt">Priorizar correção da distorção</string>
+    <string name="photopro_strings_lens_correction_txt">Correção de lente ultragrande</string>
+    <string name="photopro_strings_lens_txt">Lente</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Calibrar</string>
+    <string name="photopro_strings_level_calibration_description_txt">Se necessário, pode calibrar o Nível para corrigir desvios na direção de inclinação. Certifique-se de que a câmara se encontra na horizontal e, em seguida, selecione Calibrar.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Calibração concluída</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">A definição de calibração foi reposta</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Calibração do nível</string>
+    <string name="photopro_strings_lock_switch_txt">Bloq.</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">A gravação parou devido ao limite máximo do tamanho de ficheiro</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">A gravação foi interrompida devido ao limite máximo do tempo de gravação</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Não foi possível guardar. Memória cheia.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Aplic.</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Guardar</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Definir</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Guardar combinação atual de modos e definições?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Definições da câmara guardadas.
+Pode rechamar facilmente estas definições através do modo de fotografia MR."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Memória de definições da câmara</string>
+    <string name="photopro_strings_memory_recall_txt">Rechamar def. câmara</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Fotografia (frontal)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Fotografia</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Câmara lenta</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Vídeo (frontal)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Vídeo</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Exposição/Cor</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Foco</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Configuração</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Fotografia</string>
+    <string name="photopro_strings_menu_title_txt">Menu</string>
+    <string name="photopro_strings_metering_center_txt">Centro</string>
+    <string name="photopro_strings_metering_multi_txt">Multi</string>
+    <string name="photopro_strings_metering_spot_txt">Ponto</string>
+    <string name="photopro_strings_metering_txt">Modo do medidor</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Selecione o microfone a utilizar na gravação de vídeo:
+1. Microfone ED: grava som estéreo com os microfones esquerdo e direito (superior e inferior na orientação de retrato)
+2. Microfone posterior: grava som mono com o microfone posterior"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Microfone externo</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">Microfone ED (estéreo)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Microfone posterior (mono)</string>
+    <string name="photopro_strings_mic_setting_txt">Microfone</string>
+    <string name="photopro_strings_mode_auto_description_txt">A câmara irá detetar automaticamente o tipo de cena e tirar fotografias com as definições automáticas, reduzindo o ruído e estabilizando a câmara.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Modo automático</string>
+    <string name="photopro_strings_mode_basic_description_txt">"Neste modo, pode tirar fotografias com o botão do obturador no ecrã, como na experiência de câmara habitual do smartphone.
+Utilize este modo para tirar selfies, gravar vídeos e ler QR Codes."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Modo básico</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Será apresentada uma explicação de cada Modo de fotografia quando mudar de modo com o seletor de modo</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Guia do seletor de modo</string>
+    <string name="photopro_strings_mode_m_description_txt">"Controle manualmente a velocidade do obturador e a sensibilidade ISO.
+Uma exposição mais prolongada permite tirar fotografias que capturam a sequência de movimentos dos objetos ao utilizar a desfocagem de movimento."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Exposição manual</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Auto inteligente (Rechamar memória)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Tire fotografias com as definições guardadas.
+Pode registar combinações de modos e definições utilizadas frequentemente."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Rechamar memória</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Exposição manual (Rechamar memória)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Programa auto (Rechamar memória)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Prioridade de velocidade do obturador (Rechamar memória)</string>
+    <string name="photopro_strings_mode_p_description_txt">A câmara irá controlar automaticamente a velocidade do obturador e as restantes definições podem ser controladas por si.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Auto programação</string>
+    <string name="photopro_strings_mode_s_description_txt">"Controle manualmente a velocidade do obturador para alterar como captura objetos em movimento.
+As velocidades de obturador rápidas parecem que suspendem o movimento de um objeto, enquanto as velocidades de obturador lentas capturam melhor a desfocagem do movimento."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Prioridade da velocidade do obturador</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">O Modo de avanço foi definido automaticamente como Fotografia única porque o modo Transfer &amp; Tagging add-on está ativado</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">O formato de ficheiro foi definido automaticamente como JPEG porque o modo Transfer &amp; Tagging add-on está ativado</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Não é possível utilizar a câmara no modo Multijanelas ou numa janela de pop-up. Feche a janela e tente novamente. Se estiver no modo Multijanelas, pode arrastar o meio da barra de divisão para colocar a câmara em ecrã inteiro.</string>
+    <string name="photopro_strings_multi_window_txt">Arraste o meio da barra de divisão para mudar para o ecrã inteiro %1$s a utilizar</string>
+    <string name="photopro_strings_ok_txt">OK</string>
+    <string name="photopro_strings_personal_data_txt">Dados pessoais</string>
+    <string name="photopro_strings_privacy_policy_txt">Política de privacidade</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">A tirar fotografia. Aguarde.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Este QR Code não é suportado</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Toque para abrir \"%1$s\" no browser</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Não é possível ligar a esta rede Wi-Fi</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Toque para ligar à rede Wi-Fi \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">Leitor de QR Code</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Pode aceder rapidamente à Web ou ligar-se ao Wi-Fi através da digitalização de um QR Code.
+Esta função está ativada enquanto estiver no modo Básico (Fotografia)."</string>
+    <string name="photopro_strings_qrcode_detection_txt">Leitor de QR Code</string>
+    <string name="photopro_strings_rec_txt">REC</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Repor predefinições do Photo Pro?</string>
+    <string name="photopro_strings_reset_settings_txt">Repor definições</string>
+    <string name="photopro_strings_reset_txt">Reiniciar</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Não é possível alterar a proporção quando o formato de ficheiro estiver definido como RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Não é possível selecionar HDR auto quando Fotografia contínua estiver selecionada</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Não é possível selecionar HDR auto quando está selecionado um formato de ficheiro diferente de JPEG</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">O efeito Bokeh não está disponível com a lente atualmente selecionada</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">O efeito Bokeh não está disponível quando o modo Transfer &amp; Tagging add-on está ativado.</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Não é possível utilizar a Fotografia contínua: Alta com a lente atualmente selecionada</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Não é possível utilizar Fotografia contínua quando o efeito Bokeh está ativado</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">A função Fotografia contínua não está disponível quando o Zoom de super-resolução de IA está selecionado</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Não é possível utilizar a opção Fotografia contínua quando está selecionado um formato de ficheiro diferente de JPEG</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">A fotografia contínua não está disponível quando o modo Transfer &amp; Tagging add-on está ativado</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Não é possível alterar</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Não é possível utilizar o Modo flash com a opção Fotografia contínua selecionada</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Não é possível utilizar o Modo flash com a lente atualmente selecionada</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Não é possível utilizar a Lanterna com a lente atualmente selecionada</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Não é possível alterar o formato de ficheiro para um diferente de JPEG quando HDR auto está selecionado</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Não é possível alterar o formato de ficheiro para um diferente de JPEG quando a opção Fotografia contínua está selecionada</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Não é possível alterar o formato de ficheiro para um diferente de JPEG quando o modo Transfer &amp; Tagging add-on está ativado</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Não é possível alterar esta definição enquanto existir um microfone externo ligado</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Esta definição não suporta a velocidade atual do obturador. Para configurar esta definição, altere a velocidade do obturador para 1 segundo ou menos.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Não é possível selecionar RAW quando está selecionado um formato diferente de 4:3</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Não é possível alterar o tamanho do vídeo no modo de gravação de câmara lenta. Para alterar esta definição, saia do modo de câmara lenta.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Esta definição só está disponível quando utiliza a lente ultragrande</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Esta definição não está disponível com o HDR ligado. Para configurar a mesma, desligue o HDR.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Esta definição não é suportada pelo tamanho de vídeo atual. Para configurar esta definição, altere o tamanho do vídeo.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Não é possível fazer zoom durante o efeito Bokeh</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">INFO. DA APLIC.</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">Permissão do %1$s</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Para realizar esta ação, a aplicação necessita das permissões seguintes.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Para conceder permissões, aceda a Info. da aplicação > Permissões.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Não foi possível continuar</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Para tirar fotografias</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Para tirar fotografias e gravar vídeos</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">To recuperar a localização</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Para gravar som</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Para ligação a dispositivos nas proximidades</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Para ler e guardar fotografias e vídeos</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Para guardar fotografias</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Para guardar fotografias e vídeos</string>
+    <string name="photopro_strings_save_destination_description_txt">Escolha se pretende armazenar as fotografias e os vídeos no armazenamento interno do dispositivo ou num cartão SD</string>
+    <string name="photopro_strings_save_destination_internal_txt">Armazenamento interno</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">Cartão SD</string>
+    <string name="photopro_strings_save_destination_title_txt">Armaz. de dados</string>
+    <string name="photopro_strings_save_destination_txt">Armazenamento de dados</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">Cartão SD não disponível</string>
+    <string name="photopro_strings_selftimer_10_txt">10 seg.</string>
+    <string name="photopro_strings_selftimer_3_txt">3 seg.</string>
+    <string name="photopro_strings_selftimer_description_txt">Defina um temporizador auto para captar automaticamente uma fotografia assim que o período em segundos designado terminar</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Fixe o olhar na câmara</string>
+    <string name="photopro_strings_selftimer_txt">Temporizador auto</string>
+    <string name="photopro_strings_settings_off_txt">Desativar</string>
+    <string name="photopro_strings_settings_on_txt">Ativar</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Utilizar sempre o modo Básico</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Selecione o Modo de fotografia predefinido quando iniciar Photography Pro</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Último modo utilizado</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Modo de fotografia ao iniciar</string>
+    <string name="photopro_strings_shooting_mode_txt">Modo de fotografia</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Câmara de vídeo</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Velocidade do obturador</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Não é possível capturar instantâneos quando o HDR está ativado</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Ative um efeito que torne a pele mais lisa</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Efeito Pele Suave</string>
+    <string name="photopro_strings_status_mic_external_txt">Externo</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">ED (estéreo)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Posterior (mono)</string>
+    <string name="photopro_strings_store_fail_txt">Não foi possível guardar</string>
+    <string name="photopro_strings_sw_license_txt">Licença de software</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Aceitar</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Recusar</string>
+    <string name="photopro_strings_tips_txt">Sugestões</string>
+    <string name="photopro_strings_title_permissions_txt">Permissão para Photo Pro</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Cancelar Focagem por toque</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Focagem auto</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Selecione o que pretende ajustar ao tocar no visor da câmara.
+
+Monitorização de objeto: A melhor função para gravar objetos em movimento. Mantém o foco no objeto em que tocou no visor da câmara para que possa fotografar ou gravar objetos em movimento com toda a nitidez.
+Focagem auto: No visor da câmara, toque onde pretende aplicar o foco.
+Foco e brilho: Aplique o foco e ajuste o brilho da posição pretendida ao tocar no visor da câmara."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Foco e brilho</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Monitorização de objeto</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Tocar para ajustar</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Cancelar monitorização de objeto</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Ao ativar esta função, irá permitir que a aplicação Transfer &amp; Tagging add-on apresente as fotografias tiradas com a câmara Xperia. As fotografias serão guardadas no armazenamento interno.
+Esta função é compatível com fotografias tiradas com Photography Pro.
+Ao ativar esta função, define automaticamente o formato de ficheiro como JPEG e o Modo de avanço como Fotografia única."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Modo Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Entendido</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Seguinte</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Ignorar</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"A Sony é uma marca adorada por fotógrafos para criar produções que espalham a alegria infinita e o encanto da fotografia.
+A nossa experiência e tecnologia continuam a ser as preferidas de clientes do mundo inteiro.
+
+O Photography Pro visa recrear a operabilidade e as funções das câmaras de grande escala da Sony Imaging Products.
+A Sony apoia a sua criatividade fotográfica."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Selecione o modo Fotografia ideal, de acordo com o motivo.
+Em seguida, defina a velocidade do obturador e a exposição.
+Segure firmemente na câmara pela parte lateral e tire uma fotografia.
+
+Os Modos de fotografia incluem:
+P (Auto programação)
+S (Prioridade de velocidade do obturador)
+M (Exposição manual)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Selecione o seu modo de fotografia preferido ao utilizar o seletor de modo na parte superior direita (parte superior esquerda na orientação de paisagem).
+
+O modo Básico permite captar facilmente vídeos e fotografias com a câmara frontal, como na câmara habitual de um smartphone.
+
+Os modos Auto/P/S/M permitem aceder a definições ainda mais avançadas para tirar fotografias fantásticas."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Modo de fotografia</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Modo de utilização</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Nos modos Auto/P/S/M, segure firmemente a câmara na orientação de paisagem e prima o botão do obturador no lado superior direito do dispositivo para tirar fotografias.
+
+Ao selecionar Auto, define automaticamente funções como a velocidade do obturador e a exposição.
+
+Para configurar manualmente as definições, selecione um dos modos abaixo.
+P (Auto programação)
+S (Prioridade da velocidade do obturador)
+M (Exposição manual)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Como utilizar os modos Auto/P/S/M</string>
+    <string name="photopro_strings_tutorial_txt">Tutorial</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Não é possível utilizar o Photo Pro com o ecrã externo ligado. Para utilizar o Photo Pro, feche a aplicação a partir do ecrã das Aplicações recentes no seu Xperia e, em seguida, reinicie-a.</string>
+    <string name="photopro_strings_unlock_button_txt">Desbloquear</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Utilização da câmara restringida por motivos de segurança</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Para obter uma gravação de vídeo 4K estável, não deve alterar esta definição a menos que utilize um cartão SD de alta velocidade (Recomenda-se Velocidade UHS Classe 1 ou superior ou Velocidade Classe 10).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Para obter uma gravação de vídeo estável em câmara lenta, não deve alterar esta definição a menos que utilize um cartão SD de alta velocidade (Recomenda-se Velocidade UHS Classe 1 ou superior ou Velocidade Classe 10).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Para obter uma gravação de vídeo estável, recomendamos que altere o armazenamento de dados para Armazenamento interno. Pretende alterar agora?
+
+Se continuar a utilizar o cartão SD para o armazenamento de dados, certifique-se de que utiliza um cartão SD de alta velocidade (Recomenda-se Velocidade UHS Classe 1 ou superior ou Velocidade Classe 10)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Pode selecionar um codificador para gravações de vídeo 4K.
+
+H.264 (AVC): Formato padrão da codificação suportado pela maioria dos dispositivos e serviços.
+H.265 (HEVC): Formato com uma taxa de compressão mais alta. Certifique-se de que os dispositivos de reprodução ou serviços suportam este método."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Formato ficheiro (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Selecione um tamanho de vídeo.
+O HDR não está disponível quando HD Total (60 fps) ou HD está selecionado."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Selecione um tamanho de vídeo</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 fps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">HD Total</string>
+    <string name="photopro_strings_video_size_txt">Tamanho de vídeo</string>
+    <string name="photopro_strings_video_stabilization_description_txt">O Xperia dispõe de um sistema de estabilização híbrido único chamado Optical SteadyShot que associa simultaneamente a estabilização de imagem ótica à estabilização de imagem eletrónica. Obtém vídeos estáveis mesmo quando faz a gravação em movimento.</string>
+    <string name="photopro_strings_video_stabilization_txt">Estabilização de vídeo</string>
+    <string name="photopro_strings_volumekey_description_txt">Atribua outra função aos botões de volume</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Obturador</string>
+    <string name="photopro_strings_volumekey_txt">Usar botão vol. como</string>
+    <string name="photopro_strings_volumekey_volume_txt">Volume</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Zoom</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Ajustar - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Automático</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Ajust.</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Concl.</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Tentar de novo</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Aplic.</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Nublado</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Personalizado 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Personalizado 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Personalizado 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Aplique o equilíbrio branco com base no centro da pré-visualização</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Falha no ajuste</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Ajuste concluído</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Aplicar - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Luz do dia</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Fluorescente</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Incandescente</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Sombra</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Temp 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Temp 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Temp 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Temp:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Temperatura</string>
+    <string name="photopro_strings_whitebalance_txt">Equil. br.</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Não é possível fazer zoom com a câmara frontal</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">Zoom de super-resolução de IA</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Selecione uma definição de zoom.
+
+Zoom digital: aplique zoom ao utilizar o processamento digital com base nos dados do sensor de imagem.
+Zoom de super-resolução de IA: aplique zoom ao utilizar o processamento digital que preserva mais da qualidade da imagem original. Pode levar mais tempo a guardar as fotografias. Funcionará automaticamente como Zoom digital quando selecionar Fotografia contínua."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Zoom digital</string>
+    <string name="photopro_strings_zoom_type_txt">Definições de zoom</string>
+    <string name="search_menu_title">Pesquisar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">DESATIVADO</string>
+    <string name="v7_preference_on">ATIVADO</string>
+</resources>

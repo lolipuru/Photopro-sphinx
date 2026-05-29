@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Fara heim</string>
+    <string name="abc_action_bar_up_description">Fara upp</string>
+    <string name="abc_action_menu_overflow_description">Fleiri valkostir</string>
+    <string name="abc_action_mode_done">Lokið</string>
+    <string name="abc_activity_chooser_view_see_all">Sjá allt</string>
+    <string name="abc_activitychooserview_choose_application">Veldu forrit</string>
+    <string name="abc_capital_off">SLÖKKT</string>
+    <string name="abc_capital_on">KVEIKT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">eyða</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Aðgerðarlykill+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">bilslá</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valmynd+</string>
+    <string name="abc_search_hint">Leita…</string>
+    <string name="abc_searchview_description_clear">Hreinsa fyrirspurn</string>
+    <string name="abc_searchview_description_query">Leitarfyrirspurn</string>
+    <string name="abc_searchview_description_search">Leit</string>
+    <string name="abc_searchview_description_submit">Senda fyrirspurn</string>
+    <string name="abc_searchview_description_voice">Raddleit</string>
+    <string name="abc_shareactionprovider_share_with">Deila með</string>
+    <string name="abc_shareactionprovider_share_with_application">Deila með %s</string>
+    <string name="abc_toolbar_collapse_description">Minnka</string>
+    <string name="ble_remote_control_button_any_problem_txt">Úrræðaleit</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Para nýja stýringu</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Þú getur valið annan valkost fyrir C1 hnappinn á Bluetooth fjarstýringunni</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">C1 hnappur - stilling</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Fókusstilling</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Linsa</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Tökuháttur</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Skipta á milli aðal/fremri myndavél</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Skipta á milli mynd/kvikmynd</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Linsa</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Skipta /AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Skipta á milli aðal/fremri myndavél</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Leyfa</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Hafna</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Leyfa forritinu að nota Bluetooth fyrir þennan eiginleika?</string>
+    <string name="ble_remote_control_description_txt">"Þú getur parað Sony fjarstýringu í gegnum Bluetooth til að fjarstýra eiginleikum í %1$s.
+Ýttu á para nýja stýringu til að byrja að para nýtt tæki."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Þegar parað</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Ef ekki var hægt að para fjarstýringuna við tækið, farðu í Stillingar og athugaðu hvort fjarstýringin sé þegar skráð á listanum yfir Bluetooth tæki. Ef hún er þegar skráð skaltu taka fjarstýringuna af listanum og reyna að para hana aftur.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Úrræðaleit</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Leyfa og kveikja</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Hafna</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Hætta</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Fara í Stillingar</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">Í lagi</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Hætt við pörun vegna þess að slökkt var á Bluetooth</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Pörun mistókst því tími rann út. Reyndu aftur síðar.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Tækið kann að takmarka vissa valkosti sem varúðarráðstöfun þegar það er í mikilli notkun. Ef kveikt er á úthaldshætti myndavélar birtist tákn til að sýna að forritið muni viðhalda háum afköstum. Þegar þetta tákn birtist er hægt að nota forritið í lengri tíma.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Úthaldsháttur myndavélar er aðeins í boði þegar %1$s er notað með fjarstýringu sem er tengd í gegnum Bluetooth. Ef %1$s er lokað slekkur það á þessari aðgerð.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Hitastig tækisins getur aukist yfir venjulegt hitastig. Þegar hitinn eykst birtist tilkynning og táknmynd sem varar þig við. Ef það gerist gættu þess að halda ekki á tækinu í hendinni. Gættu þess að fjarstýringin sé tengd við Bluetooth áður en haldið er áfram.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Athugið</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Tækið er of heitt. %1$s slekkur á sér tímabundið til að kólna.
+Ef þú tengir Bluetooth fjarstýringu er hægt að halda áfram að nota %1$s með Úthaldshætti myndavélar."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Tækið er of heitt. %1$s slekkur á sér tímabundið til að kólna.
+Ef þú tengir Bluetooth fjarstýringu er hægt að nota %1$s með Úthaldshætti myndavélar."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Kveiktu á [Nota fjarstýringu] eftir að búið er að para fjarstýringu í gegnum Bluetooth til að nota þessa aðgerð.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Tækið er of heitt. %1$s slekkur á sér tímabundið til að kólna.
+Ef þú kveikir á Úthaldshætti myndavélar er hægt að nota %1$s með Bluetooth fjarstýringu."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Notaðu tengdu fjarstýringuna til að virkja þessa aðgerð.
+Ýttu á HÆTTA til að hætta við."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Kveikt á úthaldshætti myndavélar</string>
+    <string name="ble_remote_control_endurance_mode_txt">Úthaldsháttur myndavélar</string>
+    <string name="ble_remote_control_off_txt">Slökkt</string>
+    <string name="ble_remote_control_on_txt">Kveikt</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Ýttu á fjarstýringuna til að byrja að para.
+Þú færð tilkynningar og samtöl tvisvar. Veldu PAIR í öllum og ýttu síðan á einhvern hnapp á paraða tækinu til að ljúka við pörun."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Para nýja stýringu</string>
+    <string name="ble_remote_control_title_txt">Bluetooth fjarstýring</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Nota fjarstýringu</string>
+    <string name="expand_button_title">Ítarlegt</string>
+    <string name="external_display_connected_description_txt">Þú getur skoðað myndgluggann frá Vlog skjánum</string>
+    <string name="external_display_connected_title_txt">Vlog skjár tengdur</string>
+    <string name="external_display_note_about_external_mic_txt">Athugið: Til að nota ytri hljóðnema þarf að tengjast við Vlog skjá fyrir upptöku. Ef hann er tengdur eftir á þarf að endurtengja Vlog skjá.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Þú hefur þegar samþykkt persónuverndarstefnu okkar en þú getur alltaf skipt um skoðun.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Vinstri ör</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Hægri ör</string>
+    <string name="photopro_strings_accessibility_back_txt">Til baka</string>
+    <string name="photopro_strings_accessibility_close_txt">Loka</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Aðgengi: &lt;a href=\"%s\">Í samræmi við að hluta til&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Lesa meira</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Linsuhnappur</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Ekki stillanlegt</string>
+    <string name="photopro_strings_accessibility_previous_txt">Fyrra</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Bunki af nýlegum myndum</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Byrja að taka upp myndskeið</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Gera hlé á upptöku myndskeiðs</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Halda áfram að taka upp myndskeið</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Taktu mynd á meðan þú tekur upp myndskeið</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Hætta að taka upp myndskeið</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Niðurtalningu hætt</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Lokari</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Skipt á milli aðal- og fremri myndavélar</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Skipt á milli myndar og myndefnis</string>
+    <string name="photopro_strings_accessibility_title_txt">Aðgengi</string>
+    <string name="photopro_strings_addon_button_menu_txt">Meira</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Skapandi áhrif</string>
+    <string name="photopro_strings_addon_panorama_txt">Víðmynd</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Sjálfsmynd af andliti</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Hægspilun</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Til að vista staðsetningar þarf að kveikja á GPS og/eða þráðlausu neti. Kveikja núna?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Vista staðsetningu</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Ónafngreind bilanagreining</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Mynd að framan</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Fremra vídeó</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Myndskeið</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Velja myndhlutfall fyrir ljósmyndir</string>
+    <string name="photopro_strings_aspect_ratio_txt">Myndhlutfall</string>
+    <string name="photopro_strings_audio_on_all_txt">Kveikt: Allt</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Kveikt: Aðeins loki</string>
+    <string name="photopro_strings_audio_signals_description_txt">Stilltu hvaða myndavélahljóð eiga að spilast, t.d. þegar niðurteljarinn telur niður, eða við stillingu á brennipunkti. Þú getur líka valið hvort aðeins eigi að spila ljósopshljóðið.</string>
+    <string name="photopro_strings_audio_signals_txt">Hljóðmerki</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro lokast innan skamms vegna aðgerðaleysis</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Andlitsmynd með baklýsingu</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Baklýsing</string>
+    <string name="photopro_strings_auto_scene_document_txt">Skjal</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Matur</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Barn</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Landslag</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Lítil birta</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Nærmynd</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Andlitsmynd að nóttu</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Næturmynd</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Sjálfvirk umhverfiskennsl</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Mjúk smella</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Sviðsljós</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Gættu þess að linsan sé hrein og þú sért ekki með fingur á henni</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Of bjart</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Færðu þig fjær hlutnum</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Það vantar meiri lýsingu</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Færðu þig nær hlutnum</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Bokeh er ekki tiltækt eins og er</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Bokeh kveikt</string>
+    <string name="photopro_strings_bokeh_txt">Bokeh</string>
+    <string name="photopro_strings_bt_remote_control_txt">Bluetooth fjarstýring</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Myndir úr stöðugri töku vistaðar í innri geymslu</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Get ekki notað Stöðug taka þegar loki er á hægum hraða</string>
+    <string name="photopro_strings_button_continue_txt">Halda áfram</string>
+    <string name="photopro_strings_button_quit_txt">HÆTTA</string>
+    <string name="photopro_strings_cancel_txt">Hætta við</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Hægspilun</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K myndskeið</string>
+    <string name="photopro_strings_change_txt">Breyta</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Reset</string>
+    <string name="photopro_strings_color_and_brightness_txt">Litur og birta</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Innra minni er fullt. Á að vista gögnin á SD-kort í staðinn?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">innra minni er skemmt eða ritvarið. Á að vista gögnin á SD-kort í staðinn?</string>
+    <string name="photopro_strings_common_error_open_txt">Gat ekki opnað %1$s</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">SD-kortið er fullt. Á að vista í innra minni í staðinn?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">Get ekki notað SD-kortið. Á að vista gögnin í innra minni í staðinn?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Álit á samfelldu skoti</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Slökkt er á eftirfarandi eiginleikum eins og er.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Bíddu eftir að tækið þitt kólni og endurræstu svo myndavélina.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Slökkt er á eftirfarandi eiginleikum</string>
+    <string name="photopro_strings_cooling_mode_txt">Slökkt er á sumum eiginleikum til að koma í veg fyrir að hitastig tækisins hækki</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Úthluta annarri aðgerð til AEL hnappsins</string>
+    <string name="photopro_strings_custom_ael_txt">Sérstilling AEL hnappa</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Þú getur sýnt/falið upplýsingar í myndavélarglugganum með því að ýta á DISP hnappinn.
+Taktu merkið af þeim atriðum í valmyndinni sem þú vilt aldrei láta sýna þegar þú sýnir upplýsingar með DISP hnappinum."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Súlurit</string>
+    <string name="photopro_strings_custom_disp_level_txt">Hallamál</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Upplýsingar í haus</string>
+    <string name="photopro_strings_custom_disp_txt">Sérstilling DISP hnapps</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Þú getur endurúthlutað eða endurraðað stillingaratriðum í aðgerðavalmyndinni.
+Ýttu á atriði hér fyrir neðan til að úthluta annarri aðgerð að eigin vali frá listanum vinstra megin.
+Dragðu og slepptu aðgerð hér fyrir neðan til að endurraða."</string>
+    <string name="photopro_strings_custom_fn_txt">Sérstilling aðgerðavalmyndar</string>
+    <string name="photopro_strings_custom_none_txt">Ekki úthlutað</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Þú hefur þegar hafnað persónuverndarstefnu okkar.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Læsa sjálfvirkri brennivídd</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Stilla ISO í sjálfvirkt</string>
+    <string name="photopro_strings_description_custom_none_txt">Slökkva á AEL hnappi</string>
+    <string name="photopro_strings_device_id_txt">Auðkenni tækis</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Ekki næg hleðsla á símanum. Þegar hleðsla er lítil lokast myndavélin sjálfkrafa.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Upptakan stöðvaðist vegna lítillar hleðslu. Settu tækið í hleðslu og reyndu aftur.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Get ekki notað myndavél vegna lítillar hleðslu. Settu tækið í hleðslu og reyndu aftur.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Forritið krefst eftirfarandi heimilda(r) til að framkvæma þessa aðgerð.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Netkerfi
+Til að tengjast við Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Flughamur er á.
+Slökktu á flugham í STILLINGAR"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Heiti netkerfis: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Slökkt er á Wi-Fi og flughamur er á.
+Breyttu þessum stillingum með því að pikka á STILLINGAR."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Slökkt er á Wi-Fi.
+Kveiktu á Wi-Fi í STILLINGAR."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Stillingar</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Leyfa</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Hafna</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Ath.</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Kvarða</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Endurræsa</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Ekki nært innra minni. Stöðug taka stöðvuð. Eyddu einhverjum skrám til að losa um geymslupláss.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Veittu samþykki</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Tengi...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Vörn á lykilorði: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Öryggi: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Get ekki tengst við Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Ef þú veitir samþykki hér að neðan safnar Sony &lt;b>&lt;a href=#personal-data>persónulegum gögnum&lt;/a>&lt;/b> til að veita þér sérsniðna aðstoð og bæta tæki og þjónustu. Sony fer með gögnin samkvæmt &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>persónuverndarstefnu&lt;/a>&lt;/b> sinni.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Þú getur tekið upp myndbönd jafnvel í háskerpuatriði og gert þau áhrifameiri og nær því sem þú sérð í raunveruleikanum. Notaðu þér tæki og þjónustu sem er studd til að njóta innihaldsins sem best í upprunalegum lit og birtu.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Ekki sýna aftur</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">HDR stöðug taka: Hátt</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">HDR stöðug taka: Lágt</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Stöðug taka: Hátt</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Stöðug taka: Lágt</string>
+    <string name="photopro_strings_drive_continuous_txt">Samfellt skot</string>
+    <string name="photopro_strings_drive_mode_txt">Drifháttur</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Tímastillir: 10 sek</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Tímastillir: 3 sek</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Tímastillir: Slökkt</string>
+    <string name="photopro_strings_drive_single_txt">Eitt skot</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">Sjálfvirkt HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Þessi stilling fínstillir gildissviðin. DRO-úrvinnsla notar eina mynd en Auto HDR sameinar margar myndir til að fá niðurstöðu.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Bestun fyrir D-svið</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/sjálfvirkt HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">Get ekki gangsett myndavélina. Endurræstu myndavélina eða tækið.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Villa</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Gat ekki vistað myndir. Ef til vill er vandamál með gagnageymslu. Athugaðu SD-kortið ef gagnageymsla er stillt á SD-kort.</string>
+    <string name="photopro_strings_error_fatal_txt">Óþekkt villa.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Nei</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Já</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Slökkt verður á myndavélinni tímabundið til að kæla hana. Upptakan verður vistuð. Endurræstu forritið þegar tækið hefur kólnað.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Minni er fullt. Eyddu nokkrum skrám af SD kortinu eða innri geymslunni.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Minni ekki tiltækt</string>
+    <string name="photopro_strings_error_memory_title_txt">Minnisvilla</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD-kort ekki tiltækt</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Aðlögun á lýsingu</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Þú getur tekið andlitsmyndir sem einblína á andlit eða augu fólks eða dýra.
+Til að breyta markmiði fókussins skaltu pikka á andlit þess sem þú vilt einblína á."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Þú getur tekið myndbönd sem setja augu eða andlit fólks og dýra í brennidepilinn.
+Til að breyta markmiði fókussins skaltu pikka á andlit þess sem þú vilt einblína á.
+Athugaðu: Þegar kveikt er á þessari stillingu gæti upptökutími styst vegna þess að tækið hitnar."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Kveikt á andlitsgreiningu/auga AF</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">Andlits/Auga AF</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">Andlits/Auga AF: Slökkt</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">Andlits/Auga AF: Kveikt</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Opnaðu skjáinn til að nota þessa aðgerð</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Opnaðu skjáinn til að opna fyrir stillingar</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Skjár er læstur</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Til að stilla Bokeh-áhrifin skaltu pikka á Bokeh-táknið í myndglugganum og færa sleðann.
+Þessi aðgerð er studd í grunnhætti (myndhætti).
+Gerðu myndefnið áberandi með tilkomumiklum birtuskilum með því að gera bakgrunninn óskýran."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Taka myndir með bokeh-áhrifum</string>
+    <string name="photopro_strings_feature_bokeh_txt">Bokeh-áhrif</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Notkunarhættinum er hægt að breyta til að nota einfalda eða stöðuga töku, eða tímastilli.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Drifháttur</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Þegar myndir eru teknar með fremri myndavél skaltu horfa í linsuna á myndavélinni að framan, nálægt eyrnahátalaranum.
+Augun þín munu líta í rétta átt á myndinni."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Átt augna</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Þú getur tekið andlitsmyndir sem einblína á andlit eða augu fólks eða dýra.
+Til að breyta markmiði fókussins skaltu pikka á andlit þess sem þú vilt einblína á. Hægt er að kveikja eða slökkva á þessari aðgerð í VALMYND > Andlits/Auga AF."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">Andlits/Auga AF</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Snúðu lófanum að myndavélinni. Niðurteljarinn fer í gang þegar lófinn er greindur. Beindu fingrunum upp til að gera það auðveldara að greina lófann.
+Til að kveikja á þessari aðgerð skaltu skipta í fremri myndavél þegar þú ert í grunnhætti (mynd) og kveikja á handlokanum í VALMYND."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Handsmellir</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Þegar breiðsviðslinsa (0,7x) er notuð geturðu valið forgang. Með því að velja forgang fyrir myndgæði geturðu tekið líflegar myndir í hágæðum. Ef þú velur forgang fyrir leiðréttingu á bjögun geturðu minnkað sýnilega bjögun.
+Þessi aðgerð er virk þegar teknar eru myndir með breiðsviðslinsunni. Þegar skipt hefur verið yfir í breiðsviðslinsuna geturðu stillt forganginn í VALMYND > Leiðrétting á breiðsviðslinsu."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Leiðrétting linsu (myndir)</string>
+    <string name="photopro_strings_feature_list_title_txt">Kynning á einkennum</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Taktu listræna sjálfsmynd á auðveldan hátt með Bokeh- og fegurðaráhrifum.
+Til að nota þessa aðgerð skaltu pikka á \"Meira\" í myndglugganum og velja \"Sjálfsmynd af andliti\".
+Stílfærðu sjálfsmyndina þína og njóttu skapandi niðurstaðna."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Sjálfsmynd af andliti</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Þú getur fengið skjótan aðgang að vefnum eða tengst við Wi-Fi með því að skanna inn QR Code.
+Þessi aðgerð er virk á meðan þú ert í grunnhætti (myndhætti). Hægt er að kveikja eða slökkva á þessari aðgerð í VALMYND > QR Code lesari."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code lesari</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code lesari</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Merktu myndir og myndskeið með staðnum þar sem þær eru teknar. Þú getur breytt þessari stillingu seinna í VALMYND > Vista staðsetningu.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Vista staðsetningu?</string>
+    <string name="photopro_strings_feature_selfie_txt">Fremri myndavél</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Þú getur tekið upp myndband í 120 fps hægspilun í HD</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Hægspilun</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Það er auðvelt að skipta um myndavélalinsur til að taka myndir af alls konar aðstæðum sem reyna á sköpunargáfu þína.
+Sláðu á hnappinn á leitaranum til að skipta á milli 0,7x (breiðsviðs), 1,0x (breið), 2,9x (aðdráttar), og 4,4x (aðdráttar) linsu.
+Þú getur notað þessa aðgerð í grunnhætti fyrir bæði myndir og myndskeið."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Breyttu um horn með hnappinum</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Það er auðvelt að skipta um myndavélalinsur til að taka myndir af alls konar aðstæðum sem reyna á sköpunargáfu þína.
+Sláðu á hnappinn á leitaranum til að skipta á milli 0,7x (breiðsviðs), 1,0x (breið), og 2,1x (aðdráttar) linsu.
+Þú getur notað þessa aðgerð í grunnhætti fyrir bæði myndir og myndskeið."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Þreföld myndavél</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Þegar pikkað er á linsuhnappinn birtist sleði sem þú getur notað til að stilla aðdráttinn.
+Þú getur líka klipið skjáinn eða notað hljóðstyrkshnappana til að stilla aðdráttinn."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Aðdráttur aukinn/minnkaður</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Eyða</string>
+    <string name="photopro_strings_file_format_description_txt">"Veldu skrársniðið fyrir kyrrmyndir.
+
+RAW: Þarfnast hugbúnaðar til að eftirvinna myndir. Þannig er hægt að gera stillingar en um leið takmarka rýrnun myndarinnar. Hægt að prenta eftir eftirvinnslu.
+RAW &amp; JPEG: Vistar bæði RAW myndir sem þurfa eftirvinnslu og JPEG myndir.
+JPEG: Vistar JPEG myndir.
+
+Athugasemd:
+Skrár með RAW-sniði eru alltaf vistaðar í innra geymsluminni með myndhlutfallið 4:3.
+Samfelld skot og sjálfvirkt HDR eru ekki tiltæk þegar RAW eða RAW &amp; JPEG er valið."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW og JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Skráarsnið</string>
+    <string name="photopro_strings_flash_auto_txt">Sjálfvirkt</string>
+    <string name="photopro_strings_flash_description_txt">Stilla flass á sjálfvirkt flass, fylliflass, o.s.frv.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Fylliflass</string>
+    <string name="photopro_strings_flash_off_txt">Slökkt</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Laga rauð augu</string>
+    <string name="photopro_strings_flash_torch_description_txt">Kveikja á flassi</string>
+    <string name="photopro_strings_flash_torch_off_txt">Vasaljós: Slökkt</string>
+    <string name="photopro_strings_flash_torch_on_txt">Vasaljós: Kveikt</string>
+    <string name="photopro_strings_flash_torch_txt">Vasaljós</string>
+    <string name="photopro_strings_flash_txt">Flasshamur</string>
+    <string name="photopro_strings_focus_area_center_txt">Miðja</string>
+    <string name="photopro_strings_focus_area_txt">Fókussvæði</string>
+    <string name="photopro_strings_focus_area_wide_txt">Vítt</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Velja lit á rammanum á brennipunktssvæðinu</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Rauður</string>
+    <string name="photopro_strings_focus_frame_color_txt">Litur fókussvæðis</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Hvítt</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">Samfelldur AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">Einnar myndar AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">Velja brennipunktsaðferð</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Andlitsgreining</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Handvirkur fókus</string>
+    <string name="photopro_strings_focus_mode_txt">Fókusstilling</string>
+    <string name="photopro_strings_geotagging_description_txt">Vistaðu myndir og myndskeið með staðnum þar sem þær eru teknar</string>
+    <string name="photopro_strings_geotagging_txt">Vista staðsetningu</string>
+    <string name="photopro_strings_gridline_description_txt">Stilltu hvort sýna eigi hnitalínur til að hjálpa þér við myndsamsetningu</string>
+    <string name="photopro_strings_gridline_txt">Hnitalínur</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Þú getur byrjað sjálfvirkt niðurtal með því að snúa lófanum í átt að myndavélinni framan á. Beindu fingrunum upp til að gera það auðveldara að greina lófann.</string>
+    <string name="photopro_strings_hand_shutter_txt">Handsmellir</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Stilltu hvort finna eigi titring þegar unnið er með skjáinn, t.d. háttahnapp</string>
+    <string name="photopro_strings_haptic_feedback_txt">Titringur</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Slökkt</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: Kveikt</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Snjallsía fyrir vind</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO næmi</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Þú getur opnað Photography Pro með því að ýta og halda niðri lokahnappinum á tækinu. Þetta virkar jafnvel þótt síminn sé sofandi eða læstur.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Opna Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Ræsa með lokahnapp</string>
+    <string name="photopro_strings_lens_correction_description_txt">Þegar breiðsviðslinsa er notuð geturðu valið forgang. Með því að velja forgang fyrir myndgæði geturðu tekið líflegar myndir í hágæðum. Ef þú velur forgang fyrir leiðréttingu á bjögun geturðu minnkað sýnilega bjögun.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Setja myndgæði í forgang</string>
+    <string name="photopro_strings_lens_correction_on_txt">Setja leiðréttingu á bjögun í forgang</string>
+    <string name="photopro_strings_lens_correction_txt">Leiðrétting á breiðsviðslinsu</string>
+    <string name="photopro_strings_lens_txt">Linsa</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Kvarða</string>
+    <string name="photopro_strings_level_calibration_description_txt">Ef með þarf geturðu kvarðað hallamálið til að lagfæra frávik í hallastefnunni. Gættu þess að myndavélin sé lárétt og veldu síðan Kvarða.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Kvörðun lokið</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Kvörðun hefur verið endurræst</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Kvörðun á hallamáli</string>
+    <string name="photopro_strings_lock_switch_txt">Lás</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Upptakan var stöðvuðu vegna takmörkunar á hámarksstærð skráa</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Upptaka stöðvaðist vegna takmarkana á upptökutíma</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Mistókst að vista. Minnið er fullt.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Nota</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Vista</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Stilla</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Á að vista núverandi samsetningu af háttum og stillingum?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Myndavélarstillingarnar vistaðar.
+Auðvelt er að kalla fram þessar stillingar aftur með því að nota MR tökuháttinn."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Minni myndavélarstillinga</string>
+    <string name="photopro_strings_memory_recall_txt">Myndav.still. endurh.</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Mynd (að framan)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Mynd</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Hægspilun</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Myndskeið (að framan)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Myndskeið</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Lýsing/Litur</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Fókus</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Uppsetning</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Skot</string>
+    <string name="photopro_strings_menu_title_txt">Valmynd</string>
+    <string name="photopro_strings_metering_center_txt">Miðjun</string>
+    <string name="photopro_strings_metering_multi_txt">Margfalt</string>
+    <string name="photopro_strings_metering_spot_txt">Punktur</string>
+    <string name="photopro_strings_metering_txt">Ljósmælingahamur</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Veldu hvaða hljóðnema á að nota við upptöku á myndskeiði.
+1. VH hljóðnemi: Tekur upp víðóma hljóð með vinstri og hægri hljóðnemunum (efri og neðri þegar tækið snýr í andlitsmynd)
+2. Aftan hljóðnemi: Tekur upp einóma hljóð með hljóðnema að aftan"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Ytri hljóðnemi</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">VH hljóðnemi (víðóma)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Aftan hljóðnemi (einóma)</string>
+    <string name="photopro_strings_mic_setting_txt">Hljóðn.</string>
+    <string name="photopro_strings_mode_auto_description_txt">Myndavélin mun sjálfkrafa greina gerð umhverfisins og taka myndir með sjálfvirkum stillingum og um leið minnka hávaða og myndavélarhristing.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Sjálfvirkur háttur</string>
+    <string name="photopro_strings_mode_basic_description_txt">"Í þessum hætti getur þú tekið myndir með lokahnappnum á skjánum, svipað og þegar þú tekur myndir með snjallsímamyndavél.
+Notaðu þennan hátt til að taka sjálfsmyndir, taka upp myndskeið og skanna QR Code."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Grunnháttur</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Þetta birtir útskýringu á hverjum tökuhætti þegar skipt er um hætti með háttahnappinum</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Leiðbeiningar fyrir háttahnapp</string>
+    <string name="photopro_strings_mode_m_description_txt">"Stjórnaðu lokahraða og ISO-næmi handvirkt.
+Með því að lýsa lengur er hægt að taka myndir sem fanga hreyfingarslóða hluta með óskýrri hreyfingu."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Handstillt lýsing</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Snjöll sjálfvirkni (endurheimt minnis)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Taktu myndir með stillingunum sem þú hefur vistað.
+Þú getur skráð samsetningu hátta og stillinga sem þú notar oft."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Endurheimt minnis</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Handstillt lýsing (endurheimt minnis)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Forrituð sjálfvikni (endurheimt minnis)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Hraði loka í forgangi (endurheimt minnis)</string>
+    <string name="photopro_strings_mode_p_description_txt">Myndavélin mun stjórna lokahraðanum sjálfkrafa, en aðrar stillingar verða undir þér komið.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Program Auto</string>
+    <string name="photopro_strings_mode_s_description_txt">"Stjórnaðu lokahraðanum handvirkt til að breyta hvernig þú tekur myndir af hlutum á hreyfingu.
+Mikill lokahraði lætur hluti virðast kyrra á ferð, en lítill lokahraði er betri til að fanga óskýra hreyfingu."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Lokarahraði í forgangi</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Notkunarháttur var sjálfkrafa stilltur á Ein taka vegna þess að hátturinn Transfer &amp; Tagging add-on er virkur</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Snið skráar var sjálfkrafa stillt á JPEG vegna þess að hátturinn Transfer &amp; Tagging add-on er virkur</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Ekki er hægt að nota myndavél í Fjölglugga eða sprettiglugga Lokaðu glugganum og reyndu aftur. Ef fjölgluggi er notaður er hægt að draga miðju skiptistikunnar til að setja myndavél á allan skjáinn.</string>
+    <string name="photopro_strings_multi_window_txt">Dragðu miðhluta skiptistikunnar til að skipta yfir í að nota %1$s á öllum skjánum</string>
+    <string name="photopro_strings_ok_txt">Í lagi</string>
+    <string name="photopro_strings_personal_data_txt">Persónuleg gögn</string>
+    <string name="photopro_strings_privacy_policy_txt">Persónuverndarstefna</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Er að taka mynd. Bíddu aðeins.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Þessi QR Code er ekki studdur</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Pikkaðu til að opna \"%1$s\" í vafra</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Get ekki tengst þessu Wi-Fi-netkerfi</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Pikka og tengjast við Wi-Fi-net \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code lesari</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Þú getur fengið skjótan aðgang að vefnum eða tengst við Wi-Fi með því að skanna inn QR kóða.
+Þessi aðgerð er virk á meðan þú ert í grunnhætti (myndhætti)."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code lesari</string>
+    <string name="photopro_strings_rec_txt">UPPT.</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Á að endurstill Photo Pro á sjálfgefnum stillingum?</string>
+    <string name="photopro_strings_reset_settings_txt">Núllstilla</string>
+    <string name="photopro_strings_reset_txt">Endurstilla</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Get ekki breytt myndhlutfalli þegar skráarsniðið er stillt á RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Get ekki valið sjálfvirkt HDR þegar samfelld skot er valið</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Get ekki valið sjálfvirk styrkjöfnun þegar annað skráarsnið en JPEG er valið</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Bokeh-áhrif eru ekki til staðar með linsunni sem er valin núna</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Bokeh-áhrif eru ekki til staðar þegar viðbótin Transfer &amp; Tagging add-on er kveikt</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Get ekki notað stöðuga töku: há með linsunni sem var valin núna</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Get ekki notað Stöðug taka þegar Bokeh-áhrif eru virk</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Stöðug taka er ekki aðgengileg þegar gervigreindaraðdráttur með ofurupplausn er valinn</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Get ekki notað Stöðug taka þegar annað skráarsnið en JPEG er valið</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Stöðug taka er ekki til staðar þegar viðbótin Transfer &amp; Tagging add-on er kveikt</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Ekki er hægt að breyta</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Get ekki nota Flasshátt meðan Stöðug taka er valin</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Get ekki notað flass-hátt með linsunni sem valin var núna</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Ekki er hægt að nota vasaljós með linsunni sem valin er núna</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Get ekki breytt skráarsniði í annað en JPEG þegar sjálfvirk styrkjöfnun er valin</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Get ekki breytt skráarsniði í annað en JPEG þegar Stöðug taka er valin</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Get ekki breytt skráarsniði í annað en JPEG þegar viðbótin Transfer &amp; Tagging add-on er kveikt</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Ekki er hægt að breyta þessari stillingu meðan ytri hljóðnemi er tengdur</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Þessi stilling styður ekki núverandi hraða lokans. Til að setja upp þessa stillingu þarftu að breyta hraða lokans í 1 sekúndu eða minna.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Get ekki valið RAW þegar annað myndhlutfall en 4:3 er valið</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Get ekki breytt stærð myndskeiðs þegar tekið er upp í hægspilun Þú þarft að hætta í hægspilun til að breyta þessari stillingu.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Þessi stilling er aðeins aðgengileg þegar breiðsviðslinsan er notuð</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Þessi stilling er ekki í boði þegar HDR er virkt. Til að grunnstilla þetta þarf að slökkva á HDR.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Þessi stilling er ekki studd fyrir núverandi stærð myndskeiðs. Til að breyta þessari stillingu þarf að breyta stærð. myndskeiðsins.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Get ekki súmað meðan Bokeh áhrifin eru notuð</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">FORRITSUPPLÝS.</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">%1$s heimild</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Forritið krefst eftirfarandi heimilda(r) til að framkvæma þessa aðgerð.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Til að veita heimildir ferðu í Forritsupplýsingar > Heimildir.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Gat ekki haldið áfram</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Að taka myndir</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Til að taka myndir og myndskeið</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Til að sækja staðsetningu</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Til að taka upp hljóð</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Til að tengjast við nálæg tæki</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Til að lesa og vista ljósmyndir og myndbönd</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Að vista myndir</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Til að vista myndir og myndskeið</string>
+    <string name="photopro_strings_save_destination_description_txt">Veldu hvort vista eigi ljósmyndir og myndskeið í innra minni tækisins eða á SD-korti</string>
+    <string name="photopro_strings_save_destination_internal_txt">Innri gagnageymsla</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD-kort</string>
+    <string name="photopro_strings_save_destination_title_txt">Gagnageymsla</string>
+    <string name="photopro_strings_save_destination_txt">Gagnageymsla</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD-kort ekki tiltækt</string>
+    <string name="photopro_strings_selftimer_10_txt">10 sek.</string>
+    <string name="photopro_strings_selftimer_3_txt">3 sek.</string>
+    <string name="photopro_strings_selftimer_description_txt">Stilla niðurteljara til að taka mynd sjálfkrafa eftir að ákveðinn fjöldi sekúndna er liðinn</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Haltu augunum á myndavélinni</string>
+    <string name="photopro_strings_selftimer_txt">Tímastilling</string>
+    <string name="photopro_strings_settings_off_txt">Slökkt</string>
+    <string name="photopro_strings_settings_on_txt">Kveikt</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Notaðu alltaf grunnhátt</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Veldu sjálfgefinn tökuhátt þegar Photography Pro er ræst</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Síðasti notaði háttur</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Tökuháttur við ræsingu</string>
+    <string name="photopro_strings_shooting_mode_txt">Tökuháttur</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Upptökuvél</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Lokuhraði</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Get ekki tekið myndir þegar kveikt er á HDR</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Kveikja á virkni sem lætur húð virðast sléttari</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Mjúk húð</string>
+    <string name="photopro_strings_status_mic_external_txt">Ytri</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">VH (víðóma)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Aftan (einóma)</string>
+    <string name="photopro_strings_store_fail_txt">Mistókst að vista</string>
+    <string name="photopro_strings_sw_license_txt">Hugbúnaðarleyfi</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Samþykkja</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Hafna</string>
+    <string name="photopro_strings_tips_txt">Ábendingar</string>
+    <string name="photopro_strings_title_permissions_txt">Photo Pro heimild</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Hætta við snertifókus</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Sjálfvirkur fókus</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Veldu hvað þarf að stilla þegar þú snertir myndavélargluggann.
+
+Eltifókus á myndefni: Besta aðgerðin til að taka myndir af hlutum á hreyfingu. Hún heldur fókusnum föstum á hlutinn sem þú ýttir á í myndavélarglugganum, svo þú getir tekið skýra mynd af hlutum á hreyfingu.
+Sjálfvirkur fókus: Ýttu hvar fókusinn á að vera í myndavélarglugganum
+Fókus og birtustig: Fókusaðu á og stilltu birtustig stöðunnar með því að ýta á myndavélargluggann."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Fókus og birtustig</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Eltifókus á myndefni</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Snerta til að stilla</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Hætta við Rakningu hlutar</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Ef kveikt er á þessari aðgerð getur viðbótin Transfer &amp; Tagging add-on sýnt myndir sem teknar eru með Xperia-myndavélinni. Myndir verða vistaðar í innri geymslunni.
+Aðgerðin er samhæfð fyrir myndir sem teknar eru með Photography Pro.
+Ef kveikt er á þessum valkosti er snið skráar stillt sjálfkrafa á JPEG og notkunarháttur á ein taka."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Viðbótin Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Skilið</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Áfram</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Sleppa</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony er vörumerki sem er í miklu uppáhaldið hjá ljósmyndurum til að skapa afurðir sem efla ótakmarkaða gleði og ánægju af ljósmyndun.
+Viðskiptavinir okkar um allan heim velja áfram reynslu okkar og tækni.
+
+Photography Pro leitast við að endurskapa auðvelda notkun og aðgerðir myndavéla í fullri stærð frá Sony Imaging Products.
+Sony eflir sköpunarmátt þinn við ljósmyndun."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Veldu tökuhátt sem hentar myndefninu.
+Stilltu síðan lokarahraðann og lýsingu.
+Haltu myndavélinni stöðugri og taktu mynd.
+
+Tökuhættir eru:
+P (Program Auto)
+S (lokarahraði í forgangi)
+M (Handstillt lýsing)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Veldu tökuháttinn sem þú vilt nota með því að nota háttahnappinn efst til hægri (efst til vinstri þegar þú ert í langsniði).
+
+Í grunnhætti getur þú auðveldlega tekið myndir og myndskeið með fremri myndavélinni, svipað og með venjulegri snjallsímamyndavél.
+
+Í Auto/P/S/M hætti hefur þú aðgang að enn ítarlegri stillingum til að taka bestu myndirnar."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Tökuháttur</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Notkun</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Þegar þú notar Auto/P/S/M hættina skaltu halda myndavélinni þétt í landslags afstöðu og ýttu á lokahnappinn efst til hægri á tækinu til að taka myndir.
+
+Þegar þú velur Auto stillast aðgerðir eins og lokahraði og sjálfvirk lýsing sjálfkrafa.
+
+Til að setja stillingar handvirkt skaltu velja einn af háttunum fyrir neðan.
+P (Program Auto)
+S (lokahraði í forgangi)
+M (Handstillt lýsing)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Notkun á Auto/P/S/M háttunum</string>
+    <string name="photopro_strings_tutorial_txt">Leiðsögn</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Ekki er hægt að nota Photo Pro með tengda útværa tækinu. Til að nota Photo Pro þarf að loka forritinu í Xperia skjánum yfir nýleg forrit og síðan endurræsa það.</string>
+    <string name="photopro_strings_unlock_button_txt">Opna</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Notkun á myndavél ekki leyfð af öryggisástæðum</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Til að taka upp stöðuga 4K myndskeiðsupptöku máttu ekki breyta þessari stillingu nema þú sért að nota háhraða SD-kort (UHS hraðaflokk 1 eða hærri eða hraðaflokk 10, sem mælt er með).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Ti að taka upp hæga myndskeiðsupptöku skaltu ekki breyta þessari stillingu nema þú sért að nota háhraða SD-kort (UHS hraðaflokk 1 eða hærri eða hraðaflokk 10, sem mælt er með).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Til að taka upp myndskeið á öruggan hátt mælum við með því að þú breytir gagnavistun í netvistun. Viltu breyta þessu núna?
+
+Ef þú heldur áfram að nota SD-kort fyrir gagnavistun skaltu gæta þess að nota háhraða SD-kort (UHS hraðaflokk 1 eða hærri eða hraðaflokk 10 sem mælt er með)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Þú getur valið afkóðara fyrir 4K-upptökur á myndbandi.
+
+H.264 (AVC): Staðalsnið fyrir kóðun sem flest tæki og þjónustur styðja. 
+H.265 (HEVC): Snið með hærra þjöppunarhlutfalli. Gættu þess að spilunartækin þín eða þjónusta styðji þessa aðferð."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Skráarsnið (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Veldu stærð fyrir myndskeið.
+HDR er ekki til staðar þegar Fullt HD (60 fps) eða HD er valið."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Veldu upplausn</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full háskerpa (60 r./sek.)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Fullt HD</string>
+    <string name="photopro_strings_video_size_txt">Upplausn</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Xperia er með einstakt stöðugleikakerfi sem kallast Optical SteadyShot. Það blandar saman optískri og rafrænni myndstöðgun samtímis. Það veitir þér stöðug myndskeið án hristings, jafnvel þegar þú tekur upp á ferð.</string>
+    <string name="photopro_strings_video_stabilization_txt">Myndskeiðsstöðgun</string>
+    <string name="photopro_strings_volumekey_description_txt">Úthluta annarri virkni til hljóðstyrkshnappa</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Lokari</string>
+    <string name="photopro_strings_volumekey_txt">Nota hljóðstyrkshnapp sem</string>
+    <string name="photopro_strings_volumekey_volume_txt">Hljóðstyrkur</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Aðdráttur</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Lagfæra - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Sjálfvirkt</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Stilla</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Lokið</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Reyna aftur</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Nota</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Skýjað</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Sérsnið 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Sérsnið 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Sérsnið 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Stilla hvítjöfnum byggða á miðju forskoðunarinnar</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Aðlögun mistókst</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Aðlögun lokið</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Nota - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Dagsbirta</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Flúrljós</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Ljósapera</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Skuggi</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Hiti 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Hiti 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Hiti 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Hiti:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Hitastig</string>
+    <string name="photopro_strings_whitebalance_txt">Hvítjöfnun</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Get ekki súmað með myndavél að framan</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">Gervigr.aðdráttur. m. ofuruppl.</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Veldu aðdráttarstillingu.
+
+Stafrænn aðdráttur: Aðdráttur með stafrænni vinnslu sem byggist á skynjaragögnum myndarinnar.
+Gervigreindaraðdráttur með ofurupplausn: Aðdráttur með stafrænni vinnslu sem varðveitir meira af upprunalegum gæðum myndar. Það gæti tekið lengri tíma að vista myndir. Þetta er sjálfkrafa stillt á stafrænan aðdrátt þegar Stöðug taka er valin."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Stafrænn aðdráttur</string>
+    <string name="photopro_strings_zoom_type_txt">Aðdráttarstillingar</string>
+    <string name="search_menu_title">Leit</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">SLÖKKT</string>
+    <string name="v7_preference_on">KVEIKT</string>
+</resources>

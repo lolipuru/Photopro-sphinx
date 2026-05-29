@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Naviger hjem</string>
+    <string name="abc_action_bar_up_description">Gå opp</string>
+    <string name="abc_action_menu_overflow_description">Flere alternativer</string>
+    <string name="abc_action_mode_done">Ferdig</string>
+    <string name="abc_activity_chooser_view_see_all">Se alle</string>
+    <string name="abc_activitychooserview_choose_application">Velg en app</string>
+    <string name="abc_capital_off">AV</string>
+    <string name="abc_capital_on">PÅ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">slett</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funksjon+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mellomrom</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meny+</string>
+    <string name="abc_search_hint">Søk</string>
+    <string name="abc_searchview_description_clear">Slett søket</string>
+    <string name="abc_searchview_description_query">Søkeord</string>
+    <string name="abc_searchview_description_search">Søk</string>
+    <string name="abc_searchview_description_submit">Utfør søket</string>
+    <string name="abc_searchview_description_voice">Talesøk</string>
+    <string name="abc_shareactionprovider_share_with">Del med</string>
+    <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="ble_remote_control_button_any_problem_txt">Feilsøking</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Par ny kontroller</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Du kan gi C1-knappen på Bluetooth-fjernkontrollen en annen funksjon</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">Tilpasning av C1-knappen</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Fokusmodus</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Linse</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Bildetakingsmodus</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Bytt mellom hoved-/frontkamera</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Bytt bilde/video</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Linse</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Bytt AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Bytt mellom hoved-/frontkamera</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Tillat</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Avslå</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Vil du la appen bruke Bluetooth for denne funksjonen?</string>
+    <string name="ble_remote_control_description_txt">"Du kan pare en Sony-fjernkontroll via Bluetooth for å bruke funksjoner i %1$s eksternt.
+Trykk på Par ny kontroller for å pare en ny enhet."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Allerede paret</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Hvis fjernkontrollen ikke kunne pares med enheten, går du til Innstillinger og kontrollerer om fjernkontrollen allerede er registrert i listen over Bluetooth-enheter. Hvis den allerede er registrert, fjerner du fjernkontrollen fra listen og parer den på nytt.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Feilsøking</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Godta og slå på</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Avslå</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Avslutt</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Gå til Innstillinger</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">OK</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Paringen ble avbrutt fordi Bluetooth ble slått av</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Paring mislyktes på grunn av tidsavbrudd. Prøv igjen senere.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Enheten kan begrense enkelte funksjoner som en forholdsregel ved intens bruk. Hvis du slår på uth.modusen for kameraet, vises et ikon som forteller at appen opprettholder høy ytelse. Når dette ikonet vises, kan du bruke appen lenger.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Uth.modus for kamera er kun tilgjengelig når du bruker %1$s med en fjernkontroll som er koblet til via Bluetooth. Hvis du lukker %1$s, slås denne funksjonen av.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Enhetstemperaturen kan stige over den vanlige driftstemperaturen. Når temperaturen øker, blir du varslet av et varsel og et ikon. Hvis dette skjer, må du ikke holde enheten i hånden. Pass på at fjernkontrollen er koblet til via Bluetooth før du fortsetter.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Obs!</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Enhetens temperatur er for høy. %1$s slår seg av midlertidig for å kjøle seg ned.
+Hvis du kobler til en Bluetooth-fjernkontroll, kan du fortsette å bruke %1$s med uth.modus for kamera."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Enhetens temperatur er for høy. %1$s slår seg av midlertidig for å kjøle seg ned.
+Hvis du kobler til en Bluetooth-fjernkontroll, kan du bruke %1$s med uth.modus for kamera."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">For å bruke denne funksjonen, slå på [Bruk fjernkontroll] etter at du har tilknyttet en fjernkontroll via Bluetooth.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Enhetens temperatur er for høy. %1$s slår seg av midlertidig for å kjøle seg ned.
+Hvis du slår på uth.modusen for kameraet, kan du bruke %1$s med en Bluetooth-fjernkontroll."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Bruk den tilknyttede fjernkontrollen for å slå på denne funksjonen.
+Trykk på AVSLUTT for å avbryte."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Uth.modus for kamera er slått på</string>
+    <string name="ble_remote_control_endurance_mode_txt">Uth.modus for kamera</string>
+    <string name="ble_remote_control_off_txt">Av</string>
+    <string name="ble_remote_control_on_txt">På</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"For å starte paringen, bruk fjernkontrollen.
+Du får varsler og dialoger to ganger. Velg PAR i alle, og trykk på en tast på den parede enheten for å fullføre."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Par ny kontroller</string>
+    <string name="ble_remote_control_title_txt">Bluetooth-fjernkontroll</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Bruk fjernkontroll</string>
+    <string name="expand_button_title">Avansert</string>
+    <string name="external_display_connected_description_txt">Du kan se søkeren fra Vlog Monitor</string>
+    <string name="external_display_connected_title_txt">Vlog Monitor er tilkoblet</string>
+    <string name="external_display_note_about_external_mic_txt">Merk: For å bruke en ekstern mikrofon, koble den til Vlog Monitor før opptaket starter. Hvis du kobler den til etterpå, må du koble til Vlog Monitor på nytt.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Du har tidligere godtatt personvernerklæringen, men du kan alltids endre mening.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Venstrepil</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Høyrepil</string>
+    <string name="photopro_strings_accessibility_back_txt">Tilbake</string>
+    <string name="photopro_strings_accessibility_close_txt">Lukk</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Tilgjengelighet: &lt;a href=\"%s\">Delvis samsvar&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Les mer</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Linseknapp</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Kan ikke konfigureres</string>
+    <string name="photopro_strings_accessibility_previous_txt">Forrige</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">En stabel av nye bilder</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Start videoopptak</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Sett videoopptaket på pause</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Gjenoppta videoopptak</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Ta bilder mens du tar opp video</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Stopp videoopptak</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Stopp nedtelling</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Lukker</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Bytt mellom hoved- og frontkamera</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Bytt mellom bilde og video</string>
+    <string name="photopro_strings_accessibility_title_txt">Tilgjengelighet</string>
+    <string name="photopro_strings_addon_button_menu_txt">Mer</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Kreativ effekt</string>
+    <string name="photopro_strings_addon_panorama_txt">Panorama</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Selvportrett</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Sakte film</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Hvis du vil lagre steder, må du aktivere GPS og/eller trådløse nettverk. Aktivere nå?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Lagre sted</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Anonyme analysedata</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Frontbilde</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Frontvideo</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Video</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Velg sideforhold for bilder</string>
+    <string name="photopro_strings_aspect_ratio_txt">Sideforhold</string>
+    <string name="photopro_strings_audio_on_all_txt">På: Alle</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">På: Kun lukker</string>
+    <string name="photopro_strings_audio_signals_description_txt">Still inn hvilke lyder kameraet skal spille av, for eksempel når selvutløseren teller ned eller når kameraet fokuserer. Du kan også velge at kun lukkerlyden skal spilles av.</string>
+    <string name="photopro_strings_audio_signals_txt">Lyder</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro avsluttes snart på grunn av inaktivitet</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Motlysportrett</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Motlys</string>
+    <string name="photopro_strings_auto_scene_document_txt">Dokument</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Gourmet</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Spedbarn</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Landskap</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Svakt lys</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Makro</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Nattportrett</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Nattscene</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Automatisk motivgjenkjennelse</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Mykt snapshot</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Søkelys</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Kontroller at linsen er ren og at fingeren ikke dekker til linsen</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">For lyst</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Flytt lenger bort fra objektet</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Mer lys kreves</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Flytt nærmere objektet</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Bokeh er for øyeblikket ikke tilgjengelig</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Bokeh på</string>
+    <string name="photopro_strings_bokeh_txt">Bokeh</string>
+    <string name="photopro_strings_bt_remote_control_txt">Bluetooth-fjernkontroll</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Bilder fra Bildeserie har blitt lagret på intern lagring</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Kan ikke bruke Bildeserie med langsom lukkerhastighet</string>
+    <string name="photopro_strings_button_continue_txt">Fortsett</string>
+    <string name="photopro_strings_button_quit_txt">AVSLUTT</string>
+    <string name="photopro_strings_cancel_txt">Avbryt</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Sakte film</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K-video</string>
+    <string name="photopro_strings_change_txt">Endre</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Tb.st.</string>
+    <string name="photopro_strings_color_and_brightness_txt">Farger og lysstyrke</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Intern lagring er full. Lagre data på SD-kortet i stedet?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Intern lagring er skadet eller skrivebeskyttet. Lagre data på SD-kortet i stedet?</string>
+    <string name="photopro_strings_common_error_open_txt">Kan ikke åpne %1$s</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">SD-kortet er fullt. Lagre data på intern lagring i stedet?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">Kan ikke bruke SD-kortet. Lagre data på intern lagring i stedet?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Bildeserieindikator</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Følgende funksjoner er for øyeblikket deaktiverte.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Vent til enheten kjøles ned og start deretter kameraet på nytt.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Følgende funksjoner er deaktiverte</string>
+    <string name="photopro_strings_cooling_mode_txt">Enkelte funksjoner er slått av for å forhindre at temperaturen i enheten stiger</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Tilordne en annen funksjon til AEL-knappen</string>
+    <string name="photopro_strings_custom_ael_txt">Tilpassing av AEL-knapp</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Når du trykker på DISP-knappen, kan du vise og skjule informasjon i søkeren.
+Velg vekk elementer i denne menyen du ikke vil skal vises når du viser informasjon med DISP-knappen."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histogram</string>
+    <string name="photopro_strings_custom_disp_level_txt">Vaterpass</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Topptekstinformasjon</string>
+    <string name="photopro_strings_custom_disp_txt">Tilpassing av DISP-knapp</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Du kan tilordne innstillingselementer på nytt eller endre rekkefølgen av dem i funksjonsmenyen.
+Trykk på et av funksjonselementene nedenfor for å tilordne en annen funksjon fra listen til venstre.
+Dra og slipp funksjonselementene nedenfor for å endre rekkefølgen."</string>
+    <string name="photopro_strings_custom_fn_txt">Tilpassing av funksjonsmeny</string>
+    <string name="photopro_strings_custom_none_txt">Ikke tilordnet</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Du har tidligere avslått personvernerklæringen.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Lås automatisk eksponering</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Sett ISO til Auto</string>
+    <string name="photopro_strings_description_custom_none_txt">Slå av AEL-knappen</string>
+    <string name="photopro_strings_device_id_txt">Enhets-ID</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Ikke nok batteri på telefonen. Når det er lite batteri, lukkes kameraet automatisk.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Opptak stoppet på grunn av lite batteri. Lad enheten din og prøv igjen.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Kan ikke bruke kamera på grunn av lite batteri. Lad enheten din og prøv igjen.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Appen krever følgende rettighet(er) for å utføre denne handlingen.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Nettverk
+For å koble til Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Flymodus ser slått på.
+Slå av Flymodus i INNSTILLINGER."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Nettverksnavn: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi er slått av og Flymodus er slått på.
+Endre disse innstillingene ved å trykke på INNSTILLINGER."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi er slått av.
+Slå på Wi-Fi i INNSTILLINGER."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Innstillinger</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Tillat</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Avslå</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Merk</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Kalibrer</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Tilbakestill</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Det er ikke nok ledig plass på internlageret. Bildeserie stoppet. Slett noen filer for å frigjøre plass.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Gi tillatelser</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Kobler til ...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Passordbeskyttelse: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Sikkerhet: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Kan ikke koble til Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Hvis du godtar, henter Sony inn &lt;b>&lt;a href=#personal-data>personlige data&lt;/a>&lt;/b> for å gi deg tilpasset brukerstøtte og forbedre enheter og tjenester. Sony behandler dataene dine i henhold til &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>personvernerklæringen vår&lt;/a>&lt;/b>.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Du kan spille inn videoer selv ved motiver med stor kontrast, og gjøre dem mer dramatiske og nærmere det du ser i virkeligheten. Bruk støttede enheter/tjenester for å nyte innholdet med de opprinnelige fargene og lysstyrken.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Ikke vis igjen</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">HDR-bildeserie: Hø</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">HDR-bildeserie: La</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Bildeserie: Hø</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Bildeserie: La</string>
+    <string name="photopro_strings_drive_continuous_txt">Bildeserie</string>
+    <string name="photopro_strings_drive_mode_txt">Bruksmodus</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Selvutløser: 10 sek</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Selvutløser: 3 sek</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Selvutløser: Av</string>
+    <string name="photopro_strings_drive_single_txt">Enkeltbilde</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">Auto-HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Denne innstillingen optimaliserer lyse og mørke deler av bildet. DRO-behandlingen bruker ett enkelt bilde, mens auto-HDR kombinerer flere eksponeringer for å oppnå resultatet.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Optimaliser dynamisk område</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/Auto-HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">Kan ikke starte kameraet. Start kameraet eller enheten på nytt.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Feil</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Kunne ikke lagre bilder. Det kan være et problem med datalagringen. Hvis datalagring er angitt til SD-kortet, sjekk SD-kortet.</string>
+    <string name="photopro_strings_error_fatal_txt">Ukjent feil.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Nei</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Ja</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Kameraet blir nå slått av midlertidig for å kjøles ned. Innspillingen blir lagret Start appen på nytt når enheten er kjølt ned.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Minnet er fullt. Slett noen filer fra SD-kortet eller intern lagring.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Minnet er utilgjengelig</string>
+    <string name="photopro_strings_error_memory_title_txt">Minnefeil</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD-kort er ikke tilgjengelig</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Eksponeringskompensasjon</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Du kan ta portrettbilder som fokuserer på ansiktet eller øynene til personer og dyr.
+Trykk på ansiktet til motivet du vil fokusere på, for å bytte fokusmål."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Du kan ta videoer som fokuserer på ansiktet eller øynene til personer og dyr.
+Trykk på ansiktet til motivet du vil fokusere på, for å bytte fokusmål.
+Notat: Når denne innstillingen er aktivert, kan opptakets varighet bli redusert på grunn økninger i enhetstemperaturen."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Ansiktsgjenkjenning/Øye-AF På</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">Ansikt-/øye-AF</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">Ansikt-/øye-AF: Av</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">Ansikt-/øye-AF: På</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Lås opp skjermen for å bruke denne funksjonen</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Lås opp skjermen for å åpne innstillingene.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Skjermen er låst</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"For å justere bokeh-effekten trykker du på bokeh-ikonet i søkeren og flytter glidebryteren.
+Denne funksjonen støttes i grunnleggende (bilde) modus.
+Fremhev motivet med imponerende kontraster ved å gjøre bakgrunnen uskarp."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Ta bilder med bokeh-effekt</string>
+    <string name="photopro_strings_feature_bokeh_txt">Bokeh-effekt</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Bruksmodusen kan endres til å bruke enkeltbilde eller bildeserie eller selvutløser.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Bruksmodus</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Når du tar bilder med frontkameraet, rett øynene mot frontkameralinsen nær ørehøyttaleren.
+Øynene dine ser da i rett retning i bildet."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Øyeretning</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Du kan ta portrettbilder som fokuserer på ansiktet eller øynene til personer og dyr.
+Trykk på ansiktet til motivet du vil fokusere på, for å bytte fokusmål. Denne funksjonen kan slås av og på via MENY > Ansikt-/øye-AF."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">Ansikt-/øye-AF</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Vri håndflaten mot kameraet. Selvutløseren starter nedtellingen når den har gjenkjent håndflaten din. Strekk fingrene oppover for å gjøre det enklere å registrere håndflaten din.
+For å slå på denne funksjonen, bytt til frontkameraet mens du er i grunnleggende (bilde) modus, og slå på Håndlukker i menyen."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Håndlukker</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Du kan velge en prioritet når du bruker ultravidvinkellinse (0,7x). Ved å velge Prioriter bildekvalitet kan du ta dynamiske bilder av høy kvalitet. Hvis du velger Prioriter korrigering av skjevhet, kan du redusere visuelle fordreininger.
+Denne funksjonen er aktiv når du tar bilder med ultravidvinkellinse. Etter at du har byttet til ultravidvinkellinse, kan du stille inn prioriteten via MENY > Korrigering for ultravidvinkellinse."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Linsekorrigering (bilde)</string>
+    <string name="photopro_strings_feature_list_title_txt">Introduksjon til funksjoner</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Ta artistiske selfier med bokeh og skjønnhetseffekter.
+For å bruke denne funksjonen, trykk på Mer i søkeren og velg «Selvportrett».
+Tilpass selfiene dine og se de kreative resultatene."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Selvportrett</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Du kan raskt få tilgang til nettet eller koble deg til Wi-Fi ved å skanne en QR-kode.
+Denne funksjonen er aktiv når grunnleggende (bilde) modus er aktivert. Denne funksjonen kan slås av og på via MENY > QR-kodeleser."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code-leser</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code-leser</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Merk bildene og videoene dine med stedene der de ble tatt. Du kan endre denne innstillingen senere i MENY > Lagre sted.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Lagre sted?</string>
+    <string name="photopro_strings_feature_selfie_txt">Frontkamera</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Du kan spille inn HD-video i 120 fps sakte film</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Sakte film</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Du kan bytte kjapt mellom forskjellige kameralinser for å ta det perfekte bildet.
+Trykk på knappen i søkeren for å bytte mellom 0,7x (ultravidvinkellinse), 1,0x (vidvinkellinse), 2,9x (telelinse) og 4,4x (telelinse).
+Du kan bruke denne funksjonen i både grunnleggende (bilde) og grunnleggende (video) modus."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Bytt vinkel med knappen</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Du kan bytte kjapt mellom forskjellige kameralinser for å ta det perfekte bildet.
+Trykk på knappen i søkeren for å bytte mellom 0,7x (ultravidvinkellinse), 1,0x (vidvinkellinse) og 2,1x (standardlinse).
+Du kan bruke denne funksjonen i både grunnleggende (bilde) og grunnleggende (video) modus."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Trippelt kamera</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Når du trykker på linseknappen, vises en glidebryter som du kan justere zoomen med.
+Du kan også knipe på skjermen eller bruke volumknappene til å zoome."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Slik zoomer du inn og ut</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Slett</string>
+    <string name="photopro_strings_file_format_description_txt">"Velg filformat for stillbilder.
+
+RAW: Krever spesialprogramvare for å etterbehandle bilder. Du kan utføre justeringer uten at det går utover bildekvaliteten. Kan skrives ut etter etterbehandling.
+RAW og JPEG: Lagrer både RAW-bilder som krever etterbehandling og JPEG-bilder.
+JPEG: Lagrer JPEG-bilder.
+
+Merk:
+RAW-filer lagres alltid til intern lagring i 4:3-sideforhold
+Bildeserie og Auto-HDR er utilgjengelige når RAW eller RAW og JPEG er valgt."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW og JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Filformat</string>
+    <string name="photopro_strings_flash_auto_txt">Auto</string>
+    <string name="photopro_strings_flash_description_txt">Still blitsmodusen til autoblits, utfyllingsblits osv.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Utfyllingsblits</string>
+    <string name="photopro_strings_flash_off_txt">Av</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Reduksjon av røde øyne</string>
+    <string name="photopro_strings_flash_torch_description_txt">Slå på lys</string>
+    <string name="photopro_strings_flash_torch_off_txt">Lommelykt: Av</string>
+    <string name="photopro_strings_flash_torch_on_txt">Lommelykt: På</string>
+    <string name="photopro_strings_flash_torch_txt">Lykt</string>
+    <string name="photopro_strings_flash_txt">Blitsmodus</string>
+    <string name="photopro_strings_focus_area_center_txt">Midten</string>
+    <string name="photopro_strings_focus_area_txt">Fokusområde</string>
+    <string name="photopro_strings_focus_area_wide_txt">Bredt</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Velg fargen på rammen til fokusområdet</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Rød</string>
+    <string name="photopro_strings_focus_frame_color_txt">Fokusområdefarge</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Hvit</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">Kontinuerlig AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">Enkeltbilde-AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">Velg en fokusmetode</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Ansiktsregistrering</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Manuell fokus</string>
+    <string name="photopro_strings_focus_mode_txt">Fokusmodus</string>
+    <string name="photopro_strings_geotagging_description_txt">Lagre bildene og videoene dine med stedene der de ble tatt</string>
+    <string name="photopro_strings_geotagging_txt">Lagre sted</string>
+    <string name="photopro_strings_gridline_description_txt">Angi om rutenettlinjene skal vises for å hjelpe deg med å ta bilder</string>
+    <string name="photopro_strings_gridline_txt">Rutenettlinjer</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Du kan starte nedtellingen for selvutløseren ved å snu håndflaten mot frontkameraet. Strekk fingrene oppover for å gjøre det enklere å registrere håndflaten din.</string>
+    <string name="photopro_strings_hand_shutter_txt">Håndlukker</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Angi om du vil ha haptisk tilbakemelding når du bruker skjermen, f.eks. modusratthjelpen</string>
+    <string name="photopro_strings_haptic_feedback_txt">Haptisk tilbakemelding</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Av</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: På</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Intelligent vindfilter</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO-følsomhet</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Du kan åpne Photography Pro ved å trykke inn og holde utløserknappen på enheten. Dette fungerer selv om telefonen er i hvilemodus eller er låst.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Start Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Åpne med utløserknappen</string>
+    <string name="photopro_strings_lens_correction_description_txt">Du kan velge en prioritet når du bruker ultravidvinkell. Ved å velge Prioriter bildekvalitet kan du ta dynamiske bilder av høy kvalitet. Hvis du velger Prioriter korrigering av skjevhet, kan du redusere visuelle fordreininger.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Prioriter bildekvalitet</string>
+    <string name="photopro_strings_lens_correction_on_txt">Prioriter korrigering av skjevhet</string>
+    <string name="photopro_strings_lens_correction_txt">Korrigering av ultravidvinkellinse</string>
+    <string name="photopro_strings_lens_txt">Linse</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Kalibrer</string>
+    <string name="photopro_strings_level_calibration_description_txt">Hvis nødvendig kan du kalibrere vaterpasset for å fikse avvik i vipperetningen. Sørg for at kameraet er horisontalt, og velg deretter Kalibrer.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Kalibrering utført</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Kalibreringsinnstillingen er tilbakestilt</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Vaterpasskalibrering</string>
+    <string name="photopro_strings_lock_switch_txt">Lås</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Innspilling stoppet på grunn av grense for maksimal filstørrelse</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Innspilling stoppet på grunn av grense for maksimal innspillingstid</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Kan ikke lagre. Minnet er fullt.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Bruk</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Lagre</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Bruk</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Vil du lagre gjeldende kombinasjon av moduser og innstillinger?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Kamerainnstillingene er lagret.
+Du kan enkelt hente disse innstillingene ved å bruke MR-bildetakingsmodus"</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Minne kamerainnstillinger</string>
+    <string name="photopro_strings_memory_recall_txt">Hent kamerainnstillinger</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Bilde (front)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Bilde</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Sakte film</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Video (front)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Video</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Eksponering/farger</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Fokus</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Oppsett</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Bildetaking</string>
+    <string name="photopro_strings_menu_title_txt">Meny</string>
+    <string name="photopro_strings_metering_center_txt">Senter</string>
+    <string name="photopro_strings_metering_multi_txt">Multi</string>
+    <string name="photopro_strings_metering_spot_txt">Punkt</string>
+    <string name="photopro_strings_metering_txt">Målemodus</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Velg hvilken mikrofon du vil bruke til videoopptak:
+1. VH-mikrofon: Tar opp stereolyd med venstre og høyre mikrofon (øvre og nedre når enheten er i stående retning)
+2. Bakre mikrofon: Tar opp monolyd med den bakre mikrofonen"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Ekstern mikrofon</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">VH-mikrofon (stereo)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Bakre mikrofon (mono)</string>
+    <string name="photopro_strings_mic_setting_txt">Mikrofon</string>
+    <string name="photopro_strings_mode_auto_description_txt">Kameraet registrerer automatisk motivtypen og tar bilder med autoinnstillinger samtidig som det reduserer støy og ustødighet.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Auto-modus</string>
+    <string name="photopro_strings_mode_basic_description_txt">"I denne modusen kan du ta bilder med utløserknappen på skjermen på samme måte som med et vanlig smarttelefonkamera.
+Bruk denne modusen til å ta selfier, spille inn video og skanne QR-koder."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Grunnleggende modus</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Dette viser en forklaring av hver Bildetakingsmodus når du endrer modus med modusratthjelpen</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Veiledning for modusratthjelp</string>
+    <string name="photopro_strings_mode_m_description_txt">"Styr lukkerhastighet og ISO-følsomhet manuelt
+Når du bruker lang eksponering, kan du ta bilder som fanger opp bevegelsen til gjenstander."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Manuell eksponering</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Intelligent auto (Hent minne)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Ta bilder med de lagrede innstillingene.
+Du kan registrere ofte brukte kombinasjoner av moduser og innstillinger."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Hent minne</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Manuell eksponering (Hent minne)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Program/auto (Hent minne)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Lukkerprioritet (Hent minne)</string>
+    <string name="photopro_strings_mode_p_description_txt">Kameraet styrer lukkerhastigheten automatisk, mens andre innstillinger kan du velge selv.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Program/auto</string>
+    <string name="photopro_strings_mode_s_description_txt">"Styr lukkerhastigheten manuelt for å endre hvordan du tar bilder av gjenstander i bevegelse.
+Rask lukkerhastighet kan fryse en gjenstand som er i bevegelse, mens treg lukkerhastighet kan fange bevegelsene."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Lukkerprioritet</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Bruksmodus er automatisk satt til Enkeltbilde fordi Transfer &amp; Tagging add-on-modusen er på</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Filformatet er satt til JPEG automatisk fordi Transfer &amp; Tagging add-on-modusen er på</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Kan ikke bruke kameraet i Flervindu eller popup-vindu. Lukk vinduet, og prøv igjen. Hvis du bruker Flervindu, kan du dra midten av den delte linjen for å vise kameraet i fullskjerm.</string>
+    <string name="photopro_strings_multi_window_txt">Dra midten av den delte linjen for å bytte til fullskjerm for %1$s for å bruke</string>
+    <string name="photopro_strings_ok_txt">OK</string>
+    <string name="photopro_strings_personal_data_txt">Personlige data</string>
+    <string name="photopro_strings_privacy_policy_txt">Personvernerklæring</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Tar bilde. Vent litt.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Denne QR Code støttes ikke</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Trykk for å åpne koblingen \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Kan ikke koble til dette Wi-Fi-nettverket</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Trykk for å koble til Wi-Fi-nettet «%1$s»</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code-leser</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Du kan raskt få tilgang til nettet eller koble deg til Wi-Fi ved å skanne en QR-kode.
+Denne funksjonen er aktiv når grunnleggende (bilde) modus er aktivert."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code-leser</string>
+    <string name="photopro_strings_rec_txt">SPILLER INN</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Vil du tilbakestille Photo Pro til standardinnstillingene?</string>
+    <string name="photopro_strings_reset_settings_txt">Nullstill innstillinger</string>
+    <string name="photopro_strings_reset_txt">Tilbakestill</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Kan ikke endre sideforhold når filformatet er angitt til RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Du kan ikke velge auto-HDR når Bildeserie er valgt</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Kan ikke velge auto-HDR når et filformat som ikke er JPEG, er valgt</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Bokeh-effekten er ikke tilgjengelig med den valgte linsen</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Bokeh-effekten er ikke tilgjengelig når Transfer &amp; Tagging add-on-modusen er på</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Kan ikke bruke Bildeserie: Hø med den gjeldende valgte linsen</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Kan ikke bruke Bildeserie mens Bokeh-effekten er på</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Bildeserie er ikke tilgjengelig når AI-superoppløsningszoom er valgt</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Kan ikke bruke Bildeserie når et annet filformat enn JPEG er valgt</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Bildeserie er ikke tilgjengelig når Transfer &amp; Tagging add-on er på</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Kan ikke endre</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Kan ikke bruke Blitsmodus når Bildeserie er valgt</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Kan ikke bruke Blitsmodus med den gjeldende valgte linsen</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Kan ikke bruke lykten med linsen som er valgt</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Kan ikke endre filformatet til noe annet enn JPEG når auto-HDR er valgt</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Kan ikke endre filformat til noe annet enn JPEG når Bildeserie er valgt</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Kan ikke endre filformatet til noe annet enn JPEG når Transfer &amp; Tagging add-on-modusen er på</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Kan ikke endre denne innstillingen mens en ekstern mikrofon er tilkoblet</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Denne innstillingen støtter ikke den gjeldende lukkerhastigheten. Hvis du vil endre innstillingen, må du endre lukkerhastigheten til 1 sekund eller mindre.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Kan ikke velge RAW når et annet sideforhold enn 4:3 er valgt</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Kan ikke endre videostørrelsen når opptaket er i sakte film. Lukk sakte film-modusen for å endre denne innstillingen.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Denne innstillingen er bare tilgjengelig når du bruker ultravidvinkellinse</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Denne innstillingen er ikke tilgjengelig hvis HDR er slått på. Slå av HDR for å konfigurere den.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Denne innstillingen støttes ikke for den gjeldende videostørrelsen. Du må endre videostørrelse for å konfigurere innstillingen.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Kan ikke zoome mens Bokeh-effekten brukes</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">APPINFO</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">%1$s-rettighet</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Appen krever følgende rettighet(er) for å utføre denne handlingen.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Gå til Appinfo > Rettigheter for å gi rettigheter.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Kunne ikke fortsette</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">For å ta bilder</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">For å ta bilder og videoer</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">For å hente posisjon</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">For å spille inn lyd</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">For å koble seg til enheter i nærheten</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">For å lese og lagre bilder og videoer</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">For å lagre bilder</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">For å lagre bilder og videoer</string>
+    <string name="photopro_strings_save_destination_description_txt">Velg om bilder og video skal lagres på enhetens interne lagring eller på et SD-kort</string>
+    <string name="photopro_strings_save_destination_internal_txt">Intern lagring</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD-kort</string>
+    <string name="photopro_strings_save_destination_title_txt">Datalagring</string>
+    <string name="photopro_strings_save_destination_txt">Datalagring</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD-kort er ikke tilgjengelig</string>
+    <string name="photopro_strings_selftimer_10_txt">10 sek</string>
+    <string name="photopro_strings_selftimer_3_txt">3 sek</string>
+    <string name="photopro_strings_selftimer_description_txt">Angi en selvutløser for å ta bilde automatisk etter et gitt antall sekunder</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Hold fokus på kameraet</string>
+    <string name="photopro_strings_selftimer_txt">Selvutløser</string>
+    <string name="photopro_strings_settings_off_txt">Av</string>
+    <string name="photopro_strings_settings_on_txt">På</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Bruk alltid grunnleggende modus</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Velg standard Bildetakingsmodus som skal brukes når Photography Pro åpnes</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Sist brukte modus</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Bildetakingsmodus ved start</string>
+    <string name="photopro_strings_shooting_mode_txt">Bildetakingsmodus</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Videokamera</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Lukkerhastighet</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Kan ikke ta bilder når HDR er på</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Slå på en effekt som får huden til å se glattere ut</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Myke hudtoner-effekt</string>
+    <string name="photopro_strings_status_mic_external_txt">Ekstern</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">VH (stereo)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Bakre (mono)</string>
+    <string name="photopro_strings_store_fail_txt">Kunne ikke lagre</string>
+    <string name="photopro_strings_sw_license_txt">Programvarelisens</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Godta</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Avvis</string>
+    <string name="photopro_strings_tips_txt">Tips</string>
+    <string name="photopro_strings_title_permissions_txt">Photo Pro-tillatelse</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Avbryt berøringsfokus</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Autofokus</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Velg det du vil justere når du berører søkeren.
+
+Motivsporing: Den beste funksjonen for å ta bilder av gjenstander i bevegelse. Den holder fokuset låst på gjenstanden du trykket på i søkeren, slik at du kan ta klare bilder av ting som er i bevegelse.
+Autofokus: Trykk på det du vil fokusere på i søkeren.
+Fokus og lysstyrke: Fokuser på og juster lysstyrken til den ønskede posisjonen ved å trykke på søkeren."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Fokus og lysstyrke</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Motivsporing</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Trykk for å justere</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Avbryt motivsporing</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Når du slår på denne funksjonen, kan Transfer &amp; Tagging add-on vise bilder tatt med Xperia-kameraet. Bildene lagres i intern lagring.
+Denne funksjonen er kompatibel med bilder tatt med Photography Pro.
+Når du slår på denne funksjonen, settes filformatet automatisk til JPEG og bruksmodusen til Enkeltbilde."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Transfer &amp; Tagging add-on-modus</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Skjønner</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Neste</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Hopp over</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony er et merke som er elsket av fotografer fordi vi lager produkter som sprer den uendelige gleden og undringen over fotografering.
+Erfaringen og teknologien vår forblir valget til kunder over hele verden.
+
+Photography Pro prøver å gjenskape betjeningen og funksjonene fra fullskalakameraer fra Sony Imaging Products.
+Sony støtter den fotografiske kreativiteten din."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Velg den ideelle modusen som passer motivet.
+Deretter angir du lukkerhastigheten og eksponeringen.
+Hold kameraet stødig langs sidene, og ta et bilde.
+
+Følgende bildetakingsmoduser er tilgjengelige:
+P (Program/auto)
+S (Lukkerprioritet)
+M (Manuell eksponering)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Velg ønsket Bildetakingsmodus med modusratthjelpen øverst til høyre (øverst til venstre i liggende format).
+
+Med grunnleggende modus kan du ta bilder og video med frontkameraet på samme måte som med et vanlig smarttelefonkamera.
+
+Med Auto/P/S/M-modusene får du tilgang til mer avanserte innstillinger du kan bruke når du tar bilder."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Bildetakingsmodus</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Slik bruker du appen</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Når du skal bruke Auto/P/S/M-modusene, holder du kameraet i liggende format og trykker på utløserknappen øverst til høyre på enheten for å ta bilder.
+
+Hvis du velger Auto, stilles lukkerhastighet og eksponering inn automatisk.
+
+Velg en av modusene nedenfor for å stille inn innstillingene manuelt.
+P (Program/auto)
+S (Lukkerprioritet)
+M (Manuell eksponering)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Slik bruker du Auto/P/S/M-modusene</string>
+    <string name="photopro_strings_tutorial_txt">Opplæring</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Kan ikke bruke Photo Pro med den eksterne skjermen som er tilkoblet. For å bruke Photo Pro, lukk appen på Nylige apper-skjermen til Xperia-enheten, og åpne den så igjen.</string>
+    <string name="photopro_strings_unlock_button_txt">Lås opp</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Bruk av kameraet er begrenset av sikkerhetsårsaker</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">For stabil innspilling av 4K-video må du ikke endre denne innstillingen, bortsett fra hvis du bruker et SD-kort med høy hastighet (UHS hastighetsklasse 1 eller høyere, eller hastighetsklasse 10 anbefales).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">For stabil innspilling av video i sakte film må du ikke endre denne innstillingen, bortsett fra hvis du bruker et SD-kort med høy hastighet (UHS hastighetsklasse 1 eller høyere, eller hastighetsklasse 10 anbefales).</string>
+    <string name="photopro_strings_video_explanatory_txt">"For stabil videoinnspilling anbefaler vi at du endrer lagringsplassen til intern lagring. Vil du endre det nå?
+
+Hvis du fortsetter å bruke SD-kortet til datalagring, er det viktig at du bruker et SD-kort med høy hastighet (UHS hastighetsklasse 1 eller høyere eller hastighetsklasse 10 anbefales)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Du kan velge en enkoder for 4K-videoinnspilling.
+
+H.264 (AVC): Standardformat for koding. De fleste enheter og tjenester støtter dette formatet.
+H.265 (HEVC): Format med høyere komprimeringsforhold. Sørg for at avspillingsenhetene eller -tjenestene støtter denne metoden."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Filformat (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Velg videostørrelse.
+HDR er utilgjengelig når full HD (60 fps) eller HD er valgt."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Velg filmstørrelse</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 bps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Full HD</string>
+    <string name="photopro_strings_video_size_txt">Filmstørrelse</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Xperia har et unikt hybridstabiliseringssystem som heter Optical SteadyShot. Det kombinerer optisk bildestabilisering og elektronisk bildestabilisering samtidig. Videoer blir jevne og fri for risting, selv når du tar opp video mens du er i bevegelse.</string>
+    <string name="photopro_strings_video_stabilization_txt">Videostabilisering</string>
+    <string name="photopro_strings_volumekey_description_txt">Tilordne en annen funksjon til volumknappene</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Lukker</string>
+    <string name="photopro_strings_volumekey_txt">Bruk volumknappen som</string>
+    <string name="photopro_strings_volumekey_volume_txt">Volum</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Zoom</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Juster - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Automatisk</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Juster</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Utført</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Prøv på nytt</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Bruk</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Overskyet</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Egendefinert 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Egendefinert 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Egendefinert 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Angi hvitbalanse basert på midten av forhåndsvisningen</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Justering mislyktes</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Justering fullført</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Bruk - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Dagslys</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Fluorescerende</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Glødelampe</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Skygge</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Temp 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Temp 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Temp 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Temp:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Temperatur</string>
+    <string name="photopro_strings_whitebalance_txt">Hvitbalanse</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Kan ikke zoome med frontkameraet</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">AI-superoppløsningszoom</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Velg en innstilling for zoom.
+
+Digital zoom: Zoom med digital behandling basert på bildets sensordata.
+AI-superoppløsningszoom: Zoom med digital behandling som beholder mer av den opprinnelige bildekvaliteten. Det kan ta mer tid å lagre bildene. Dette fungerer automatisk som Digital zoom når Bildeserie er valgt."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Digital zoom</string>
+    <string name="photopro_strings_zoom_type_txt">Innstillinger for zoom</string>
+    <string name="search_menu_title">Søk</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">AV</string>
+    <string name="v7_preference_on">PÅ</string>
+</resources>

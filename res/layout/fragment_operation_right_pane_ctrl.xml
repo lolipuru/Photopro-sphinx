@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="bottom" android:id="@id/fragment_operation_right_pane_ctrl_divider" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/photopro_right_dial_separator_icn" />
+    <ImageView android:layout_gravity="bottom" android:id="@id/fragment_operation_right_pane_ctrl_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="3.0dip" android:src="@drawable/photopro_right_dial_gradient_mask_icn" />
+    <TextView android:layout_gravity="center" android:id="@id/fragment_operation_right_pane_ctrl_auto" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/photopro_strings_settings_auto_dnt_txt" style="@style/Widget.PhotoPro.DialPicker.Item" />
+    <include android:id="@id/fragment_operation_right_pane_ctrl_ss" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/photopro_submenu_margin" layout="@layout/fragment_operation_view_dial" />
+    <include android:id="@id/fragment_operation_right_pane_ctrl_iso" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/photopro_submenu_margin" layout="@layout/fragment_operation_view_dial" />
+    <include android:id="@id/fragment_operation_right_pane_ctrl_ev" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/photopro_submenu_margin" layout="@layout/fragment_operation_view_slider" />
+</FrameLayout>

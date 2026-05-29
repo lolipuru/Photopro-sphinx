@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center" android:height="26.0dip" android:width="38.0dip">
+        <inset android:inset="9.0dip">
+            <shape android:shape="rectangle">
+                <solid android:color="@color/photopro_control_activated" />
+            </shape>
+        </inset>
+    </item>
+</layer-list>

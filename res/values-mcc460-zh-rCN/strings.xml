@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"网络
+连接到WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN已关闭，飞行模式已开启。
+请通过点按“设定”来更改这些设定。"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN已关闭。
+请从“设定”中开启WLAN。"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">无法连接到WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"通过扫描二维码，可以快速访问Web或连接到WLAN。
+在基本（照片）模式下会启用此功能。可从“菜单”>“二维码扫一扫”中启用或禁用此功能。"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">点按以连接到WLAN网络“%1$s”</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"通过扫描二维码，可以快速访问Web或连接到WLAN。
+在基本（照片）模式下会启用此功能。"</string>
+</resources>

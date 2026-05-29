@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"เครือข่าย
+เพื่อเชื่อมต่อกับ WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN ปิดอยู่และโหมดใช้งานบนเครื่องบินเปิดอยู่
+โปรดเปลี่ยนแปลงการตั้งค่าเหล่านี้โดยแตะที่การตั้งค่า"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN ปิดอยู่
+โปรดเปิด WLAN จากการตั้งค่า"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">เชื่อมต่อ WLAN ไม่ได้</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"คุณสามารถเข้าสู่เว็บไซต์หรือเชื่อมต่อกับ WLAN ได้อย่างรวดเร็วโดยการสแกน QR Code
+ฟังก์ชันนี้จะทำงานขณะอยู่ในโหมดพื้นฐาน (ภาพถ่าย) สามารถเปิดหรือปิดใช้งานฟังก์ชันนี้ได้จาก เมนู > ตัวอ่าน QR Code"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">แตะเพื่อเชื่อมต่อกับเครือข่าย WLAN \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"คุณสามารถเข้าสู่เว็บไซต์หรือเชื่อมต่อกับ WLAN ได้อย่างรวดเร็วโดยการสแกน QR Code
+ฟังก์ชันนี้จะทำงานขณะอยู่ในโหมดพื้นฐาน (ภาพถ่าย)"</string>
+</resources>

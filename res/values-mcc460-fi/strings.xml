@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Verkko
+WLAN-yhteyden muodostaminen"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN ei ole käytössä ja lentokonetila on käytössä.
+Muokkaa näitä asetuksia napauttamalla ASETUKSET."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN ei ole käytössä.
+Ota WLAN käyttöön ASETUKSISSA."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">WLAN-yhteyden muodostaminen ei onnistu</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Voit avata verkkosivun tai muodostaa WLAN®-yhteyden nopeasti skannaamalla QR Code -koodin.
+Tämä toiminto on aktiivinen Perustilassa (valokuva). Toiminto voidaan ottaa käyttöön tai poistaa käytöstä kohdasta VALIKKO > QR Code -lukija."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Yhdistä napauttamalla verkkoon %1$s</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Voit avata verkkosivun tai muodostaa WLAN-yhteyden nopeasti skannaamalla QR Code -koodin.
+Tämä toiminto on aktiivinen Perustilassa (valokuva)."</string>
+</resources>

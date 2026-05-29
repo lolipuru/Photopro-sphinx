@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Mag-navigate sa home</string>
+    <string name="abc_action_bar_up_description">Mag-navigate pataas</string>
+    <string name="abc_action_menu_overflow_description">Higit pang opsyon</string>
+    <string name="abc_action_mode_done">Tapos na</string>
+    <string name="abc_activity_chooser_view_see_all">Tingnan lahat</string>
+    <string name="abc_activitychooserview_choose_application">Pumili ng app</string>
+    <string name="abc_capital_off">I-OFF</string>
+    <string name="abc_capital_on">I-ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Maghanap…</string>
+    <string name="abc_searchview_description_clear">I-clear ang query</string>
+    <string name="abc_searchview_description_query">Query sa paghahanap</string>
+    <string name="abc_searchview_description_search">Maghanap</string>
+    <string name="abc_searchview_description_submit">Isumite ang query</string>
+    <string name="abc_searchview_description_voice">Paghahanap gamit ang boses</string>
+    <string name="abc_shareactionprovider_share_with">Ibahagi sa/kay</string>
+    <string name="abc_shareactionprovider_share_with_application">Ibahagi gamit ang %s</string>
+    <string name="abc_toolbar_collapse_description">I-collapse</string>
+    <string name="ble_remote_control_button_any_problem_txt">Pag-troubleshoot</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Mag-pair ng bagong controller</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Maaari kang magtalaga ng panibagong function sa C1 button sa Bluetooth remote control</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">Pag-customize sa C1 button</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Mode ng pag-focus</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Lens</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Shooting mode</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Lumipat sa main/harapang camera</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Lumipat sa photo/video</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Lens</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Lumipat sa AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Lumipat sa main/harapang camera</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Payagan</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Tanggihan</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Payagan ang app na gamitin ang Bluetooth para sa feature na ito?</string>
+    <string name="ble_remote_control_description_txt">"Maaari kang mag-pair ng isang Sony remote control sa pamamagitan ng Bluetooth para gamitin nang malayuan ang mga function sa %1$s.
+I-tap ang Mag-pair ng bagong controller para simulan ang pag-pair ng isang bagong device."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Naka-pair na</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Kung hindi mai-pair ang remote sa device, pumunta sa Mga setting at tingnan kung nakarehistro na ang remote sa listahan ng mga Bluetooth device. Kung nakarehistro na, alisin ang remote mula sa listahan at subukang i-pair ito muli.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Pag-troubleshoot</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Umayon at i-on</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Ayawan</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Lumabas</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Punta Mga Setting</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">OK</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Kinansela ang pag-pair dahil ini-off ang Bluetooth</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Bigo ang pag-pair dahil sa pag-timeout. Subukang muli sa ibang pagkakataon.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Maaaring limitahan ng device na ito ang tiyak na mga function bilang pag-iingat kapag sobra ang paggamit. Kung io-on mo ang Camera endurance mode, isang icon ang ipapakita para ipabatid na magpapanatili ang app ng mataas na performance. Kapag naka-display ang icon na ito, magagamit mo ang app nang mas mahabang oras.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Magagamit lang ang Camera endurance mode kapag ginagamit ang %1$s gamit ang isang remote control na nakakonekta sa pamamagitan ng Bluetooth. Idi-disable ng pagsara sa %1$s ang function na ito.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Maaaring mas tumaas sa tipikal na temperatura ang paggamit sa device. Kapag tumataas ang temperatura, aabisuhan ka ng isang notipikasyon at icon. Sa ganitong kaso, ihinto ang patuloy na paghawak ng device sa kamay mo. Pakitiyak na nakakonekta ang remote control sa pamamagitan ng Bluetooth bago magpatuloy.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Pansin</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Masyadong mataas ang temperatura ng device. Pansamantalang magshu-shut down ang %1$s para magpalamig.
+Kung magkokonekta ka ng isang Bluetooth na remote control, patuloy mong magagamit ang %1$s sa Camera endurance mode."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Masyadong mataas ang temperatura ng device. Pansamantalang magshu-shut down ang %1$s para magpalamig.
+Kung magkokonekta ka ng isang Bluetooth na remote control, magagamit mo ang %1$s sa Camera endurance mode."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Para magamit ang function na ito, i-enable ang [Gamitin ang remote control] pagkaraang i-pair ang isang remote control gamit ang Bluetooth.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Masyadong mataas ang temperatura ng device. Pansamantalang magshu-shut down ang %1$s para magpalamig.
+Kung io-on mo ang Camera endurance mode, magagamit mo ang %1$s gamit ang isang Bluetooth na remote control."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Para i-enable ang function na ito, maki-interaksiyon sa nakakonektang remote control.
+Para kanselahin, i-tap ang LUMABAS."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Naka-enable ang Camera endurance mode</string>
+    <string name="ble_remote_control_endurance_mode_txt">Camera endurance mode</string>
+    <string name="ble_remote_control_off_txt">I-off</string>
+    <string name="ble_remote_control_on_txt">I-on</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Para simulan ang pag-pair, mag-interaksiyon sa remote controller.
+Makatatanggap ka ng mga pagpapaalam at dialog nang dalawang beses. Piliin ang IPARES sa lahat ng ito, tapos pindutin ang anumang key sa naka-pair na device para tapusin ang pag-pair."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Mag-pair ng bagong controller</string>
+    <string name="ble_remote_control_title_txt">Bluetooth remote control</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Gamitin ang remote control</string>
+    <string name="expand_button_title">Advanced</string>
+    <string name="external_display_connected_description_txt">Maaari mong tingnan ang viewfinder mula sa Vlog Monitor</string>
+    <string name="external_display_connected_title_txt">Nakakonekta ang Vlog Monitor</string>
+    <string name="external_display_note_about_external_mic_txt">Tandaan: Para gumamit ng external na mic, pakikonekta ito sa Vlog Monitor bago mag-record. Kung ikokonekta mo ito pagkatapos, kakailanganin mong muling ikabit ang Vlog Monitor.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Tinanggap mo na dati ang patakaran sa privacy pero maaari kang magbago ng isip anumang oras.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Kaliwang arrow</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Kanang arrow</string>
+    <string name="photopro_strings_accessibility_back_txt">Bumalik</string>
+    <string name="photopro_strings_accessibility_close_txt">Isara</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Accessibility: &lt;a href=\"%s\">Bahagyang sumusunod&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Magbasa pa</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Lens button</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Hindi nako-configure</string>
+    <string name="photopro_strings_accessibility_previous_txt">Nakaraan</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Isang grupo ng mga pinakabagong larawan</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Simulan ang pag-record ng video</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">I-pause ang pag-record ng video</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">I-resume ang pag-record ng video</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Kumuha ng snapshot habang nagre-record ng video</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Ihinto ang pag-record ng video</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Itigil ang pag-count down</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Shutter</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Magpalipat-lipat sa pagitan ng main at front camera</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Magpalipat-lipat sa pagitan ng litrato at video</string>
+    <string name="photopro_strings_accessibility_title_txt">Accessibility</string>
+    <string name="photopro_strings_addon_button_menu_txt">Iba</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Creative effect</string>
+    <string name="photopro_strings_addon_panorama_txt">Panorama</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Portrait selfie</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Slow motion</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Upang mag-save ng mga lokasyon, kailangan mong i-enable ang GPS at/o mga wireless network. I-enable na?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">I-save ang lokasyon</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Anonymous na analytics</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Larawan sa harap</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Video sa harap</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Video</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Piliin ang aspect ratio para sa mga larawan</string>
+    <string name="photopro_strings_aspect_ratio_txt">Aspect ratio</string>
+    <string name="photopro_strings_audio_on_all_txt">Naka-on: Lahat</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Naka-on: Shutter lang</string>
+    <string name="photopro_strings_audio_signals_description_txt">I-set kung aling camera ang tutunog parai-play, tulad ng kapag ang self-timer ay bumibilang o kapag tumututok. Maaari mo ring piliing i-play lamang ang shutter sound.</string>
+    <string name="photopro_strings_audio_signals_txt">Mga audio signal</string>
+    <string name="photopro_strings_auto_power_off_txt">Mgssra ang Photo Pro mya-mya dhl sa kwlan ng aktbdd</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Portrait na may backlight</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Backlight</string>
+    <string name="photopro_strings_auto_scene_document_txt">Dokumento</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Gourmet</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Sanggol</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Landscape</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Madilim</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Macro</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Portrait sa gabi</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Eksena sa gabi</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Awtomatikong pagkilala sa tanawin</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Soft snap</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Spotlight</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Tiyaking malinis ang lens at wala sa lens ang daliri mo</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Masyadong maliwanag</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Lumayo sa bagay</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Kailangan pa ng ilaw</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Lumapit sa bagay</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Kasalukuyang hindi available ang bokeh</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Naka-on ang Bokeh</string>
+    <string name="photopro_strings_bokeh_txt">Bokeh</string>
+    <string name="photopro_strings_bt_remote_control_txt">Bluetooth remote control</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Na-save sa intrnl na strge ang lrwn mla sa Tluy-tloy na pgkha</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Hindi magagamit ang Continous shooting na mabagal ang shutter</string>
+    <string name="photopro_strings_button_continue_txt">Magpatuloy</string>
+    <string name="photopro_strings_button_quit_txt">UMALIS</string>
+    <string name="photopro_strings_cancel_txt">Kanselahin</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Slow motion</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K na video</string>
+    <string name="photopro_strings_change_txt">Baguhin</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">I-reset</string>
+    <string name="photopro_strings_color_and_brightness_txt">Kulay at liwanag</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Puno na ang internal storage. Sa SD card na lang mag-save ng data?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Sira o write protected ang internal storage. Sa SD card na lang mag-save ng data?</string>
+    <string name="photopro_strings_common_error_open_txt">Di mabuksan ang %1$s</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">Puno na ang SD card. Sa internal storage na lang mag-save ng data?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">Hindi magamit ang SD card. Sa internal storage na lang mag-save ng data?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Feedback ng continuous shooting</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Kasalukuyang naka-disable ang mga sumusunod na function.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Mangyaring hintaying lumamig ang iyong device at pagkatapos ay i-restart ang camera.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Naka-disable ang mga sumusunod na function</string>
+    <string name="photopro_strings_cooling_mode_txt">Naka-disable ang ilang feature para hindi tumaas ang temperatura ng device</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Mag-asisgn ng isa pang function sa pindutan ng AEL</string>
+    <string name="photopro_strings_custom_ael_txt">Pag-customize sa AEL pindutan</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Sa pamamagitan ng pag-tap sa DISP pindutan, maaari mong ipakita/itago ang impormasyon sa viewfinder.
+Alisan ng check ang anumang item sa menua na ito kung hindi mo nais na ipakita ito kapag nagpakita ka ng impormasyon gamit ang DISP pindutan."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histogram</string>
+    <string name="photopro_strings_custom_disp_level_txt">Level</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Impormasyon ng pasimula</string>
+    <string name="photopro_strings_custom_disp_txt">Pag-customize sa DISP pindutan</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Maaari mong italaga muli o muling mag-order ng mga setting ng mga item sa menu ng function.
+Mag-tap ng isa sa mga item sa function sa ibaba upang mag-assign ng isa pang function na iyong pinili mula sa listahan sa kaliwa.
+I-drag at i-drop ang anuman sa mga item sa pag-function sa ibaba para muling mag-order."</string>
+    <string name="photopro_strings_custom_fn_txt">Pag-customize sa Function menu</string>
+    <string name="photopro_strings_custom_none_txt">Hindi nakatalaga</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Tinanggihan mo na dati ang patakaran sa privacy.</string>
+    <string name="photopro_strings_description_custom_ael_txt">I-lock ang auto exposure</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">I-set ang ISO sa Auto</string>
+    <string name="photopro_strings_description_custom_none_txt">I-disable ang AEL pindutan</string>
+    <string name="photopro_strings_device_id_txt">ID ng Device</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Walang sapat na baterya sa telepono. Kapag mahina na ang baterya, awtomatikong magsasara ang camera.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Huminto ang pagrerekord dahil kaunti na lang ang baterya. I-charge ang iyong device at subukang muli.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Hindi magamit ang camera dahil kaunti nalang ang baterya. I-charge ang iyong device at subukang muli.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Kailangan ng app ang (mga) sumusunod na pahintulot para magawa ito.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Network
+Para kumonekta sa Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Naka-on ang airplane mode.
+Paki-off ang Airplane mode sa MGA SETTING."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Pangalan ng network: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Naka-off ang Wi-Fi at naka-on ang Airplane mode.
+Pakibago ang mga setting na ito sa pamamagitan ng pagtapik sa MGA SETTING."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Naka-off ang Wi-Fi.
+Paki-on ang Wi-Fi sa MGA SETTING."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Mga Setting</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Payagan</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Tanggihan</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Tandaan</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">I-calibrate</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">I-reset</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Walang sapat na internal storage. Inihinto ang tuluy-tuloy na pag-shoot. Mag-delete ng ilang file para magbakante ng storage space.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Ibigay ang mga pahintulot</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Kumokonekta...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Proteksyon ng password: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Seguridad: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Hindi makakonekta sa Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Kung sasang-ayon ka sa ibaba, kokolektahin ng Sony ang &lt;b>&lt;a href=#personal-data>personal na data&lt;/a>&lt;/b> mo para makapagbigay ng naka-customize na suporta at para mapahusay ang mga device at serbisyo. Sony ang hahawak sa data mo ayon sa aming &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>Patakaran sa Privacy&lt;/a>&lt;/b>.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Maaari kang mag-record ng video kahit sa high contrast scene, at gawing mas dramatic ang mga ito at mas malapit sa nakikita mo sa totoong buhay. Pakigamit ang sinusuportahang device/serbisyo para ma-enjoy ang nilalaman sa orihinal nitong kulay at liwanag.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Huwag ipakitang muli</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">Tuloy-tuloy na HDR shooting: Hi</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">Tuloy-tuloy na HDR shooting: Lo</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Tuluy-tuloy na pagkuha: Hi</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Tuluy-tuloy na pagkuha: Lo</string>
+    <string name="photopro_strings_drive_continuous_txt">Continuous shooting</string>
+    <string name="photopro_strings_drive_mode_txt">Drive mode</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Self-timer: 10 seg</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Self-timer: 3 seg</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Self-timer: I-Off</string>
+    <string name="photopro_strings_drive_single_txt">Single shooting</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">Auto HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Io-optimize ng setting na ito ang range ng mga value. Ang pagpoproseso ng DRO ay gumagamit ng isang imahe at sa auto HDR, ipinagsasama ang maramihang exposure para maabot ang resulta.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">D-Range Optimizer</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/Auto HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">Hindi masimulan ang camera. I-restart ang camera o device.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Error</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Hindi na-save ang mga larawan. Maaaring may problema sa data storage. Kung ang Data storage ay naka-set sa SD card, tingnan ang iyong SD card.</string>
+    <string name="photopro_strings_error_fatal_txt">Hindi alam na error.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Hindi</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Oo</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Pansamantalang i-o-off ang camera para lumamig. Isi-save ang recording mo. I-restart ang app sa sandaling lumamig ang device.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Puno na ang memory. Tanggalin ang ilang file mula sa SD card o panloob na storage.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Hindi available ang memorya</string>
+    <string name="photopro_strings_error_memory_title_txt">Error sa memorya</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">Hindi available ang SD card</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Compensation sa exposure</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Makakukuha ka ng mga naka-portrait na larawan na naka-focus sa mukha o mga mata ng mga tao at hayop.
+Para baguhin ang mga target ng focus, mag-tap sa mukha ng kinukunan na nais mong i-focus."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Maaari kang kumuha ng mga video na naka-focus sa mukha o mga mata ng mga tao at hayop.
+Para baguhin ang mga target ng focus, mag-tap sa mukha ng kinukunan na nais mong i-focus.
+Tandaan: Kapag na-enable ang setting na ito, maaaring umiksi ang tagal ng pag-record dahil sa pagtaas ng temperatura ng device."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Naka-on ang Face Detection/Eye AF</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">Face/Eye AF</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">Face/Eye AF: I-off</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">Face/Eye AF: I-on</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">I-unlock ang screen para magamit ang function na ito</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Upang buksan ang mga setting, i-unlock ang screen.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Naka-lock ang screen</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Para i-adjust ang Bokeh effect, mag-tap sa Bokeh icon sa viewfinder at ilipat ang slider.
+Suportado ang function na ito sa Basic (Photo) mode.
+Paalsahin ang mga kinukunan mo gamit ang kapansin-pansing contrast sa pamamagitan ng pag-blur sa background."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Kumuha ng litratong may bokeh effect</string>
+    <string name="photopro_strings_feature_bokeh_txt">Bokeh effect</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Mababago ang drive mode na gumamit ng Single o Continuous shooting, o self-timer.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Drive mode</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Kapag kumukuha ng mga litrato gamit ang camera sa harap, panatilihing nasa lens ng harapang camera ang mga mata mo malapit sa speaker ng tainga.
+Titingin ang mga mata mo sa tamang direksiyon ng larawan."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Direksyon ng mata</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Makakukuha ka ng mga portrait na litrato na naka-focus sa mukha o mga mata ng mga tao at hayop.
+Para baguhin ang mga target ng focus, mag-tap sa mukha ng kinukunan na nais mong i-focus. Maaaring i-enable o i-disable ang function na ito mula sa MENU > Face/Eye AF."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">Face/Eye AF</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Iharap sa camera ang iyong palad. Magsisimulang mag-count down ang self-timer kapag nakita ang palad mo. Para gawing mas madali itong madetekta, ituwid pataas ang mga daliri mo.
+Para i-enable ang function na ito, lumipat sa camera sa harap habang naka-Basic (photo) mode at i-on ang Hand shutter sa MENU."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Hand shutter</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Kapag ginagamit ang ultra-wide lens (0.7x), makakapili ka ng priyoridad. Sa pagpili ng Bigyang-priyoridad ang kalidad ng larawan, makakakuha ka ng mga dynamic na larawang mataas ang kalidad. Kung pipiliin mo ang Bigyang-priyoridad ang pagwawasto para sa distortion, mababawasan mo ang visual na distortion.
+Aktibo ang function na ito kapag kumukuha ng mga litrato na gamit ang ultra-wide lens. Pagkatapos lumipat sa ultra-wide lens, mako-configure mo ang priyoridad mula sa MENU > Ultra-wide lens correction."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Pagtatama ng lens (larawan)</string>
+    <string name="photopro_strings_feature_list_title_txt">Panimula sa mga feature</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Walang-hirap na kunan ang isang artistic na selfie gamit ang mga Bokeh at beauty effect.
+Para gamitin ang function na ito, Mag-tap sa Iba sa viewfinder at piliin ang Portrait selfie.
+Lagyan ng istilo ang selfie mo at ma-enjoy ang mga malikhaing resulta."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Portrait selfie</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Mabilis mong maa-access ang web o kumonekta sa Wi-Fi sa pamamagitan ng pag-scan sa isang QR Code.
+Aktibo ang function na ito habang naka-Basic (Photo) mode. Maaaring i-enabled o i-disable ang function na ito mula sa MENU > QR Code reader."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code reader</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code reader</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">I-tag ang mga litrato at video mo gamit ang mga lokasyon kung saan kinunan ang mga iyon. Mababago mo ang setting na ito sa ibang panahon sa MENU > I-save ang lokasyon.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">I-save ang lokasyon?</string>
+    <string name="photopro_strings_feature_selfie_txt">Camera sa harap</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Makakapag-record ka ng 120 fps na slow motion video nang HD</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Slow motion</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Madali kang makalilipat sa pagitan ng mga camera lens para makunan ang anumang sitwasyon para hamunin ang pagkamalikhain mo.
+Mag-tap sa button sa viewfinder para mag-switch sa pagitan ng mga 0.7x (ultra-wide), 1.0x (wide), 2.9x (telephoto), at 4.4x (telephoto) lens.
+Magagamit mo ang function na ito sa kapwa Basic (Photo) at Basic (Video) mode."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Lumipat ng anggulo gamit ang button</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Madali kang makapag-switch sa pagitan ng mga camera lens para makunan ang anumang sitwasyon para hamunin ang pagkamalikhain mo.
+Mag-tap sa button sa viewfinder para mag-switch sa pagitan ng mga 0.7x (ultra-wide), 1.0x (wide), at 2.1x (standard) na lens.
+Magagamit mo ang function na ito sa kapwa Basic (Larawan) at Basic (Video) mode."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Tripleng camera</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Idi-display ng pag-tap sa lens button ang isang slider na magagamit mo para i-adjust ang level ng zoom.
+Maaari mo rin i-pinch ang screen o gamitin ang mga volume button para mag-zoom."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Paano mag-zoom in/out</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Tanggalin</string>
+    <string name="photopro_strings_file_format_description_txt">"Piliin ang file format para sa mga still image.
+
+RAW: Nangangailangan ng espesyal na software para mag-post-process ng mga larawan. Binibigyang-daan ka nitong gumawa ng mga adjustment habang nililimitahan ang pag-deteriorate ng imahe. Napi-print pagkatapos ng post-processing.
+RAW at JPEG: Nagse-save ng mga RAW image na nangangailangan ng post-processing at mga JPEG image.
+JPEG: Nagse-save ng mga JPEG image.
+
+Paunawa:
+Ang mga RAW format file ay palaging ise-save sa internal storage nang may 4:3 na aspect ratio.
+Ang Continuous shooting at Auto HDR ay hindi available kapag pinili ang RAW o RAW at JPEG."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW at JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Format ng File</string>
+    <string name="photopro_strings_flash_auto_txt">Auto</string>
+    <string name="photopro_strings_flash_description_txt">I-set ang flash mode sa Auto flash, Fill flash, atbp.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Fill flash</string>
+    <string name="photopro_strings_flash_off_txt">I-off</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Pambawas ng red-eye</string>
+    <string name="photopro_strings_flash_torch_description_txt">I-on ang torch</string>
+    <string name="photopro_strings_flash_torch_off_txt">Torch: I-Off</string>
+    <string name="photopro_strings_flash_torch_on_txt">Torch: I-On</string>
+    <string name="photopro_strings_flash_torch_txt">Torch</string>
+    <string name="photopro_strings_flash_txt">Flash mode</string>
+    <string name="photopro_strings_focus_area_center_txt">Gitna</string>
+    <string name="photopro_strings_focus_area_txt">Lugar ng pagpokus</string>
+    <string name="photopro_strings_focus_area_wide_txt">Malawak</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">I-set ang kulay ng focus area sa kuwadro</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Pula</string>
+    <string name="photopro_strings_focus_frame_color_txt">Kulay ng focus area</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Puti</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">Continuous AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">Single-shot AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">Pumili ng isang paraan ng focus</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Deteksyon ng mukha</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Manual Focus</string>
+    <string name="photopro_strings_focus_mode_txt">Mode ng pag-focus</string>
+    <string name="photopro_strings_geotagging_description_txt">I-tag ang mga larawan at video mo gamit ang mga lokasyon kung saan kinunan ang mga iyon</string>
+    <string name="photopro_strings_geotagging_txt">I-save ang lokasyon</string>
+    <string name="photopro_strings_gridline_description_txt">I-set kung dapat ba o hindi na i-display ang mga grid na linya para matulungan ka sa komposisyon ng mga imahe</string>
+    <string name="photopro_strings_gridline_txt">Mga grid line</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Maaari mong simulan ang pagbibilang ng self-timer sa pamamagitan ng pag-ikot ng iyong palad patungo sa camera sa harap. Para gawing mas madali itong madetekta, ituwid pataas ang mga daliri mo.</string>
+    <string name="photopro_strings_hand_shutter_txt">Hand shutter</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">I-set kung tatanggap o hindi ng Haptic na feedback kapag nakikipag-interaksiyon sa display, hal. sa mode dial</string>
+    <string name="photopro_strings_haptic_feedback_txt">Haptic na feedback</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: I-Off</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: I-On</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Intelligent na filter ng hangin</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">Sensitivity ng ISO</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Puwede mong ilunsad ang Photography Pro sa pamamagitan ng pagpindot nang matagal sa shutter button ng device. Gumagana ito kahit na nasa sleep mode o naka-lock ang telepono.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Ilunsad ang Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Ilunsad sa shutter button</string>
+    <string name="photopro_strings_lens_correction_description_txt">Kapag ginagamit ang ultra wide lens, makakapili ka ng priyoridad. Gawing Priyoridad ang kalidad para kuha ang mga dynamic, dekalidad na larawan. Sa Gawin-priyoridad ang pagtatama sa distortion, mababawasan ang visual distortion.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Priyoridad: kalidad ng larawan</string>
+    <string name="photopro_strings_lens_correction_on_txt">Priyoridad: pagtatama sa distortion</string>
+    <string name="photopro_strings_lens_correction_txt">Ultra-wide lens correction</string>
+    <string name="photopro_strings_lens_txt">Lens</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">I-calibrate</string>
+    <string name="photopro_strings_level_calibration_description_txt">Kung kinakailangan, maka-calibrate mo ang Level para ayusin ang mga deviation sa direksyon ng pag-tilt. Tiyaking nakapahalagang ang camera, pagkatapos ay piliin ang I-calibrate.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Tapos na ang pag-calibrate</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Na-reset ang setting ng pag-calibrate</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Pag-calibrate ng Level</string>
+    <string name="photopro_strings_lock_switch_txt">I-lock</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Nahinto ang pag-record dahil sa limitasyon ng maximum na laki ng file</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Ihininto ang pagre-record dahil sa maximum na limitasyon ng oras sa pagre-record</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Hindi makapag-save. Puno na ang memory.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Ilapat</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">I-save</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Itakda</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">I-save ang kasalukuyang kumbinasyon ng mga mode at setting?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Na-save ang mga setting ng Camera.
+Madali mong mare-recall ang mga setting na ito gamit ang MR shooting mode."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Memory ng mga setting ng Camera</string>
+    <string name="photopro_strings_memory_recall_txt">I-recall ang cam settings</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Litrato (Harap)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Litrato</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Slow motion</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Video (Harap)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Video</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Exposure/Kulay</string>
+    <string name="photopro_strings_menu_tab_focus_txt">I-focus</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Pag-set Up</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Pagkuha</string>
+    <string name="photopro_strings_menu_title_txt">Menu</string>
+    <string name="photopro_strings_metering_center_txt">Gitna</string>
+    <string name="photopro_strings_metering_multi_txt">Multi</string>
+    <string name="photopro_strings_metering_spot_txt">Spot</string>
+    <string name="photopro_strings_metering_txt">Metering mode</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Piliin kung aling mic ang gagamitin habang nagre-record ng video:
+1. LR mic: Nagre-record ng stereo sound gamit ang kaliwa at kanan na mikropono (itaas at ibaba kapag naka-portrait ang oryentasyon)
+2. Likurang mic: Nagre-record ng mono sound gamit ang likurang mikropono"</string>
+    <string name="photopro_strings_mic_setting_external_txt">External mic</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">LR mic (stereo)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Likurang mic (mono)</string>
+    <string name="photopro_strings_mic_setting_txt">Mic</string>
+    <string name="photopro_strings_mode_auto_description_txt">Awtomatikong madedetekta ng camera ang uri ng eksena at kukuha ng mga litrato na gamit ang mga auto setting habang binabawasan ang ingay at pag-uga ng camera.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Auto Mode</string>
+    <string name="photopro_strings_mode_basic_description_txt">"Sa mode na ito, makakukuha ka ng mga litrato gamit ang onscreen na shutter button, halintulad sa karanasan sa karaniwang smartphone camera.
+Gamitina ng mode na ito para kumuha ng mga selfie, mag-shoot ng mga video, at mag-scan ng mga QR code."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Basic mode</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Magdi-display ito ng paliwanag ng bawat Shooting mode kapag nagpapalit ng mga mode gamit ang mode dial</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Gabay sa mode dial</string>
+    <string name="photopro_strings_mode_m_description_txt">"Mano-manong kontrolin ang bilis ng shutter at Sensitivity ng ISO.
+Sa pag-expose nang mas matagal, posibleng kunan ang mga litratong humuhuli sa bakas ng pagkilos ng mga bagay gamit ang motion blur."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Manual na Exposure</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Intelligent auto (Memory recall)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Kumuha ng mga litrato gamit ang mga naka-save na setting mo.
+Marerehistro mo ang mga madalas gamitin na kumbinasyon ng mga mode at setting."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Memory recall</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Manual exposure (Memory recall)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Program auto (Memory recall)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Shutter speed priority (Memory recall)</string>
+    <string name="photopro_strings_mode_p_description_txt">Awtomatikong kokontrolin ng camera ang bilis ng shutter, at ipapaubaya sa iyo ang iba pang mga setting.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Program na Auto</string>
+    <string name="photopro_strings_mode_s_description_txt">"Mano-manong kontrolin ang bilis ng shutter para baguhin kung paano mo kinukunan ang mga kumikilos na bagay.
+Tila inihihinto ng mabilis na bilis ng shutter ang isang bagay na kumikilos, habang mas nakukunan ng mabagal na bilis ng shutter ang blur ng kilos."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Priyoridad na Bilis ng Shutter</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Awtomatikong nai-set ang Drive mode sa Single shooting dahil naka-on ang Transfer &amp; Tagging na add-on mode</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Awtomatikong nai-set ang format ng file sa JPEG dahil naka-on ang Transfer &amp; Tagging na add-on mode</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Hindi magagamit ang camera sa Multi-window o sa isang pop-up window. Isara ang window at subukang muli. Kung gumagamit ka ng Multi-window, maaari mong i-drag ang gitna ng split bar para gawing full screen ang camera.</string>
+    <string name="photopro_strings_multi_window_txt">I-drag ang gitna ng split bar upang ilipat sa full screen ang %1$s upang gamitin ang</string>
+    <string name="photopro_strings_ok_txt">OK</string>
+    <string name="photopro_strings_personal_data_txt">Personal na data</string>
+    <string name="photopro_strings_privacy_policy_txt">Patakaran sa Pagkapribado</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Kumukuha ng larawan. Pakihintay.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Hindi sinusuportahan ang QR Code</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Buksan ang \"%1$s\" sa browser mo</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Hindi makakonekta sa Wi-Fi network na ito</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">I-tap at kmnekta sa Wi-Fi network \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code reader</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Mabilis mong maa-access ang web o kumonekta sa Wi-Fi sa pamamagitan ng pag-scan sa isang QR Code.
+Aktibo ang function na ito habang naka-Basic (Photo) mode."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code reader</string>
+    <string name="photopro_strings_rec_txt">REC</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">I-reset ang Photo Pro sa default na setting?</string>
+    <string name="photopro_strings_reset_settings_txt">I-reset ang mga setting</string>
+    <string name="photopro_strings_reset_txt">I-reset</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Hindi mapapalitan ang aspect ratio kapag ang file format ay naka-set sa RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Hindi mapipili ang auto HDR kapag napili ang Tuluy-tuloy na pagkuha</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Hindi mapipili ang auto HDR kapag napili ang file format na iba pa kaysa sa JPEG</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Hindi available ang Bokeh effect sa kasalukuyang napiling lens</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Hindi available ang Bokeh effect na ito kapag naka-on ang Transfer &amp; Tagging add-on mode</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Hindi magagamit ang Tuluy-tuloy na pagkuha: Mataas sa kasalukuyang napiling lens</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Hindi mapipili ang Continous shooting habang gamit ang Bokeh effect</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Hindi magagamit ang Continuous shooting kapag nakapili ang AI super resolution zoom</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Hindi mababago ang Continous shooting kapag ang piniling format ng file ay iba kaysa sa JPEG</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Hindi available ang continous shooting kapag naka-on ang Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Hindi mababago</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Hindi magagamit ang Flash mode kapag pinili ang Tuluy-tuloy na pag-shoot</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Hindi magagamit ang  Flash mode sa kasalukuyang napiling lens</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Hindi magagamit ang Torch sa lens na kasalukuyang pinili</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Hindi mabago ang format ng file sa isa bukod sa JPEG kapag napili ang auto HDR</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Hindi mababago ang format ng file na iba kaysa sa JPEG kapag pinili ang Continous shooting</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Hindi mababago ang file format nang iba kaysa sa JPEG kapag naka-on ang Transfer &amp; Tagging add-on mode</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Hindi mababago ang setting na ito habang may nakakabit na external mic</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Hindi sinusuportahan ng setting na ito ang kasalukuyang bilis ng shutter. Para i-configure ang setting na ito, gawing 1 segundo o mas maikli ang bilis ng shutter.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Hindi mapipili ang RAW kapag ang aspect ratio ay iba kaysa sa piniling 4:3x</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Hindi mababago ang laki ng video kapag nagrerecord sa slow motion. Para mabago ang setting na ito lumabas sa slow motion mode.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Magagamit lang ang setting na ito kapag ginagamit ang ultra-wide lens</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Hindi available ang setting na ito habang naka-on ang HDR. Upang i-configure ito, i-off ang HDR.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Hindi sinusuportahan ang setting na ito para sa kasalukuyang laki ng video. Para ikompigura ang setting na ito, baguhin ang laki ng video.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Hindi makakapag-zoom habang ginagamit ang Bokeh effect</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">INFO NG APP</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">Pahintulot sa %1$s</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Kailangan ng app ang (mga) sumusunod na pahintulot para magawa ito.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Upang magbigay ng mga pahintulot, pumunta sa Impormasyon ng app > Mga Pahintulot.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Hindi makapagpatuloy</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Para kumuha ng mga larawan</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Para kumuha ng mga larawan at video</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Para kunin ang lokasyon</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Para mag-record ng tunog</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Para kumonekta sa malalapit na device</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Para magbasa at mag-save ng mga larawan at video</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Para mag-save ng mga larawan</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Para mag-save ng mga larawan at video</string>
+    <string name="photopro_strings_save_destination_description_txt">Piliin kung mag-storeng mga larawan at video sa panloob na storage ng iyong device o sa isang SD card</string>
+    <string name="photopro_strings_save_destination_internal_txt">Panloob na storage</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD card</string>
+    <string name="photopro_strings_save_destination_title_txt">Storage ng data</string>
+    <string name="photopro_strings_save_destination_txt">Storage ng data</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">Hindi available ang SD card</string>
+    <string name="photopro_strings_selftimer_10_txt">10 seg.</string>
+    <string name="photopro_strings_selftimer_3_txt">3 seg.</string>
+    <string name="photopro_strings_selftimer_description_txt">I-set ang isang self-timer para awtomatikong kumuha ng larawan pagkatapos ng isang itinalagang bilang ng mga segundo na ang lumipas</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Manatiling nakatingin sa camera</string>
+    <string name="photopro_strings_selftimer_txt">Self-timer</string>
+    <string name="photopro_strings_settings_off_txt">I-off</string>
+    <string name="photopro_strings_settings_on_txt">I-on</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Laging gamitin ang Basic mode</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Piliin ang default na Shooting mode kapag ilulunsad ang Photography Pro</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Huling mode na gamit</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Ilulunsad ang Shooting mode</string>
+    <string name="photopro_strings_shooting_mode_txt">Shooting mode</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Video camera</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Bilis ng shutter</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Hindi makakukuha ng mga snapshot kapag naka-on ang HDR</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">I-on ang isang effect na magpapalabas sa skin na maging mas makinis</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Effect na soft skin</string>
+    <string name="photopro_strings_status_mic_external_txt">External</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">LR (stereo)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Likod (mono)</string>
+    <string name="photopro_strings_store_fail_txt">Hindi ma-save</string>
+    <string name="photopro_strings_sw_license_txt">Lisensiya ng software</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Tanggapin</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Tanggihan</string>
+    <string name="photopro_strings_tips_txt">Mga Tip</string>
+    <string name="photopro_strings_title_permissions_txt">Pahintulot sa Photo Pro</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Kanselahin ang Touch focus</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Autofocus</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Piliin kung anong ia-adjust kapag pinindot mo ang viewfinder.
+
+Object tracking: Ang pinakamahusay na function para sa pag-shoot ng mga gumagalaw na bagay. Pinapanatili nitong naka-lock ang focus sa bagay na mag-tap mo sa viewfinder, pinapayagan kang mag-shoot nang malinaw ng mga gumagalaw na bagay.
+Autofocus: Mag-tap kung saan mo nais na mag-focus sa viewfinder.
+Focus at liwanag: I-focus at i-adjust ang liwanag ng nais na posisyon sa pamamagitan ng pag-tap sa viewfinder."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Focus at liwanag</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Pagsubaybay sa object</string>
+    <string name="photopro_strings_touch_to_adjust_txt">I-touch upang i-adjust</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Kanselahin ang Object tracking</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Magbibigay-daana ng pag-on sa function na ito na makapag-display ang Transfer &amp; Tagging na add-on ng mga litratong kinunan gamit ang Xperia camera. Isi-save ang mga litrato sa internal storage.
+Akma ang function na ito sa mga litratong kinunan na gamit ang Photography Pro.
+Kapag ini-on ang function na ito, awtomatikong mase-set ang format ng file sa JPEG, at ang Drive mode sa Single shooting."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Transfer &amp; Tagging add-on mode</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Alam ko na</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Susunod</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Lumaktaw</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Ang Sony ay isang brand na mahal ng mga photographer dahil sa paggawa ng mga produktong nagpapalaganap ng walang hanggang saya at hiwaga ng potograpiya.
+Ang aming karanasan at teknolohiya ay patuloy na pinipili ng mga customer sa buong mundo.
+
+Hinahangad ng Photography Pro na gayahin ang operability at mga function ng mga full-scale camera mula sa Sony Imaging Products.
+Sinusuportahan ng Sony ang iyong photographic creativity."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Piliin ang naaangkop na Mode ng pagkuha para tumugma sa iyong subject.
+Susunod, itakda ang bilis ng shutter at exposure.
+I-steady ang camera mula sa mga gilit, at kumuha ng larawan.
+
+Kasama sa mga Mode ng pagkuha ang:
+P (Program na auto)
+S (Priyoridad na bilis ng shutter)
+M (Manual na exposure)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Piliin ang mas gusto mong shooting mode gamit ang mode dial s kanang-itaas (kaliwang-itaas kapag naka-landscape ang oryentasyon).
+
+Gamit ang Basic mode, madali kang makakukuha ng mga litrato at video gamit ang camera sa harap sa paraang halintulad sa isang regular na smartphone camera.
+
+Gamit ang mga Auto/P/S/M mode, maa-access mo ang higit pang mga advanced na setting para kunan ang pinakamagaganda mong litrato."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Shooting mode</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Paano gamitin</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Kapag ginagamit ang mga Auto/P/S/M mode, hawakan nang mabuti ang camera sa landscape na oryentasyon at pindutin ang shutter button sa kanang itaas na gilid ng device para kumuha ng mga litrato.
+
+Awtomatikong ise-set ng pagpili sa Auto ang mga function gaya ng bilis ng shutter at exposure.
+
+Para mano-manong i-configure ang mga setting, pumili ng isa sa mga mode sa ibaba.
+P (Program na auto)
+S (Priyoridad na Bilis ng Shutter)
+M (Manual na exposure)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Paano gamitin ang Auto/P/S/M mode</string>
+    <string name="photopro_strings_tutorial_txt">Tutorial</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Hindi magagamit ang Photo Pro gamit ang nakakonektang external display. Para magamit ang Photo Pro, isara ang app mula sa Pinakabagong mga app na screen Xperia mo at pagkatapos ay i-restart ito.</string>
+    <string name="photopro_strings_unlock_button_txt">I-unlock</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Pinaghihigpitan ang paggamit ng camera dahil sa seguridad</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Para sa stable na pagre-record ng 4K na video, hindi mo dapat palitan ang setting na ito maliban kung gumagamit ka ng high-speed na SD card (UHS Speed Class 1 o mas mataas, o inirerekomenda ang Speed Class 10).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Para sa stable na pagre-record ng slow motion na video, huwag palitan ang setting na ito maliban kung gumagamit ka ng high-speed na SD card (UHS Speed Class 1 o mas mataas, o inirerekomenda ang Speed Class 10).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Para sa stable na pagre-record ng video, inirerekomenda naming ilipat mo ang storage ng data sa Internal storage. Gusto mo bang ilipat ngayon?
+
+Kung patuloy mong gagamitin ang SD card bilang storage ng data, tiyaking gumamit ng high-speed na SD card (UHS Speed Class 1 o mas mataas, o inirerekomenda ang Speed Class 10)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Makakapili ka ng encoder para sa 4K video recordings.
+
+H.264 (AVC): Ang standard na format para sa pag-encode ay sinusuportahan ng karamihan sa mga device at serbisyo.
+H.265 (HEVC): Ang format na may mas mataas na compression ratio. Tiyakin sinusuportahan ng paraan na ito ang mga playback device o serbisyo mo."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Format ng file (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Pumili ng laki ng video.
+Hindi availale ang HDR kapag pinili ang Full HD (60 fps) o HD."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Pumili ng laki ng video</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 fps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Full HD</string>
+    <string name="photopro_strings_video_size_txt">Laki ng video</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Ang Xperia ay may natatanging hybrid stabilization system na tinatawag na Optical SteadyShot - pagsasama ng optikal na pag-stabilize ng imahe at elektronikong pag-stabilize ng imahe nang sabay-sabay. Binibigyan ka nito ng libre at smooth na mga video kahit na nagre-record habang kumikilos.</string>
+    <string name="photopro_strings_video_stabilization_txt">Pag-stabilize ng video</string>
+    <string name="photopro_strings_volumekey_description_txt">Mag-assign ng isa pang function sa mga volume button</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Shutter</string>
+    <string name="photopro_strings_volumekey_txt">Gamitin Volume button bilang</string>
+    <string name="photopro_strings_volumekey_volume_txt">Volume</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Zoom</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">I-adjust - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Awtomatiko</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Iayos</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Tps na</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Subukan muli</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Ilapat</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Maulap</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Custom 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Custom 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Custom 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Ilapat ang white balance batay sa sentro ng preview</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Hindi na-adjust</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Kumpleto na ang pag-adjust</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Ilapat - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Maaraw</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Fluorescent</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Incandescent</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Shade</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Temp 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Temp 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Temp 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Temp:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Temperatura</string>
+    <string name="photopro_strings_whitebalance_txt">White balance</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Hindi makapag-zoom gamit ang camera sa harap</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">AI super resolution zoom</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Pumili ng setting ng zoom.
+
+Digital zoom: Mag-zoom gamit ang digital na processing batay sa data ng image sensor.
+AI super resolution zoom: Mag-zoom gamit ang digital processing na mas nagpapanatili sa orihinal na kalidad ng larawan. Maaaring mas matagalan ang pag-save ng mga litrato. Awtomatiko itong gagana bilang Digital zoom kapag pinili ang Continuous shooting."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Digital zoom</string>
+    <string name="photopro_strings_zoom_type_txt">Mga setting ng zoom</string>
+    <string name="search_menu_title">Maghanap</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">NAKA-OFF</string>
+    <string name="v7_preference_on">NAKA-ON</string>
+</resources>

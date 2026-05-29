@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonymobile.photopro.view.widget.CustomConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Space android:id="@id/fragment_operation_view_finder_space" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_marginBottom="@dimen/photopro_camera_status_bar_height" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintDimensionRatio="4:3" app:layout_constraintStart_toEndOf="@id/fragment_operation_left_pane" app:layout_constraintTop_toTopOf="parent" />
+    <include android:id="@id/fragment_operation_left_pane" android:layout_width="@dimen/photopro_left_area_width" android:layout_height="fill_parent" app:layout_constraintStart_toStartOf="parent" layout="@layout/fragment_operation_left_pane" />
+    <include android:id="@id/fragment_operation_right_pane" android:layout_width="0.0dip" android:layout_height="fill_parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/fragment_operation_view_finder_space" layout="@layout/fragment_operation_right_pane" />
+    <ViewStub android:id="@id/fragment_operation_overlay_lens" android:layout="@layout/fragment_operation_overlay_lens" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/fragment_operation_overlay_aperture" android:layout="@layout/fragment_operation_overlay_aperture" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include android:id="@id/fragment_operation_overlay_submenu" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/fragment_operation_overlay_submenu" />
+    <View android:id="@id/fragment_operation_overlay_except_right" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/fragment_operation_right_pane" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <ViewStub android:id="@id/fragment_operation_overlay_capture_progress" android:layout="@layout/view_capture_progress" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include android:id="@id/thermal_notice" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/fragment_operation_thermal_notice" />
+</com.sonymobile.photopro.view.widget.CustomConstraintLayout>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ux_recommended_resolution_array_beagle">
+        <item>THIRTEEN_MP</item>
+        <item>WIDE_TEN_MP</item>
+        <item>SQUARE_NINE_POINT_SEVEN</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_blakiston">
+        <item>NINETEEN_MP</item>
+        <item>TWELVE_MP</item>
+        <item>WIDE_SEVENTEEN_MP</item>
+        <item>WIDE_TWELVE_MP</item>
+        <item>SQUARE_FOURTEEN_MP</item>
+        <item>SQUARE_NINE_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_cooper">
+        <item>NINETEEN_MP</item>
+        <item>SEVENTEEN_MP</item>
+        <item>TWELVE_MP</item>
+        <item>WIDE_SEVENTEEN_MP</item>
+        <item>WIDE_THIRTEEN_MP</item>
+        <item>WIDE_TWELVE_MP</item>
+        <item>SQUARE_FOURTEEN_MP</item>
+        <item>SQUARE_TWELVE_MP</item>
+        <item>SQUARE_NINE_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_eiger">
+        <item>TWELVE_MP_MILVUS</item>
+        <item>WIDE_NINE_MP</item>
+        <item>SQUARE_NINE_MP_MILVUS</item>
+        <item>FILM_TEN_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_milvus">
+        <item>TWELVE_MP_MILVUS</item>
+        <item>WIDE_NINE_MP</item>
+        <item>SQUARE_NINE_MP_MILVUS</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_pansy">
+        <item>FIVE_MP</item>
+        <item>WIDE_FOUR_MP</item>
+        <item>SQUARE_FOUR_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_poodle">
+        <item>THIRTEEN_MP</item>
+        <item>WIDE_TEN_MP</item>
+        <item>SQUARE_NINE_POINT_SEVEN</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_rose">
+        <item>EIGHT_MP</item>
+        <item>WIDE_SIX_MP</item>
+        <item>SQUARE_SIX_MP</item>
+        <item>FILM_EIGHT_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_superiorauto_beagle">
+        <item>THIRTEEN_MP</item>
+        <item>WIDE_TEN_MP</item>
+        <item>SQUARE_NINE_POINT_SEVEN</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_superiorauto_blakiston">
+        <item>NINETEEN_MP</item>
+        <item>TWELVE_MP</item>
+        <item>WIDE_SEVENTEEN_MP</item>
+        <item>WIDE_TWELVE_MP</item>
+        <item>SQUARE_FOURTEEN_MP</item>
+        <item>SQUARE_NINE_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_superiorauto_cooper">
+        <item>SEVENTEEN_MP</item>
+        <item>TWELVE_MP</item>
+        <item>WIDE_THIRTEEN_MP</item>
+        <item>WIDE_TWELVE_MP</item>
+        <item>SQUARE_TWELVE_MP</item>
+        <item>SQUARE_NINE_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_superiorauto_eiger">
+        <item>TWELVE_MP_MILVUS</item>
+        <item>WIDE_NINE_MP</item>
+        <item>SQUARE_NINE_MP_MILVUS</item>
+        <item>FILM_TEN_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_superiorauto_milvus">
+        <item>TWELVE_MP_MILVUS</item>
+        <item>WIDE_NINE_MP</item>
+        <item>SQUARE_NINE_MP_MILVUS</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_superiorauto_pansy">
+        <item>FIVE_MP</item>
+        <item>WIDE_FOUR_MP</item>
+        <item>SQUARE_FOUR_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_superiorauto_poodle">
+        <item>THIRTEEN_MP</item>
+        <item>WIDE_TEN_MP</item>
+        <item>SQUARE_NINE_POINT_SEVEN</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_superiorauto_rose">
+        <item>EIGHT_MP</item>
+        <item>WIDE_SIX_MP</item>
+        <item>SQUARE_SIX_MP</item>
+        <item>FILM_EIGHT_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_4k_blakiston">
+        <item>FOUR_K_UHD_H264</item>
+        <item>FOUR_K_UHD_H265</item>
+        <item>FULL_HD</item>
+        <item>FULL_HD_60FPS</item>
+        <item>HD</item>
+        <item>VGA</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_4k_cooper">
+        <item>FOUR_K_UHD_H264</item>
+        <item>FOUR_K_UHD_H265</item>
+        <item>FULL_HD</item>
+        <item>FULL_HD_60FPS</item>
+        <item>HD</item>
+        <item>VGA</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_4k_eiger">
+        <item>FOUR_K_UHD_H264</item>
+        <item>FOUR_K_UHD_H265</item>
+        <item>FULL_HD</item>
+        <item>FULL_HD_60FPS</item>
+        <item>SQUARE_FULL_HD</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_4k_milvus">
+        <item>FOUR_K_UHD_H264</item>
+        <item>FOUR_K_UHD_H265</item>
+        <item>FULL_HD</item>
+        <item>FULL_HD_60FPS</item>
+        <item>SQUARE_FULL_HD</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_beagle">
+        <item>FULL_HD</item>
+        <item>HD</item>
+        <item>VGA</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_blakiston">
+        <item>FULL_HD</item>
+        <item>FULL_HD_60FPS</item>
+        <item>HD</item>
+        <item>VGA</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_cooper">
+        <item>FULL_HD</item>
+        <item>FULL_HD_60FPS</item>
+        <item>HD</item>
+        <item>VGA</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_default">
+        <item>FULL_HD</item>
+        <item>HD</item>
+        <item>VGA</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_eiger">
+        <item>FULL_HD</item>
+        <item>FULL_HD_60FPS</item>
+        <item>SQUARE_FULL_HD</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_milvus">
+        <item>FULL_HD</item>
+        <item>FULL_HD_60FPS</item>
+        <item>SQUARE_FULL_HD</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_pansy">
+        <item>FULL_HD</item>
+        <item>HD</item>
+        <item>VGA</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_poodle">
+        <item>FULL_HD</item>
+        <item>HD</item>
+        <item>VGA</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_rose">
+        <item>FULL_HD</item>
+        <item>SQUARE_FULL_HD</item>
+        <item>HD</item>
+    </string-array>
+    <integer-array name="zoom_ruler_labeled_focal_length_pdx_203">
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+        <item>35</item>
+        <item>50</item>
+        <item>70</item>
+        <item>85</item>
+        <item>100</item>
+        <item>135</item>
+        <item>200</item>
+    </integer-array>
+    <integer-array name="zoom_ruler_labeled_focal_length_pdx_215">
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+        <item>35</item>
+        <item>50</item>
+        <item>70</item>
+        <item>85</item>
+        <item>105</item>
+        <item>135</item>
+        <item>200</item>
+        <item>300</item>
+    </integer-array>
+    <integer-array name="zoom_ruler_labeled_focal_length_pdx_217">
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+        <item>35</item>
+        <item>50</item>
+        <item>85</item>
+        <item>100</item>
+        <item>135</item>
+        <item>150</item>
+    </integer-array>
+</resources>

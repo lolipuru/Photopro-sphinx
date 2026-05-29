@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center|top" android:id="@id/dial_container" android:layout_width="@dimen/photopro_mode_dial_diameter" android:layout_height="@dimen/photopro_mode_dial_diameter" android:translationY="@dimen/photopro_mode_dial_x_translation"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/circle" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/mode_dial_background" />
+    <View android:layout_gravity="center" android:id="@id/divider" android:background="@color/photopro_mode_dial_outline" android:layout_width="1.0dip" android:layout_height="@dimen/photopro_mode_dial_divider_size" />
+    <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/photopro_dial_for_shooting_mode_indicator_icn" android:scaleType="fitCenter" android:translationY="@dimen/photopro_mode_dial_indicator_x_translation" android:rotation="90.0" />
+</FrameLayout>

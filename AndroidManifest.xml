@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="33" android:compileSdkVersionCodename="13" package="com.sonymobile.photopro" platformBuildVersionCode="33" platformBuildVersionName="13">
+    <compatible-screens/>
+    <queries>
+        <package android:name="com.sonymobile.addoncamera.portraitselfie"/>
+        <package android:name="com.sonyericsson.android.addoncamera.artfilter"/>
+        <package android:name="com.sonyericsson.android.camera3d"/>
+        <package android:name="com.android.musicfx"/>
+        <package android:name="com.sonymobile.providers.media"/>
+        <package android:name="com.google.android.googlequicksearchbox"/>
+        <intent>
+            <action android:name="com.android.camera.action.REVIEW"/>
+            <category android:name="android.intent.category.DEFAULT"/>
+            <data android:mimeType="image/jpeg"/>
+        </intent>
+        <intent>
+            <action android:name="com.android.camera.action.REVIEW"/>
+            <category android:name="android.intent.category.DEFAULT"/>
+            <data android:mimeType="image/x-adobe-dng"/>
+        </intent>
+    </queries>
+    <permission android:name="com.sonymobile.permission.SOMC_CAMERA" android:protectionLevel="signatureOrSystem"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:maxSdkVersion="32" android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="com.sonymobile.permission.CAMERA_ADDON"/>
+    <uses-permission android:name="com.sonymobile.permission.CAMERA_STATUS_PROVIDER"/>
+    <uses-permission android:name="com.sonymobile.permission.SOMC_CAMERA"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE"/>
+    <uses-feature android:name="android.hardware.camera"/>
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false"/>
+    <uses-feature android:name="android.hardware.usb.host"/>
+    <application android:allowBackup="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:extractNativeLibs="false" android:hardwareAccelerated="true" android:icon="@drawable/photopro_app_icn" android:label="@string/photopro_strings_application_fullname_txt" android:largeHeap="true" android:name="com.sonymobile.photopro.PhotoProApplication" android:resizeableActivity="false" android:supportsRtl="true" android:theme="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen">
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:label="@string/photopro_strings_application_name_txt" android:launchMode="singleTask" android:maxAspectRatio="2.5" android:name="com.sonymobile.photopro.PhotoProActivity" android:resizeableActivity="false" android:screenOrientation="portrait" android:theme="@style/PhotoProTheme" android:turnScreenOn="true" android:windowSoftInputMode="stateAlwaysHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <meta-data android:name="android.app.shortcuts" android:resource="@xml/shortcuts"/>
+        </activity>
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:excludeFromRecents="true" android:exported="false" android:label="@string/photopro_strings_application_name_txt" android:launchMode="singleTask" android:maxAspectRatio="2.5" android:name="com.sonymobile.photopro.InternalPhotoProActivity" android:resizeableActivity="false" android:screenOrientation="portrait" android:theme="@style/PhotoProTheme" android:turnScreenOn="true" android:windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:excludeFromRecents="true" android:exported="true" android:label="@string/photopro_strings_application_name_txt" android:launchMode="singleTask" android:maxAspectRatio="2.5" android:name="com.sonymobile.photopro.PhotoProGestureTriggerActivity" android:resizeableActivity="false" android:screenOrientation="portrait" android:showWhenLocked="true" android:taskAffinity="com.sonymobile.photopro.gesturetrigger" android:theme="@style/PhotoProTheme" android:turnScreenOn="true" android:windowSoftInputMode="stateAlwaysHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:excludeFromRecents="true" android:exported="true" android:label="@string/photopro_strings_application_name_txt" android:launchMode="singleTask" android:maxAspectRatio="2.5" android:name="com.sonymobile.photopro.PhotoProGestureTriggerActivityOnLockScreen" android:resizeableActivity="false" android:screenOrientation="portrait" android:showWhenLocked="true" android:taskAffinity="com.sonymobile.photopro.gesturetrigger" android:theme="@style/PhotoProTheme" android:turnScreenOn="true" android:windowSoftInputMode="stateAlwaysHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.media.action.STILL_IMAGE_CAMERA_SECURE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboard|navigation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="false" android:name="com.sonymobile.photopro.FeatureListActivity" android:resizeableActivity="false" android:screenOrientation="unspecified" android:showWhenLocked="true" android:theme="@style/PhotoProTheme" android:turnScreenOn="true"/>
+        <activity android:configChanges="keyboardHidden|mcc|mnc|orientation|screenSize|uiMode" android:excludeFromRecents="true" android:exported="true" android:label="@string/photopro_strings_application_name_txt" android:name="com.sonymobile.photopro.OneshotPhotoActivityOnLockScreen" android:resizeableActivity="false" android:screenOrientation="portrait" android:showWhenLocked="true" android:theme="@style/PhotoProTheme" android:turnScreenOn="true" android:windowSoftInputMode="stateAlwaysHidden">
+            <intent-filter>
+                <action android:name="android.media.action.IMAGE_CAPTURE_SECURE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="orientation" android:excludeFromRecents="true" android:exported="true" android:name="com.sonymobile.photopro.PhotoProImageActivity" android:resizeableActivity="false" android:screenOrientation="portrait" android:showWhenLocked="true" android:theme="@style/SomcCameraBlackScreenTheme" android:turnScreenOn="true">
+            <intent-filter>
+                <action android:name="android.media.action.STILL_IMAGE_CAMERA"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.VOICE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.media.action.VIDEO_CAMERA"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.VOICE"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:label="@string/photopro_strings_application_name_txt" android:name="com.sonymobile.photopro.OneshotPhotoActivity" android:resizeableActivity="false" android:screenOrientation="portrait" android:theme="@style/PhotoProTheme" android:windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:name="com.sonymobile.photopro.MultiWindowActivity" android:resizeableActivity="true" android:visibleToInstantApps="true">
+            <intent-filter>
+                <action android:name="android.media.action.IMAGE_CAPTURE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity-alias android:exported="true" android:label="@string/photopro_strings_shortcut_video_camera_txt" android:name="com.sonymobile.photopro.MultiWindowVideoActivity" android:targetActivity="com.sonymobile.photopro.MultiWindowActivity" android:visibleToInstantApps="true">
+            <intent-filter>
+                <action android:name="android.media.action.VIDEO_CAPTURE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity-alias>
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:label="@string/photopro_strings_shortcut_video_camera_txt" android:name="com.sonymobile.photopro.OneshotVideoActivity" android:resizeableActivity="false" android:screenOrientation="portrait" android:theme="@style/PhotoProTheme" android:windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:label="@string/photopro_strings_application_name_txt" android:launchMode="singleTask" android:name="com.sonymobile.photopro.SaveLocationSettingActivity" android:resizeableActivity="true" android:taskAffinity="com.sonymobile.photopro.savelocation" android:theme="@style/Theme.AutoModeSettings" android:windowSoftInputMode="stateAlwaysHidden">
+            <intent-filter>
+                <action android:name="com.google.camera.action.LOCATION_SETTINGS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="false" android:label="@string/photopro_strings_application_name_txt" android:launchMode="singleTask" android:name="com.sonymobile.photopro.ManualModeCameraSettingsActivity" android:resizeableActivity="false" android:screenOrientation="portrait" android:showWhenLocked="true" android:theme="@style/Theme.CameraSettings" android:windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="false" android:label="@string/photopro_strings_application_name_txt" android:launchMode="singleTask" android:name="com.sonymobile.photopro.BasicModeCameraSettingsActivity" android:resizeableActivity="false" android:showWhenLocked="true" android:theme="@style/Theme.AutoModeSettings" android:windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:configChanges="keyboard|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:excludeFromRecents="true" android:exported="false" android:launchMode="singleTask" android:name="com.sonymobile.photopro.DataConsentActivity" android:resizeableActivity="false" android:screenOrientation="portrait" android:theme="@style/PhotoProTheme"/>
+        <activity android:configChanges="keyboard|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="false" android:name="com.sonymobile.photopro.RequestPermissionActivity" android:resizeableActivity="true" android:showWhenLocked="true" android:theme="@style/PhotoProTheme" android:turnScreenOn="true"/>
+        <activity android:configChanges="keyboard|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="false" android:inheritShowWhenLocked="true" android:name="com.sonymobile.photopro.SetupWizardActivity" android:resizeableActivity="false" android:screenOrientation="portrait" android:theme="@style/SomcCameraTheme" android:turnScreenOn="true"/>
+        <activity android:configChanges="keyboard|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="false" android:launchMode="singleTask" android:name="com.sonymobile.photopro.debug.DebugMenuActivity" android:taskAffinity="com.sonyericsson.photopro.debugmenu" android:theme="@style/Theme.DebugMenu">
+            <intent-filter>
+                <action android:name="com.sonyericsson.debugmenu.ENTRY_INTENT"/>
+                <category android:name="com.sonyericsson.debugmenu.ENTRY_CATEGORY"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboard|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="false" android:label="@string/debug_preference_entry_title_camera_settings" android:launchMode="singleTask" android:name="com.sonymobile.photopro.debug.DebugCameraSettingsActivity" android:taskAffinity="com.sonyericsson.photopro.debugmenu" android:theme="@style/Theme.AppCompat.Light"/>
+        <activity android:configChanges="keyboard|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:excludeFromRecents="true" android:exported="false" android:launchMode="singleTask" android:name="com.sonymobile.photopro.GoogleLensActivity" android:resizeableActivity="false" android:screenOrientation="portrait" android:showWhenLocked="true" android:taskAffinity="com.sonymobile.photopro.googlelensmode" android:theme="@style/SomcCameraTheme" android:turnScreenOn="true"/>
+        <activity android:configChanges="keyboard|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="false" android:inheritShowWhenLocked="true" android:name="com.sonymobile.photopro.calibration.ui.SpiritLevelCalibrationActivity" android:resizeableActivity="false" android:screenOrientation="landscape" android:theme="@style/SomcCameraCalibrationTheme"/>
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="false" android:launchMode="singleTask" android:name="com.sonymobile.photopro.MemoryRecallActivity" android:resizeableActivity="false" android:screenOrientation="portrait" android:showWhenLocked="true" android:theme="@style/Theme.MemoryRecall" android:windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:exported="false" android:name="com.sonymobile.photopro.ContextualTutorialActivity" android:resizeableActivity="false" android:screenOrientation="unspecified" android:theme="@style/SomcCameraTheme" android:turnScreenOn="true"/>
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="false" android:label="@string/photopro_strings_application_name_txt" android:launchMode="singleTask" android:name="com.sonymobile.photopro.BasicRemoconMenuActivity" android:resizeableActivity="false" android:screenOrientation="unspecified" android:theme="@style/Theme.AutoModeSettings" android:windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:configChanges="keyboard|keyboardHidden|navigation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="false" android:label="@string/photopro_strings_application_name_txt" android:launchMode="singleTask" android:name="com.sonymobile.photopro.RemoconMenuActivity" android:resizeableActivity="false" android:screenOrientation="landscape" android:theme="@style/Theme.CameraSettings" android:windowSoftInputMode="stateAlwaysHidden"/>
+        <uses-library android:name="com.sony.device" android:required="true"/>
+        <uses-library android:name="com.sonyericsson.idd" android:required="false"/>
+        <service android:name="com.sonymobile.camera.bleremotecontrol.BleRemoteControlService"/>
+        <provider android:authorities="com.sonymobile.photopro.lifecycle-process" android:exported="false" android:multiprocess="true" android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"/>
+    </application>
+</manifest>

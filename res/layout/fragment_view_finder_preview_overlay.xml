@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/view_finder_overlay_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/fragment_view_finder_external_display_message" />
+    <include android:id="@id/level_meter" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" layout="@layout/horizontal_level_meter" />
+    <RelativeLayout android:id="@id/focus_rectangles" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <FrameLayout android:id="@id/finder_overlay_auto" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:id="@id/selftimer_counter" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/selftimer_counter" />
+        <include android:id="@id/gesture_shutter" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/gesture_shutter_view" />
+    </FrameLayout>
+    <RelativeLayout android:id="@id/finder_overlay_auto_rectangle" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:clickable="false" android:layout_width="0.0dip" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <RelativeLayout android:id="@id/finder_overlay_manual_rectangle" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:clickable="false" android:layout_width="0.0dip" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <com.sonymobile.photopro.view.widget.SwapAxisFrameLayout android:id="@id/overlay_landscape" android:clipChildren="false" android:layout_width="0.0dip" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <include layout="@layout/fragment_view_finder_preview_overlay_landscape" />
+    </com.sonymobile.photopro.view.widget.SwapAxisFrameLayout>
+    <View android:id="@id/dim" android:background="@color/photopro_dim_60" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"നെറ്റ്‌വർക്ക്
+WLAN യിൽ കണക്ടു ചെയ്യാൻ"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN ഓഫും എയർപ്ലെയിൻ മോഡ് ഓണും ചെയ്‌തിരിക്കുന്നു.
+ക്രമീകരണത്തിൽ ടാപ് ചെയ്യുന്നതിലൂടെ ഈ ക്രമീകരണം മാറ്റുക."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN ഓഫ് ചെയ്‌തിരിക്കുന്നു.
+ക്രമീകരണത്തിൽ നിന്നും WLAN ഓൺ ചെയ്യുക."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">WLAN യിൽ കണക്ടു ചെയ്യാനാകില്ല</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"ഒരു QR Code സ്‌കാൻ ചെയ്‌ത് നേരിട്ട് വെബ് ആക്സസ് ചെയ്യാനോ WLAN യിൽ കണക്ടു ചെയ്യാനോ കഴിയുന്നതാണ്.
+ഈ പ്രവർത്തനം അടിസ്ഥാന (ഫോട്ടോ) മോഡിൽ സജീവമായിരിക്കും. മെനു > QR Code റീഡർ എന്നതിൽ നിന്ന് ഈ പ്രവർത്തനം പ്രാപ്തമാക്കുകയോ അപ്രാപ്‌തമാക്കുകയോ ചെയ്യാം."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">WLAN നെ. കണ. ചെ. ടാ. ചെ. \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"ഒരു QR Code സ്‌കാൻ ചെയ്‌ത് നേരിട്ട് വെബ് ആക്സസ് ചെയ്യാനോ WLAN യിൽ കണക്ടു ചെയ്യാനോ കഴിയുന്നതാണ്.
+ഈ പ്രവർത്തനം അടിസ്ഥാന (ഫോട്ടോ) മോഡിൽ സജീവമായിരിക്കും."</string>
+</resources>

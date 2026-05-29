@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"நெட்வொர்க்
+WLAN உடன் இணைக்க"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN அணைக்கப்பட்டுள்ளது, விமானப் பயன்முறை இயக்கப்பட்டுள்ளது.
+அமைப்புகளில் தட்டி, இந்த அமைப்புகளை மாற்றவும்."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN அணைக்கப்பட்டுள்ளது.
+அமைப்புகளில் WLAN -ஐ இயக்கவும்."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">WLAN உடன் இணைக்க முடியாது</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"QR Code-ஐ ஸ்கேன் செய்து விரைவாக இணையத்தை அணுகலாம் அல்லது WLAN உடன் இணைக்கலாம்.
+இந்தச் செயல்பாடு அடிப்படை (புகைப்படம்) பயன்முறையில்’ உள்ளபோது செயலில் இருக்கும். இந்தச் செயல்பாட்டை மெனு > QR Code ரீடரிலிருந்து இயக்கலாம் அல்லது முடக்கலாம்."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">இந்த WLAN நெட். இணை. தட்.: \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"QR Code-ஐ ஸ்கேன் செய்து விரைவாக இணையத்தை அணுகலாம் அல்லது WLAN உடன் இணைக்கலாம்.
+இந்தச் செயல்பாடு அடிப்படை (புகைப்படம்) பயன்முறையில்’ உள்ளபோது செயலில் இருக்கும்."</string>
+</resources>

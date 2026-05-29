@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Hálózat
+WLAN-hálózathoz való csatlakoztatáshoz"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"A WLAN ki van kapcsolva és a Repülőgépes üzemmód be van kapcsolva.
+A BEÁLLÍTÁSOK gombra koppintva módosítsa ezeket a beállításokat."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"A WLAN ki van kapcsolva.
+A BEÁLLÍTÁSOK gombot használva kapcsolja ki a WLAN funkciót."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Nem lehet csatlakozni WLAN-hálózathoz</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"QR-kód beolvasásával gyorsan hozzáférhet az internethez, illetve csatlakozhat WLAN-hálózathoz.
+Ez a funkció Alap (Fotó) üzemmódban aktív. Ezt a funkciót a MENU > QR Code-olvasó menüpontban lehet be- és kikapcsolni."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Kopp. csatlakozás WLAN-hálózathoz: %1$s</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"QR-kód beolvasásával gyorsan hozzáférhet az internethez, illetve csatlakozhat WLAN-hálózathoz.
+Ez a funkció Alap (Fotó) üzemmódban aktív."</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sonymobile.photopro.view.widget.SwapAxisFrameLayout android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.sonymobile.photopro.view.widget.FocusControlButton android:id="@id/focus_control" android:visibility="invisible" android:layout_width="@dimen/photopro_focus_control_button_width" android:layout_height="@dimen/photopro_focus_control_button_height" android:layout_marginTop="@dimen/photopro_focus_control_button_margin_top" android:layout_marginRight="@dimen/photopro_focus_control_button_margin_right" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </com.sonymobile.photopro.view.widget.SwapAxisFrameLayout>
+</RelativeLayout>

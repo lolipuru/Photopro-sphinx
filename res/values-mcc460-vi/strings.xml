@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Mạng
+Để kết nối với WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN đã tắt và Chế độ máy bay đang bật.
+Vui lòng thay đổi các cài đặt này bằng cách nhấn vào CÀI ĐẶT."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Đã tắt WLAN.
+Vui lòng bật WLAN từ phần CÀI ĐẶT."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Không thể kết nối với WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Bạn có thể nhanh chóng truy cập web hoặc kết nối WLAN bằng cách quét QR Code.
+Chức năng này hoạt động khi ở Chế độ (Ảnh) cơ bản. Có thể bật hoặc tắt chức năng này từ TRÌNH ĐƠN > Trình đọc QR Code."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Nhấn để kết nối với mạng WLAN \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Bạn có thể nhanh chóng truy cập web hoặc kết nối WLAN bằng cách quét QR Code.
+Chức năng này hoạt động khi ở Chế độ (Ảnh) cơ bản."</string>
+</resources>

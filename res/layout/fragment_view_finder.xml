@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonymobile.photopro.view.widget.CustomConstraintLayout android:id="@id/view_finder_root" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/fragment_view_finder_preview" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_marginTop="@dimen/photopro_left_area_width" app:layout_constraintDimensionRatio="3:4" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/fragment_view_finder_camera_status_bar" app:layout_constraintTop_toTopOf="parent" layout="@layout/fragment_view_finder_preview" />
+    <com.sonymobile.photopro.view.widget.SwapAxisFrameLayout android:id="@id/fragment_view_finder_system_status_bar" android:layout_width="@dimen/photopro_system_status_bar_height" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="@id/fragment_view_finder_preview" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="@id/fragment_view_finder_preview">
+        <include layout="@layout/fragment_view_finder_system_status_bar" />
+    </com.sonymobile.photopro.view.widget.SwapAxisFrameLayout>
+    <com.sonymobile.photopro.view.widget.SwapAxisFrameLayout android:id="@id/fragment_view_finder_camera_status_bar" android:clipChildren="false" android:layout_width="@dimen/photopro_camera_status_bar_height" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="@id/fragment_view_finder_preview" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="@id/fragment_view_finder_preview">
+        <include layout="@layout/fragment_view_finder_camera_status_bar" />
+    </com.sonymobile.photopro.view.widget.SwapAxisFrameLayout>
+</com.sonymobile.photopro.view.widget.CustomConstraintLayout>

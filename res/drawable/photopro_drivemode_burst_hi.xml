@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <bitmap android:src="@drawable/photopro_drivemode_burst_hi_selected_icn" />
+    </item>
+    <item>
+        <bitmap android:src="@drawable/photopro_drivemode_burst_hi_icn" />
+    </item>
+</selector>

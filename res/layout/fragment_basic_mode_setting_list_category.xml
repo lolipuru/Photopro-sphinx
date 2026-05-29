@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="@dimen/settings_list_title_height" android:minHeight="@dimen/settings_list_title_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:layout_gravity="top" android:id="@id/category_divider" android:background="@drawable/setting_category_divider" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/settings_list_divider_height" />
+    <TextView android:textAppearance="@style/TextAppearanceAutoModeSettingsCategoryTitle" android:layout_gravity="center_vertical" android:id="@id/title" android:paddingTop="@dimen/auto_mode_settings_category_title_text_margin_top_bottom" android:paddingBottom="@dimen/auto_mode_settings_category_title_text_margin_top_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/auto_mode_settings_category_title_text_margin_start" android:paddingEnd="@dimen/settings_list_title_text_margin_end" />
+</FrameLayout>

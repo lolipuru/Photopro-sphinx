@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Мережа
+Щоб підключитися до мережі WLAN"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN вимкнено, а режим «У літаку» ввімкнено.
+Торкніться УСТАНОВКИ й змініть ці установки."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN вимкнено.
+Увімкніть WLAN в УСТАНОВКАХ."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Не вдалося підключитися до мережі WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Ви можете швидко отримати доступ до мережі або підключитися до WLAN, відсканувавши QR Code.
+Ця функція активна в режимі Основний (фотографія). Ця функція вмикається та вимикається в МЕНЮ > Зчитування QR Code."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Торкніться, щоб підкл. до WLAN «%1$s»</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Ви можете швидко отримати доступ до Інтернету або підключитися до WLAN, відсканувавши QR Code.
+Ця функція активна в режимі Основний (фотографія)."</string>
+</resources>

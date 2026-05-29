@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Netwerk
+Om verbinding met WLAN te maken"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN is is uitgeschakeld en Vliegmodus is ingeschakeld.
+Verander deze instellingen door op INSTELLINGEN te tikken."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN is uitgeschakeld.
+Schakel WLAN in via de INSTELLINGEN."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Kan geen verbinding maken met WLAN</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"U kunt snel toegang krijgen tot internet of verbinding maken met WLAN door een QR Code te scannen.
+Deze functie is geactiveerd in de Basismodus (foto). Deze functie kan worden in- of uitgeschakeld via MENU > QR Codelezer."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Tik en verbind met WLAN-netwerk \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"U kunt snel toegang krijgen tot internet of verbinding maken met WLAN door een QR Code te scannen.
+Deze functie is geactiveerd in de Basismodus (foto)."</string>
+</resources>

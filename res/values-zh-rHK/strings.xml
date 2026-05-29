@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽主頁</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">刪除</string>
+    <string name="abc_menu_enter_shortcut_label">Enter 鍵</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">空白鍵</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">使用「%s」分享</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="ble_remote_control_button_any_problem_txt">疑難排解</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">配對新的控制器</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">您可以在藍牙遙控上將另一項功能指派給C1按鈕</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">C1按鈕自訂</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">對焦模式</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">鏡頭</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">拍攝模式</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">切換主要相機/前置相機</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">切換相片/影片</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">鏡頭</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">切換AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">切換主要相機/前置相機</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">允許</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">拒絕</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">允許應用程式為此功能使用藍牙？</string>
+    <string name="ble_remote_control_description_txt">"您可透過藍牙配對索尼的遙控以遙距使用%1$s中的功能。
+輕按[配對新的控制器]以開始配對新的裝置。"</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">已配對</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">若遙控無法與裝置配對，請前往[設定]並檢查遙控是否已登錄在藍牙裝置清單上。若已完成登錄，請從清單中移除遙控，並嘗試重新配對。</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">疑難排解</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">同意並開啟</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">拒絕</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">結束</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">進入[設定]</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">確定</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">配對已取消，因為藍牙已關閉</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">由於逾時，配對失敗。請稍後再試一次。</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">高度使用時，裝置可能會限制某些功能，以防萬一。若您開啟相機續航模式，一個圖示將會顯示，以表示應用程式將會保持高性能。當此圖示顯示時，您可以較長時間使用應用程式。</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">相機續航模式僅在將%1$s與已透過藍牙連接的遙控一起使用時才可用。關閉%1$s會停用此功能。</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">裝置溫度可能會升至高於正常運作溫度。溫度升高時，會顯示通知和圖示以作提示。這種情況下，請勿將裝置握在手中。繼續操作前，請確保遙控已透過藍牙連接。</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">注意</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"裝置溫度過高。%1$s將會暫時關閉，以便冷卻。
+若連接藍牙遙控，您就可以繼續將%1$s與相機續航模式一起使用。"</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"裝置溫度過高。%1$s將會暫時關閉，以便冷卻。
+若連接藍牙遙控，您就可以將%1$s與相機續航模式一起使用。"</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">若要使用此功能，請透過藍牙配對遙控，然後啟用[使用遙控]。</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"裝置溫度過高。%1$s將會暫時關閉，以便冷卻。
+若您開啟相機續航模式，您就可以將%1$s與藍牙遙控一起使用。"</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"若要啟用此功能，請與已連接的遙控互動。
+若要取消，請輕按[結束]。"</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">相機續航模式已啟用</string>
+    <string name="ble_remote_control_endurance_mode_txt">相機續航模式</string>
+    <string name="ble_remote_control_off_txt">關閉</string>
+    <string name="ble_remote_control_on_txt">開啟</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"若要開始配對，請與遙控控制器進行互動。
+您會收到通知和對話兩次。請在所有項目上選擇[配對]，然後在已配對的裝置上按下任何按鍵以完成配對。"</string>
+    <string name="ble_remote_control_pair_new_controller_txt">配對新的控制器</string>
+    <string name="ble_remote_control_title_txt">藍牙遙控</string>
+    <string name="ble_remote_control_use_remote_controller_txt">使用遙控</string>
+    <string name="expand_button_title">進階</string>
+    <string name="external_display_connected_description_txt">您可從Vlog監視器中檢視取景器</string>
+    <string name="external_display_connected_title_txt">Vlog監視器已連接</string>
+    <string name="external_display_note_about_external_mic_txt">注意：若要使用外置話筒，請先將它與Vlog監視器連接再進行收錄。若您稍後才連接它，您就需要重新連接Vlog監視器。</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">您已接納私隱政策，但可以隨時改變決定。</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">左箭頭</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">右箭頭</string>
+    <string name="photopro_strings_accessibility_back_txt">返回</string>
+    <string name="photopro_strings_accessibility_close_txt">關閉</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">協助工具：&lt;a href=\"%s\">部分合規&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">了解更多</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">鏡頭按鈕</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">無法設定</string>
+    <string name="photopro_strings_accessibility_previous_txt">上一步</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">一疊最新相片</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">開始影片收錄</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">暫停影片收錄</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">繼續影片收錄</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">收錄影片時拍攝快照</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">停止影片收錄</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">停止倒數</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">快門</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">切換主要相機與前置相機</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">切換相片與影片</string>
+    <string name="photopro_strings_accessibility_title_txt">協助工具</string>
+    <string name="photopro_strings_addon_button_menu_txt">更多結果</string>
+    <string name="photopro_strings_addon_creative_effect_txt">創意效果</string>
+    <string name="photopro_strings_addon_panorama_txt">全景</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">人像自拍</string>
+    <string name="photopro_strings_addon_slow_motion_txt">慢動作</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">若要儲存地點，您必須啟用GPS和/或無線網絡。要現在啟用?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">儲存地點</string>
+    <string name="photopro_strings_anonymous_analytics_txt">匿名分析</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">正面相片</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">前置視像</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">影片</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">選擇相片的高寬比</string>
+    <string name="photopro_strings_aspect_ratio_txt">高寬比</string>
+    <string name="photopro_strings_audio_on_all_txt">開啟：全部</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">開啟：僅快門</string>
+    <string name="photopro_strings_audio_signals_description_txt">設定要播放哪些相機音效，例如自拍定時器倒數時或對焦時的音效。您也可選擇只播放快門聲音。</string>
+    <string name="photopro_strings_audio_signals_txt">音頻訊號</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro由於非使用中而即將關閉</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">逆光肖像</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">逆光</string>
+    <string name="photopro_strings_auto_scene_document_txt">文件</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">美食</string>
+    <string name="photopro_strings_auto_scene_infant_txt">嬰兒</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">風景</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">低亮度</string>
+    <string name="photopro_strings_auto_scene_macro_txt">超近拍攝</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">夜景肖像</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">夜景</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">自動場景辨識</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">柔焦快拍</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">聚光燈</string>
+    <string name="photopro_strings_bokeh_button_txt">散景</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">請確定鏡片乾淨，且並未將手指放在鏡片上</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">太亮</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">遠離物件一點</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">需要更多光線</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">靠近物件一點</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">目前無法使用[散景]</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">背景模糊已開啟</string>
+    <string name="photopro_strings_bokeh_txt">背景模糊(散景)</string>
+    <string name="photopro_strings_bt_remote_control_txt">藍牙遙控</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">連拍的相片已儲存在內部儲存空間</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">快門速度慢時無法使用連拍</string>
+    <string name="photopro_strings_button_continue_txt">繼續</string>
+    <string name="photopro_strings_button_quit_txt">離開</string>
+    <string name="photopro_strings_cancel_txt">取消</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">慢動作</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K影片</string>
+    <string name="photopro_strings_change_txt">更改</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">重設</string>
+    <string name="photopro_strings_color_and_brightness_txt">顏色與亮度</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">內部儲存空間已滿。是否將資料儲存於SD卡？</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">內部儲存空間已損毀或有寫入保護。是否將資料儲存於SD卡？</string>
+    <string name="photopro_strings_common_error_open_txt">無法開啟%1$s</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">SD卡已滿。是否將資料儲存於內部儲存空間？</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">無法使用SD卡。是否將資料儲存於內部儲存空間？</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">連拍回饋</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">下列功能現在無法啟用</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">請等待您的設備降温，然後重開相機。</string>
+    <string name="photopro_strings_cooling_mode_title_txt">以下功能已經停用。</string>
+    <string name="photopro_strings_cooling_mode_txt">某些功能已停用，以免裝置溫度上升</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">指派另一項功能給AEL按鈕</string>
+    <string name="photopro_strings_custom_ael_txt">AEL按鈕自訂</string>
+    <string name="photopro_strings_custom_disp_description_txt">"輕按DISP按鈕，您就可以在取景器中顯示/隱藏資訊。
+若您在使用DISP按鈕顯示資訊時希望任何項目永不顯示，請在此目錄中取消勾選它。"</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">柱狀圖</string>
+    <string name="photopro_strings_custom_disp_level_txt">水平</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">標頭資訊</string>
+    <string name="photopro_strings_custom_disp_txt">DISP按鈕自訂</string>
+    <string name="photopro_strings_custom_fn_description_txt">"您可以在功能選單中重新指派設定項目，或對其重新排列次序。
+輕按以下其中一項功能項目，以從左側的清單中指派您選擇的另一項功能。
+拖放以下任何功能項目以重新排列次序。"</string>
+    <string name="photopro_strings_custom_fn_txt">功能選單自訂</string>
+    <string name="photopro_strings_custom_none_txt">未指派</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">您已拒絕私隱政策。</string>
+    <string name="photopro_strings_description_custom_ael_txt">鎖定自動曝光</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">將ISO設定為[AUTO]</string>
+    <string name="photopro_strings_description_custom_none_txt">停用AEL按鈕</string>
+    <string name="photopro_strings_device_id_txt">裝置ID</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">手機電量不足。當電池處於低電量時，相機將自動關閉。</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">電池電力不足，停止收錄。請將裝置充電，然後再試一次。</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">電池電力不足，無法使用相機。請將裝置充電，然後再試一次。</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">應用程式需要下列權限以執行此動作。</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"網絡
+輕按以連接Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"飛航模式已開啟。
+請從[設定]關閉飛航模式。"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"網絡名稱：
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi已關閉而飛航模式已開啟。
+請輕按[設定]更改上述設定。"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi已關閉。
+請從[設定]開啟Wi-Fi。"</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">設定</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">允許</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">拒絕</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">注意</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">校準</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">重設</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">內部儲存空間不足。已停止連拍。請刪除一些檔案來釋放儲存空間。</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">授予權限</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">連接中...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+密碼保護：
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+安全性：
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">無法連接Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">如果您同意下列條款，索尼將收集您的&lt;b>&lt;a href=#personal-data>個人資料&lt;/a>&lt;/b>，以提供自訂支援並改善裝置和服務。索尼將會根據我們的&lt;b>&lt;a href=https://www.sonymobile.com/privacy/>私隱政策&lt;/a>&lt;/b>處理您的資料。</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">您更可以收錄高對比度畫面的影片，使影片更具戲劇性並更接近現實生活中的事物。請使用支援的裝置/服務以原始顏色和亮度欣賞內容。</string>
+    <string name="photopro_strings_do_not_show_again_txt">不再顯示</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">HDR連拍：高</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">HDR連拍：低</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">連拍：高</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">連拍：低</string>
+    <string name="photopro_strings_drive_continuous_txt">連拍</string>
+    <string name="photopro_strings_drive_mode_txt">過片模式</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">自拍定時器：10秒</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">自拍定時器：3秒</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">自拍定時器：已關閉</string>
+    <string name="photopro_strings_drive_single_txt">單張拍攝</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">自動HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">此設定將優化值範圍。DRO處理使用單一影像，[自動HDR]則會結合多個曝光值，以達到所需結果。</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">自動逆光補償</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/自動HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">無法啟動相機。請重新啟動相機或裝置。</string>
+    <string name="photopro_strings_error_dialog_title_txt">錯誤</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">無法儲存相片。數據儲存空間發生問題。如果[數據儲存空間]設為SD卡，請檢查您的SD卡。</string>
+    <string name="photopro_strings_error_fatal_txt">未知的錯誤。</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">否</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">是</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">相機將暫時關閉以便冷卻。您的錄影將會儲存。請待裝置降溫後再重新啟動應用程式。</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">記憶體已滿。請刪除SD卡或內部儲存空間的部分檔案。</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">記憶卡無法使用</string>
+    <string name="photopro_strings_error_memory_title_txt">記憶卡錯誤</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD卡無法使用</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">曝光補償</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"您可拍攝以人物及動物的臉孔或眼部為焦點的肖像相片。
+如要更改對焦目標，請輕按要對焦主題的臉孔。"</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"您可拍攝以人物及動物的臉孔或眼部為焦點的影片。
+如要更改對焦目標，請輕按要對焦主題的臉孔。
+注意：此設定啟用後，收錄時間可能會因上升的裝置溫度而縮短。"</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">面孔偵測/開啟眼部AF</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">臉孔/眼部AF</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">臉孔/眼部AF：關閉</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">臉孔/眼部AF：開啟</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">解鎖螢幕以使用此功能</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">若要開啟設定，請解鎖屏幕。</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">屏幕已鎖定</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"若要調整散景效果，請輕按取景器中的[散景]圖示，然後移動滑桿。
+此功能支援基本 (拍攝) 模式。
+透過模糊背景營造顯眼的光暗對比，讓您拍攝的主題鮮明突出。"</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">以散景效果拍照</string>
+    <string name="photopro_strings_feature_bokeh_txt">散景效果</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">過片模式可更改，以便使用單張拍攝或連拍，或是自拍定時器。</string>
+    <string name="photopro_strings_feature_drive_mode_txt">過片模式</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"以前置相機拍攝相片時，請注視聽筒附近的前置相機鏡頭。
+您的眼睛將在相片中望向正確的方向。"</string>
+    <string name="photopro_strings_feature_eye_position_txt">目視方向</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"您可拍攝以人物及動物的臉孔或眼部為焦點的肖像相片。
+如要更改對焦目標，請輕按要對焦主題的臉孔。此功能可在目錄 > [臉孔/眼部AF]中啟用或停用。"</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">臉孔/眼部AF</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"把您的手掌往相機方向轉。當自拍定時器辨識到您的手掌時，它將會開始倒數。為更易於偵測，請往上張開手指。
+若要啟用此功能，請在基本 (拍攝) 模式下切換至前置相機，然後在目錄中開啟[手勢快門]。"</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">手勢快門</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"使用極廣角鏡頭 (0.7x) 時，您可以選擇不同設定的優先順序。若選擇影像品質優先，您可以捕捉高品質動態影像。若選擇失真校正優先，則可以減少視覺上的失真。
+此功能會在使用極廣角鏡頭拍攝相片時啟動。切換至極廣角鏡頭後，您便可在目錄 > [極廣角鏡頭校正]配置優先順序。"</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">鏡頭校正(相片)</string>
+    <string name="photopro_strings_feature_list_title_txt">功能簡介</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"使用散景及美圖效果，輕鬆拍攝充滿藝術感的自拍。
+若要使用此功能，請輕按取景器中的[更多結果]，然後選擇[人像自拍]。
+為您的自拍增添風格，品味創意成果。"</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">人像自拍</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"您可透過掃描QR Code迅速存取網絡或連接至Wi-Fi。
+此功能在基本 (拍攝) 模式下將會啟動。此功能可在目錄 > [QR Code讀取器]中啟用或停用。"</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code讀取器</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code讀取器</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">為您的相片及影片標籤拍攝地點。您可以稍後在目錄 > [儲存地點]中更改此設定。</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">要儲存地點？</string>
+    <string name="photopro_strings_feature_selfie_txt">前置相機</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">您能夠以120 fps慢動作收錄HD影片</string>
+    <string name="photopro_strings_feature_slow_motion_txt">慢動作</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"您可以輕鬆切換相機鏡頭，在任何情況下拍攝，激發創意。
+輕按取景器中的按鈕，切換0.7x (極廣角)、1.0x (廣角)、2.9x (遠攝) 及 4.4x (遠攝) 鏡頭。
+您可在基本 (拍攝) 及基本 (錄影) 模式中使用這項功能。"</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">以按鈕切換角度</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"您可以輕鬆切換相機鏡頭，在任何情況下拍攝，激發創意。
+輕按取景器中的按鈕，切換0.7x (極廣角)、1.0x (廣角) 及2.1x (標準) 鏡頭。
+您可在基本 (拍攝) 及基本 (錄影) 模式中使用這項功能。"</string>
+    <string name="photopro_strings_feature_triple_camera_txt">三鏡頭相機</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"輕按鏡頭按鈕將顯示滑桿，讓您用以調整縮放水平。
+您亦可在螢幕上做捏開手勢或使用音量按鈕進行縮放。"</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">如何放大/縮小</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">刪除</string>
+    <string name="photopro_strings_file_format_description_txt">"請選擇靜態影像的檔案格式。
+
+RAW：需使用特殊軟件進行相片後期處理。這可讓您調整相片同時限制影像品質降低。相片在後期處理後可供列印。
+RAW和JPEG：同時儲存RAW影像(需要後期處理)和JPEG影像。
+JPEG：儲存JPEG影像。
+
+注意：
+RAW格式檔將一律以4:3高寬比儲存到內部儲存空間。
+選擇RAW或RAW和JPEG時，將無法使用連拍和自動HDR。"</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW和JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">檔案格式</string>
+    <string name="photopro_strings_flash_auto_txt">自動</string>
+    <string name="photopro_strings_flash_description_txt">設定閃光燈模式為自動/閃光燈、補光/閃光燈等。</string>
+    <string name="photopro_strings_flash_fill_flash_txt">補光/閃光燈</string>
+    <string name="photopro_strings_flash_off_txt">關閉</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">減輕紅眼</string>
+    <string name="photopro_strings_flash_torch_description_txt">開啟照明燈</string>
+    <string name="photopro_strings_flash_torch_off_txt">手電筒模式：已關閉</string>
+    <string name="photopro_strings_flash_torch_on_txt">手電筒模式：已開啟</string>
+    <string name="photopro_strings_flash_torch_txt">手電筒模式</string>
+    <string name="photopro_strings_flash_txt">閃光燈模式</string>
+    <string name="photopro_strings_focus_area_center_txt">中心</string>
+    <string name="photopro_strings_focus_area_txt">對焦區域</string>
+    <string name="photopro_strings_focus_area_wide_txt">寬</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">設定對焦區域相框的色彩</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">紅色</string>
+    <string name="photopro_strings_focus_frame_color_txt">對焦區域顏色</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">白色</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">連續AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">單次AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">選擇對焦方式</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">面孔偵測</string>
+    <string name="photopro_strings_focus_mode_mf_txt">手動對焦</string>
+    <string name="photopro_strings_focus_mode_txt">對焦模式</string>
+    <string name="photopro_strings_geotagging_description_txt">儲存您的相片及影片並附拍攝地點</string>
+    <string name="photopro_strings_geotagging_txt">儲存地點</string>
+    <string name="photopro_strings_gridline_description_txt">設定是否要顯示格線來協助您為影像構圖</string>
+    <string name="photopro_strings_gridline_txt">格線</string>
+    <string name="photopro_strings_hand_shutter_description_txt">只要將您的手掌朝向前置相機，就可令自拍定時器開始倒數。為更易於偵測，請往上張開手指。</string>
+    <string name="photopro_strings_hand_shutter_txt">手勢快門</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">設定是否要在與顯示屏 (例如模式轉盤指南) 互動時獲取觸覺回饋</string>
+    <string name="photopro_strings_haptic_feedback_txt">觸覺回饋</string>
+    <string name="photopro_strings_hdr_off_txt">HDR：已關閉</string>
+    <string name="photopro_strings_hdr_on_txt">HDR：已開啟</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">智能風聲過濾</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO感光度</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">您可長按裝置[快門]按鈕來啟動Photography Pro。即使手機處於睡眠模式或鎖定狀態，也可使用此功能。</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">啟動Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">使用[快門]按鈕啟動</string>
+    <string name="photopro_strings_lens_correction_description_txt">使用極廣角鏡頭時，您可以選擇不同設定的優先順序。若選擇影像品質優先，您可以捕捉高品質動態影像。若選擇失真校正優先，則可以減少視覺上的失真。</string>
+    <string name="photopro_strings_lens_correction_off_txt">影像品質優先</string>
+    <string name="photopro_strings_lens_correction_on_txt">失真校正優先</string>
+    <string name="photopro_strings_lens_correction_txt">極廣角鏡頭校正</string>
+    <string name="photopro_strings_lens_txt">鏡頭</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">校準</string>
+    <string name="photopro_strings_level_calibration_description_txt">如有需要，您可以校準[水平]以修正傾斜方向。請確認相機處於水平位置，然後選擇[校準]。</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">完成校準</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">已重設校準設定</string>
+    <string name="photopro_strings_level_meter_calibration_txt">水平校準</string>
+    <string name="photopro_strings_lock_switch_txt">上鎖</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">因為已達最大檔案大小限制，已停止收錄</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">已達收錄時間限制，因此停止收錄</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">無法儲存。記憶庫已滿。</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">套用</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">儲存</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">設定</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">儲存目前的模式和設定組合？</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"已儲存拍攝設定。
+您可使用MR拍攝模式輕易回復這些設定。"</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">拍攝設定記憶</string>
+    <string name="photopro_strings_memory_recall_txt">回復拍攝設定</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">相片 (前置)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">相片</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">慢動作</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">影片 (前置)</string>
+    <string name="photopro_strings_menu_sub_video_txt">影片</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">曝光/色彩</string>
+    <string name="photopro_strings_menu_tab_focus_txt">對焦</string>
+    <string name="photopro_strings_menu_tab_setup_txt">設定</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">拍攝</string>
+    <string name="photopro_strings_menu_title_txt">目錄</string>
+    <string name="photopro_strings_metering_center_txt">中央</string>
+    <string name="photopro_strings_metering_multi_txt">多重測光</string>
+    <string name="photopro_strings_metering_spot_txt">定點測光</string>
+    <string name="photopro_strings_metering_txt">測光模式</string>
+    <string name="photopro_strings_mic_setting_description_txt">"選擇收錄影片時要使用的話筒：
+1. 左右話筒：使用左和右話筒收錄立體聲音效 (直向時位於頂部及底部)
+2. 後置話筒：使用後置話筒收錄單聲道音效"</string>
+    <string name="photopro_strings_mic_setting_external_txt">外置話筒</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">左右話筒 (立體聲)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">後置話筒 (單聲道)</string>
+    <string name="photopro_strings_mic_setting_txt">話筒</string>
+    <string name="photopro_strings_mode_auto_description_txt">相機將自動偵測場景類型，並以自動設定拍攝相片，同時降低雜訊及相機搖動。</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">自動模式</string>
+    <string name="photopro_strings_mode_basic_description_txt">"此模式讓您使用螢幕上的[快門]按鈕拍攝相片，與常見智能手機的相機體驗類似。
+使用此模式可拍攝自拍、收錄影片及掃描QR Code。"</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">基本模式</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">使用[模式轉盤指南]更改模式時，每種拍攝模式都會顯示說明</string>
+    <string name="photopro_strings_mode_dial_guide_txt">[模式轉盤指南]手冊</string>
+    <string name="photopro_strings_mode_m_description_txt">"手動控制快門速度及ISO感光度。
+透過較長時間曝光，您將有機會使用動態模糊拍攝相片，從而捕捉物體的移動軌跡。"</string>
+    <string name="photopro_strings_mode_m_fullname_txt">手動曝光</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">智能自動(記憶回復)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"使用您已儲存的設定拍攝相片。
+您可登錄常用的模式及設定組合。"</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">記憶回復</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">手動曝光(記憶回復)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">程式自動(記憶回復)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">快門速度優先(記憶回復)</string>
+    <string name="photopro_strings_mode_p_description_txt">相機將自動控制快門速度，其他設定則讓您自由調整。</string>
+    <string name="photopro_strings_mode_p_fullname_txt">程式自動</string>
+    <string name="photopro_strings_mode_s_description_txt">"手動控制快門速度，以更改移動物體的拍攝方式。
+快的快門速度將令移動中的物體定格呈現，而慢的快門速度則可營造更佳的動態模糊效果。"</string>
+    <string name="photopro_strings_mode_s_fullname_txt">快門速度優先</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">由於開啟了Transfer &amp; Tagging add-on模式，因此過片模式已自動設定為單張拍攝</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">由於開啟了Transfer &amp; Tagging add-on模式，因此檔案格式已自動設定為JPEG</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">無法在多視窗模式或快顯視窗中使用相機。請關閉視窗並再試一次。若您正在使用多視窗模式，您可拖曳分割列的中間位置，讓相機全屏幕顯示。</string>
+    <string name="photopro_strings_multi_window_txt">拖曳分割列的中間位置以切換到全屏幕%1$s來使用</string>
+    <string name="photopro_strings_ok_txt">確定</string>
+    <string name="photopro_strings_personal_data_txt">個人數據</string>
+    <string name="photopro_strings_privacy_policy_txt">私隱政策</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">正在拍攝相片，請稍等。</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">不支援QR Code</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">輕按以在您的瀏覽器中開啟\"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">無法連接到此Wi-Fi網絡</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">輕按以連接Wi-Fi網絡「%1$s」</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code讀取器</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"您可透過掃描QR Code迅速存取網絡或連接至Wi-Fi。
+此功能在基本 (拍攝) 模式下將會啟動。"</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code讀取器</string>
+    <string name="photopro_strings_rec_txt">錄製</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">重設Photo Pro至預設設定？</string>
+    <string name="photopro_strings_reset_settings_txt">重設設定</string>
+    <string name="photopro_strings_reset_txt">重設</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">檔案格式設為RAW時，無法更改高寬比</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">選擇連拍時無法選擇自動HDR</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">選擇JPEG以外的檔案格式時，無法選擇自動HDR</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">散景效果無法搭配目前所選的鏡頭使用</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on模式開啟時，散景效果不可用</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">無法將[連拍：高]搭配目前所選的鏡頭使用</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">散景效果開啟時無法使用連拍</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">連拍在選擇AI超高解析度縮放時不可用</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">選擇JPEG以外的檔案格式時，無法使用連拍</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on開啟時連拍不可用</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">無法更改</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">選擇連拍時無法使用閃光燈模式</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">無法將[閃光燈]模式搭配目前所選的鏡頭使用</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">無法將[手電筒模式]搭配目前所選的鏡頭使用</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">選擇自動HDR時，無法將檔案格式更改為JPEG以外的其他格式</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">選擇連拍時，無法將檔案格式更改為JPEG以外的其他格式</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Transfer &amp; Tagging add-on模式開啟時，無法將檔案格式更改為JPEG以外的其他格式</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">連接至外置話筒時無法更改此設定</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">此設定不支援目前的快門速度。若要配置此設定，請更改快門速度至1秒或以下。</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">選擇4:3以外的高寬比時，無法選擇RAW</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">[慢動作]收錄時無法更改影片大小。若要更改此設定，請結束[慢動作]模式。</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">此設定只在使用極廣角鏡頭時才可用</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">已開啟HDR時，此設定不可用。若要配置此設定，請關閉HDR。</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">此設定不支援目前的影片大小。若要配置此設定，請先更改影片大小。</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">使用散景效果時無法縮放</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">應用程式資訊</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">%1$s權限</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">應用程式需要下列權限以執行此動作。</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">若要賦予權限，請進入[應用程式資訊]>[權限設定]。</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">無法繼續</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">照相</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">照相與錄影</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">擷取地點</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">收錄聲音</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">若要連接到附近的裝置</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">讀取及儲存相片和影片</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">儲存相片</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">儲存相片與影片</string>
+    <string name="photopro_strings_save_destination_description_txt">選擇將相片和影片儲存在您的裝置的內部儲存空間上或者SD卡上</string>
+    <string name="photopro_strings_save_destination_internal_txt">內部儲存空間</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD卡</string>
+    <string name="photopro_strings_save_destination_title_txt">數據儲存空間</string>
+    <string name="photopro_strings_save_destination_txt">數據儲存空間</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD卡無法使用</string>
+    <string name="photopro_strings_selftimer_10_txt">10秒</string>
+    <string name="photopro_strings_selftimer_3_txt">3秒</string>
+    <string name="photopro_strings_selftimer_description_txt">設定自拍定時器於經過指定秒數後自動拍攝相片</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">看著相機</string>
+    <string name="photopro_strings_selftimer_txt">自拍定時器</string>
+    <string name="photopro_strings_settings_off_txt">關閉</string>
+    <string name="photopro_strings_settings_on_txt">開啟</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">永遠使用基本模式</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">選擇Photography Pro啟動時的預設拍攝模式</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">上次使用的模式</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">啟動時的拍攝模式</string>
+    <string name="photopro_strings_shooting_mode_txt">拍攝模式</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">攝錄機</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">快門速度</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">HDR開啟時無法拍攝快拍</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">啟用令皮膚看來更光滑的效果</string>
+    <string name="photopro_strings_soft_skin_effect_txt">柔膚效果</string>
+    <string name="photopro_strings_status_mic_external_txt">外置</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">左右 (立體聲)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">後置 (單聲道)</string>
+    <string name="photopro_strings_store_fail_txt">無法儲存</string>
+    <string name="photopro_strings_sw_license_txt">軟件授權</string>
+    <string name="photopro_strings_term_of_use_accept_txt">接受</string>
+    <string name="photopro_strings_term_of_use_decline_txt">拒絕</string>
+    <string name="photopro_strings_tips_txt">貼士</string>
+    <string name="photopro_strings_title_permissions_txt">Photo Pro權限設定</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">取消觸碰對焦</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">自動對焦</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"選擇碰觸取景器時要調整的項目。
+
+物件追蹤：此功能最適合拍攝移動中的物件。它令焦點一直鎖定於您在取景器中輕按的物件，讓您清晰拍攝移動中的物件。
+自動對焦：在取景器中輕按您要對焦的位置。
+對焦和亮度：輕按取景器來對焦於理想的位置並調整其亮度。"</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">對焦和亮度</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">物件追蹤</string>
+    <string name="photopro_strings_touch_to_adjust_txt">[輕觸以調整]</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">取消[物件追蹤]</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"開啟此功能可讓Transfer &amp; Tagging add-on顯示使用Xperia相機拍攝的相片。相片將儲存在內部儲存空間中。
+此功能與使用Photography Pro拍攝的相片兼容。
+開啟此功能會將檔案格式自動設定為JPEG，而過片模式則會自動設定為單張拍攝。"</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Transfer &amp; Tagging add-on模式</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">瞭解</string>
+    <string name="photopro_strings_tutorial_button_next_txt">下一頁</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">跳過</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony是備受廣大攝影師喜愛的品牌，透過各款產品傳揚攝影的無窮樂趣及奇妙之處。
+我們的經驗和技術持續受全球各地客戶所信賴。
+
+Photography Pro力求在Sony Imaging Products中，將全片幅相機的操作性和功能重新塑造。
+Sony全力助您發揮無窮攝影創意。"</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"選擇符合您主題的理想[拍攝]模式。
+接下來設定快門速度與曝光。
+從側面握穩相機，然後拍照。
+
+拍攝模式包括：
+P (程式自動)
+S (快門速度優先)
+M (手動曝光)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"使用右上角的模式轉盤指南 (手機橫向時位於左上角)，選擇您的首選拍攝模式。
+
+在基本模式下，您可輕鬆使用前置相機拍照和錄影，方法與一般智能手機的相機類似。
+
+在Auto/P/S/M模式下，您可存取更多進階設定，拍攝理想的相片。"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">拍攝模式</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">使用方式</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"使用Auto/P/S/M模式時，請橫向握緊相機，然後按下裝置右上方的[快門]按鈕拍攝相片。
+
+選擇Auto (自動模式) 後，快門速度及曝光等功能將會自動設定。
+
+若要手動配置設定，請選擇以下其中一種模式。
+P (程式自動)
+S (快門速度優先)
+M (手動曝光)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">如何使用Auto/P/S/M模式</string>
+    <string name="photopro_strings_tutorial_txt">教學</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">無法將Photo Pro與已連接的外部顯示屏一起使用。若要使用Photo Pro，請從您的Xperia上的[最近執行應用程式]畫面關閉應用程式，然後重新啟動它。</string>
+    <string name="photopro_strings_unlock_button_txt">解鎖</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">由於安全原因，相機使用受限</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">若要穩定收錄4K影片，除非您使用高速SD卡(建議使用Speed Class 10、UHS Speed Class 1或等級更高的SD卡)，否則請勿更改此設定。</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">若要穩定收錄慢動作影片，除非您使用高速SD卡(建議使用Speed Class 10、UHS Speed Class 1或等級更高的SD卡)，否則請勿更改此設定。</string>
+    <string name="photopro_strings_video_explanatory_txt">"若要穩定收錄影片，我們建議您將資料儲存空間更改為內部儲存空間。是否要立即更改？
+
+如果您繼續使用SD卡作為資料儲存空間，請務必使用高速SD卡(建議使用Speed Class 10、UHS Speed Class 1或等級更高的SD卡)。"</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"您可為4K影片收錄選擇編碼器。
+
+H.264 (AVC)：大多數裝置及服務均支援的標準編碼格式。
+H.265 (HEVC)：較高壓縮比例的格式。請確保您的播放裝置或服務支援此方法。"</string>
+    <string name="photopro_strings_video_file_format_4k_txt">檔案格式(4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"請選擇影片大小。
+HDR於選擇全高清(60 fps)或HD時不可用。"</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">請選擇影片大小</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">全高清(60 FPS)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">全高清</string>
+    <string name="photopro_strings_video_size_txt">影片大小</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Xperia擁有獨特的混合穩定系統Optical SteadyShot，將光學影像和電子影像的穩定技術同步結合。這讓您即使在行走時進行收錄，也可製作流暢而毫不搖晃的影片。</string>
+    <string name="photopro_strings_video_stabilization_txt">影片穩定</string>
+    <string name="photopro_strings_volumekey_description_txt">指派另一項功能給音量按鈕</string>
+    <string name="photopro_strings_volumekey_shutter_txt">快門</string>
+    <string name="photopro_strings_volumekey_txt">設定音量按鈕的其他功能</string>
+    <string name="photopro_strings_volumekey_volume_txt">音量</string>
+    <string name="photopro_strings_volumekey_zoom_txt">縮放</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">調校 - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">自動</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">調整</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">完成</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">重試</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">套用</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">多雲</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">自訂1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">自訂2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">自訂3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">參照預覽畫面中央設定白平衡</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">調校失敗</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">調校完成</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">套用 - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">日光</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">日光燈</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">白熾燈</string>
+    <string name="photopro_strings_whitebalance_shade_txt">陰影</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">溫1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">溫2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">溫3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">溫：</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">溫度</string>
+    <string name="photopro_strings_whitebalance_txt">白平衡</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">前置相機不能縮放</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">AI超高解析度縮放</string>
+    <string name="photopro_strings_zoom_type_description_txt">"選擇一項縮放設定。
+
+數碼縮放: 此縮放功能使用數碼處理，以影像感應器的數據為基礎。
+AI超高解析度縮放: 此縮放功能使用數碼處理，以更妥善保留原始影像質素。儲存相片可能需時較長。已選擇[連拍]時，這將自動用作[數碼縮放]。"</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">數碼縮放</string>
+    <string name="photopro_strings_zoom_type_txt">縮放設定</string>
+    <string name="search_menu_title">搜尋</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s，%2$s</string>
+    <string name="v7_preference_off">關閉</string>
+    <string name="v7_preference_on">開啟</string>
+</resources>

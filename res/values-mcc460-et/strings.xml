@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Võrk
+WLAN ühenduse loomiseks"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN on välja lülitatud ja lennurežiim on sisse lülitatud.
+Nende seadete muutmiseks puudutage nuppu SEADED."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN on välja lülitatud.
+Lülitage WLAN sisse kuval SEADED."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">WLAN ühendust ei saa luua</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"QR Code'i skannides pääsete kiiresti veebi või saate luua WLAN ühenduse.
+See funktsioon on põhirežiimis (foto) aktiivne. Selle funktsiooni saab lubada või keelata menüüs MENÜÜ > QR Code'i lugeja"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Koput. ühend. WLAN võrguga „%1$s“</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"QR Code'i skannides pääsete kiiresti veebi või saate luua WLAN ühenduse.
+See funktsioon on põhirežiimis (foto) aktiivne."</string>
+</resources>

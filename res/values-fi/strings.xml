@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Siirry etusivulle</string>
+    <string name="abc_action_bar_up_description">Siirry ylös</string>
+    <string name="abc_action_menu_overflow_description">Lisäasetukset</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+    <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+    <string name="abc_capital_off">POIS PÄÄLTÄ</string>
+    <string name="abc_capital_on">PÄÄLLÄ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Vaihto+</string>
+    <string name="abc_menu_space_shortcut_label">välilyönti</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valikko+</string>
+    <string name="abc_search_hint">Haku…</string>
+    <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+    <string name="abc_searchview_description_query">Hakukysely</string>
+    <string name="abc_searchview_description_search">Haku</string>
+    <string name="abc_searchview_description_submit">Lähetä kysely</string>
+    <string name="abc_searchview_description_voice">Puhehaku</string>
+    <string name="abc_shareactionprovider_share_with">Jaa…</string>
+    <string name="abc_shareactionprovider_share_with_application">Jaa: %s</string>
+    <string name="abc_toolbar_collapse_description">Tiivistä</string>
+    <string name="ble_remote_control_button_any_problem_txt">Vianmääritys</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Pariliitä uusi ohjain</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Voit määrittää Bluetooth-kauko-ohjaimen C1-painikkeeseen muun toiminnon</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">C1-painikkeen mukauttaminen</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Tarkennustila</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Linssi</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Kuvaustila</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Vaihda pää-/etukamera</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Vaihda valokuva/video</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Linssi</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Vaihda AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Vaihda pää-/etukamera</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Salli</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Estä</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Sallitaanko sovelluksen käyttää Bluetooth-yhteyttä tätä ominaisuutta varten?</string>
+    <string name="ble_remote_control_description_txt">"Voit muodostaa laiteparin Sony-kauko-ohjaimen kanssa Bluetooth-yhteydellä käyttääksesi toimintoja sovelluksessa %1$s.
+Aloita uuden laiteparin muodostaminen valitsemalla Pariliitä uusi ohjain."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Laitepari on jo muodostettu</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Jos kaukosäädintä ei voitu pariliittää laitteeseen, siirry Asetuksiin ja tarkista, onko kaukosäädin rekisteröity jo Bluetooth-laiteluettelossa. Jos se on jo rekisteröity, poista kaukosäädin luettelosta ja yritä pariliittää se uudelleen.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Vianmääritys</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Hyväksy ja käytä</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Hylkää</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Lopeta</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Siirry asetuksiin</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">OK</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Laiteparin muodostaminen peruutettiin, koska Bluetooth poistettiin käytöstä</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Laiteparin muodostaminen epäonnistui aikakatkaisun vuoksi. Yritä uudelleen myöhemmin.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Tämä laite saattaa rajoittaa joitain toimintoja varotoimena vaativassa käytössä. Jos otat kameran tehotilan käyttöön, näyttöön tulee kuvake merkiksi siitä, että sovellus hyödyntää suurta suorituskykyä. Kun tämä kuvake näkyy, voit käyttää sovellusta pidempään.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Kameran tehotila on käytettävissä vain, kun käytössä on %1$s ja Bluetooth-yhteydellä yhdistetty kauko-ohjain. Toiminto poistetaan käytöstä, jos %1$s suljetaan.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Laite voi kuumentua tavallista käyttölämpötilaa kuumemmaksi. Kun lämpötila nousee, saat ilmoituksen ja näet kuvakkeen. Älä pidä laitetta pitkään kädessä tässä tilanteessa. Varmista ennen jatkamista, että kauko-ohjain on yhdistetty Bluetoothin kautta.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Huomio</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Laitteen lämpötila on liian suuri. %1$s sammuu väliaikaisesti, jotta se voi viilentyä.
+Jos yhdistät Bluetooth-kauko-ohjaimen, %1$s säilyy käytettävissä kameran tehotilassa."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Laitteen lämpötila on liian suuri. %1$s sammuu väliaikaisesti, jotta se voi viilentyä.
+Jos yhdistät Bluetooth-kauko-ohjaimen, %1$s on käytettävissä kameran tehotilassa."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Ota [Käytä kauko-ohjausta] käyttöön kauko-ohjaimen Bluetooth-pariliitoksen jälkeen käyttääksesi toimintoa.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Laitteen lämpötila on liian suuri. %1$s sammuu väliaikaisesti, jotta se voi viilentyä.
+Jos otat kameran tehotilan käyttöön, %1$s on käytettävissä Bluetooth-kauko-ohjauksella."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Ota toiminto käyttöön käyttämällä yhdistettyä kauko-ohjainta.
+Peruuta valitsemalla LOPETA."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Kameran tehotila käytössä</string>
+    <string name="ble_remote_control_endurance_mode_txt">Kameran tehotila</string>
+    <string name="ble_remote_control_off_txt">Pois päältä</string>
+    <string name="ble_remote_control_on_txt">Päällä</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Aloita laiteparin muodostaminen käyttämällä kauko-ohjainta.
+Ilmoitukset ja valintaikkunat näytetään kaksi kertaa. Valitse niissä kaikissa MUODOSTA LAITEPARI ja viimeistele laiteparin muodostaminen painamalla sitten mitä tahansa yhdistetyn laitteen näppäintä."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Pariliitä uusi ohjain</string>
+    <string name="ble_remote_control_title_txt">Bluetooth-kauko-ohjaus</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Käytä kauko-ohjausta</string>
+    <string name="expand_button_title">Lisäasetukset</string>
+    <string name="external_display_connected_description_txt">Voit tarkastella etsintä videobloginäytössä</string>
+    <string name="external_display_connected_title_txt">Videobloginäyttö yhdistetty</string>
+    <string name="external_display_note_about_external_mic_txt">Huomautus: Jos haluat käyttää ulkoista mikrofonia, yhdistä se videobloginäyttöön ennen tallentamista. Jos yhdistät sen myöhemmin, videobloginäyttö on yhdistettävä uudelleen.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Olet hyväksynyt tietosuojakäytännön aiemmin, mutta voit muuttaa mieltäsi milloin tahansa.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Vasen nuoli</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Oikea nuoli</string>
+    <string name="photopro_strings_accessibility_back_txt">Takaisin</string>
+    <string name="photopro_strings_accessibility_close_txt">Sulje</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Esteettömyys: &lt;a href=\"%s\">Noudattaa osittain&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Lue lisää</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Objektiivipainike</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Ei määritettävissä</string>
+    <string name="photopro_strings_accessibility_previous_txt">Edellinen</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Pino äskettäin otettuja valokuvia</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Aloita videon tallennus</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Keskeytä videon tallennus</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Jatka videon tallennusta</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Ota kuva videon tallennuksen aikana</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Lopeta videon tallennus</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Lopeta laskuri</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Suljin</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Vaihda pää- ja etukameran välillä</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Vaihda valokuvan ja videon välillä</string>
+    <string name="photopro_strings_accessibility_title_txt">Esteettömyys</string>
+    <string name="photopro_strings_addon_button_menu_txt">Lisää</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Luova tehoste</string>
+    <string name="photopro_strings_addon_panorama_txt">Panoraama</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Muotokuvaselfie</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Hidastus</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Jos haluat tallentaa sijainteja, sinun täytyy ottaa GPS ja/tai langattomat verkot käyttöön. Otetaanko käyttöön nyt?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Tallenna sijainti</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Nimettömät analytiikkatiedot</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Etukuva</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Etuvideo</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Video</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Valitse valokuvien kuvasuhde</string>
+    <string name="photopro_strings_aspect_ratio_txt">Kuvasuhde</string>
+    <string name="photopro_strings_audio_on_all_txt">Käytössä: kaikki</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Käytössä: vain suljin</string>
+    <string name="photopro_strings_audio_signals_description_txt">Valitse toistettavat kameraäänet, kuten itselaukaisimen laskentaääni tai tarkennusääni. Voit valita toistettavaksi myös pelkän suljinäänen.</string>
+    <string name="photopro_strings_audio_signals_txt">Äänisignaalit</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro suljetaan pian käyttämättömyyden vuoksi</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Muotokuva taustavalolla</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Taustavalo</string>
+    <string name="photopro_strings_auto_scene_document_txt">Asiakirja</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Gourmet</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Lapsi</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Maisema</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Hämärä valo</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Makro</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Yömuotokuva</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Yövalotus</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Automaattinen kuvausohjelman tunnistus</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Pehmeä kuva</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Kohdevalo</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Varmista, että objektiivi on puhdas ja sormesi ei ole sen päällä</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Liian kirkas</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Siirry kauemmas kohteesta</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Lisää valoa tarvitaan</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Siirry lähemmäs kohdetta</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Pehmennys ei ole käytettävissä juuri nyt</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Pehmennys päällä</string>
+    <string name="photopro_strings_bokeh_txt">Pehmennys (boke)</string>
+    <string name="photopro_strings_bt_remote_control_txt">Bluetooth-kauko-ohjaus</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Jatkuvan kuvauksen kuvat tallennetaan sisäiseen tallennustilaan</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Jatkuvaa kuvausta ei voi käyttää, kun suljinnopeus on hidas</string>
+    <string name="photopro_strings_button_continue_txt">Jatka</string>
+    <string name="photopro_strings_button_quit_txt">LOPETA</string>
+    <string name="photopro_strings_cancel_txt">Peruuta</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Hidastus</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K-video</string>
+    <string name="photopro_strings_change_txt">Vaihda</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Nollaa</string>
+    <string name="photopro_strings_color_and_brightness_txt">Väri ja kirkkaus</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Sisäinen tallennus täynnä. Haluatko tallentaa tiedot SD-kortille?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Sisäinen tallennus on vioittunut tai kirjoitussuojattu. Haluatko tallentaa tiedot SD-kortille?</string>
+    <string name="photopro_strings_common_error_open_txt">Ei voida avata: %1$s</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">SD-kortti täynnä. Haluatko tallentaa tiedot sisäiseen tallennukseen?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">SD-korttia ei voi käyttää. Haluatko tallentaa tiedot sisäiseen tallennukseen?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Jatkuvan kuvauksen palaute</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Seuraavat toiminnot ovat tällä hetkellä poissa käytöstä.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Odota, että laitteesi viilentyy. Käynnistä sitten kamera uudelleen.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Seuraavat toiminnot ovat poissa käytöstä</string>
+    <string name="photopro_strings_cooling_mode_txt">Jotkin toiminnot on poistettu käytöstä laitteen lämpötilan nousemisen estämiseksi</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Määritä AEL-painikkeeseen toinen toiminto</string>
+    <string name="photopro_strings_custom_ael_txt">AEL-painikkeen mukauttaminen</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Voit näyttää/piilottaa etsimessä olevia tietoja napauttamalla DISP-painiketta.
+Poista tässä valikossa niiden kohtien valinta, joita et halua koskaan näyttää DISP-painiketta painamalla."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histogrammi</string>
+    <string name="photopro_strings_custom_disp_level_txt">Vatupassi</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Tunnistetiedot</string>
+    <string name="photopro_strings_custom_disp_txt">DISP-painikkeen mukauttaminen</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Voit määrittää tai järjestää asetuskohteita uudelleen toimintovalikosta.
+Napauta jotakin alla olevista toimintokohteista määrittääksesi sille haluamasi muun toiminnon vasemmalla olevasta luettelosta.
+Järjestä alla olevia toimintokohteita vetämällä."</string>
+    <string name="photopro_strings_custom_fn_txt">Toimintovalikon mukauttaminen</string>
+    <string name="photopro_strings_custom_none_txt">Ei määritetty</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Olet hylännyt tietosuojakäytännön aiemmin.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Lukitse automaattinen valotus</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Aseta ISO-asetukseksi Auto</string>
+    <string name="photopro_strings_description_custom_none_txt">Poista AEL-painike käytöstä</string>
+    <string name="photopro_strings_device_id_txt">Laitetunnus</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Puhelimessa ei ole tarpeeksi virtaa. Kun akku on vähissä, kamera suljetaan automaattisesti.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Tallennus lopetettiin, koska virtaa on vähän. Lataa laite ja yritä uudelleen.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Kameran käyttö ei onnistu, koska virtaa on vähän. Lataa laite ja yritä uudelleen.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Sovellus edellyttää seuraavia oikeuksia toiminnon suorittamiseksi.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Verkko
+Wi-Fi-yhteyden muodostaminen"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Lentokonetila on käytössä.
+Poista lentokonetila käytöstä ASETUKSISSA."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Verkon nimi: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi ei ole käytössä ja lentokonetila on käytössä.
+Muokkaa näitä asetuksia napauttamalla ASETUKSET."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi ei ole käytössä.
+Ota Wi-Fi käyttöön ASETUKSISSA."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Asetukset</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Salli</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Estä</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Huomautus</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Kalibroi</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Nollaa</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Sisäinen tallennustila ei riitä. Jatkuva kuvaus lopetettiin. Vapauta tallennustilaa poistamalla joitain tiedostoja.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Myönnä oikeudet</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Yhdistetään...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Salasanasuojaus: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Suojaus: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Wi-Fi-yhteyden muodostaminen ei onnistu</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Jos hyväksyt ehdot alla, Sony kerää sinulta &lt;b>&lt;a href=#personal-data>henkilötietoja&lt;/a>&lt;/b> tarjotakseen räätälöityä tukea ja parantaakseen laitteitaan sekä palveluitaan. Sony käsittelee tietojasi &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>tietosuojakäytännön&lt;/a>&lt;/b> mukaisesti.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Voit kuvata videoita suurella kontrastilla ja tehdä niistä dramaattisempia sekä todentuntuisempia. Jos haluat nauttia sisällöstä alkuperäisillä väreillä ja alkuperäisellä kirkkaudella, käytä tuettuja laitteita ja palveluita.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Älä näytä uudelleen</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">Jatkuva HDR-kuvaus: suuri</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">Jatkuva HDR-kuvaus: pieni</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Jatkuva kuvaus: suuri</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Jatkuva kuvaus: pieni</string>
+    <string name="photopro_strings_drive_continuous_txt">Jatkuva kuvaus</string>
+    <string name="photopro_strings_drive_mode_txt">Kuvanottotapa</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Itselaukaisin: 10 s</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Itselaukaisin: 3 s</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Itselaukaisin: pois päältä</string>
+    <string name="photopro_strings_drive_single_txt">Kertakuvaus</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">Automaattinen HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Tämä asetus optimoi arvoalueen. DRO-käsittely käyttää yhtä kuvaa, kun taas Auto HDR yhdistää useita valotuksia parhaan tuloksen saamiseksi.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">D-alueen optimointi</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO ja automaattinen HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">Kameraa ei voi käynnistää. Käynnistä kamera tai laite uudelleen.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Virhe</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Kuvien tallennus ei onnistu. Tallennustilassa saattaa olla ongelma. Jos tallennustilaksi on määritetty SD-kortti, tarkista kortti.</string>
+    <string name="photopro_strings_error_fatal_txt">Tuntematon virhe.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Ei</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Kyllä</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Kamera sammutetaan tilapäisesti, jotta se voi jäähtyä. Tallenteesi tallennetaan. Käynnistä sovellus uudelleen, kun laite on jäähtynyt.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Muisti täynnä. Poista joitakin tiedostoja SD-kortilta tai sisäisestä muistista.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Muisti ei ole käytettävissä</string>
+    <string name="photopro_strings_error_memory_title_txt">Muistivirhe</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD-kortti ei ole käytettävissä</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Valotuksen korjaus</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Voit ottaa muotokuvia, jotka tarkennetaan ihmisten ja eläinten kasvoihin tai silmiin.
+Jos haluat vaihtaa tarkennuskohtaa, napauta sen kohteen kasvoja, johon haluat tarkentaa."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Voit ottaa videoita, jotka tarkennetaan ihmisten ja eläinten kasvoihin tai silmiin.
+Jos haluat vaihtaa tarkennuskohtaa, napauta sen kohteen kasvoja, johon haluat tarkentaa.
+Huomautus: Kun tämä asetus on käytössä, tallennuksen kesto voi lyhentyä laitteen lämpötilan nousun vuoksi."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Kasvontunnistus/silmä-AF käytössä</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">Kasvojen/silmien AF</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">Kasvojen/silmien AF: Pois päältä</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">Kasvojen/silmien AF: Päällä</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Avaa näytön lukitus käyttääksesi toimintoa</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Jos haluat avata asetukset, avaa ensin näyttö.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Näyttö lukittu</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Jos haluat säätää pehmennystehostetta, napauta Pehmennys-kuvaketta etsimessä ja liikuta liukusäädintä.
+Tämä toiminto on tuettu Perustilassa (valokuva).
+Saa kohde erottumaan upealla kontrastilla sumentamalla tausta."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Kuvaus pehmennystehosteella</string>
+    <string name="photopro_strings_feature_bokeh_txt">Pehmennystehoste</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Kuvanottotavaksi voidaan valita kertakuvaus, jatkuva kuvaus tai itselaukaisin.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Kuvanottotapa</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Kun otat kuvia etukameralla, katso etukameran objektiiviin, joka on lähellä korvakaiutinta.
+Katseesi on kuvassa oikeaan suuntaan."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Silmien suunta</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Voit ottaa muotokuvia, jotka tarkennetaan ihmisten ja eläinten kasvoihin tai silmiin.
+Jos haluat vaihtaa tarkennuskohtaa, napauta sen kohteen kasvoja, johon haluat tarkentaa. Toiminto voidaan ottaa käyttöön tai poistaa käytöstä kohdasta VALIKKO > Kasvojen/silmien AF."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">Kasvojen/silmien AF</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Käännä kämmenesi kohti kameraa. Itselaukaisin käynnistyy, kun kämmen tunnistetaan. Voit helpottaa tunnistamista suoristamalla sormesi.
+Ota toiminto käyttöön vaihtamalla etukameraan Perustilassa (valokuva) ja ottamalla Käsisuljin käyttöön VALIKOSSA."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Käsisuljin</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Käyttäessäsi ultralaajakulmaobjektiivia (0,7x) voit valita prioriteetin. Kun valitset Priorisoi kuvanlaatu, voit kuvata dynaamisia laadukkaita kuvia. Jos valitset Priorisoi vääristymien korjaus, voit vähentää visuaalisia vääristymiä.
+Toiminto on käytettävissä, kun otat valokuvia ultralaajakulmaobjektiivilla. Ultralaajakulmaobjektiiviin vaihtamisen jälkeen prioriteetti voidaan määrittää kohdasta ASETUKSET > Ultralaajakulmaobjektiivin korjaus."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Objektiivikorjaus (kuva)</string>
+    <string name="photopro_strings_feature_list_title_txt">Toimintojen esittely</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Ota helposti taiteellisia selfieitä Pehmennys- ja kaunistustehosteilla.
+Käytä tätä toimintoa napauttamalla etsimessä Lisää ja valitsemalla Muotokuvaselfie.
+Tyylittele selfie ja saa luovia lopputuloksia."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Muotokuvaselfie</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Voit avata verkkosivun tai muodostaa Wi-Fi®-yhteyden nopeasti skannaamalla QR Code -koodin.
+Tämä toiminto on aktiivinen Perustilassa (valokuva). Toiminto voidaan ottaa käyttöön tai poistaa käytöstä kohdasta VALIKKO > QR Code -lukija."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code -lukija</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code -lukija</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Merkitse kuviin ja videoihin niiden kuvauspaikka. Voit muuttaa asetusta myöhemmin kohdasta VALIKKO > Tallenna sijainti.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Tallennetaanko sijainti?</string>
+    <string name="photopro_strings_feature_selfie_txt">Etukamera</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Voit kuvata HD-laatuisia hidastusvideoita 120 fps:n nopeudella</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Hidastus</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Voit vaihtaa kameran objektiivia helposti ikuistaaksesi minkä tahansa tilanteen ja haastaaksesi luovuutesi.
+Napauta etsimen painiketta vaihtaaksesi 0,7x (ultralaajakulma)-, 1,0x (laajakulma)-, 2,9x (teleobjektiivi) ja 4,4x (teleobjektiivi) -objektiivien välillä.
+Voit käyttää toimintoa sekä Perustilassa (valokuva) että Perustilassa (video)."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Vaihda kuvausasetusta painikkeella</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Voit vaihtaa kameran objektiivia helposti ikuistaaksesi minkä tahansa tilanteen ja haastaaksesi luovuutesi.
+Napauta etsimen painiketta vaihtaaksesi 0,7x (ultralaajakulma)-, 1,0x (laajakulma)- ja 2,1x (vakio) -objektiivien välillä.
+Voit käyttää toimintoa sekä Perustilassa (valokuva) että Perustilassa (video)."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Kolmoiskamera</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Objektiivipainikkeen napauttaminen näyttää liukusäätimen, jonka avulla voit säätää zoomaustasoa.
+Voit zoomata myös nipistämällä näytössä tai käyttämällä äänenvoimakkuuspainikkeita."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Zoomaus</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Poista</string>
+    <string name="photopro_strings_file_format_description_txt">"Valitse valokuvien tiedostomuoto.
+
+RAW: Kuvien jälkikäsittely edellyttää erityisohjelmistoa. Tämän ansiosta voit tehdä muokkauksia siten, että kuvanlaadun heikentymistä rajoitetaan. Kuvat ovat tulostettavissa jälkikäsittelyn jälkeen.
+RAW &amp; JPEG: tämä tallentaa sekä jälkikäsittelyä edeltävät RAW-kuvat että JPEG-kuvat.
+JPEG: tämä tallentaa JPEG-kuvat.
+
+Huomautuksia:
+RAW-kuvat tallennetaan aina sisäiseen tallennustilaan 4:3-kuvasuhteella.
+Jatkuva kuvaus ja Auto HDR eivät ole käytettävissä, jos valittuna on RAW tai RAW &amp; JPEG."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW &amp; JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Tiedostomuoto</string>
+    <string name="photopro_strings_flash_auto_txt">Auto</string>
+    <string name="photopro_strings_flash_description_txt">Aseta salaman tilaksi Automaattinen salama, Täyttösalama jne.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Täyttösalama</string>
+    <string name="photopro_strings_flash_off_txt">Pois päältä</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Punasilmäisyyden vähenn.</string>
+    <string name="photopro_strings_flash_torch_description_txt">Kytke taskulamppu päälle</string>
+    <string name="photopro_strings_flash_torch_off_txt">Soihtuvalaistus: pois päältä</string>
+    <string name="photopro_strings_flash_torch_on_txt">Soihtuvalaistus: päällä</string>
+    <string name="photopro_strings_flash_torch_txt">Soihtuvalaistus</string>
+    <string name="photopro_strings_flash_txt">Salaman tila</string>
+    <string name="photopro_strings_focus_area_center_txt">Keskelle</string>
+    <string name="photopro_strings_focus_area_txt">Kohdistusalue</string>
+    <string name="photopro_strings_focus_area_wide_txt">Laaja</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Aseta tarkennusalueen kehyksen väri</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Punainen</string>
+    <string name="photopro_strings_focus_frame_color_txt">Tarkennusalueen väri</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Valkoinen</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">Jatkuva AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">Yhden kuvan AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">Valitse tarkennusmenetelmä</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Kasvontunnistus</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Manuaalinen tarkennus</string>
+    <string name="photopro_strings_focus_mode_txt">Tarkennustila</string>
+    <string name="photopro_strings_geotagging_description_txt">Tallenna kuviin ja videoihin niiden kuvauspaikka</string>
+    <string name="photopro_strings_geotagging_txt">Tallenna sijainti</string>
+    <string name="photopro_strings_gridline_description_txt">Valitse, näytetäänkö kuvien sommittelussa auttavat ruudukkoviivat</string>
+    <string name="photopro_strings_gridline_txt">Ruudukkoviivat</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Voit käynnistää itselaukaisimen ajastimen kääntämällä kämmenesi etukameraa kohti. Voit helpottaa tunnistamista suoristamalla sormesi.</string>
+    <string name="photopro_strings_hand_shutter_txt">Käsisuljin</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Valitse, onko värinäpalaute käytössä näyttöä käytettäessä, esim. tilavalitsimessa</string>
+    <string name="photopro_strings_haptic_feedback_txt">Värinäpalaute</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: pois päältä</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: päällä</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Älykäs tuulisuodatin</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO-herkkyys</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Voit käynnistää Photography Pro -sovelluksen painamalla laitteen suljinpainiketta pitkään. Tämä toimii, vaikka puhelin olisi lukittu tai lepotilassa.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Käynnistä Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Käynnistä suljinpainikkeella</string>
+    <string name="photopro_strings_lens_correction_description_txt">Käyttäessäsi ultralaajaobjektiivia voit valita prioriteetin. Kun valitset Priorisoi kuvanlaatu, voit kuvata dynaamisia laadukkaita kuvia. Jos valitset Priorisoi vääristymien korjaus, voit vähentää visuaalisia vääristymiä.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Priorisoi kuvanlaatu</string>
+    <string name="photopro_strings_lens_correction_on_txt">Priorisoi vääristymien korjaus</string>
+    <string name="photopro_strings_lens_correction_txt">Ultralaajakulmaobjektiivin korjaus</string>
+    <string name="photopro_strings_lens_txt">Linssi</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Kalibroi</string>
+    <string name="photopro_strings_level_calibration_description_txt">Voit tarvittaessa kalibroida vatupassin korjataksesi poikkeamat kallistuksen suunnassa. Varmista, että kamera on vaakasuuntaisesti, ja valitse sitten Kalibroi.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Kalibrointi suoritettu</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Kalibrointiasetus on nollattu</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Vatupassikalibrointi</string>
+    <string name="photopro_strings_lock_switch_txt">Luk.</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Tallennus lopetettiin, koska tiedoston suurin sallittu koko tuli täyteen</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Tallennus pysäytettiin, koska aikaraja täyttyi</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Tallennus ei onnistunut. Muisti täynnä.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Käytä</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Tallenna</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Määritä</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Tallennetaanko nykyiset tilat ja asetukset?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Kamera-asetukset tallennettiin.
+Voit palauttaa nämä asetukset helposti MR-kuvaustilassa."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Kamera-asetusten muisti</string>
+    <string name="photopro_strings_memory_recall_txt">Muista kamera-aset.</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Valokuva (etu)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Valokuva</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Hidastus</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Video (etu)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Video</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Valotus/väri</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Tarkennus</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Määritys</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Kuvaaminen</string>
+    <string name="photopro_strings_menu_title_txt">Valikko</string>
+    <string name="photopro_strings_metering_center_txt">Keskipiste</string>
+    <string name="photopro_strings_metering_multi_txt">Monipiste</string>
+    <string name="photopro_strings_metering_spot_txt">Pistemittaus</string>
+    <string name="photopro_strings_metering_txt">Mittausmuoto</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Valitse videokuvauksessa käytettävä mikrofoni:
+1. LR-mikrofoni: tallentaa stereoääntä vasemmalla ja oikealla mikrofonilla (ylä- ja alamikrofonilla pystyasennossa)
+2. Takamikrofoni: tallentaa monoääntä takamikrofonilla"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Ulkoinen mikrofoni</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">LR-mikrofoni (stereo)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Takamikrofoni (mono)</string>
+    <string name="photopro_strings_mic_setting_txt">Mikrofoni</string>
+    <string name="photopro_strings_mode_auto_description_txt">Kamera tunnistaa kuvausohjelman tyypin automaattisesti ja vähentää kohinaa ja kameran tärinää automaattisilla asetuksilla.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Automaattitila</string>
+    <string name="photopro_strings_mode_basic_description_txt">"Tässä tilassa voit ottaa kuvia näytön suljinpainikkeella samoin kuin tavallisella älypuhelimen kameralla.
+Käytä tätä tilaa selfieiden ottamiseen, videoiden kuvaamiseen tai QR Code -koodien skannaamiseen."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Perustila</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Tämä näyttää kunkin kuvaustilan selityksen, kun tilaa vaihdetaan tilavalitsimella</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Tilavalitsimen opas</string>
+    <string name="photopro_strings_mode_m_description_txt">"Hallitse valotusaikaa ja ISO-herkkyyttä manuaalisesti.
+Pidemmän valotusajan liike-epäterävyydellä voit ikuistaa valokuviin kohteiden liikkeen."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Manuaalinen valotus</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Älykäs automaattinen (muistiasetus)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Ota valokuvia tallennetuilla asetuksilla.
+Voit tallentaa usein käytetyt tilojen ja asetusten yhdistelmät."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Muistiasetus</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Manuaalinen valotus (muistiasetus)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Ohjelma automaattisesti (muistiasetus)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Suljinnopeus ensisijaisesti (muistiasetus)</string>
+    <string name="photopro_strings_mode_p_description_txt">Kamera säätää valotusaikaa automaattisesti, mutta voit säätää muita asetuksia itse.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Automaattiohjelma</string>
+    <string name="photopro_strings_mode_s_description_txt">"Hallitse valotusaikaa manuaalisesti muuttaaksesi liikkuvien kohteiden ikuistamista.
+Lyhyt valotusaika pysäyttää liikkuvan kohteen paikalleen, kun taas pitkä valotusaika ikuistaa paremmin liike-epäterävyyden."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Valotusaika etusijalla</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Kuvanottotavaksi on asetettu automaattisesti Kertakuvaus, koska Transfer &amp; Tagging add-on -tila on päällä</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Tiedostomuodoksi on asetettu automaattisesti JPEG, koska Transfer &amp; Tagging add-on -tila on päällä</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Kameraa ei voi käyttää Moni-ikkunatilassa tai ponnahdusikkunassa. Sulje ikkuna ja yritä uudelleen. Jos käytät Moni-ikkunatilaa, voit vaihtaa kameran koko näytön tilaan vetämällä jakopalkin keskiosaa.</string>
+    <string name="photopro_strings_multi_window_txt">Voit siirtyä koko näytön %1$s-tilaan vetämällä jakopalkin keskiosaa</string>
+    <string name="photopro_strings_ok_txt">OK</string>
+    <string name="photopro_strings_personal_data_txt">Henkilökohtaiset tiedot</string>
+    <string name="photopro_strings_privacy_policy_txt">Tietosuojakäytäntö</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Kuvaa otetaan, odota hetki.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Tätä QR Code -koodia ei tueta</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Avaa \"%1$s\" selaimessa napauttamalla</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Tähän Wi-Fi-verkkoon yhdistäminen ei onnistu</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Yhdistä napauttamalla verkkoon %1$s</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code -lukija</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Voit avata verkkosivun tai muodostaa Wi-Fi-yhteyden nopeasti skannaamalla QR Code -koodin.
+Tämä toiminto on aktiivinen Perustilassa (valokuva)."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code -lukija</string>
+    <string name="photopro_strings_rec_txt">REC</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Palautetaanko Photo Pro oletusasetuksiin?</string>
+    <string name="photopro_strings_reset_settings_txt">Asetusten palautus</string>
+    <string name="photopro_strings_reset_txt">Nollaus</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Kuvasuhdetta ei voida muuttaa, kun tiedostomuoto on RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Automaattista HDR:ää ei voida valita, kun Jatkuva kuvaus -asetus on valittuna</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Automaattinen HDR -tilaa ei voi valita, kun tiedostomuodoksi on valittu jokin muu kuin JPEG</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Pehmennystehoste ei ole käytettävissä valitulla linssillä</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Pehmennystehoste ei ole käytettävissä, kun Transfer &amp; Tagging add-on -tila on päällä</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Jatkuvaa kuvausta (suuri) ei voi käyttää valitulla objektiivilla</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Jatkuva kuvaus ei ole käytettävissä, kun pehmennystehoste on käytössä</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Jatkuva kuvaus ei ole käytettävissä, kun AI-supertarkkuuszoomaus on valittu</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Jatkuva kuvaus -tilaa ei voida käyttää, kun tiedostomuodoksi on valittu jokin muu kuin JPEG</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Jatkuva kuvaus ei ole käytettävissä, kun Transfer &amp; Tagging add-on on päällä</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Vaihtaminen ei onnistu</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Salamatilaa ei voi käyttää, kun valittuna on Jatkuva kuvaus</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Salamatilaa ei voi käyttää valitulla objektiivilla</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Soihtuvalaistusta ei voi käyttää valitulla objektiivilla</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Tiedostomuodon on oltava JPEG, kun automaattinen HDR on valittu</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Tiedostomuodon on oltava JPEG, kun Jatkuva kuvaus on valittu</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Tiedostomuodon on oltava JPEG, kun Transfer &amp; Tagging add-on -tila on päällä</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Tätä asetusta ei voi muuttaa, kun ulkoinen mikrofoni on yhdistetty</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Tämä asetus ei tue nykyistä suljinnopeutta. Jos haluat määrittää tämän asetuksen, määritä suljinnopeudeksi enintään 1 sekunti.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">RAW ei ole valittavissa, kun valittu kuvasuhde on jokin muu kuin 4:3</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Videokokoa ei voi vaihtaa hidastustallennuksen aikana. Jos haluat muuttaa asetusta, poistu hidastustilasta.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Tämä asetus on käytettävissä vain ultralaajakulmaobjektiivilla kuvattaessa</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Tämä asetus ei ole käytettävissä, kun HDR on käytössä. Jos haluat määrittää tämän, poista HDR käytöstä.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Tätä asetusta ei tueta nykyisellä videokoolla. Jos haluat määrittää asetuksen, vaihda videokoko.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Zoomaus ei onnistu pehmennystä käytettäessä</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">SOVELLUSTIEDOT</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">%1$s – oikeus</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Sovellus edellyttää seuraavia oikeuksia toiminnon suorittamiseksi.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Jos haluat myöntää oikeudet, valitse Sovelluksen tiedot > Käyttöoikeudet.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Jatkaminen ei onnistu</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Kuvien ottaminen</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Kuvien ja videoiden kuvaaminen</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Sijainnin tarkistaminen</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Äänten tallentaminen</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Läheisiin laitteisiin yhdistämistä varten</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Valokuvien ja videoiden lukeminen ja tallentaminen</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Kuvien tallentaminen</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Kuvien ja videoiden tallentaminen</string>
+    <string name="photopro_strings_save_destination_description_txt">Valitse, tallennetaanko valokuvat ja videot laitteen sisäiseen muistiin vai SD-kortille</string>
+    <string name="photopro_strings_save_destination_internal_txt">Sisäinen muisti</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD-kortti</string>
+    <string name="photopro_strings_save_destination_title_txt">Tietojen tallennus</string>
+    <string name="photopro_strings_save_destination_txt">Tietojen säilytys</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD-kortti ei ole käytettävissä</string>
+    <string name="photopro_strings_selftimer_10_txt">10 s</string>
+    <string name="photopro_strings_selftimer_3_txt">3 s</string>
+    <string name="photopro_strings_selftimer_description_txt">Aseta itselaukaisin ottamaan valokuva automaattisesti, kun määritetty määrä sekunteja on kulunut</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Pidä katseesi kiinni kamerassa</string>
+    <string name="photopro_strings_selftimer_txt">Itselaukaisin</string>
+    <string name="photopro_strings_settings_off_txt">Pois päältä</string>
+    <string name="photopro_strings_settings_on_txt">Päällä</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Käytä aina Perustilaa</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Valitse oletusarvoinen kuvaustila, kun Photography Pro käynnistetään</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Viimeksi käytetty tila</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Kuvaustila avattaessa</string>
+    <string name="photopro_strings_shooting_mode_txt">Kuvaustila</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Videokamera</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Valotusaika</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Kuvia ei voi ottaa, kun HDR on käytössä</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Ota käyttöön tehoste, joka saa ihon näyttämään sileämmältä</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Pehmeä iho -tehoste</string>
+    <string name="photopro_strings_status_mic_external_txt">Ulkoinen</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">LR (stereo)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Taka (mono)</string>
+    <string name="photopro_strings_store_fail_txt">Tallennus ei onnistunut</string>
+    <string name="photopro_strings_sw_license_txt">Ohjelmiston käyttöoikeus</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Hyväksy</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Hylkää</string>
+    <string name="photopro_strings_tips_txt">Vihjeitä</string>
+    <string name="photopro_strings_title_permissions_txt">Photo Pro -oikeus</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Peruuta kosketustarkennus</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Automaattitarkennus</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Valitse, mitä säädetään, kun kosket etsintä.
+
+Kohteiden seuranta: Paras toiminto liikkuvien kohteiden kuvaamiseen. Se lukitsee tarkennuksen etsimessä napauttamaasi kohteeseen, minkä ansiosta voit kuvata liikkuvia kohteita tarkasti.
+Automaattitarkennus: napauta etsimessä kohtaa, johon haluat tarkentaa.
+Tarkennus ja kirkkaus: tarkenna ja säädä halutun kohdan kirkkautta napauttamalla etsimen kohtaa."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Tarkennus ja kirkkaus</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Objektin seuranta</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Muokkaa koskettamalla</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Peruuta Kohteiden seuranta</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Jos tämä toiminto on otettu käyttöön, Transfer &amp; Tagging add-on voi näyttää Xperia-kameralla otettuja kuvia. Valokuvat tallennetaan sisäiseen muistiin.
+Toiminto on yhteensopiva Photography Prolla otettujen valokuvien kanssa.
+Jos tämä toiminto otetaan käyttöön, tiedostomuodoksi asetetaan automaattisesti JPEG ja kuvanottotavaksi Kertakuvaus."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Transfer &amp; Tagging add-on -tila</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Selvä</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Seuraava</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Ohita</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony on valokuvaajien rakastama brändi, koska se luo valokuvauksen loputonta ilosanomaa levittäviä tuotteita.
+Asiakkaat ympäri maailman valitsevat meidät kokemuksemme ja tekniikkamme ansiosta.
+
+Photography Pro pyrkii tarjoamaan Sony Imaging Productsin täysikokoisten kameroiden kaltaisia toimintoja ja ominaisuuksia.
+Sony tukee valokuvauksellista luovuuttasi."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Valitse kohteelle parhaiten soveltuva kuvaustila.
+Määritä sitten valotusaika ja valotus.
+Pidä kamerasta kiinni sivuista ja pidä se vakaana: ota sitten kuva.
+
+Kuvaustiloja ovat esimerkiksi seuraavat:
+P (automaattiohjelma)
+S (valotusaika etusijalla)
+M (manuaalinen valotus)."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Valitse haluamasi kuvaustila tilavalitsimella, joka on oikeassa yläkulmassa (vasen yläkulma vaakatilassa).
+
+Perustilassa voit ottaa helposti valokuvia ja videoita etukameralla tavallisen älypuhelinkameran tavoin.
+
+Auto/P/S/M-tiloilla saat käyttöösi lisäasetuksia ihanteellisten valokuvien ikuistamista varten."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Kuvaustila</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Käyttöohjeet</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Kun Auto/P/S/M-tila on käytössä, pidä kameraa vakaasti vaaka-asennossa ja ota valokuvia painamalla laitteen oikeassa yläreunassa olevaa suljinpainiketta.
+
+Jos valitset Auto, valotusajan ja valotuksen kaltaiset ominaisuudet asetetaan automaattisesti.
+
+Jos haluat määrittää asetukset manuaalisesti, valitse jokin alla olevista tiloista.
+P (automaattiohjelma)
+S (valotusaika etusijalla)
+M (manuaalinen valotus)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Auto/P/S/M-tilojen käyttäminen</string>
+    <string name="photopro_strings_tutorial_txt">Opetusohjelma</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Photo Prota ei voi käyttää yhdistetyn näytön kanssa. Jos haluat käyttää Photo Prota, sulje sovellus Xperian Viimeisimmät sovellukset -näytöstä ja käynnistä se sitten uudelleen.</string>
+    <string name="photopro_strings_unlock_button_txt">Avaa lukitus</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Kameran käyttöä on rajoitettu suojaussyistä</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Jotta 4Kvideotallennus toimisi vakaasti, älä vaihda tätä asetusta, ellet käytä suurinopeuksista SD-korttia (vähintään UHS-nopeusluokka 1, suosittelemme nopeusluokkaa 10).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Jotta hidastusvideotallennus toimisi vakaasti, älä vaihda tätä asetusta, ellet käytä suurinopeuksista SD-korttia (vähintään UHS-nopeusluokka 1, suosittelemme nopeusluokkaa 10).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Videotallennuksen vakauden varmistamiseksi suosittelemme, että vaihdat tietojen tallennuspaikaksi sisäisen muistin. Haluatko tehdä muutoksen nyt?
+
+Jos jatkat tallentamista SD-kortille, käytä suurinopeuksista SD-korttia (vähintään UHS-nopeusluokka 1, suosittelemme nopeusluokkaa 10)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Valitse 4K-videotallenteiden koodaus.
+
+H.264 (AVC): Tämä on vakiokoodausmuoto, jota useimmat laitteet ja palvelut tukevat.
+H.265 (HEVC): Tämä on tehokkaampi pakkausmuoto. Varmista, että toistolaitteet ja palvelut tukevat tätä menetelmää."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Tiedostomuoto (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Valitse videokoko.
+HDR ei ole käytettävissä, kun Full HD (60 fps) tai HD on valittu."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Valitse videon koko</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 fps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Full HD</string>
+    <string name="photopro_strings_video_size_txt">Videon koko</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Xperiassa on ainutlaatuinen Optical SteadyShot -hybridivakautusjärjestelmä, joka käyttää samanaikaisesti sekä optista että sähköistä kuvanvakautusta. Se varmistaa tärinättömän ja pehmeän videon myös liikuttaessa.</string>
+    <string name="photopro_strings_video_stabilization_txt">Videokuvan vakautus</string>
+    <string name="photopro_strings_volumekey_description_txt">Määritä äänenvoimakkuuspainikkeisiin toinen toiminto</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Suljin</string>
+    <string name="photopro_strings_volumekey_txt">Äänenvoim.pain. käyttötapa</string>
+    <string name="photopro_strings_volumekey_volume_txt">Äänenvoimakkuus</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Zoomaus</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Säädä: %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Auto</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Säädä</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Valm.</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Yritä uudelleen</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Käytä</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Pilvinen</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Oma 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Oma 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Oma 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Määritä valkotasapaino esikatselun keskustan perusteella</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Säätö epäonnistui</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Säätö valmis</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Käytä: %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Päivänvalo</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Loisteputki</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Hehkulamppu</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Varjo</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Lämp. 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Lämp. 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Lämp. 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Lämp.:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Lämpötila</string>
+    <string name="photopro_strings_whitebalance_txt">Valkotasapaino</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Etukameralla ei voi zoomata</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">AI-supertarkkuuszoomaus</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Valitse zoomausasetus.
+
+Digitaalinen zoomaus: zoomaus digitaalisella käsittelyllä kennon tietojen perusteella.
+AI-supertarkkuuszoomaus: Digitaalisella käsittelyllä tehtävä zoomaus, joka säilyttää paremmin alkuperäisen kuvanlaadun. Kuvien tallentaminen voi kestää pidempään. Se toimii automaattisesti Digitaalisena zoomauksena, kun Jatkuva kuvaus on valittu."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Digitaalinen zoomaus</string>
+    <string name="photopro_strings_zoom_type_txt">Zoomausasetukset</string>
+    <string name="search_menu_title">Haku</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">POIS KÄYTÖSTÄ</string>
+    <string name="v7_preference_on">KÄYTÖSSÄ</string>
+</resources>

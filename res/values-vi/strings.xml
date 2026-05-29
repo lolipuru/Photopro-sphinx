@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Chỉ đường về nhà</string>
+    <string name="abc_action_bar_up_description">Di chuyển lên</string>
+    <string name="abc_action_menu_overflow_description">Tùy chọn khác</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Truy vấn tìm kiếm</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="ble_remote_control_button_any_problem_txt">Khắc phục sự cố</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Ghép nối bộ điều khiển mới</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Bạn có thể gán một chức năng khác cho nút C1 trên Điều khiển qua Bluetooth</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">Tùy chỉnh nút C1</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Chế độ lấy nét</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Ống kính</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Chế độ chụp</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Chuyển đổi camera chính/trước</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Chuyển đổi ảnh/video</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Ống kính</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Chuyển đổi AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Chuyển đổi camera chính/trước</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Cho phép</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Từ chối</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Cho phép ứng dụng dùng Bluetooth cho tính năng này?</string>
+    <string name="ble_remote_control_description_txt">"Bạn có thể ghép nối điều khiển từ xa Sony qua Bluetooth để sử dụng các chức năng từ xa trong %1$s.
+Nhấn vào Ghép nối bộ điều khiển mới để bắt đầu ghép nối thiết bị mới."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Đã ghép nối</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Nếu không thể ghép nối điều khiển từ xa với thiết bị, hãy vào phần Cài đặt và kiểm tra xem điều khiển từ xa đã được đăng ký trong danh sách thiết bị Bluetooth chưa. Nếu đã được đăng ký, hãy xóa điều khiển từ xa khỏi danh sách và thử ghép nối lại.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Khắc phục sự cố</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Đồng ý và bật</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Từ chối</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Thoát</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Đi tới Cài đặt</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">OK</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Đã hủy ghép nối vì Bluetooth tắt</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Ghép nối không thành công do quá thời gian chờ. Hãy thử lại sau.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Thiết bị này có thể hạn chế một số chức năng khi dùng quá nhiều. Nếu bạn bật Chế độ duy trì của camera, một biểu tượng sẽ được hiển thị để cho biết rằng ứng dụng sẽ duy trì hiệu suất cao. Khi biểu tượng này được hiển thị, bạn có thể sử dụng ứng dụng trong một khoảng thời gian dài hơn.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Chế độ duy trì của camera chỉ khả dụng khi sử dụng %1$s với điều khiển từ xa được kết nối qua Bluetooth. Việc đóng %1$s sẽ vô hiệu hóa chức năng này.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Nhiệt độ thiết bị có thể tăng trên nhiệt độ vận hành thông thường. Khi nhiệt độ tăng, bạn sẽ nhận được một thông báo và biểu tượng. Trong trường hợp này, hãy ngừng việc liên tục cầm thiết bị trên tay. Vui lòng đảm bảo điều khiển từ xa được kết nối qua Bluetooth trước khi tiếp tục.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Chú ý</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Nhiệt độ của thiết bị quá cao. %1$s sẽ tạm thời tắt để nguội bớt.
+Nếu bạn kết nối điều khiển từ xa Bluetooth, bạn có thể tiếp tục sử dụng %1$s với Chế độ duy trì của camera."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Nhiệt độ của thiết bị quá cao. %1$s sẽ tạm thời tắt để nguội bớt.
+Nếu bạn kết nối điều khiển từ xa Bluetooth, bạn có thể sử dụng %1$s với Chế độ duy trì của camera."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Để sử dụng chức năng này, hãy bật [Sử dụng điều khiển từ xa] sau khi ghép nối điều khiển từ xa qua Bluetooth.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Nhiệt độ của thiết bị quá cao. %1$s sẽ tạm thời tắt để nguội bớt.
+Nếu bạn bật Chế độ duy trì của camera, bạn có thể sử dụng %1$s với điều khiển từ xa Bluetooth."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Để bật chức năng này, hãy tương tác với điều khiển từ xa được kết nối.
+Để hủy bỏ, nhấn vào THOÁT."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Đã bật Chế độ duy trì của camera</string>
+    <string name="ble_remote_control_endurance_mode_txt">Chế độ duy trì của camera</string>
+    <string name="ble_remote_control_off_txt">Tắt</string>
+    <string name="ble_remote_control_on_txt">Bật</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Để bắt đầu ghép nối, hãy tương tác với bộ điều khiển từ xa.
+Bạn sẽ nhận được thông báo và hộp thoại hai lần. Chọn GHÉP NỐI trên tất cả các thông báo và hộp thoại, sau đó nhấn phím bất kỳ trên thiết bị đã ghép nối để kết thúc quá trình ghép nối."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Ghép nối bộ điều khiển mới</string>
+    <string name="ble_remote_control_title_txt">Điều khiển qua Bluetooth</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Sử dụng điều khiển từ xa</string>
+    <string name="expand_button_title">Nâng cao</string>
+    <string name="external_display_connected_description_txt">Bạn có thể kiểm tra kính ngắm từ Màn hình Vlog</string>
+    <string name="external_display_connected_title_txt">Đã kết nối màn hình Vlog</string>
+    <string name="external_display_note_about_external_mic_txt">Lưu ý: Để dùng micrô ngoài, vui lòng kết nối micrô với Màn hình Vlog trước khi quay. Nếu kết nối micrô ngoài sau khi quay, bạn cần kết nối lại Màn hình Vlog.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Trước đây, bạn đã chấp nhận chính sách bảo mật nhưng bạn luôn có thể thay đổi quyết định của mình.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Mũi tên sang trái</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Mũi tên sang phải</string>
+    <string name="photopro_strings_accessibility_back_txt">Quay lại</string>
+    <string name="photopro_strings_accessibility_close_txt">Đóng</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Trợ năng: &lt;a href=\"%s\">Tuân thủ một phần&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Đọc thêm</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Nút ống kính</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Không thể cấu hình</string>
+    <string name="photopro_strings_accessibility_previous_txt">Trước</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Chồng ảnh gần đây</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Bắt đầu quay video</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Tạm dừng quay video</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Tiếp tục quay video</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Chụp ảnh nhanh khi đang quay video</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Dừng quay video</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Dừng đếm ngược</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Chụp</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Chuyển đổi giữa camera chính và camera trước</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Chuyển đổi giữa ảnh và video</string>
+    <string name="photopro_strings_accessibility_title_txt">Trợ năng</string>
+    <string name="photopro_strings_addon_button_menu_txt">Khác</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Hiệu ứng sáng tạo</string>
+    <string name="photopro_strings_addon_panorama_txt">Ảnh toàn cảnh</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Ảnh chân dung tự chụp</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Chuyển động chậm</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Để lưu vị trí, bạn phải bật GPS và/hoặc mạng không dây. Bật ngay bây giờ?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Lưu vị trí</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Phân tích ẩn danh</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Ảnh mặt trước</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Video đằng trước</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Video</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Chọn tỷ lệ khung hình cho ảnh chụp</string>
+    <string name="photopro_strings_aspect_ratio_txt">Tỷ lệ khung hình</string>
+    <string name="photopro_strings_audio_on_all_txt">Bật: Tất cả</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Bật: Chỉ âm bấm máy</string>
+    <string name="photopro_strings_audio_signals_description_txt">Đặt âm thanh camera sẽ phát, chẳng hạn như khi tính năng chụp hẹn giờ đếm ngược hoặc khi lấy nét. Bạn cũng có thể chọn chỉ phát âm bấm máy.</string>
+    <string name="photopro_strings_audio_signals_txt">Tín hiệu âm thanh</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro sẽ sớm đóng lại do không hoạt động</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Chân dung ngược sáng</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Ngược sáng</string>
+    <string name="photopro_strings_auto_scene_document_txt">Tài liệu</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Món ăn hấp dẫn</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Em bé</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Phong cảnh</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Ánh sáng yếu</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Chụp cận cảnh</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Chân dung đêm</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Cảnh đêm</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Tự động nhận diện cảnh chụp</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">C.độ chụp mờ phông nền</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Sân khấu</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Đảm bảo rằng ống kính sạch và bạn không đặt ngón tay trên đó</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Quá sáng</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Di chuyển ra xa đối tượng</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Cần thêm ánh sáng</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Di chuyển lại gần đối tượng</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Hiện không sử dụng được Bokeh</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Bokeh đang bật</string>
+    <string name="photopro_strings_bokeh_txt">Bokeh</string>
+    <string name="photopro_strings_bt_remote_control_txt">Điều khiển qua Bluetooth</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Ảnh chụp bằng chức năng Chụp liên tục được lưu vào bộ nhớ trong</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Không thể sử dụng Chụp liên tục ở tốc độ chụp chậm</string>
+    <string name="photopro_strings_button_continue_txt">Tiếp tục</string>
+    <string name="photopro_strings_button_quit_txt">THOÁT</string>
+    <string name="photopro_strings_cancel_txt">Hủy</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Chuyển động chậm</string>
+    <string name="photopro_strings_change_save_destination_title_txt">Video 4K</string>
+    <string name="photopro_strings_change_txt">Thay đổi</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Cài lại</string>
+    <string name="photopro_strings_color_and_brightness_txt">Màu sắc và độ sáng</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Bộ nhớ trong đầy. Tiết kiệm dữ liệu trong thẻ SD?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Bộ nhớ trong hỏng hoặc ở chế độ chống ghi. Tiết kiệm dữ liệu trong thẻ SD?</string>
+    <string name="photopro_strings_common_error_open_txt">Không thể mở %1$s</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">Thẻ SD đầy. Tiết kiệm dữ liệu trong bộ nhớ trong?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">Không thể sử dụng thẻ SD. Tiết kiệm dữ liệu trong bộ nhớ trong?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Phản hồi chụp liên tục</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Các chức năng sau đây hiện giờ đang bị tắt.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Hãy chờ cho đến khi thiết bị của bạn nguội rồi mới khởi động lại camera.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Các chức năng sau bị tắt</string>
+    <string name="photopro_strings_cooling_mode_txt">Một số tính năng bị tắt để tránh tăng nhiệt độ thiết bị</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Gán chức năng khác cho nút AEL</string>
+    <string name="photopro_strings_custom_ael_txt">Tùy chỉnh nút AEL</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Bằng cách nhấn vào nút DISP, bạn có thể hiển thị/ẩn thông tin trong kính ngắm.
+Bỏ chọn bất kỳ mục nào trong trình đơn này nếu bạn không bao giờ muốn mục đó xuất hiện khi hiển thị thông tin bằng nút DISP."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Biểu đồ</string>
+    <string name="photopro_strings_custom_disp_level_txt">Cân bằng</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Thông tin tiêu đề</string>
+    <string name="photopro_strings_custom_disp_txt">Tùy chỉnh nút DISP</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Bạn có thể gán lại hoặc sắp xếp lại các mục cài đặt trong trình đơn chức năng.
+Nhấn vào một trong các mục chức năng bên dưới để gán chức năng khác mà bạn chọn từ danh sách bên trái.
+Kéo và thả bất kỳ mục chức năng nào bên dưới để sắp xếp lại."</string>
+    <string name="photopro_strings_custom_fn_txt">Tùy chỉnh trình đơn Chức năng</string>
+    <string name="photopro_strings_custom_none_txt">Chưa được chỉ định</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Trước đây, bạn đã từ chối chính sách bảo mật.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Khóa phơi sáng tự động</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Đặt ISO thành Auto</string>
+    <string name="photopro_strings_description_custom_none_txt">Vô hiệu hóa nút AEL</string>
+    <string name="photopro_strings_device_id_txt">ID thiết bị</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Không đủ pin trên điện thoại. Khi mức pin thấp, camera sẽ tự động đóng.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Đã dừng quay do pin yếu. Hãy sạc thiết bị của bạn và thử lại.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Không thể sử dụng camera do pin yếu. Hãy sạc thiết bị của bạn và thử lại.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Ứng dụng yêu cầu (các) quyền sau đây để thực hiện thao tác này.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Mạng
+Để kết nối với Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Chế độ trên máy bay đang bật.
+Vui lòng tắt Chế độ máy bay từ phần CÀI ĐẶT."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Tên mạng: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi đã tắt và Chế độ máy bay đang bật.
+Vui lòng thay đổi các cài đặt này bằng cách nhấn vào CÀI ĐẶT."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Đã tắt Wi-Fi.
+Vui lòng bật Wi-Fi từ phần CÀI ĐẶT."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Cài đặt</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Cho phép</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Từ chối</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Chú ý</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Hiệu chỉnh</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Thiết lập lại</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Không đủ bộ nhớ trong. Đã dừng chế độ chụp liên tục. Hãy xóa bớt một số tệp để giải phóng dung lượng lưu trữ.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Cấp quyền</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Đang kết nối...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Bảo vệ bằng mật khẩu: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Bảo mật: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Không thể kết nối với Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Nếu bạn đồng ý ở bên dưới, Sony sẽ thu thập &lt;b>&lt;a href=#personal-data>dữ liệu cá nhân&lt;/a>&lt;/b> của bạn để cung cấp hỗ trợ tùy chỉnh và cải thiện các thiết bị và dịch vụ. Sony sẽ xử lý dữ liệu của bạn theo &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>Chính sách quyền riêng tư&lt;/a>&lt;/b> của chúng tôi.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Bạn có thể quay video kể cả trong cảnh có độ tương phản cao và làm cho những video đó gây cảm xúc mạnh hơn và gần gũi hơn với những gì bạn thấy trong đời thực. Hãy sử dụng những thiết bị/dịch vụ được hỗ trợ để thưởng thức nội dung có màu sắc và độ sáng nguyên bản.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Không hiển thị lại</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">Chụp liên tục HDR: Cao</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">Chụp liên tục HDR: Thấp</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Chụp liên tục: Cao</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Chụp liên tục: Thấp</string>
+    <string name="photopro_strings_drive_continuous_txt">Chụp liên tục</string>
+    <string name="photopro_strings_drive_mode_txt">Chế độ chụp khác</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Chụp hẹn giờ: 10 giây</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Chụp hẹn giờ: 3 giây</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Chụp hẹn giờ: Tắt</string>
+    <string name="photopro_strings_drive_single_txt">Chụp từng ảnh</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">HDR tự động</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Mục cài đặt này sẽ tối ưu hóa phạm vi giá trị. Tính năng xử lý DRO sử dụng một hình ảnh, còn HDR tự động sẽ kết hợp nhiều độ phơi sáng để đạt được kết quả.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Trình tối ưu hóa dải D</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/HDR tự động</string>
+    <string name="photopro_strings_error_device_not_available_txt">Không thể khởi động camera. Hãy khởi động lại camera hoặc thiết bị.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Lỗi</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Không thể lưu ảnh. Có thể đã xảy ra sự cố với vị trí lưu trữ dữ liệu. Nếu Vị trí lưu trữ dữ liệu được đặt thành thẻ SD, hãy kiểm tra thẻ SD của bạn.</string>
+    <string name="photopro_strings_error_fatal_txt">Lỗi không xác định.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Không</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Có</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Camera tạm thời sẽ tắt để nguội bớt. Bản ghi của bạn sẽ được lưu. Hãy khởi động lại ứng dụng này sau khi thiết bị đã nguội bớt.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Bộ nhớ đầy. Xóa một số tệp khỏi thẻ SD hoặc bộ nhớ trong.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Bộ nhớ không khả dụng</string>
+    <string name="photopro_strings_error_memory_title_txt">Lỗi bộ nhớ</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">Không sử dụng được thẻ SD</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Bù phơi sáng</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Bạn có thể chụp ảnh chân dung lấy nét khuôn mặt hoặc đôi mắt của người và động vật.
+Để thay đổi đối tượng lấy nét, hãy nhấn vào khuôn mặt của chủ thể bạn muốn lấy nét."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Bạn có thể quay video lấy nét khuôn mặt hoặc đôi mắt của người và động vật.
+Để thay đổi đối tượng lấy nét, hãy nhấn vào khuôn mặt của chủ thể bạn muốn lấy nét.
+Lưu ý: Khi bật cài đặt này, thời gian quay có thể rút ngắn do nhiệt độ thiết bị tăng."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Phát hiện khuôn mặt/AF vào mắt bật</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">AF vào đôi mắt/khuôn mặt</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">AF vào đôi mắt/mặt: Tắt</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">AF vào đôi mắt/mặt: Bật</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Mở khóa màn hình để sử dụng chức năng này</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Để mở cài đặt, hãy mở khóa màn hình.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Đã khóa màn hình</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Để điều chỉnh hiệu ứng Bokeh, hãy nhấn vào biểu tượng Bokeh trong kính ngắm và di chuyển thanh trượt.
+Chức năng này được hỗ trợ trong Chế độ (Ảnh) cơ bản.
+Làm nổi bật chủ thể với độ tương phản ấn tượng bằng cách làm mờ nền."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Chụp ảnh cùng hiệu ứng bokeh</string>
+    <string name="photopro_strings_feature_bokeh_txt">Hiệu ứng Bokeh</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Có thể thay đổi chế độ chụp khác để sử dụng Chụp từng ảnh, Chụp liên tục hay chụp hẹn giờ.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Chế độ chụp khác</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Khi chụp ảnh bằng camera trước, hãy nhìn vào ống kính camera trước gần loa nghe.
+Mắt bạn sẽ nhìn theo hướng chuẩn trên ảnh chụp."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Hướng nhìn</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Bạn có thể chụp ảnh chân dung lấy nét khuôn mặt hoặc đôi mắt của người và động vật.
+Để thay đổi đối tượng lấy nét, hãy nhấn vào khuôn mặt của chủ thể bạn muốn lấy nét. Có thể bật hoặc tắt chức năng này từ TRÌNH ĐƠN > AF vào đôi mắt/khuôn mặt."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">AF vào đôi mắt/khuôn mặt</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Xoay bàn tay của bạn hướng về camera. Tính năng chụp hẹn giờ sẽ bắt đầu đếm ngược khi lòng bàn tay của bạn được nhận dạng. Để giúp camera dễ dàng phát hiện bàn tay của bạn, hãy duỗi thẳng các ngón tay lên trên.
+Để bật chức năng này, hãy chuyển sang camera trước trong khi ở Chế độ (ảnh) cơ bản và bật Chụp khi phát hiện bàn tay trong TRÌNH ĐƠN."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Chụp khi phát hiện bàn tay</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Khi dùng ống kính cực rộng (0,7x), bạn có thể chọn một yếu tố ưu tiên. Bằng cách chọn Ưu tiên chất lượng hình ảnh, bạn có thể chụp ảnh động có chất lượng cao. Nếu chọn tùy chọn Ưu tiên sửa chữa méo ảnh, bạn có thể giảm tình trạng méo ảnh.
+Chức năng này hoạt động khi chụp ảnh bằng ống kính cực rộng. Sau khi chuyển sang ống kính cực rộng, bạn có thể định cấu hình yếu tố ưu tiên từ MENU > Hiệu chỉnh ống kính cực rộng."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Sửa ống kính (ảnh)</string>
+    <string name="photopro_strings_feature_list_title_txt">Giới thiệu tính năng</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Dễ dàng chụp ảnh tự chụp nghệ thuật bằng hiệu ứng Bokeh và làm đẹp.
+Để sử dụng chức năng này, hãy nhấn vào Khác trong kính ngắm và chọn Ảnh chân dung tự chụp
+Tạo phong cách cho ảnh tự chụp và tận hưởng thành quả sáng tạo."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Ảnh chân dung tự chụp</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Bạn có thể nhanh chóng truy cập web hoặc kết nối Wi-Fi bằng cách quét QR Code.
+Chức năng này hoạt động khi ở Chế độ (Ảnh) cơ bản. Có thể bật hoặc tắt chức năng này từ TRÌNH ĐƠN > Trình đọc QR Code."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">Trình đọc QR Code</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">Trình đọc QR Code</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Gắn thẻ ảnh và video của bạn với vị trí bạn đã chụp/quay. Bạn có thể thay đổi cài đặt này sau từ TRÌNH ĐƠN > Lưu vị trí.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Lưu vị trí?</string>
+    <string name="photopro_strings_feature_selfie_txt">Camera trước</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Bạn có thể quay video chuyển động chậm 120 fps ở chế độ HD</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Chuyển động chậm</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Bạn có thể dễ dàng chuyển đổi giữa các ống kính camera để bắt trọn mọi tình huống nhằm thử thách khả năng sáng tạo.
+Nhấn vào nút trong kính ngắm để chuyển đổi giữa các ống kính 0,7x (cực rộng), 1,0x (rộng), 2,9x (tele) và 4,4x (tele).
+Bạn có thể sử dụng chức năng này ở cả Chế độ (Ảnh) cơ bản và Chế độ (Video) cơ bản."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Chuyển đổi góc bằng nút này</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Bạn có thể dễ dàng chuyển đổi giữa các ống kính camera để bắt trọn mọi tình huống nhằm thử thách khả năng sáng tạo.
+Nhấn vào nút trong kính ngắm để chuyển đổi giữa các ống kính 0,7x (cực rộng), 1,0x (rộng) và 2,1x (tiêu chuẩn).
+Bạn có thể sử dụng chức năng này ở cả Chế độ (Ảnh) cơ bản và Chế độ (Video) cơ bản."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Camera 3 ống kính</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Nhấn vào nút ống kính, bạn sẽ thấy một thanh trượt dùng để điều chỉnh mức phóng to thu nhỏ.
+Bạn cũng có thể chụm trên màn hình hoặc sử dụng nút âm lượng để phóng to thu nhỏ."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Cách phóng to/thu nhỏ</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Xóa</string>
+    <string name="photopro_strings_file_format_description_txt">"Chọn định dạng tập tin cho ảnh tĩnh.
+
+RAW: Cần phần mềm đặc biệt để xử lý hậu kỳ ảnh. Nhờ vậy, bạn có thể điều chỉnh mà không làm giảm chất lượng ảnh. Có thể in sau khi xử lý hậu kỳ.
+RAW &amp; JPEG: Lưu cả hình ảnh RAW cần phải xử lý hậu kỳ và hình ảnh JPEG.
+JPEG: Lưu hình ảnh JPEG.
+
+Lưu ý:
+Tệp định dạng RAW sẽ luôn được lưu vào bộ nhớ trong với tỷ lệ khung hình 4:3.
+Tính năng Chụp liên tục và HDR tự động không dùng được khi chọn RAW hoặc RAW &amp; JPEG."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW và JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Định dạng tệp</string>
+    <string name="photopro_strings_flash_auto_txt">Tự động</string>
+    <string name="photopro_strings_flash_description_txt">Đặt chế độ đèn flash thành Đèn flash tự động, Đèn flash hỗ trợ, v.v.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Đèn flash hỗ trợ</string>
+    <string name="photopro_strings_flash_off_txt">Tắt</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Giảm mắt đỏ</string>
+    <string name="photopro_strings_flash_torch_description_txt">Bật đèn flash</string>
+    <string name="photopro_strings_flash_torch_off_txt">Đèn pin: Tắt</string>
+    <string name="photopro_strings_flash_torch_on_txt">Đèn pin: Bật</string>
+    <string name="photopro_strings_flash_torch_txt">Đèn pin</string>
+    <string name="photopro_strings_flash_txt">Chế độ Đèn flash</string>
+    <string name="photopro_strings_focus_area_center_txt">Giữa</string>
+    <string name="photopro_strings_focus_area_txt">Khu vực lấy nét</string>
+    <string name="photopro_strings_focus_area_wide_txt">Rộng</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Đặt màu của khung vùng lấy nét</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Màu đỏ</string>
+    <string name="photopro_strings_focus_frame_color_txt">Màu của vùng lấy nét</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Trắng</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">AF liên tục</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">AF cho một lần chụp</string>
+    <string name="photopro_strings_focus_mode_description_txt">Chọn phương thức lấy nét</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Nhận diện khuôn mặt</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Lấy nét thủ công</string>
+    <string name="photopro_strings_focus_mode_txt">Chế độ lấy nét</string>
+    <string name="photopro_strings_geotagging_description_txt">Lưu ảnh chụp và video của bạn với vị trí bạn đã chụp/quay</string>
+    <string name="photopro_strings_geotagging_txt">Lưu vị trí</string>
+    <string name="photopro_strings_gridline_description_txt">Đặt có hiển thị đường lưới để hỗ trợ bạn trong việc bố cục hình ảnh hay không</string>
+    <string name="photopro_strings_gridline_txt">Đường lưới</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Bạn có thể bắt đầu đếm ngược cho tính năng chụp hẹn giờ bằng cách hướng lòng bàn tay về phía camera trước. Để giúp camera dễ dàng phát hiện bàn tay của bạn, hãy duỗi thẳng các ngón tay lên trên.</string>
+    <string name="photopro_strings_hand_shutter_txt">Chụp khi phát hiện bàn tay</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Cài đặt xem có nhận phản hồi rung khi tương tác với màn hình hay không, ví dụ: vòng xoay chế độ</string>
+    <string name="photopro_strings_haptic_feedback_txt">Phản hồi rung</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Tắt</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: Bật</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Bộ lọc gió thông minh</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">Độ nhạy ISO</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Bạn có thể khởi chạy ứng dụng Photography Pro bằng cách nhấn và giữ nút chụp của thiết bị. Bạn có thể dùng cách này kể cả khi điện thoại đang ở chế độ nghỉ hoặc khóa.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Khởi chạy Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Khởi chạy bằng nút chụp</string>
+    <string name="photopro_strings_lens_correction_description_txt">Khi dùng ống kính cực rộng, bạn có thể chọn một ưu tiên. Chụp ảnh động chất lượng cao bằng ống kính cực rộng. Nếu chọn tùy chọn Ưu tiên sửa chữa méo ảnh, bạn có thể giảm tình trạng méo ảnh.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Ưu tiên chất lượng hình ảnh</string>
+    <string name="photopro_strings_lens_correction_on_txt">Ưu tiên sửa chữa méo ảnh</string>
+    <string name="photopro_strings_lens_correction_txt">Hiệu chỉnh ống kính cực rộng</string>
+    <string name="photopro_strings_lens_txt">Ố.kính</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Hiệu chỉnh</string>
+    <string name="photopro_strings_level_calibration_description_txt">Nếu cần, bạn có thể hiệu chỉnh tính năng Cân bằng để khắc phục độ lệch ở hướng nghiêng. Hãy bảo đảm camera nằm ngang, sau đó chọn Hiệu chỉnh.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Đã hiệu chỉnh xong</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Cài đặt hiệu chỉnh đã được thiết lập lại</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Hiệu chỉnh cân bằng</string>
+    <string name="photopro_strings_lock_switch_txt">Khóa</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Quá trình ghi dừng lại vì đã đạt giới hạn kích cỡ tệp tối đa</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Quá trình ghi dừng lại vì đến giới hạn thời gian ghi tối đa</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Không thể lưu. Bộ nhớ đã đầy.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Dùng</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Lưu</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Đặt</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Lưu kết hợp hiện tại của chế độ và cài đặt?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Đã lưu cài đặt máy ảnh.
+Bạn có thể dễ dàng gợi lại các cài đặt này bằng chế độ chụp MR."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Bộ nhớ cài đặt máy ảnh</string>
+    <string name="photopro_strings_memory_recall_txt">Đặt nhắc lại bộ nhớ</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Ảnh chụp (Trước)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Ảnh chụp</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Chuyển động chậm</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Video (Trước)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Video</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Phơi sáng/màu</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Lấy nét</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Thiết lập</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Chụp</string>
+    <string name="photopro_strings_menu_title_txt">Trình đơn</string>
+    <string name="photopro_strings_metering_center_txt">Trung tâm</string>
+    <string name="photopro_strings_metering_multi_txt">Đa điểm</string>
+    <string name="photopro_strings_metering_spot_txt">Điểm</string>
+    <string name="photopro_strings_metering_txt">Chế độ đo sáng</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Chọn micrô để dùng khi quay video:
+1. Micrô trái phải: Ghi âm thanh nổi bằng micrô trái và phải (trên và dưới khi ở hướng dọc)
+2. Micrô sau: Ghi âm thanh đơn âm bằng micrô sau"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Micrô ngoài</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">Micrô trái phải (âm thanh nổi)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Micrô sau (đơn âm)</string>
+    <string name="photopro_strings_mic_setting_txt">Micrô</string>
+    <string name="photopro_strings_mode_auto_description_txt">Camera sẽ tự động phát hiện loại cảnh và chụp ảnh với cài đặt tự động đồng thời giảm nhiễu và rung camera.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Chế độ tự động</string>
+    <string name="photopro_strings_mode_basic_description_txt">"Trong chế độ này, bạn có thể chụp ảnh bằng nút chụp trên màn hình, theo cách tương tự như trải nghiệm camera thông thường trên điện thoại thông minh.
+Sử dụng chế độ này để chụp ảnh tự chụp, quay video và quét QR code."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Chế độ cơ bản</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Hướng dẫn này sẽ hiển thị lời giải thích cho mỗi Chế độ chụp khi bạn dùng vòng xoay chế độ để thay đổi chế độ</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Hướng dẫn về vòng xoay chế độ</string>
+    <string name="photopro_strings_mode_m_description_txt">"Điều khiển tốc độ chụp và độ nhạy ISO theo cách thủ công.
+Bằng cách phơi sáng lâu hơn, bạn có thể chụp ảnh ghi lại chuyển động theo sau của các chủ thể bằng cách sử dụng tính năng làm mờ chuyển động."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Phơi sáng thủ công</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Tự động thông minh (Nhắc lại bộ nhớ)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Chụp ảnh với cài đặt đã lưu
+Bạn có thể đăng ký các tổ hợp chế độ và cài đặt thường dùng."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Nhắc lại bộ nhớ</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Phơi sáng thủ công (Nhắc lại bộ nhớ)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Chương trình tự động (Nhắc lại bộ nhớ)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Ưu tiên tốc độ chụp (Nhắc lại bộ nhớ)</string>
+    <string name="photopro_strings_mode_p_description_txt">Máy ảnh sẽ tự động điều khiển tốc độ chụp, còn các cài đặt khác tùy thuộc vào bạn.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Chương trình tự động</string>
+    <string name="photopro_strings_mode_s_description_txt">"Điều khiển tốc độ chụp theo cách thủ công để thay đổi cách bạn chụp các chủ thể chuyển động.
+Tốc độ chụp nhanh sẽ mang đến cảm giác như đóng băng chủ thể đang chuyển động, trong khi tốc độ chụp chậm có thể chụp chuyển động mờ tốt hơn."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Ưu tiên tốc độ chụp</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Chế độ chụp khác đã tự động được đặt thành Chụp từng ảnh vì chế độ Transfer &amp; Tagging add-on được bật</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Định dạng tập tin đã tự động được đặt thành JPEG vì chế độ Transfer &amp; Tagging add-on được bật</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Không thể dùng camera trong Chế độ nhiều cửa sổ hoặc cửa sổ bật lên. Đóng cửa sổ và thử lại. Nếu đang sử dụng Chế độ nhiều cửa sổ, bạn có thể kéo phần giữa thanh chia tách để đưa camera về chế độ toàn màn hình.</string>
+    <string name="photopro_strings_multi_window_txt">Kéo phần giữa thanh chia tách để chuyển sang chế độ %1$s toàn màn hình để sử dụng</string>
+    <string name="photopro_strings_ok_txt">OK</string>
+    <string name="photopro_strings_personal_data_txt">Dữ liệu cá nhân</string>
+    <string name="photopro_strings_privacy_policy_txt">Chính sách bảo mật</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Đang chụp ảnh. Vui lòng đợi.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Không hỗ trợ QR Code này</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Nhấn để mở \"%1$s\" trên trình duyệt</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Không thể kết nối với mạng Wi-Fi này</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Nhấn để kết nối với mạng Wi-Fi \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">Trình đọc QR Code</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Bạn có thể nhanh chóng truy cập web hoặc kết nối Wi-Fi bằng cách quét QR Code.
+Chức năng này hoạt động khi ở Chế độ (Ảnh) cơ bản."</string>
+    <string name="photopro_strings_qrcode_detection_txt">Trình đọc QR Code</string>
+    <string name="photopro_strings_rec_txt">GHI</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Đặt lại Photo Pro về cài đặt mặc định?</string>
+    <string name="photopro_strings_reset_settings_txt">Cài lại thông số cài đặt</string>
+    <string name="photopro_strings_reset_txt">Cài lại</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Không thể thay đổi tỷ lệ khung hình khi đặt định dạng tệp thành RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Không thể chọn HDR tự động khi đã chọn Chụp liên tục</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Không thể chọn HDR tự động khi định dạng tập tin đang chọn không phải là JPEG</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Không thể sử dụng hiệu ứng Bokeh với ống kính đang chọn</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Không sử dụng được hiệu ứng Bokeh khi bật chế độ Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Không thể sử dụng Chụp liên tục: Cao với ống kính hiện được chọn</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Không thể sử dụng chế độ Chụp liên tục khi đang bật hiệu ứng Bokeh</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Không thể chụp liên tục khi chọn phóng to thu nhỏ siêu độ phân giải AI</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Không thể sử dụng Chụp liên tục khi định dạng tập tin đang chọn không phải là JPEG</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Không thể sử dụng chế độ Chụp liên tục khi bật Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Không thể thay đổi</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Không thể dùng Chế độ đèn flash khi chọn Chụp liên tục</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Không thể sử dụng Chế độ đèn flash với ống kính hiện được chọn</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Không thể sử dụng Đèn pin với ống kính hiện được chọn</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Không thể thay đổi định dạng tập tin sang định dạng khác JPEG khi đang chọn HDR tự động</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Không thể thay đổi định dạng tập tin sang định dạng khác JPEG khi đang chọn Chụp liên tục</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Không thể thay đổi định dạng tập tin sang định dạng khác JPEG khi bật chế độ Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Không thể thay đổi cài đặt này khi micrô ngoài được kết nối</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Cài đặt này không hỗ trợ tốc độ màn trập hiện tại. Để đặt cấu hình cài đặt này, hãy thay đổi tốc độ màn trập thành dưới 1 giây.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Không thể chọn RAW khi tỷ lệ khung hình đang chọn không phải là 4:3</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Không thể thay đổi kích thước video khi quay ở chế độ chuyển động chậm. Để thay đổi cài đặt này, hãy thoát khỏi chế độ chuyển động chậm.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Thông số cài đặt này chỉ khả dụng khi sử dụng ống kính cực rộng</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Cài đặt này không khả dụng khi bật HDR. Để cấu hình mục này, hãy tắt HDR.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Cài đặt này không được hỗ trợ cho kích thước video hiện tại. Để định cấu hình cài đặt này, hãy thay đổi kích thước video.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Không thể thu phóng trong khi dùng hiệu ứng Bokeh</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">T.TIN ỨNG DỤNG</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">Quyền của %1$s</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Ứng dụng yêu cầu (các) quyền sau đây để thực hiện thao tác này.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Để cấp quyền, chuyển tới Thông tin về ứng dụng > Cho phép.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Không thể tiếp tục</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Để chụp ảnh</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Để chụp ảnh và quay video</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Để truy xuất vị trí</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Để ghi âm</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Để kết nối với các thiết bị lân cận</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Để đọc và lưu ảnh cũng như video</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Để lưu ảnh</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Để lưu ảnh và video</string>
+    <string name="photopro_strings_save_destination_description_txt">Chọn lưu ảnh chụp và video vào bộ nhớ trong của thiết bị hay vào thẻ SD</string>
+    <string name="photopro_strings_save_destination_internal_txt">Bộ nhớ trong</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">Thẻ SD</string>
+    <string name="photopro_strings_save_destination_title_txt">Lưu trữ dữ liệu</string>
+    <string name="photopro_strings_save_destination_txt">Bộ nhớ dữ liệu</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">Không sử dụng được thẻ SD</string>
+    <string name="photopro_strings_selftimer_10_txt">10 giây</string>
+    <string name="photopro_strings_selftimer_3_txt">3 giây</string>
+    <string name="photopro_strings_selftimer_description_txt">Đặt tính năng chụp hẹn giờ để tự động chụp ảnh sau khi trôi qua một số giây được chỉ định</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Nhìn thẳng vào camera</string>
+    <string name="photopro_strings_selftimer_txt">Chụp hẹn giờ</string>
+    <string name="photopro_strings_settings_off_txt">Tắt</string>
+    <string name="photopro_strings_settings_on_txt">Bật</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Luôn sử dụng Chế độ cơ bản</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Chọn Chế độ chụp mặc định khi khởi chạy Photography Pro</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Chế độ dùng lần trước</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Chế độ chụp khi khởi chạy</string>
+    <string name="photopro_strings_shooting_mode_txt">Chế độ chụp</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Máy quay phim</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Tốc độ chụp</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Không thể chụp ảnh khi bật HDR</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Bật hiệu ứng giúp da có vẻ mịn màng hơn</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Hiệu ứng làm mịn da</string>
+    <string name="photopro_strings_status_mic_external_txt">Ngoài</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">Trái phải (âm thanh nổi)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Sau (đơn âm)</string>
+    <string name="photopro_strings_store_fail_txt">Không thể lưu</string>
+    <string name="photopro_strings_sw_license_txt">Giấp phép phần mềm</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Chấp nhận</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Từ chối</string>
+    <string name="photopro_strings_tips_txt">Mẹo</string>
+    <string name="photopro_strings_title_permissions_txt">Quyền của Photo Pro</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Hủy Lấy nét khi chạm</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Lấy nét tự động</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Chọn thông số sẽ điều chỉnh khi bạn chạm vào kính ngắm.
+
+Theo dõi đối tượng: Chức năng tốt nhất để chụp đối tượng chuyển động. Chức năng này sẽ khóa lấy nét vào đối tượng bạn nhấn vào trong kính ngắm, cho phép bạn chụp các đối tượng chuyển động một cách rõ ràng.
+Lấy nét tự động: Nhấn vào nơi bạn muốn lấy nét trong kính ngắm.
+Tiêu điểm và độ sáng: Lấy nét và điều chỉnh độ sáng của vị trí mong muốn bằng cách nhấn vào kính ngắm."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Tiêu điểm và độ sáng</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Dò tìm đối tượng</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Chạm để điều chỉnh</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Hủy theo dõi đối tượng</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Việc bật chức năng này sẽ cho phép Transfer &amp; Tagging add-on hiển thị các ảnh được chụp bằng camera Xperia. Ảnh chụp sẽ được lưu vào bộ nhớ trong.
+Chức năng này tương thích với ảnh chụp bằng Photography Pro.
+Khi bật chức năng này định dạng tập tin được tự động đặt thành JPEG và Chế độ chụp khác được tự động đặt thành Chụp từng ảnh."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Chế độ Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Đã hiểu</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Tiếp theo</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Bỏ qua</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony là một thương hiệu được giới nhiếp ảnh rất ưa chuộng và thường tin dùng để tạo ra những tác phẩm lan tỏa niềm vui bất tận và sự kỳ diệu của nhiếp ảnh.
+Kinh nghiệm và công nghệ của chúng tôi tiếp tục được khách hàng trên khắp thế giới lựa chọn.
+
+Photography Pro luôn cố gắng tái tạo lại khả năng hoạt động cũng như các chức năng của camera nguyên cỡ từ Sony Imaging Products.
+Sony luôn hỗ trợ bạn sáng tạo trong nhiếp ảnh."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Chọn chế độ Chụp lý tưởng cho đối tượng của bạn.
+Tiếp theo, đặt tốc độ chụp và độ phơi sáng.
+Giữ chắc camera ở hai bên và chụp ảnh.
+
+Các chế độ chụp bao gồm:
+P (Chương trình tự động)
+S (Ưu tiên tốc độ chụp)
+M (Phơi sáng thủ công)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Chọn chế độ chụp yêu thích bằng cách sử dụng vòng xoay chế độ ở trên cùng bên phải (trên cùng bên trái khi ở hướng ngang).
+
+Với chế độ Cơ bản, bạn có thể dễ dàng chụp ảnh và quay video bằng camera trước theo cách tương tự như camera thông thường của điện thoại thông minh.
+
+Với các chế độ Auto/P/S/M, bạn có thể truy cập nhiều cài đặt nâng cao khác để chụp những bức ảnh lý tưởng."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Chế độ chụp</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Cách sử dụng</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Khi sử dụng các chế độ Auto/P/S/M, hãy giữ chắc camera theo hướng ngang và nhấn nút chụp ở phía trên bên phải của thiết bị để chụp ảnh.
+
+Chọn Auto để tự động đặt các chức năng như tốc độ chụp và độ phơi sáng.
+
+Để đặt cấu hình cài đặt theo cách thủ công, hãy chọn một trong các chế độ bên dưới.
+P (Chương trình tự động)
+S (Ưu tiên tốc độ chụp)
+M (Phơi sáng thủ công)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Cách sử dụng các chế độ Auto/P/S/M</string>
+    <string name="photopro_strings_tutorial_txt">Hướng dẫn</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Không thể sử dụng Photo Pro với màn hình ngoài được kết nối. Để sử dụng Photo Pro, hãy đóng ứng dụng từ màn hình Ứng dụng gần đây trên Xperia, rồi khởi động lại.</string>
+    <string name="photopro_strings_unlock_button_txt">Mở khóa</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Sử dụng camera bị hạn chế vì lý do bảo mật</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Để quay video 4K ổn định, bạn không được thay đổi cài đặt này trừ khi bạn sử dụng thẻ SD tốc độ cao (Khuyến nghị UHS Tốc độ Cấp 1 trở lên hoặc Tốc độ Cấp 10).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Để quay video chuyển động chậm ổn định, không thay đổi cài đặt này trừ khi bạn sử dụng thẻ SD tốc độ cao (Khuyến nghị UHS Tốc độ Cấp 1 trở lên hoặc Tốc độ Cấp 10).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Để quay video ổn định, chúng tôi khuyên bạn nên thay đổi bộ nhớ dữ liệu thành Bộ nhớ trong. Bạn có muốn thay đổi bây giờ không?
+
+Nếu bạn tiếp tục sử dụng thẻ SD làm bộ nhớ dữ liệu, hãy nhớ sử dụng thẻ SD tốc độ cao (UHS Tốc độ Cấp 1 trở lên hoặc Tốc độ Cấp 10 được khuyến nghị)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Bạn có thể chọn trình mã hóa cho video 4K bạn quay.
+
+H.264 (AVC): Định dạng chuẩn để mã hóa. Hầu hết thiết bị và dịch vụ đều hỗ trợ định dạng này.
+H.265 (HEVC): Định dạng có tỷ lệ nén cao hơn. Hãy đảm bảo rằng thiết bị hoặc dịch vụ phát lại của bạn hỗ trợ phương thức này."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Định dạng tập tin (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Chọn kích thước video.
+Không sử dụng được HDR khi chọn Full HD (60 fps) hoặc HD."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Chọn kích cỡ video</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Độ phân giải cao (60 fps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Full HD</string>
+    <string name="photopro_strings_video_size_txt">Kích cỡ video</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Chiếc Xperia có hệ thống ổn định kết hợp độc đáo có tên gọi là Optical SteadyShot - kết hợp đồng thời cả ổn định hình ảnh quang học và ổn định hình ảnh điện tử. Hệ thống này giúp bạn quay video mượt mà và không bị rung ngay cả khi quay trong khi di chuyển.</string>
+    <string name="photopro_strings_video_stabilization_txt">Ổn định video</string>
+    <string name="photopro_strings_volumekey_description_txt">Gán chức năng khác cho nút âm lượng</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Phát ngẫu nhiên</string>
+    <string name="photopro_strings_volumekey_txt">Sử dụng nút Âm lượng là</string>
+    <string name="photopro_strings_volumekey_volume_txt">Âm lượng</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Thu phóng</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Điều chỉnh - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Tự động</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Chỉnh</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Xong</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Thử lại</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Áp</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Trời nhiều mây</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Tùy chỉnh 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Tùy chỉnh 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Tùy chỉnh 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Đặt cân bằng trắng dựa vào tâm của bản xem trước</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Không điều chỉnh được</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Đã điều chỉnh xong</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Áp - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Ánh sáng ngày</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Huỳnh quang</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Sáng chói</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Bóng râm</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">N.độ 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">N.độ 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">N.độ 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">N.độ:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Nhiệt độ</string>
+    <string name="photopro_strings_whitebalance_txt">Cân bằng trắng</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Không thể thu phóng bằng camera trước</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">Phóng to thu nhỏ siêu độ phân giải AI</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Chọn cài đặt phóng to thu nhỏ.
+
+Phóng to thu nhỏ kỹ thuật số: Phóng to thu nhỏ bằng phương pháp xử lý kỹ thuật số dựa trên dữ liệu cảm biến hình ảnh.
+Phóng to thu nhỏ siêu độ phân giải AI: Phóng to thu nhỏ bằng công nghệ xử lý kỹ thuật số để bảo toàn chất lượng hình ảnh gốc tốt hơn. Có thể mất nhiều thời gian hơn để lưu ảnh. Tùy chọn này sẽ tự động hoạt động như Phóng to thu nhỏ kỹ thuật số khi bạn chọn Chụp liên tục."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Phóng to thu nhỏ kỹ thuật số</string>
+    <string name="photopro_strings_zoom_type_txt">Cài đặt phóng to thu nhỏ</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">TẮT</string>
+    <string name="v7_preference_on">BẬT</string>
+</resources>

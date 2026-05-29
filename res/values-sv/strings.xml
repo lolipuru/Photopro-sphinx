@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigera hem</string>
+    <string name="abc_action_bar_up_description">Navigera uppåt</string>
+    <string name="abc_action_menu_overflow_description">Fler alternativ</string>
+    <string name="abc_action_mode_done">Klar</string>
+    <string name="abc_activity_chooser_view_see_all">Visa alla</string>
+    <string name="abc_activitychooserview_choose_application">Välj en app</string>
+    <string name="abc_capital_off">AV</string>
+    <string name="abc_capital_on">PÅ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt + </string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl + </string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">retur</string>
+    <string name="abc_menu_function_shortcut_label">Funktion + </string>
+    <string name="abc_menu_meta_shortcut_label">Meta + </string>
+    <string name="abc_menu_shift_shortcut_label">Skift + </string>
+    <string name="abc_menu_space_shortcut_label">blanksteg</string>
+    <string name="abc_menu_sym_shortcut_label">Symbol + </string>
+    <string name="abc_prepend_shortcut_label">Meny + </string>
+    <string name="abc_search_hint">Sök …</string>
+    <string name="abc_searchview_description_clear">Ta bort frågan</string>
+    <string name="abc_searchview_description_query">Sökfråga</string>
+    <string name="abc_searchview_description_search">Sök</string>
+    <string name="abc_searchview_description_submit">Skicka fråga</string>
+    <string name="abc_searchview_description_voice">Röstsökning</string>
+    <string name="abc_shareactionprovider_share_with">Dela med</string>
+    <string name="abc_shareactionprovider_share_with_application">Dela med %s</string>
+    <string name="abc_toolbar_collapse_description">Komprimera</string>
+    <string name="ble_remote_control_button_any_problem_txt">Felsökning</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Parkoppla ny fjärrkontroll</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Du kan tilldela C1-knappen på Bluetooth-fjärrkontrollen annan funktion</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">Anpassa C1-knapp</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Fokusläge</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Objektiv</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Fotoläge</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Växla huvudkamera/främre kamera</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Växla foto/video</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Objektiv</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Växla AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Växla huvudkamera/främre kamera</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Tillåt</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Neka</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Tillåta att appen använder Bluetooth för den här funktionen?</string>
+    <string name="ble_remote_control_description_txt">"Du kan parkoppla en Sony-fjärrkontroll via Bluetooth för att använda funktioner i %1$s.
+Tryck på Parkoppla ny fjärrkontroll för att börja parkoppla en ny enhet."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Redan parkopplad</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Om fjärrkontrollen inte kunde parkopplas med enheten ska du gå till Inställningar och kontrollera om fjärrkontrollen redan är registrerad i listan med Bluetooth-enheter. Om den redan är registrerad ska du ta bort fjärrkontrollen från listan och parkoppla den på nytt.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Felsökning</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Godkänn, slå på</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Avvisa</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Avsluta</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Gå till Inställningar</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">OK</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Parkoppling avbröts eftersom Bluetooth var avstängd</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Parkoppling misslyckades på grund av timeout. Försök igen senare.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Enheten kan begränsa vissa funktioner som säkerhetsåtgärd vid intensiv användning. Om du slår på kamerans uthållighetsläge visas en ikon som indikerar att appen bibehåller höga prestanda. När ikonen visas kan du använda appen under längre tid.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Kamerans uthållighetsläge är bara tillgängligt när du använder %1$s med en Bluetooth-ansluten fjärrkontroll. Stänger du %1$s inaktiveras funktionen.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Enhetens temperatur kan öka över den typiska drifttemperaturen. När temperaturen ökar meddelas du med en avisering och ikon. I så fall ska du inte hålla enheten i handen. Kontrollera att fjärrkontrollen är ansluten via Bluetooth innan du fortsätter.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Varning</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Enhetens temperatur är för hög. %1$s stängs av tillfälligt för att svalna.
+Om ansluter en Bluetooth-fjärrkontroll kan du fortsätta använda %1$s med kamerans uthållighetsläge."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Enhetens temperatur är för hög. %1$s stängs av tillfälligt för att svalna.
+Om ansluter en Bluetooth-fjärrkontroll kan du använda %1$s med kamerans uthållighetsläge."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">För att använda funktionen ska du aktivera [Använd fjärrkontroll] efter att du parkopplat en fjärrkontroll via Bluetooth.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Enhetens temperatur är för hög. %1$s stängs av tillfälligt för att svalna.
+Om du slår på kamerans uthållighetsläge kan du använda %1$s med en Bluetooth-fjärrkontroll."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Använd den anslutna fjärrkontrollen för att aktivera funktionen.
+Tryck på AVSLUTA för att avbryta."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Kamerans uthållighetsläge aktiverat</string>
+    <string name="ble_remote_control_endurance_mode_txt">Kamerans uthållighetsläge</string>
+    <string name="ble_remote_control_off_txt">Av</string>
+    <string name="ble_remote_control_on_txt">På</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"För att börja parkopplingen ska du interagera med fjärrkontrollen.
+Du får aviseringar och dialogrutor två gånger. Välj Parkoppla på samtliga och tryck sedan på valfri tangent på den parkopplade enheten för att slutföra parkopplingen."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Parkoppla ny fjärrkontroll</string>
+    <string name="ble_remote_control_title_txt">Bluetooth-fjärrkontroll</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Använd fjärrkontroll</string>
+    <string name="expand_button_title">Avancerat</string>
+    <string name="external_display_connected_description_txt">Du kan kontrollera sökaren från Vlog Monitor</string>
+    <string name="external_display_connected_title_txt">Vlog Monitor ansluten</string>
+    <string name="external_display_note_about_external_mic_txt">Obs! För att använda extern mikrofon ska den anslutas till Vlog Monitor före inspelning. Om du ansluter den efteråt måste du ansluta på nytt till Vlog Monitor.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Du har tidigare godkänt sekretesspolicyn men kan alltid ändra dig.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Vänsterpil</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Högerpil</string>
+    <string name="photopro_strings_accessibility_back_txt">Tillbaka</string>
+    <string name="photopro_strings_accessibility_close_txt">Stäng</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Tillgänglighet: &lt;a href=\"%s\">Delvis överensstämmande&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Läs mer</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Linsknapp</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Kan inte konfigureras</string>
+    <string name="photopro_strings_accessibility_previous_txt">Föregående</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">En stapel med de senaste fotona</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Starta videoinspelning</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Pausa videoinspelning</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Återuppta videoinspelning</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Tar en ögonblicksbild under videoinspelning</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Stoppa videoinspelning</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Stoppa nedräkning</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Slutare</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Växla mellan huvudkameran och främre kameran</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Växla mellan foto och video</string>
+    <string name="photopro_strings_accessibility_title_txt">Tillgänglighet</string>
+    <string name="photopro_strings_addon_button_menu_txt">Mer</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Kreativ effekt</string>
+    <string name="photopro_strings_addon_panorama_txt">Panorama</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Porträttselfie</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Slow motion</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Om du vill spara platser måste du aktivera GPS och/eller trådlösa nätverk. Aktivera nu?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Spara plats</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Anonym analys</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Främre foto</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Framåtvänd video</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Video</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Välj bildformat för foton</string>
+    <string name="photopro_strings_aspect_ratio_txt">Bildförhållande</string>
+    <string name="photopro_strings_audio_on_all_txt">På: Alla</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">På: Endast slutare</string>
+    <string name="photopro_strings_audio_signals_description_txt">Ställ in vilka kameraljud som ska spelas upp, som när självutlösaren räknar ner eller skärpan ställs in. Du kan även välja att bara spela upp slutarljudet.</string>
+    <string name="photopro_strings_audio_signals_txt">Ljudsignaler</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro stängs snart på grund av inaktivitet</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Motljusporträtt</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Motljusbelysning</string>
+    <string name="photopro_strings_auto_scene_document_txt">Dokument</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Gourmet</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Barn</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Landskap</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Låg belysning</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Makro</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Nattporträtt</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Nattmotiv</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Automatisk motivigenkänning</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Mjuka motiv</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Stark belysning</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Se till att linsen är ren och att du inte har fingret på linsen</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">För ljust</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Flytta längre bort från objektet</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Mer ljus krävs</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Flytta närmare objektet</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Bokeh är för tillfället inte tillgängligt</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Bokeh på</string>
+    <string name="photopro_strings_bokeh_txt">Bokeh</string>
+    <string name="photopro_strings_bt_remote_control_txt">Bluetooth-fjärrkontroll</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Foton från kontinuerlig tagning har sparats i internminnet</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Kontinuerlig tagning fungerar inte med låg slutarhastighet</string>
+    <string name="photopro_strings_button_continue_txt">Fortsätt</string>
+    <string name="photopro_strings_button_quit_txt">SLUTA</string>
+    <string name="photopro_strings_cancel_txt">Avbryt</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Slow motion</string>
+    <string name="photopro_strings_change_save_destination_title_txt">4K-video</string>
+    <string name="photopro_strings_change_txt">Ändra</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Återst</string>
+    <string name="photopro_strings_color_and_brightness_txt">Färg och ljusstyrka</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Internminnet är fullt. Vill du spara data på SD-kortet istället?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Internminnet är skadat eller skrivskyddat. Vill du spara data på SD-kortet istället?</string>
+    <string name="photopro_strings_common_error_open_txt">%1$s kan ej öppnas</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">SD-kortet är fullt. Vill du spara data i internminnet istället?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">SD-kortet kan inte användas. Vill du spara data i internminnet istället?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Feedback för kontinuerlig tagning</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Följande funktioner är för närvarande inaktiverade.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Vänta tills enheten svalnat och starta sedan om kameran.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Följande funktioner är inaktiverade</string>
+    <string name="photopro_strings_cooling_mode_txt">Vissa funktioner är inaktiverade för att förhindra ökning av enhetens temperatur</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Tilldela en annan funktion till AEL-knappen</string>
+    <string name="photopro_strings_custom_ael_txt">Anpassa AEL-knappen</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Tryck på DISP-knappen för att visa/dölja information i sökaren.
+Avmarkera alla objekt i menyn om du aldrig vill visa den när du visar information med DISP-knappen."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histogram</string>
+    <string name="photopro_strings_custom_disp_level_txt">Vattenpass</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Rubrikinformation</string>
+    <string name="photopro_strings_custom_disp_txt">Anpassa DISP-knapp</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Du kan omtilldela eller flytta inställningsobjekt i funktionsmenyn.
+Tryck på ett av funktionsobjekten nedan för att tilldela annan funktion som du väljer i listan till vänster.
+Dra och släpp något av funktionsobjekten nedan för att flytta det."</string>
+    <string name="photopro_strings_custom_fn_txt">Anpassa Funktionsmeny</string>
+    <string name="photopro_strings_custom_none_txt">Inte tilldelad</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Du har tidigare nekat sekretesspolicyn.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Lås autoexponering</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Ställ in ISO som Auto</string>
+    <string name="photopro_strings_description_custom_none_txt">Inaktivera AEL-knappen</string>
+    <string name="photopro_strings_device_id_txt">Enhets-ID</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">För låg batterinivå i telefonen. Vid låg batterinivå stängs kameran automatiskt.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Inspelningen avbröts på grund av låg batterinivå. Ladda enheten och försök igen.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Det går inte att använda kameran på grund av låg batterinivå. Ladda enheten och försök igen.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Appen kräver följande behörigheter för att utföra åtgärden.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Nätverk
+För att ansluta till Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Flygplansläget är på.
+Stäng av flygplansläget från INSTÄLLNINGAR."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Nätverksnamn: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi är avstängt och flygplansläget är aktiverat.
+Ändra dessa inställningar genom att trycka på INSTÄLLNINGAR."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi är avstängt.
+Aktivera Wi-Fi från INSTÄLLNINGAR."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Inställningar</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Tillåt</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Neka</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Obs!</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Kalibrera</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Återställ</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">För lite internt lagringsutrymme. Kontinuerlig tagning har stoppats. Frigör lagringsutrymme genom att ta bort några filer.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Bevilja behörigheter</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Ansluter...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Lösenordsskydd: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Säkerhet: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Det går inte att ansluta till Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Om du godkänner nedan kommer Sony att samla in dina &lt;b>&lt;a href=#personal-data>personliga data&lt;/a>&lt;/b> för att ge anpassad support och förbättra enheter och tjänster. Sony kommer att behandla dina data enligt vår &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>sekretesspolicy&lt;/a>&lt;/b>.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Det går att spela in video även med hög kontrast och göra dem mer medryckande och verklighetstrogna. Använd enheter/tjänster som stöds för att titta på innehåll med dess ursprungliga färg och ljusstyrka.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Visa inte igen</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">Kontinuerlig HDR-tagning: Hög</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">Kontinuerlig HDR-tagning: Låg</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Kontinuerlig tagning: Hög</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Kontinuerlig tagning: Låg</string>
+    <string name="photopro_strings_drive_continuous_txt">Kontinuerlig tagning</string>
+    <string name="photopro_strings_drive_mode_txt">Matningsläge</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Självutlösare: 10 s</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Självutlösare: 3 s</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Självutlösare: Av</string>
+    <string name="photopro_strings_drive_single_txt">Enkeltagning</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">Auto HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Inställningen optimerar värdenas område. DRO-behandling använder en enskild bild, medan Auto HDR kombinerar flera exponeringar för att åstadkomma resultatet.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Optimering av dynamiskt omfång</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/auto HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">Kameran kan inte startas. Starta om kameran eller enheten.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Fel</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Det gick inte att spara foton. Det kan finnas ett problem med datalagringen. Om Datalagring är angivet som SD-kort kontrollerar du SD-kortet.</string>
+    <string name="photopro_strings_error_fatal_txt">Okänt fel.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Nej</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Ja</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Kameran stängs av tillfälligt för att svalna. Din inspelning sparas. Starta om appen när enheten har svalnat.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Minnet är fullt. Radera några filer från SD-kort eller internminnet.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Minnet är inte tillgängligt</string>
+    <string name="photopro_strings_error_memory_title_txt">Minnesfel</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">SD-kortet är inte tillgängligt</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Exponeringskompensation</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Du kan ta porträttfoton med skärpa på ansikte eller ögon på människor eller djur.
+Du kan ändra fokusmål genom att trycka på ansiktet på det motiv du vill fokusera på."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Du kan spela in videor med skärpa på ansikte eller ögon på människor eller djur.
+Du kan ändra fokusmål genom att trycka på ansiktet på det motiv du vill fokusera på.
+Obs! När den här inställningen är aktiverad kan inspelningstiden kortas på grund av högre temperatur på enheten."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Ansiktsavkänning/ögon-AF på</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">Ansikte/ögon-AF</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">Ansikte/ögon-AF: Av</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">Ansikte/ögon-AF: På</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Lås upp skärmen för att använda funktionen</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Lås upp skärmen om du vill öppna inställningarna.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Skärmen är låst</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"För att justera Bokeh-effekt ska du trycka på Bokeh-ikonen i sökaren och flytta skjutreglaget.
+Funktionen stöds i läget Basic (Foto).
+Få dina motiv att stå ut med fantastisk kontrast genom att göra bakgrunden suddig."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Ta foton med Bokeh-effekt</string>
+    <string name="photopro_strings_feature_bokeh_txt">Bokeh-effekt</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Matningsläget kan ändras för Enkeltagning eller Kontinuerlig tagning, eller till självutlösaren.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Matningsläge</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"När du tar foton med främre kameran ska du titta på främre kameralinsen nära öronhögtalaren.
+Då riktas dina ögon rätt i fotot."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Ögonriktning</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Du kan ta porträttfoton som fokuserar på ansikte eller ögon på människor eller djur.
+Du kan ändra fokusmål genom att trycka på ansiktet på det motiv du vill fokusera på. Funktionen aktiveras eller inaktiveras i MENY > Ansikte/ögon-AF."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">Ansikte/ögon-AF</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Vänd handflatan mot kameran. Självutlösaren börjar räkna ner när din hand har identifierats. För att göra identifieringen enklare ska du räta ut fingrarna.
+För att aktivera funktionen ska du växla till främre kameran i läget Basic (Foto) och slå på Handstyrd slutare i MENY."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Handstyrd slutare</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"När ultravidvinkel (0.7x) används kan du välja prioritet. Genom att välja Prioritera bildkvalitet kan du ta dynamiska bilder med hög kvalitet. Om du väljer Prioritera korrigering av förvrängning kan du minska den visuella förvrängningen.
+Funktionen är aktiv när du tar foton med ultravidvinkel. När du har ändrat till ultravidvinkel kan du konfigurera prioritet från MENY > Korrigering av ultravidvinkel."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Linskorrigering (foto)</string>
+    <string name="photopro_strings_feature_list_title_txt">Introduktion till funktioner</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Ta enkelt en konstnärlig selfie med Bokeh- och snygga effekter.
+För att använda funktionen ska du trycka på Mer i sökaren och välja Porträttselfie.
+Ta en elegant selfie och få kreativa resultat."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Porträttselfie</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Du kan snabbt få åtkomst till webben eller ansluta till Wi-Fi genom att skanna en QR Code.
+Funktionen är aktiv i läget Basic (Foto). Funktionen aktiveras eller inaktiveras i MENY > QR Code-läsare."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code-läsare</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code-läsare</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Märk foton och videor med platsen där de togs. Du kan ändra inställningen senare från MENY > Spara plats.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Spara plats?</string>
+    <string name="photopro_strings_feature_selfie_txt">Främre kamera</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Du kan spela in HD-video i slow motion med 120 fps</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Slow motion</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Du kan enkelt växla mellan kameraobjektiv för att bilder i alla situationer och utveckla din kreativitet.
+Tryck på knappen i sökaren för att växla mellan objektiven 0.7x (ultravid), 1.0x (vid), 2.9x (telefoto) och 4.4x (telefoto).
+Du kan använda funktionen i både Basic (Foto) och Basic (Video)."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Ändra vinkel med knappen</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Du kan enkelt växla mellan kameraobjektiv för att ta bilder i alla situationer och utveckla din kreativitet.
+Tryck på knappen i sökaren för att växla mellan objektiven 0.7x (ultravid), 1.0x (vid) och 2.1x (standard).
+Du kan använda funktionen i både Basic (Foto) och Basic (Video)."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Trippelkamera</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Trycker du på objektivknappen visas ett skjutreglage som du kan använda för att ställa in zoomningsnivå.
+Du kan även nypa på skärmen eller använda volymknapparna för att zooma."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Zooma in eller ut</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Radera</string>
+    <string name="photopro_strings_file_format_description_txt">"Välj filformat för stillbilder.
+
+RAW: Kräver särskild programvara för efterbehandling av foton. Möjliggör justeringar medan bildförsämringen begränsas. Kan skrivas ut efter efterbehandlingen.
+RAW och JPEG: Sparar både RAW-bilder som kräver efterbehandling och JPEG-bilder.
+JPEG: Sparar JPEG-bilder.
+
+Obs!
+Filer i RAW-format sparas alltid i internminnet med bildförhållandet 4:3.
+Kontinuerlig tagning och Auto HDR är inte tillgängligt när RAW eller RAW och JPEG har valts."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW och JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Filformat</string>
+    <string name="photopro_strings_flash_auto_txt">Auto</string>
+    <string name="photopro_strings_flash_description_txt">Ställ in blixtläget på Auto, Fyllnadsblixt, osv.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Fyllnadsblixt</string>
+    <string name="photopro_strings_flash_off_txt">Av</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Reducering av röda ögon</string>
+    <string name="photopro_strings_flash_torch_description_txt">Slå på ficklampan</string>
+    <string name="photopro_strings_flash_torch_off_txt">Ficklampa: Av</string>
+    <string name="photopro_strings_flash_torch_on_txt">Ficklampa: På</string>
+    <string name="photopro_strings_flash_torch_txt">Ficklampa</string>
+    <string name="photopro_strings_flash_txt">Blixtläge</string>
+    <string name="photopro_strings_focus_area_center_txt">Mitten</string>
+    <string name="photopro_strings_focus_area_txt">Fokusområde</string>
+    <string name="photopro_strings_focus_area_wide_txt">Brett</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Ställ in färg på ramen kring skärpeområdet</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Röd</string>
+    <string name="photopro_strings_focus_frame_color_txt">Fokusområdets färg</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Vit</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">Kontinuerlig AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">Enbilds-AF</string>
+    <string name="photopro_strings_focus_mode_description_txt">Välj skärpemetod</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Ansiktsavkänning</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Manuellt fokus</string>
+    <string name="photopro_strings_focus_mode_txt">Fokusläge</string>
+    <string name="photopro_strings_geotagging_description_txt">Spara foton och videor med platsen där de togs</string>
+    <string name="photopro_strings_geotagging_txt">Spara plats</string>
+    <string name="photopro_strings_gridline_description_txt">Ställ in om du vill visa eller inte visa rutnätslinjer som hjälp för att komponera bilder</string>
+    <string name="photopro_strings_gridline_txt">Rutnät</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Du kan starta självutlösarens nedräkning genom att vända handflatan mot främre kameran. För att underlätta identifieringen ska du räta ut fingrarna.</string>
+    <string name="photopro_strings_hand_shutter_txt">Handstyrd slutare</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Ställ in att få eller inte få haptisk feedback vid interaktion med skärmen, exempelvis med lägesväljaren</string>
+    <string name="photopro_strings_haptic_feedback_txt">Haptisk feedback</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Av</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: På</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Intelligent vindfilter</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">ISO-känslighet</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Du kan starta Photography Pro genom att trycka på och hålla ner enhetens slutarknapp. Detta fungerar även om telefonen är i viloläge eller låst.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Starta Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Starta med slutarknapp</string>
+    <string name="photopro_strings_lens_correction_description_txt">När ultravidvinkel används kan du välja prioritet. Genom att välja Prioritera bildkvalitet kan du ta dynamiska bilder med hög kvalitet. Om du väljer Prioritera korrigering av förvrängning kan du minska den visuella förvrängningen.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Prioritera bildkvalitet</string>
+    <string name="photopro_strings_lens_correction_on_txt">Prioritera korrigering av förvrängning</string>
+    <string name="photopro_strings_lens_correction_txt">Korrigering av ultravidvinkel</string>
+    <string name="photopro_strings_lens_txt">Lins</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Kalibrera</string>
+    <string name="photopro_strings_level_calibration_description_txt">Vid behov kan du kalibrera Vattenpass för att åtgärda avvikelser i lutningsriktningen. Se till att kameran är horisontell och välj sedan Kalibrera.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Kalibreringen är klar</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Kalibreringsinställningen har återställts</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Kalibrering av Vattenpass</string>
+    <string name="photopro_strings_lock_switch_txt">Låst</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Inspelningen stoppades eftersom den maximala filstorleken nåddes</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Inspelningen stoppades eftersom den maximala inspelningstiden nåddes</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Det gick inte att spara. Minnet är fullt.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Anv.</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Spara</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Ställ in</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Vill du spara aktuell kombination av lägen och inställningar?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Kamerainställningarna har sparats.
+Du kan enkelt hämta dessa inställningar med MR-fotoläget."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Kamerainställningarnas minne</string>
+    <string name="photopro_strings_memory_recall_txt">Hämta kamerainställn.</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Foto (Främre)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Foto</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Slow motion</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Video (Främre)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Video</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Exponering/färg</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Fokus</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Konfiguration</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Tagning</string>
+    <string name="photopro_strings_menu_title_txt">Meny</string>
+    <string name="photopro_strings_metering_center_txt">Mitten</string>
+    <string name="photopro_strings_metering_multi_txt">Multi</string>
+    <string name="photopro_strings_metering_spot_txt">Spot</string>
+    <string name="photopro_strings_metering_txt">Mätmetod</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Välj mikrofon att använda vid videoinspelning:
+1. VH-mik: Spelar in ljud i stereo med vänster och höger mikrofoner (uppe och nere i stående läge)
+2. Bakre mik: Spelar in ljud i mono med mikrofonen på baksidan"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Extern mik</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">VH-mik (stereo)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Bakre mik (mono)</string>
+    <string name="photopro_strings_mic_setting_txt">Mik</string>
+    <string name="photopro_strings_mode_auto_description_txt">Kameran identifierar automatiskt typ av motiv och tar foton med autoinställningar och minskar brus och kameraskakningar.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Automatiskt läge</string>
+    <string name="photopro_strings_mode_basic_description_txt">"I detta läge kan du ta foton med slutarknappen på skärmen, på samma sätt som med en vanlig smartphonekamera.
+Använd läget för att ta selfies, spela in video och skanna QR-koder."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Basic-läge</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Detta visar en förklaring till respektive fotoläge när läge ändras med lägesväljaren</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Guide till lägesväljare</string>
+    <string name="photopro_strings_mode_m_description_txt">"Kontrollera slutarhastighet och ISO-känslighet manuellt.
+Med längre exponering går det att ta foton med rörelseoskärpa på motiv i rörelse för att visa rörelsen."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Manuell exponering</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Intelligent auto (Hämta från minnet)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Ta foton med sparade inställningar.
+Du kan registrera kombinationer av lägen och inställningar som du ofta använder."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Hämta från minnet</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Manuell exponering (Hämta från minnet)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Program auto (Hämta från minnet)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Prioritera slutarhastighet (Hämta från minnet)</string>
+    <string name="photopro_strings_mode_p_description_txt">Kameran kontrollerar automatiskt slutarhastigheten och resten av inställningarna bestämmer du.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Program Auto</string>
+    <string name="photopro_strings_mode_s_description_txt">"Kontrollera slutarhastigheten manuellt för att ändra hur du tar foton av motiv som rör sig.
+Höga slutarhastigheter visas för för att frysa ett motiv som rör sig medan låg slutarhastighet är bättre för att ta foton med rörelseoskärpa."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Prioritera slutarhastighet</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Matningsläge har automatiskt ställts in som Enkeltagning eftersom läget Transfer &amp; Tagging add-on är på</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Filformatet har automatiskt ställts in som JPEG eftersom läget Transfer &amp; Tagging add-on är på</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Kan inte använda kameran i Flerfönster-läge eller i pop-up-fönster. Stäng fönstret och försök igen. Om du använder Flerfönster-läge kan du dra i mitten av delningsreglaget och använda helskärmsläget för kameran.</string>
+    <string name="photopro_strings_multi_window_txt">Dra i mitten av delningsreglaget om du vill växla till och använda helskärmsläget för %1$s</string>
+    <string name="photopro_strings_ok_txt">OK</string>
+    <string name="photopro_strings_personal_data_txt">Personliga data</string>
+    <string name="photopro_strings_privacy_policy_txt">Sekretesspolicy</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Fotot tas. Vänta.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Denna QR Code stöds inte</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Tryck för att öppna \"%1$s\" i webbläsare</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Kan inte ansluta till Wi-Fi-nätverk</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Tryck för att ansluta till Wi-Fi-nätv. %1$s</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code-läsare</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Du kan snabbt få åtkomst till webben eller ansluta till Wi-Fi genom att skanna en QR Code.
+Funktionen är aktiv i läget Basic (Foto)."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code-läsare</string>
+    <string name="photopro_strings_rec_txt">REC</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Vill du återställa Photo Pro till standardinställningarna?</string>
+    <string name="photopro_strings_reset_settings_txt">Återställ inställningar</string>
+    <string name="photopro_strings_reset_txt">Återställ</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Bildförhållandet kan inte ändras när filformatet är inställt på RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Auto HDR kan inte väljas när Kontinuerlig tagning har valts</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Det går inte att välja auto HDR om något annat filformat än JPEG är valt</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Bokeh-effekt är inte tillgängligt med aktuell vald lins</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Bokeh-effekt är inte tillgängligt när Transfer &amp; Tagging add-on-läget är aktiverat.</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Kontinuerlig tagning: Hög kan inte användas med den valda linsen</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Kan inte använda Kontinuerlig tagning när Bokeh-effekt är på</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Kontinuerlig tagning är inte tillgänglig när AI superupplösningszoom är valt</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Det går inte att använda kontinuerlig tagning om något annat filformat än JPEG är valt</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Kontinuerlig tagning är inte tillgängligt när Transfer &amp; Tagging add-on-läget är aktiverat</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Det går inte att ändra</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Det går inte att använda Blixtläge när Kontinuerlig tagning är vald</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Blixtläge kan inte användas med den valda linsen</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Det går inte att använda Ficklampa med nuvarande objektiv</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Det går inte att ändra filformat till annat än JPEG när auto HDR är valt</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Det går inte att ändra filformat till annat än JPEG när kontinuerlig tagning är valt</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Det går inte att ändra filformat till något annat än JPEG när Transfer &amp; Tagging add-on-läget är aktiverat</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Inställningen kan inte ändras när extern mikrofon är ansluten</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Den här inställningen har inte stöd för den aktuella slutarhastigheten. Om du vill konfigurera inställningen ändrar du slutarhastigheten till 1 sekund eller mindre.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Det går inte att välja RAW när annat bildformat än 4:3 är valt</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Det går inte att ändra videostorlek vid inspelning i slow motion. Avsluta slow motion-läget för att ändra den här inställningen.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Inställningen är enbart tillgänglig när ultravidvinkel används</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Den här inställningen är inte tillgänglig när HDR är på. Stäng av HDR om du vill konfigurera den.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Inställningen stöds inte för den aktuella videostorleken. Om du vill konfigurera inställningen ändrar du videostorleken.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Det går inte att zooma när effekten Bokeh används</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">APPINFO</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">Behörighet för %1$s</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Appen kräver följande behörigheter för att utföra åtgärden.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Om du vill bevilja behörigheter går du till Info om appen > Behörigheter.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Det gick inte att fortsätta</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">För att ta foton</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Ta foton och videor</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Hämta plats</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Spela in ljud</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Ansluta till enheter i närheten</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Läsa och spara foton och videor</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">För att spara foton</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Spara foton och videor</string>
+    <string name="photopro_strings_save_destination_description_txt">Välj om du vill spara foton och videor i enhetens internminne eller på ett SD-kort</string>
+    <string name="photopro_strings_save_destination_internal_txt">Internminne</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">SD-kort</string>
+    <string name="photopro_strings_save_destination_title_txt">Datalagring</string>
+    <string name="photopro_strings_save_destination_txt">Datalagring</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">SD-kortet är inte tillgängligt</string>
+    <string name="photopro_strings_selftimer_10_txt">10 sek.</string>
+    <string name="photopro_strings_selftimer_3_txt">3 sek.</string>
+    <string name="photopro_strings_selftimer_description_txt">Ställ in självutlösaren för att ta ett foto efter ett visst antal sekunder</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Titta in i kameran</string>
+    <string name="photopro_strings_selftimer_txt">Självutlösare</string>
+    <string name="photopro_strings_settings_off_txt">Av</string>
+    <string name="photopro_strings_settings_on_txt">På</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Använd alltid läget Basic</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Välj standard Fotoläge vid start av Photography Pro</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Senast använt läge</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Fotoläge vid start</string>
+    <string name="photopro_strings_shooting_mode_txt">Fotoläge</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Videokamera</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Slutarhastighet</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Det går inte att ta ögonblicksbilder när HDR är på</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Aktivera effekt som gör att hy visas slätare</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Försköningseffekt</string>
+    <string name="photopro_strings_status_mic_external_txt">Extern</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">VH (stereo)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Bak (mono)</string>
+    <string name="photopro_strings_store_fail_txt">Det gick inte att spara</string>
+    <string name="photopro_strings_sw_license_txt">Programlicens</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Godkänn</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Avvisa</string>
+    <string name="photopro_strings_tips_txt">Tips</string>
+    <string name="photopro_strings_title_permissions_txt">Photo Pro-behörighet</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Avbryt pekfokus</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Autofokus</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Välj vad du vill justera när du trycker på sökaren.
+
+Objektspårning: Bästa funktionen för att ta objekt i rörelse. Det låser skärpan på objektet du tryckt på i sökaren och gör att du kan ta tydliga bilder av objekt i rörelse.
+Autofokus: Tryck när du vill ställa in skärpan i sökaren.
+Fokus och ljusstyrka: Ställer in skärpan och ljusstyrkan för önskad position när du trycker på sökaren."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Fokus och ljusstyrka</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Objektspårning</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Tryck för att justera</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Avbryt Objektspårning</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Om den här funktionen aktiveras kan Transfer &amp; Tagging add-on visa foton tagna med Xperia-kameran. Foton sparas i internminnet.
+Funktionen är kompatibel med foton som tagits med Photography Pro.
+Slår du på funktionen ställs filformatet automatiskt in som JPEG och Matningsläge som Enkeltagning."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Transfer &amp; Tagging add-on-läge</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Jag förstår!</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Nästa</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Hoppa över</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sonys varumärke uppskattas av fotografer för sina produkter som alltid gör fotografering lika roligt och intressant.
+Kunder världen över fortsätter att välja vår erfarenhet och teknik.
+
+Photography Pro försöker återskapa användningsegenskaperna och funktionaliteten hos normalstora kameror från Sony Imaging Products.
+Sony stödjer din kreativitet inom fotografi."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Välj det idealiska bildtagningsläget för att matcha motivet.
+Ställ sedan in slutarhastighet och exponering.
+Håll kameran stilla från sidorna och ta bilden.
+
+Bildtagningslägena inkluderar:
+P (Program Auto)
+S (Prioritera slutarhastighet)
+M (Manuell exponering)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Välj önskat fotoläge med lägesväljaren uppe till höger (uppe till vänster i liggande riktning).
+
+I läget Basic kan du enkelt ta foton och bilder med främre kameran liknande hur du tar bilder med en smartphonekamera.
+
+I lägena Auto/P/S/M kan du få åtkomst till mer avancerade inställningar för att ta perfekta foton."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Fotoläge</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Så gör du</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"När du använder lägena Auto/P/S/M ska du hålla kamera stabilt i liggande riktning och trycka på enhetens slutarknapp uppe till höger på enheten för att ta foton.
+
+Väljer du Auto ställs funktioner som slutarhastighet och exponering in automatiskt.
+
+För att konfigurera inställningarna manuellt ska du välja något av lägena nedan.
+P (Program Auto)
+S (Prioritera slutarhastighet)
+M (Manuell exponering)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Använda lägena Auto/P/S/M</string>
+    <string name="photopro_strings_tutorial_txt">Självstudie</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Kan inte använda Photo Pro med den anslutna externa skärmen. För att använda Photo Pro ska du stänga appen från skärmen med senaste appar på din Xperia och sedan starta om den.</string>
+    <string name="photopro_strings_unlock_button_txt">Lås upp</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Användning av kameran är begränsad av säkerhetsskäl</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">För stabil 4K-videoinspelning får den här inställningen inte ändras om du inte använder ett höghastighets-SD-kort (UHS-hastighetsklass 1 eller högre, eller hastighetsklass 10, rekommenderas).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">För stabil inspelning av video i slow motion ska inte den här inställningen ändras om du inte använder höghastighets-SD-kort (UHS-hastighetsklass 1 eller högre, eller hastighetsklass 10, rekommenderas).</string>
+    <string name="photopro_strings_video_explanatory_txt">"För stabil videoinspelning bör lagringsmediet ändras till internminnet. Vill du ändra nu?
+
+Om du fortsätter att använda SD-kort som lagringsmedium ska ett höghastighets-SD-kort användas (UHS-hastighetsklass 1 eller högre, eller hastighetsklass 10, rekommenderas)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Du kan välja en avkodare för 4K-videoinspelningar.
+
+H.264 (AVC): Standardformat för kodning som stöds av de flesta enheter och tjänster.
+H.265 (HEVC): Format med högre komprimeringsförhållande. Kontrollera att dina uppspelningsenheter eller -tjänster har stöd för den här metoden."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Filformat (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Välj en videostorlek.
+HDR är inte tillgängligt när Full HD (60 fps) eller HD har valts."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Välj en videostorlek</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 bps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Full HD</string>
+    <string name="photopro_strings_video_size_txt">Videostorlek</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Xperia har ett unikt hybridsystem för stabilisering som heter Optical SteadyShot – det kombinerar samtidig optisk och elektronisk bildstabilisering. Det ger skakningsfria och jämna videor när du rör dig under inspelning.</string>
+    <string name="photopro_strings_video_stabilization_txt">Videostabilisering</string>
+    <string name="photopro_strings_volumekey_description_txt">Tilldela annan funktion till volymknapparna</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Slutare</string>
+    <string name="photopro_strings_volumekey_txt">Använd volymknapp för</string>
+    <string name="photopro_strings_volumekey_volume_txt">Volym</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Zoom</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Justera – %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Auto</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Just.</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Klar</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Försök igen</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Tilläm.</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Molnigt</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Special 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Special 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Special 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Ställ in vitbalans baserat på mitten av förhandsgranskningen</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Justeringen misslyckades</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Justeringen är klar</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Tillämpa – %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Dagsljus</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Lysrör</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Glödlampa</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Skugga</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Temp 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Temp 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Temp 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Temp:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Temperatur</string>
+    <string name="photopro_strings_whitebalance_txt">Vitbalans</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Det går inte att zooma med den främre kameran</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">AI superupplösningszoom</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Välj en zoominställning.
+
+Digital zoom: Zooma med digital bearbetning baserat på bildens sensordata.
+AI superupplösningszoom: Zooma med digital bearbetning som bevarar mer av ursprungsbildens kvalitet. Det kan ta längre tid att spara bilder. Detta kommer automatiskt att fungera som Digital zoomning när Kontinuerlig tagning är valt."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Digital zoom</string>
+    <string name="photopro_strings_zoom_type_txt">Zoominställningar</string>
+    <string name="search_menu_title">Sök</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">AV</string>
+    <string name="v7_preference_on">PÅ</string>
+</resources>

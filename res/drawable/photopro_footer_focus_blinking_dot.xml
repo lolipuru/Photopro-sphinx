@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="200" android:drawable="@android:color/transparent" />
+    <item android:duration="200" android:drawable="@drawable/photopro_footer_focus_center_dot_icn" />
+</animation-list>

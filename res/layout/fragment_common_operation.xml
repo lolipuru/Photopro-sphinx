@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/fragment_common_operation_0" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:binding="http://schemas.android.com/apk/res-auto">
+    <com.sonymobile.photopro.view.widget.ModeDial android:id="@id/mode_dial" android:layout_width="fill_parent" android:layout_height="fill_parent" android:soundEffectsEnabled="false" />
+    <FrameLayout android:id="@id/mode_explanation_port" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include layout="@layout/fragment_common_operation_mode_explanation_port" />
+    </FrameLayout>
+    <com.sonymobile.photopro.view.widget.SwapAxisFrameLayout android:id="@id/mode_explanation_land" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include layout="@layout/fragment_common_operation_mode_explanation_land" />
+    </com.sonymobile.photopro.view.widget.SwapAxisFrameLayout>
+</FrameLayout>

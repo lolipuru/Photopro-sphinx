@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"নেটওয়ার্ক
+WLAN-তে সংযোগ করতে"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN বন্ধ আছে এবং বিমান মোড চালু আছে।
+অনুগ্রহ করে সেটিংস আলতো চেপে এই সেটিংস পরিবর্তন করুন।"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN বন্ধ আছে।
+সেটিংস থেকে অনুগ্রহ করে WLAN চালু করুন।"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">WLAN-এ সংযোগ করা যাবে না</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"আপনি একটি QR Code স্ক্যান করে ওয়েবে দ্রুত অ্যাক্সেস করতে পারবেন অথবা WLAN-তে সংযোগ করতে পারবেন।
+প্রাথমিক (ফটো) মোড সক্রিয় থাকার সময় এই ক্রিয়াটি সক্রিয় থাকে মেনু > QR Code রিডার থেকে এই ক্রিয়াটি সক্ষম বা অক্ষম করা যেতে পারে।"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">WLAN নেটওয়ার্কে সংযোগ করতে আল. \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"আপনি একটি QR Code স্ক্যান করে ওয়েবে দ্রুত অ্যাক্সেস করতে পারবেন অথবা WLAN-তে সংযোগ করতে পারবেন।
+প্রাথমিক (ফটো) মোড সক্রিয় থাকার সময় এই ক্রিয়াটি সক্রিয় থাকে"</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:tag="layout/fragment_basic_operation_left_pane_slow_0" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:binding="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/back" android:tag="binding_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/photopro_close_app" android:hapticFeedbackEnabled="true" android:layout_marginStart="@dimen/auto_mode_icon_margin_start" binding:layout_constraintBottom_toBottomOf="parent" binding:layout_constraintStart_toStartOf="parent" binding:layout_constraintTop_toTopOf="parent" />
+    <com.sonymobile.photopro.view.widget.OutlinedButton android:id="@id/menu" android:tag="binding_2" android:layout_width="@dimen/photopro_button_large_size" android:layout_height="fill_parent" android:text="@string/photopro_strings_menu_txt" android:textAllCaps="true" android:layout_marginEnd="@dimen/auto_mode_icon_margin_end" binding:layout_constraintEnd_toEndOf="parent" style="@style/Widget.PhotoPro.AutoHeaderOutlinedButton" />
+</androidx.constraintlayout.widget.ConstraintLayout>

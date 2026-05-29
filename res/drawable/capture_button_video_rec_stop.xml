@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/photopro_button_video_stop_paused_press_icn" />
+    <item android:drawable="@drawable/photopro_button_video_stop_paused_press_icn" android:state_activated="true" />
+    <item android:drawable="@drawable/photopro_button_video_stop_paused_icn" />
+</selector>

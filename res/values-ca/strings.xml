@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Navega a la pàgina d'inici"</string>
+    <string name="abc_action_bar_up_description">Navega cap amunt</string>
+    <string name="abc_action_menu_overflow_description">Més opcions</string>
+    <string name="abc_action_mode_done">Fet</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
+    <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
+    <string name="abc_capital_off">DESACTIVA</string>
+    <string name="abc_capital_on">ACTIVA</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Supr</string>
+    <string name="abc_menu_enter_shortcut_label">Retorn</string>
+    <string name="abc_menu_function_shortcut_label">Funció+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Maj+</string>
+    <string name="abc_menu_space_shortcut_label">Espai</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menú+</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Envia la consulta</string>
+    <string name="abc_searchview_description_voice">Cerca per veu</string>
+    <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
+    <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
+    <string name="ble_remote_control_button_any_problem_txt">"Detecció d'errors"</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Aparella controlador nou</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Podeu assignar una altra funció al botó C1 del control remot de Bluetooth</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">Personalització del botó C1</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">"Mode d'enfocament"</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Objectiu</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Mode de presa</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Commuta càmera</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Canvia vídeo/foto</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Objectiu</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Commuta AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Commuta càmera</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Permet</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Rebutja</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">"Voleu permetre que l'aplicació utilitzi el Bluetooth per a aquesta característica?"</string>
+    <string name="ble_remote_control_description_txt">"Podeu aparellar un control remot Sony a través de Bluetooth per utilitzar remotament les funcions a %1$s.
+Puntegeu Aparella controlador nou per començar a aparellar un dispositiu nou."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Ja aparellat</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">"Si el comandament a distància no s'ha pogut aparellar amb el dispositiu, aneu a Configuració i comproveu si el comandament a distància ja està registrat a la llista de dispositius Bluetooth. Si ja està registrat, elimineu el comandament a distància de la llista i intenteu tornar-lo a aparellar."</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">"Detecció d'errors"</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Accepta i activa</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Rebutja</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Surt</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Vés a Paràmetres</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">"D'acord"</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">"L'aparellament s'ha cancel·lat perquè el Bluetooth s'ha desactivat"</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">"L'aparellament ha fallat perquè el temps d'espera s'ha esgotat. Torneu-ho a provar més tard."</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">"Aquest dispositiu pot limitar certes funcions com a precaució si se'n fa un ús intensiu. En activar el Mode de resist. de càmera, es mostrarà una icona que indica que l'aplicació mantindrà un alt rendiment. Quan aquesta icona es mostra, podeu mantenir un alt rendiment durant un període de temps més llarg."</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">"El Mode de resist. de càmera només està disponible quan s'utilitza %1$s amb un control remot connectat a través de Bluetooth. Si es tanca %1$s, aquesta funció s'inhabilitarà."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">La temperatura del dispositiu pot augmentar per sobre de la temperatura de funcionament normal. Quan la temperatura augmenti, rebreu una notificació i una icona per avisar-vos. En aquest cas, no subjecteu el dispositiu amb la mà. Abans de continuar, assegureu-vos que el control remot estigui connectat a través de Bluetooth.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Atenció</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"La temperatura del dispositiu és massa alta. %1$s s'apagarà temporalment per refredar-se.
+Si connecteu un control remot Bluetooth, podreu continuar utilitzant %1$s amb el Mode de resist. de càmera."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"La temperatura del dispositiu és massa alta. %1$s s'apagarà temporalment per refredar-se.
+Si connecteu un control remot Bluetooth, podreu utilitzar %1$s amb el Mode de resist. de càmera."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">"Per utilitzar aquesta funció, habiliteu [Ús de control remot] després d'aparellar un control remot a través de Bluetooth."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"La temperatura del dispositiu és massa alta. %1$s s'apagarà temporalment per refredar-se.
+Si activeu el Mode de resist. de càmera, podreu utilitzar %1$s amb un control remot Bluetooth."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Per habilitar aquesta funció, interactueu amb el control remot connectat.
+Per cancel·lar, puntegeu SURT."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Mode de resist. de càmera habilitat</string>
+    <string name="ble_remote_control_endurance_mode_txt">Mode de resist. de càmera</string>
+    <string name="ble_remote_control_off_txt">Desactivat</string>
+    <string name="ble_remote_control_on_txt">Activat</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Per començar l'aparellament, interactueu amb el controlador remot.
+Rebreu notificacions de recepció i diàlegs dues vegades. Seleccioneu APARELLA a cadascun d'ells i, a continuació, premeu qualsevol tecla del dispositiu aparellat per finalitzar l'aparellament."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Aparella controlador nou</string>
+    <string name="ble_remote_control_title_txt">Control remot Bluetooth</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Ús de control remot</string>
+    <string name="expand_button_title">Opcions avançades</string>
+    <string name="external_display_connected_description_txt">Podeu comprovar el visor des del Monitor Vlog</string>
+    <string name="external_display_connected_title_txt">Monitor Vlog connectat</string>
+    <string name="external_display_note_about_external_mic_txt">"Per utilitzar micròfon extern, connecteu-lo al Monitor Vlog abans d'enregistrar. Si el connecteu després, cal que torneu a connectar el Monitor Vlog."</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">"Heu acceptat abans la política de privacitat, però sempre podeu canviar d'opinió."</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Fletxa esquerra</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Fletxa dreta</string>
+    <string name="photopro_strings_accessibility_back_txt">Enrere</string>
+    <string name="photopro_strings_accessibility_close_txt">Tanca</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Accessibilitat: &lt;a href=\"%s\">Parcialment conforme&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Més info.</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Botó Objectiu</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">No es pot configurar</string>
+    <string name="photopro_strings_accessibility_previous_txt">Anterior</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Una pila de fotos recents</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Inicia la gravació de vídeo</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Posa en pausa la gravació de vídeo</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Reprèn la gravació de vídeo</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Captureu una instantània mentre enregistreu vídeo</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Atura la gravació de vídeo</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Atura el compte enrere</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Obturador</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Commuta entre les càmeres principal i frontal</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Commuta entre foto i vídeo</string>
+    <string name="photopro_strings_accessibility_title_txt">Accessibilitat</string>
+    <string name="photopro_strings_addon_button_menu_txt">Més</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Efecte creatiu</string>
+    <string name="photopro_strings_addon_panorama_txt">Panorama</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Autofoto vertical</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Càmera lenta</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">"Per desar les ubicacions , heu d'habilitar el GPS o les xarxes sense fil. Voleu habilitar-ho ara?"</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Desa la ubicació</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Anàlisis anònimes</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Foto càm. frontal</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Vídeo frontal</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Vídeo</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">"Seleccioneu la relació d'aspecte de les fotos"</string>
+    <string name="photopro_strings_aspect_ratio_txt">"Relació d'aspecte"</string>
+    <string name="photopro_strings_audio_on_all_txt">Activat: Tot</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">"Activat: Només l'obturador"</string>
+    <string name="photopro_strings_audio_signals_description_txt">"Establiu els sons de la càmera que es reprodueixen, per exemple, durant el compte enrere del temporitzador automàtic o durant l'enfocament. També podeu triar únicament el so del disparador."</string>
+    <string name="photopro_strings_audio_signals_txt">"Senyals d'àudio"</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro es tancarà en breu per inactivitat</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Retrat a contrallum</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Contrallum</string>
+    <string name="photopro_strings_auto_scene_document_txt">Document</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Gourmet</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Infant</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Horitzontal</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Poca llum</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Macro</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Retrat nocturn</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Escena nocturna</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">"Reconeiximent automàtic d'escenes"</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Instantània suau</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">"Focus d'il·luminació"</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Asseg. que objectiu estigui net i que no hi tingueu dit posat</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Massa brillant</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">"Allunyeu-vos més de l'objecte"</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Cal més llum</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">"Apropeu-vos més de l'objecte"</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">El bokeh no està disponible actualment</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Bokeh activat</string>
+    <string name="photopro_strings_bokeh_txt">Bokeh</string>
+    <string name="photopro_strings_bt_remote_control_txt">Control remot Bluetooth</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Fotos preses amb mode fotografia contínua desades a emmag. intern</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">"No es pot usar Captura contínua amb velocitat baixa d'obturador"</string>
+    <string name="photopro_strings_button_continue_txt">Continuar</string>
+    <string name="photopro_strings_button_quit_txt">SURT</string>
+    <string name="photopro_strings_cancel_txt">Cancel·la</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Càmera lenta</string>
+    <string name="photopro_strings_change_save_destination_title_txt">Vídeo 4K</string>
+    <string name="photopro_strings_change_txt">Canvia</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Rest.</string>
+    <string name="photopro_strings_color_and_brightness_txt">Color i brillantor</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Emmagatzematge intern complet. Preferiu desar les dades a la targeta SD?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">"L'emmagatzematge intern està malmès o protegit contra l'escriptura. Preferiu desar les dades a la targeta SD?"</string>
+    <string name="photopro_strings_common_error_open_txt">No es pot obrir %1$s</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">"La targeta SD és plena. Preferiu desar les dades a l'emmagatzematge intern?"</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">"No es pot utilitzar la targeta SD. Preferiu desar les dades a l'emmagatzematge intern?"</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Comentaris de la captura contínua</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Les funcions següents estan inhabilitades actualment.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Espereu que el dispositiu es refredi i després reinicieu la càmera.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Les funcions següents estan inhabilitades</string>
+    <string name="photopro_strings_cooling_mode_txt">"Algunes característiques estan inhabilitades per evitar l'augment de la temperatura del dispositiu"</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Assigna una altra funció al botó AEL</string>
+    <string name="photopro_strings_custom_ael_txt">Personalització del botó AEL</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Si puntegeu el botó DISP, la informació al visor es pot mostrar/amagar.
+Desmarqueu qualsevol opció d'aquest menú si no voleu que es mostri mai quan visualitzeu la informació amb el botó DISP."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histograma</string>
+    <string name="photopro_strings_custom_disp_level_txt">Nivell</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Informació de la capçalera</string>
+    <string name="photopro_strings_custom_disp_txt">Personalització del botó DISP</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Podeu reassignar o reordenar les opcions de configuració al menú de funció.
+Puntegeu una de les opcions de funció de sota per assignar una altra funció que vulgueu de la llista de l'esquerra.
+Arrossegueu i deixeu anar qualsevol de les opcions de funció de sota per reordenar-les."</string>
+    <string name="photopro_strings_custom_fn_txt">Personalització del menú de funció</string>
+    <string name="photopro_strings_custom_none_txt">Sense assignar</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Heu rebutjat abans la política de privacitat.</string>
+    <string name="photopro_strings_description_custom_ael_txt">"Bloquejar l'exposició automàtica"</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Establir ISO a Auto</string>
+    <string name="photopro_strings_description_custom_none_txt">Inhabilitar el botó AEL</string>
+    <string name="photopro_strings_device_id_txt">ID del dispositiu</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">No hi ha prou bateria al telèfon. Quan queda poca bateria, la càmera es tanca automàticament.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">"La gravació s'ha aturat perquè hi havia poca bateria. Carregueu el dispositiu i torneu-ho a provar."</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">No es pot utilitzar la càmera perquè hi ha poca bateria. Carregueu el dispositiu i torneu-ho a provar.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">"L'aplicació requereix els permisos següents per dur a terme aquesta acció."</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Xarxa
+Per connectar-vos a la Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"El mode Avió està activat.
+Desactiveu-lo a CONFIGURACIÓ."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Nom de la xarxa: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"La Wi-Fi està desactivada i el mode Avió està activat.
+Canvieu aquests paràmetres puntejant CONFIGURACIÓ."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"La Wi-Fi està desactivada.
+Activeu-la a CONFIGURACIÓ."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Configuració</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Permet</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Rebutja</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Nota</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Calibra</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Reinicialitza</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">"No hi ha prou emmagatzematge intern. S'ha aturat la Captura contínua. Suprimiu alguns fitxers per alliberar espai d'emmagatzematge."</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Concedeix permisos</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">"S'està connectant..."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Protecció amb contrasenya: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Seguretat: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">No es pot connectar a la Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">"Si accepteu el següent, Sony recopilarà les vostres &lt;b>&lt;a href=#personal-data>dades personals&lt;/a>&lt;/b> per proporcionar-vos assistència tècnica personalitzada i millorar els dispositius i els serveis. Sony utilitzarà les vostres dades d'acord amb la nostra &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>Política de privacitat&lt;/a>&lt;/b>."</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">"Podeu gravar vídeos fins i tot en una escena amb molt de contrast i aconseguir que siguin més dramàtics i que s'assemblin més a allò que veieu a la vida real. Feu servir dispositius o serveis compatibles per gaudir del contingut amb el seu color i la seva brillantor originals."</string>
+    <string name="photopro_strings_do_not_show_again_txt">No ho tornis a mostrar</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">Mode foto. contínua HDR: Alt</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">Mode foto. cont. HDR: Baix</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Mode de foto. contínua: Alt</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Mode de foto. contínua: Baix</string>
+    <string name="photopro_strings_drive_continuous_txt">Captura contínua</string>
+    <string name="photopro_strings_drive_mode_txt">Mode de gestió</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Temporitzador automàtic: 10 s</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Temporitzador automàtic: 3 s</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Temporitzador automàtic: Desactivat</string>
+    <string name="photopro_strings_drive_single_txt">Captura única</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">HDR automàtic</string>
+    <string name="photopro_strings_dro_hdr_description_txt">"Aquest paràmetre optimitzarà l'interval de valors. El processament DRO utilitza una sola imatge, mentre que HDR automàtic combina diverses exposicions per obtenir el resultat."</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Optimitzador de rang dinàmic</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/HDR automàtic</string>
+    <string name="photopro_strings_error_device_not_available_txt">No es pot iniciar la càmera. Reinicieu la càmera o el dispositiu.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Error</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">"No s'han pogut desar les fotos. És possible que hi hagi un problema amb l'emmagatzematge de dades si s'ha establert en una targeta SD. En aquest cas, comproveu la targeta SD."</string>
+    <string name="photopro_strings_error_fatal_txt">Error desconegut</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">No</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Sí</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">"Ara la càmera s'apagarà temporalment per refredar-se. Es desaran les gravacions. Reinicieu l'aplicació un cop que el dispositiu s'hagi refredat."</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">"Memòria plena. Suprimiu fitxers de la targeta SD o de l'emmagatzematge intern."</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">La memòria no està disponible</string>
+    <string name="photopro_strings_error_memory_title_txt">Error de memòria</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">La targeta SD no està disponible</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">"Compensació d'exposició"</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Podeu fer fotos verticals que enfoquin la cara i els ulls de la gent o els animals.
+Per canviar els objectius d'enfocament, puntegeu la cara del subjecte que voleu enfocar."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Podeu fer fotos que enfoquin la cara o els ulls de la gent o els animals.
+Per canviar els objectius d'enfocament, puntegeu la cara del subjecte que voleu enfocar.
+Nota: Quan aquesta opció de configuració estigui habilitada, la duració de la gravació es podria escurçar a causa d'un augment de la temperatura del dispositiu."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Detecció de cares/AF als ulls activat</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">AF cara/ulls</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">AF cara/ulls: Desactivat</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">AF cara/ulls: Activat</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Desbloquegeu la pantalla per utilitzar aquesta funció</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Per obrir els paràmetres, desbloquegeu la pantalla.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Pantalla bloquejada</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Per ajustar l'efecte Bokeh, puntegeu la icona Bokeh al visor i moveu el control lliscant.
+Aquesta funció és compatible amb el mode Bàsic (Foto).
+Desenfoqueu el fons per fer que els subjectes destaquin amb un contrast impressionant."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">"Preneu fotos amb l'efecte Bokeh"</string>
+    <string name="photopro_strings_feature_bokeh_txt">Efecte Bokeh</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Hi ha disponibles diversos modes de funcionament: Captura única, Captura contínua o Temporitzador automàtic.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Mode de gestió</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Quan feu fotos amb la càmera frontal, mantingueu els ulls davant l'objectiu de la càmera frontal, a prop de l'altaveu de l'orella.
+Els ulls miraran en la direcció correcta a la foto."</string>
+    <string name="photopro_strings_feature_eye_position_txt">"Direcció de l'ull"</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Podeu fer fotos verticals que enfoquin la cara i els ulls de la gent o els animals.
+Per canviar els objectius d'enfocament, puntegeu la cara del subjecte que voleu enfocar. Aquesta funció es pot habilitar o inhabilitar des de MENÚ > AF cara/ulls."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">AF cara/ulls</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Gireu el palmell cap a la càmera. El temporitzador automàtic començarà el compte enrere quan es reconegui el vostre palmell. Per facilitar-ne la detecció, estireu els dits cap amunt.
+Per habilitar aquesta funció, commuteu la càmera frontal en el mode Bàsic (Foto) i activeu Obturador de mà a MENÚ."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Obturador de mà</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Si utilitzeu l'objectiu supergran angular (0,7x), podeu seleccionar una prioritat. Si seleccioneu Prioritza la qualitat d'imatge, podeu capturar imatges dinàmiques de gran qualitat. Si trieu Prioritza la correcció de la distorsió, podeu reduir la distorsió visual.
+Aquesta funció està activa quan feu fotos amb l'objectiu ultragran angular. Després de canviar a l'objectiu ultragran angular, podeu configurar la prioritat des de MENÚ > Correcció objectiu ultragran ang."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">"Correcció de l'objectiu (foto)"</string>
+    <string name="photopro_strings_feature_list_title_txt">Introducció a les característiques</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Captureu fàcilment una autofoto artística mitjançant l'efecte Bokeh i altres efectes de bellesa.
+Per utilitzar aquest mode, puntegeu la icona Més al visor i seleccioneu Autofoto vertical.
+Estilitzeu la vostra autofoto i gaudiu d'uns resultats creatius."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Autofoto vertical</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Podeu accedir ràpidament a la web o connectar-vos a la Wi-Fi escanejant un QR Code.
+Aquesta funció estarà activa en el mode Bàsic (Foto). Aquesta funció es pot habilitar o inhabilitar des de MENÚ > Lector del QR Code."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">Lector del QR Code</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">Lector del QR Code</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">"Etiqueteu les fotos i els vídeos amb les ubicacions on s'hagin fet. Podeu canviar-les més tard des de MENÚ > Desa la ubicació."</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Voleu desar la ubicació?</string>
+    <string name="photopro_strings_feature_selfie_txt">Càmera frontal</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Podeu gravar un vídeo a càmera lenta de 120 fps en HD.</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Càmera amb Slow Motion</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Podeu canviar fàcilment entre els objectius de la càmera per capturar qualsevol situació i desafiar la vostra creativitat.
+Puntegeu el botó al visor per commutar entre els objectius 0,7x (ultragran angular), 1,0x (gran angular), 2,9x (teleobjectiu) i 4,4x (teleobjectiu).
+Podeu utilitzar aquesta funció al mode Bàsic (Foto) i Bàsic (Vídeo)."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">"Canvi d'angle amb el botó"</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Podeu canviar fàcilment entre els objectius de la càmera per capturar qualsevol situació i desafiar la vostra creativitat.
+Puntegeu el botó al visor per commutar entre els objectius 0,7x (ultragran angular), 1,0x (gran angular) i 2,1x (estàndard).
+Podeu utilitzar aquesta funció al mode Bàsic (Foto) i Bàsic (Vídeo)."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Triple càmera</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Si puntegeu el botó de l'objectiu, es mostrarà un control lliscant que podeu utilitzar per ajustar el nivell de zoom.
+També podeu pessigar la pantalla o utilitzar els botons de volum per aplicar zoom."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">"Com s'amplia o redueix el zoom"</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Suprimir</string>
+    <string name="photopro_strings_file_format_description_txt">"Seleccioneu el format del fitxer per a les fotos.
+
+RAW: requereix un programari especial per processar posteriorment les fotos. L'usuari pot fer ajustos i limitar la deterioració de la imatge a la vegada. Un cop processades, es poden imprimir.
+RAW i JPEG: desa tant les imatges RAW que requereixen un processament posterior com les imatges JPEG.
+JPEG: desa les imatges JPEG.
+
+Notes:
+Els fitxers en format RAW sempre es desaran en un emmagatzematge intern amb una relació d'aspecte 4:3.
+El mode de captura contínua i HDR automàtic no estan disponibles si se selecciona RAW o RAW i JPEG."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW i JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Format del fitxer</string>
+    <string name="photopro_strings_flash_auto_txt">Automàtic</string>
+    <string name="photopro_strings_flash_description_txt">Estableix el Mode flaix en Flaix automàtic, Flaix compensatori, etc.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Flaix compensatori</string>
+    <string name="photopro_strings_flash_off_txt">Desactivat</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">"Reducció d'ulls verm."</string>
+    <string name="photopro_strings_flash_torch_description_txt">Activa la llanterna</string>
+    <string name="photopro_strings_flash_torch_off_txt">Llanterna: Desactivada</string>
+    <string name="photopro_strings_flash_torch_on_txt">Llanterna: Activada</string>
+    <string name="photopro_strings_flash_torch_txt">Llanterna</string>
+    <string name="photopro_strings_flash_txt">Mode flaix</string>
+    <string name="photopro_strings_focus_area_center_txt">Centre</string>
+    <string name="photopro_strings_focus_area_txt">"Àrea d'enfocament"</string>
+    <string name="photopro_strings_focus_area_wide_txt">Ample</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">"Estableix el color del marc de l'àrea d'enfocament"</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">Vermell</string>
+    <string name="photopro_strings_focus_frame_color_txt">"Color de l'àrea d'enfocament"</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Blanc</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">AF continu</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">AF puntual</string>
+    <string name="photopro_strings_focus_mode_description_txt">"Seleccioneu un mètode d'enfocament"</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Detecció de cares</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Enfocament manual</string>
+    <string name="photopro_strings_focus_mode_txt">"Mode d'enfocament"</string>
+    <string name="photopro_strings_geotagging_description_txt">"Deseu les fotos i els vídeos amb les ubicacions on s'hagin capturat"</string>
+    <string name="photopro_strings_geotagging_txt">Desa la ubicació</string>
+    <string name="photopro_strings_gridline_description_txt">Estableix si es mostraran o no les línies de quadrícula per ajudar-vos amb la composició de les imatges</string>
+    <string name="photopro_strings_gridline_txt">Línies de quadrícula</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Per iniciar el compte enrere amb el temporitzador automàtic, mostreu el palmell a la càmera frontal. Per facilitar-ne la detecció, estireu els dits cap amunt.</string>
+    <string name="photopro_strings_hand_shutter_txt">Obturador de mà</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Definiu si voleu rebre una resposta tàctil quan interactueu amb la pantalla (per exemple, en el mode de marcació)</string>
+    <string name="photopro_strings_haptic_feedback_txt">Resposta tàctil</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Desactivat</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: Activat</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">"Filtre d'aire intel·ligent"</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">Sensibilitat ISO</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Podeu iniciar Photography Pro mantenint premut el botó obturador del dispositiu. Funcionarà encara que el telèfon estigui en mode de repòs o bloquejat.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Inicia Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Inicia amb botó obturador</string>
+    <string name="photopro_strings_lens_correction_description_txt">"Si utilitzeu l'objectiu ultragran angular, podeu seleccionar una prioritat. Si seleccioneu Prioritza la qualitat d'imatge, podeu capturar imatges dinàmiques de gran qualitat. Si trieu Prioritza la correcció de la distorsió, podeu reduir la distorsió visual."</string>
+    <string name="photopro_strings_lens_correction_off_txt">"Prioritza la qualitat d'imatge"</string>
+    <string name="photopro_strings_lens_correction_on_txt">Prioritza la correcció de la distorsió</string>
+    <string name="photopro_strings_lens_correction_txt">Correcció objectiu ultragran ang.</string>
+    <string name="photopro_strings_lens_txt">Obj.</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Calibra</string>
+    <string name="photopro_strings_level_calibration_description_txt">"Si cal, podeu calibrar el nivell per resoldre les desviacions a la direcció d'inclinació. Assegureu-vos que la càmera estigui en horitzontal i seleccioneu Calibra."</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">El calibratge ha finalitzat</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">"S'han reinicialitzat els paràmetres de calibratge"</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Calibratge de nivell</string>
+    <string name="photopro_strings_lock_switch_txt">Bloq.</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">"La gravació s'ha aturat degut a la limitació de mida màxima del fitxer"</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">"La gravació s'ha aturat degut a la limitació de temps màxim de gravació"</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">"No s'ha pogut desar perquè la memòria està plena."</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Apply</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Desa</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Defineix</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Voleu desar la combinació actual de modes i paràmetres?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Els paràmetres de la càmera s'han desat.
+Els podeu recordar fàcilment mitjançant el mode per fer fotos MR."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Memòria paràm. càmera</string>
+    <string name="photopro_strings_memory_recall_txt">Recup. paràm. càmera</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Foto (càmera frontal)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Foto</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Càmera lenta</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Vídeo (càmera frontal)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Vídeo</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Exposició/Color</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Enfocament</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Configuració</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Fotografia</string>
+    <string name="photopro_strings_menu_title_txt">Menú</string>
+    <string name="photopro_strings_metering_center_txt">Centre</string>
+    <string name="photopro_strings_metering_multi_txt">Múltiple</string>
+    <string name="photopro_strings_metering_spot_txt">Punt</string>
+    <string name="photopro_strings_metering_txt">Mode de mesura</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Seleccioneu quin micròfon voleu utilitzar durant l'enregistrament de vídeo:
+1. Micròfon LR: enregistra el so estèreo amb els micròfons esquerre i dret (superior i inferior en l'orientació vertical)
+2. Micròfon posterior: enregistra el so mono amb el micròfon posterior"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Micròfon extern</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">Micròfon LR (estèreo)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Micròfon posterior (mono)</string>
+    <string name="photopro_strings_mic_setting_txt">Micròfon</string>
+    <string name="photopro_strings_mode_auto_description_txt">"La càmera detectarà automàticament el tipus d'escena i farà fotos amb la configuració automàtica i, al mateix temps, reduirà el soroll i la tremolor de la càmera."</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Mode automàtic</string>
+    <string name="photopro_strings_mode_basic_description_txt">"En aquest mode, podeu fer fotos fàcilment amb el botó de l'obturador en pantalla de manera similar a la càmera d'un telèfon intel·ligent normal.
+Utilitzeu aquest mode per fer autofotos, enregistrar vídeos i escanejar QR Codes."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Mode Bàsic</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Això mostrarà una explicació de cada Mode de presa quan canvieu els modes amb el dial de modes</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Guia del dial de modes</string>
+    <string name="photopro_strings_mode_m_description_txt">"Controleu manualment la velocitat del disparador i la sensibilitat ISO.
+Quan l'exposició és més llarga, és possible fer fotos que capturin les traces de moviment dels objectes mitjançant l'efecte borrós del moviment."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Exposició manual</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Auto intel·ligent (Recordatori memòria)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Feu fotos utilitzant la configuració desada.
+Podeu registrar les combinacions de modes i configuració utilitzades amb més freqüència."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Recordatori memòria</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Exposició manual (Recordatori memòria)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Autoprogram. (Recordatori memòria)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">"Prioritat de la velocitat de l'obturador (Recordatori memòria)"</string>
+    <string name="photopro_strings_mode_p_description_txt">"La càmera controlarà automàticament la velocitat del disparador i deixa la resta d'opcions al vostre criteri."</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Autoprogram.</string>
+    <string name="photopro_strings_mode_s_description_txt">"Controleu manualment la velocitat del disparador per canviar la manera com captureu els objectes en moviment.
+Les velocitats del disparador ràpides semblaran que immobilitzen un objecte en moviment, mentre que les velocitats del disparador lentes poden capturar millor l'efecte borrós del moviment."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">"Prioritat de la velocitat de l'obturador"</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">"El Mode de gestió s'ha canviat automàticament a Captura única perquè Transfer &amp; Tagging add-on està activat"</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">"El format de fitxer s'ha canviat automàticament a JPEG perquè Transfer &amp; Tagging add-on està activat"</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">No es pot utilitzar la càmera a Finestres múltiples o en una finestra emergent. Tanqueu la finestra i torneu-ho a provar. Si utilitzeu Finestres múltiples, podeu arrossegar la part central de la barra de divisió per canviar la càmera a pantalla completa.</string>
+    <string name="photopro_strings_multi_window_txt">Arrossegueu la part central de la barra de divisió per canviar a la vista de pantalla completa %1$s per utiltizar</string>
+    <string name="photopro_strings_ok_txt">"D'acord"</string>
+    <string name="photopro_strings_personal_data_txt">Dades personals</string>
+    <string name="photopro_strings_privacy_policy_txt">Política de privadesa</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">"S'està fent una foto. Espereu-vos."</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Aquest QR Code no és compatible</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Puntegeu per obrir \"%1$s\" en naveg.</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">No es pot connectar a aquesta xarxa Wi-Fi</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Punt. i connecteu-vos a la Wi-Fi \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">Lector del QR Code</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Podeu accedir ràpidament a la web o connectar-vos a la Wi-Fi escanejant un QR Code.
+Aquesta funció estarà activa en el mode Bàsic (Foto)."</string>
+    <string name="photopro_strings_qrcode_detection_txt">Lector del QR Code</string>
+    <string name="photopro_strings_rec_txt">Grava</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Voleu restablir Photo Pro als paràmetres predeterminats?</string>
+    <string name="photopro_strings_reset_settings_txt">Reinicialitza els paràmetres</string>
+    <string name="photopro_strings_reset_txt">Reinicialitza</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">"No es pot canviar la relació d'aspecte si el format del fitxer s'ha definit en RAW"</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">"No es pot seleccionar l'HDR automàtic si s'ha seleccionat Fotos contínues"</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">No es pot seleccionar HDR si un format de fitxer que no sigui JPEG està seleccionat</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">"L'efecte Bokeh no està disponible amb l'objectiu seleccionat actualment"</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">"L'efecte Bokeh no està disponible si el mode Transfer &amp; Tagging add-on està activat"</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">"No es pot utilitzar el mode de fotografia contínua: Alt amb l'objectiu seleccionat actualment"</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">"No es pot utilitzar la Captura contínua mentre s'utilitza l'efecte Bokeh"</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">"La captura contínua no està disponible quan el zoom de superresolució d'IA està seleccionat"</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">No es pot utilitzar Captura contínua quan un format de fitxer que no sigui JPEG està seleccionat</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">La captura contínua no està disponible si el mode Transfer &amp; Tagging add-on està activat</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">No es pot canviar</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">"No es pot utilitzar el mode Flaix si s'ha seleccionat Captura contínua"</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">"No es pot utilitzar el mode Flaix amb l'objectiu seleccionat actualment"</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">"No es pot utilitzar la llanterna amb l'objectiu seleccionat actualment"</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">No es pot canviar a un format de fitxer que no sigui JPEG quan HDR automàtic està seleccionat</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">No es pot canviar a un format de fitxer que no sigui JPEG quan Captura contínua està seleccionat</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">No es pot canviar a un format de fitxer que no sigui JPEG quan el mode Transfer &amp; Tagging add-on està seleccionat</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">No podeu canviar aquest paràmetre quan el micròfon extern està connectat</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">"Aquest paràmetre no admet la velocitat actual de l'obturador. Per configurar aquest paràmetre, canvieu la velocitat de l'obturador a 1 segon o menys."</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">"No es pot seleccionar RAW quan s'ha seleccionat una relació d'aspecte que no sigui 4:3"</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">"No es pot canviar la mida del vídeo mentre s'està gravant en càmera lenta. Per canviar aquest paràmetre, sortiu del mode de càmera lenta."</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">"Aquesta opció només està disponible quan s'utilitza l'objectiu ultragran angular"</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">"Aquest paràmetre no està disponible amb l'HDR activat. Per configurar-lo, desactiveu l'HDR."</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Aquest paràmetre no és compatible amb la mida del vídeo actual. Per configurar-lo, canvieu la mida del vídeo.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">"No es pot ampliar mentre s'utilitza l'efecte Bokeh"</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">INFO. APLICACIÓ</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">Permís de %1$s</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">"L'aplicació requereix els permisos següents per dur a terme aquesta acció."</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">"Per concedir permisos, aneu a Informació de l'aplicació > Permisos."</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">"No s'ha pogut continuar"</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Permet fer fotos</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Permet fer fotos i vídeos</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Permet recuperar la ubicació</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Permet gravar el so</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Per connectar-se a dispositius propers</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Per llegir i desar fotos i vídeos</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Permet desar fotos</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Permet desar les fotos i els vídeos</string>
+    <string name="photopro_strings_save_destination_description_txt">"Trieu si voleu emmagatzemar les fotos i els vídeos a l'emmagatzematge intern del dispositiu o en una targeta SD"</string>
+    <string name="photopro_strings_save_destination_internal_txt">Emmagatzem. intern</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">Targeta SD</string>
+    <string name="photopro_strings_save_destination_title_txt">Emmagatzematge de dades</string>
+    <string name="photopro_strings_save_destination_txt">Emmagatzematge de dades</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">La targeta SD no està disponible</string>
+    <string name="photopro_strings_selftimer_10_txt">10 s.</string>
+    <string name="photopro_strings_selftimer_3_txt">3 s.</string>
+    <string name="photopro_strings_selftimer_description_txt">Estableix un temporitzador automàtic per fer una foto automàticament un cop transcorreguts un nombre designat de segons</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">"Fixeu l'atenció a la càmera"</string>
+    <string name="photopro_strings_selftimer_txt">Temporitz. automàtic</string>
+    <string name="photopro_strings_settings_off_txt">Desactivat</string>
+    <string name="photopro_strings_settings_on_txt">Activat</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Utilitzar sempre el mode Bàsic</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Seleccioneu el Mode de presa per defecte quan inicieu Photography Pro</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Últim mode utilitzat</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">"Mode de presa durant l'inici"</string>
+    <string name="photopro_strings_shooting_mode_txt">Mode de presa</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Càmera de vídeo</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Velocitat del disparador</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">No podeu capturar instantànies mentre HDR està activat</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Activa un efecte que fa que la pell sembli més suau</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Efecte de pell suau</string>
+    <string name="photopro_strings_status_mic_external_txt">Extern</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">LR (estèreo)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Posterior (mono)</string>
+    <string name="photopro_strings_store_fail_txt">"No s'ha pogut desar"</string>
+    <string name="photopro_strings_sw_license_txt">Llicència de programari</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Accepto</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Declino</string>
+    <string name="photopro_strings_tips_txt">Suggeriments</string>
+    <string name="photopro_strings_title_permissions_txt">Permís de Photo Pro</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Cancel·la el focus tàctil</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Autofocus</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Seleccioneu què voleu ajustar quan puntegeu el visor.
+
+Seguiment d'objecte: La millor funció per capturar els objectes en moviment. Manté l'enfocament bloquejat a l'objecte que heu puntejat al visor, la qual cosa us permet fotografiar amb claredat objectes en moviment.
+Enfocament automàtic: Puntegeu al visor on voleu enfocar.
+Enfocament i brillantor: Puntegeu el visor per enfocar i ajustar la brillantor de la posició desitjada."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Enfocament i brillantor</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">"Seguiment d'objecte"</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Toqueu per ajustar</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">"Cancel·lar el seguiment d'objecte"</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Si activeu aquesta funció, Transfer &amp; Tagging add-on mostrarà les fotos fetes amb la càmera Xperia. Les fotos es desaran a l'emmagatzematge intern.
+Aquesta funció és compatible amb les fotos fetes amb Photography Pro.
+Si activeu aquesta funció, el format de fitxer es convertirà automàticament en JPEG i el Mode de gestió en Captura única."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Mode Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Entès</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Següent</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Salta</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony és una marca que els fotògrafs valoren a l'hora de produir productes de fotografia que generen alegria.
+Clients d'arreu del món continuen triant la nostra experiència i tecnologia.
+
+Photography Pro busca recrear l'operativitat i les funcions de les càmeres de format complet de Sony Imaging Products.
+Sony us acompanya amb la vostra creativitat en fotografia."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Trieu el mode de Fotografia ideal per al vostre objecte.
+Després establiu la velocitat de l'obturador i l'exposició.
+Manteniu la càmera estable pels costats i feu una foto.
+
+Els modes de Fotografia inclouen:
+P (Autoprogram.)
+S (Prioritat de la velocitat de l'obturador)
+M (Exposició manual)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Seleccioneu el mode de captura que preferiu amb l'ajuda del dial de modes situat a la part superior dreta (superior esquerra quan l'orientació és horitzontal).
+
+Amb el mode Bàsic, podeu fer fotos i vídeos fàcilment amb la càmera frontal de manera similar a la càmera d'un telèfon intel·ligent normal.
+
+Amb els modes Auto/P/S/M, podeu accedir fins i tot a més configuracions avançades per fer unes fotos perfectes."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Mode de presa</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">"Instruccions d'ús"</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Quan utilitzeu els modes Auto/P/S/M, subjecteu amb força la càmera en l'orientació horitzontal i premeu el botó obturador de la part superior dreta del dispositiu per fer fotos.
+
+Si seleccioneu Auto, les funcions com ara la velocitat del disparador i l'exposició s'establiran automàticament.
+
+Per configurar les opcions manualment, seleccioneu un dels modes següents.
+P (Autoprogram.)
+S (Prioritat de la velocitat del disparador)
+M (Exposició manual)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">"Com s'utilitzen els modes Auto/P/S/M"</string>
+    <string name="photopro_strings_tutorial_txt">Tutorial</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">"Photo Pro no es pot utilitzar amb la pantalla externa connectada. Per utilitzar Photo Pro, tanqueu l'aplicació des de la pantalla Aplicacions recents a l'Xperia i, a continuació, reinicieu-la."</string>
+    <string name="photopro_strings_unlock_button_txt">Desbloquegeu-lo</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Ús de la càmera restringit per raons de seguretat</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">"Perquè la gravació de vídeo de 4K sigui estable, no canvieu aquest paràmetre tret que utilitzeu una targeta SD d'alta velocitat (es recomana UHS Speed Class 1 o superior o bé Speed Class 10)."</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">"Perquè la gravació de vídeo a càmera lenta sigui estable, no canvieu aquest paràmetre tret que utilitzeu una targeta SD d'alta velocitat (es recomana UHS Speed Class 1 o superior o bé Speed Class 10)."</string>
+    <string name="photopro_strings_video_explanatory_txt">"Perquè la gravació de vídeo sigui estable, us recomanem que canvieu l'emmagatzematge de dades per l'emmagatzematge intern. Voleu fer el canvi ara?
+
+Si continueu fent servir la targeta SD com a emmagatzematge de dades, assegureu-vos que feu servir una targeta SD d'alta velocitat (es recomana UHS Speed Class 1 o superior o bé Speed Class 10)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Podeu seleccionar un codificador per a les gravacions de vídeos 4K
+
+H.264 (AVC): Format estàndard per a la codificació compatible amb la majoria de dispositius i serveis.
+H.265 (HEVC): Format amb una ràtio de compressió més alta. Comproveu que els dispositius de reproducció o els serveis admetin aquest mètode."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Format del fitxer (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Seleccioneu una mida de vídeo.
+HDR no està disponible si Alta definició completa (60 fps) o HD estan seleccionats."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Seleccioneu una mida de vídeo</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">HD complet (60 fps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Alta definició completa</string>
+    <string name="photopro_strings_video_size_txt">Mida de vídeo</string>
+    <string name="photopro_strings_video_stabilization_description_txt">"L'Xperia té un sistema d'estabilització híbrid únic anomenat Optical SteadyShot, que combina simultàniament l'estabilització òptica de la imatge i l'estabilització electrònica de la imatge. Permet obtenir vídeos fluids i sense vibracions fins i tot quan feu enregistraments en moviment."</string>
+    <string name="photopro_strings_video_stabilization_txt">Estabilització de vídeo</string>
+    <string name="photopro_strings_volumekey_description_txt">Assigna una altra funció als botons de volum</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Disparador</string>
+    <string name="photopro_strings_volumekey_txt">Utilitza botó de volum com a</string>
+    <string name="photopro_strings_volumekey_volume_txt">Volum</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Zoom</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Ajusta - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Automàtic</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Ajusta</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Fet</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Reintenta-ho</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Aplica</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Nuvolós</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Personalitzat 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Personalitzat 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Personalitzat 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Establiu el balanç de blancs en funció del centre de la vista prèvia</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">"Error d'ajustament"</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Ajustament complet</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Aplica - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">De dia</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Fluorescent</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Incandescent</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Ombra</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Temp 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Temp 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Temp 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Temp:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Temperatura</string>
+    <string name="photopro_strings_whitebalance_txt">Balanç de blancs</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">No es pot ampliar amb la càmera frontal</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">"Zoom de superresolució d'IA"</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Seleccioneu una opció de configuració del zoom.
+
+Zoom digital: zoom que utilitza el processament digital segons les dades del sensor d'imatge.
+Zoom de superresolució d'IA: zoom que utilitza el processament digital per conservar més la qualitat de la imatge original. És possible que el procés de desament de les fotos trigui més. Funcionarà automàticament com a Zoom digital quan se selecciona Captura contínua."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Zoom digital</string>
+    <string name="photopro_strings_zoom_type_txt">Configuració del zoom</string>
+    <string name="search_menu_title">Cerca</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">DESACTIVAT</string>
+    <string name="v7_preference_on">ACTIVAT</string>
+</resources>

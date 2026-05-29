@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonymobile.photopro.view.widget.CustomConstraintLayout android:tag="layout/fragment_basic_operation_0" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/left_pane" android:layout_width="fill_parent" android:layout_height="@dimen/photopro_left_area_width" app:layout_constraintTop_toTopOf="parent" layout="@layout/fragment_basic_operation_left_pane" />
+    <include android:id="@id/indicator" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="@id/finder_area" app:layout_constraintTop_toTopOf="@id/finder_area" layout="@layout/fragment_basic_operation_indicator" />
+    <Space android:id="@id/finder_area" android:layout_width="0.0dip" android:layout_height="0.0dip" app:layout_constraintDimensionRatio="9:16" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <include android:id="@id/submenu_overlay" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toTopOf="@id/right_pane" layout="@layout/fragment_basic_operation_submenu" />
+    <include android:id="@id/right_pane" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toBottomOf="@id/finder_area" layout="@layout/fragment_basic_operation_right_pane" />
+    <include android:id="@id/add_on_selector" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_constraintTop_toTopOf="parent" layout="@layout/fragment_basic_operation_add_on" />
+    <include android:id="@id/capture_progress_overlay" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/fragment_basic_operation_capture_state" />
+    <include android:id="@id/thermal_notice" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/fragment_operation_thermal_notice" />
+</com.sonymobile.photopro.view.widget.CustomConstraintLayout>

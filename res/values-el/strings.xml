@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
+    <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
+    <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
+    <string name="abc_action_mode_done">Τέλος</string>
+    <string name="abc_activity_chooser_view_see_all">Εμφάνιση όλων</string>
+    <string name="abc_activitychooserview_choose_application">Επιλέξτε μια εφαρμογή</string>
+    <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">διάστημα</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Αναζήτηση…</string>
+    <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
+    <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
+    <string name="abc_searchview_description_search">Αναζήτηση</string>
+    <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
+    <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
+    <string name="abc_shareactionprovider_share_with">Κοινοποίηση σε</string>
+    <string name="abc_shareactionprovider_share_with_application">Κοινοποίηση στην εφαρμογή %s</string>
+    <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="ble_remote_control_button_any_problem_txt">Αντιμετώπιση προβλημάτων</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Αντιστ. νέου χειριστηρίου</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Μπορείτε να αντιστοιχίσετε μια άλλη λειτουργία στο κουμπί C1 στον απομακρυσμένο έλεγχο Bluetooth</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">Προσαρμογή κουμπιού C1</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Λειτουργία εστίασης</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Φακός</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Λειτουργία λήψης</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Εναλλαγή κύριας/εμπρός κάμερας</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Εναλλαγή φωτογραφίας/βίντεο</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Φακός</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Εναλλαγή AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Εναλλαγή κύριας/εμπρός κάμερας</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Να επιτραπεί</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Να απαγορευτεί</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Να επιτρέπεται στην εφαρμογή να χρησιμοποιεί Bluetooth για αυτήν τη λειτουργία;</string>
+    <string name="ble_remote_control_description_txt">"Μπορείτε να αντιστοιχίσετε τον απομακρυσμένο έλεγχο Sony μέσω Bluetooth για απομακρυσμένη χρήση λειτουργιών στην εφαρμογή %1$s.
+Πατήστε Αντιστοίχιση νέου χειριστηρίου για έναρξη αντιστοίχισης μιας νέας συσκευής."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Ήδη αντιστοιχισμένο</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Εάν δεν ήταν δυνατή η αντιστοίχιση του τηλεχειριστηρίου με τη συσκευή, μεταβείτε στις Ρυθμίσεις και ελέγξτε εάν το τηλεχειριστήριο έχει ήδη εγγραφεί στη λίστα συσκευών Bluetooth. Εάν έχει ήδη εγγραφεί, αφαιρέστε το τηλεχειριστήριο από τη λίστα και δοκιμάστε να το αντιστοιχίσετε ξανά.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Αντιμετώπιση προβλημάτων</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Αποδ. και ενεργ.</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Απόρριψη</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Έξοδος</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Μετ. στις Ρυθμίσ.</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">OK</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Η αντιστοίχιση ακυρώθηκε επειδή το Bluetooth απενεργοποιήθηκε</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Η αντιστοίχιση απέτυχε λόγω χρονικής υπέρβασης. Προσπαθήστε ξανά αργότερα.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Αυτή η συσκευή μπορεί να περιορίζει προληπτικά ορισμένες λειτουργίες υπό συνθήκες έντονης χρήσης. Εάν ενεργοποιήσετε τη Λειτουργία αντοχής κάμερας, θα εμφανιστεί ένα εικονίδιο που θα υποδεικνύει ότι η εφαρμογή θα διατηρήσει υψηλές επιδόσεις. Όταν εμφανίζεται αυτό το εικονίδιο, μπορείτε να χρησιμοποιήσετε την εφαρμογή για μεγαλύτερο χρονικό διάστημα.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Η Λειτουργία αντοχής κάμερας είναι διαθέσιμη μόνο όταν χρησιμοποιείτε την εφαρμογή %1$s με απομακρυσμένο έλεγχο συνδεδεμένο μέσω Bluetooth. Το κλείσιμο της εφαρμογής %1$s θα απενεργοποιήσει αυτήν τη λειτουργία.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Η θερμοκρασία της συσκευής μπορεί να αυξηθεί πάνω από την τυπική θερμοκρασία λειτουργίας. Όταν αυξηθεί η θερμοκρασία θα ειδοποιηθείτε με μια ειδοποίηση και ένα εικονίδιο. Σε αυτή την περίπτωση, μη κρατάτε συνεχώς τη συσκευή με το χέρι σας. Βεβαιωθείτε ότι ο απομακρυσμένος έλεγχος είναι συνδεδεμένος μέσω Bluetooth πριν συνεχίσετε.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Προσοχή</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Η θερμοκρ. της συσκ. είναι πολύ υψηλή. Η εφαρμογή %1$s θα κλείσει προσωρινά για να μειωθεί η θερμοκρασία.
+Εάν συνδέσετε απομακρυσμένο έλεγχο Bluetooth, μπορείτε να συνεχίσετε να χρησιμοποιείτε την εφαρμογή %1$s με τη Λειτουργία αντοχής κάμερας."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Η θερμοκρ. της συσκ. είναι πολύ υψηλή. Η εφαρμογή %1$s θα κλείσει προσωρινά για να μειωθεί η θερμοκρασία.
+Εάν συνδέσετε απομακρυσμένο έλεγχο Bluetooth, μπορείτε να χρησιμοποιήσετε την εφαρμογή %1$s με Λειτουργία αντοχής κάμερας."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Για να χρησιμοποιήσετε αυτήν τη λειτουργία, ενεργοποιήστε τη [Χρήση απομ. ελέγχου] μετά την αντιστοίχιση απομακρυσμένου ελέγχου μέσω Bluetooth.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Η θερμοκρ. της συσκ. είναι πολύ υψηλή. Η εφαρμογή %1$s θα κλείσει προσωρινά για να μειωθεί η θερμοκρασία.
+Εάν ενεργοποιήσετε τη Λειτουργία αντοχής κάμερας, θα μπορέσετε να χρησιμοποιήσετε την εφαρμογή %1$s με απομακρυσμένο έλεγχο Bluetooth."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Για να ενεργοποιήσετε αυτήν τη λειτουργία, αλληλεπιδράστε με τον συνδεδεμένο απομακρυσμένο έλεγχο.
+Για ακύρωση, πατήστε ΕΞΟΔΟΣ."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Λειτουργία αντοχής κάμερας ενεργοποιημένη</string>
+    <string name="ble_remote_control_endurance_mode_txt">Λειτουργία αντοχής κάμερας</string>
+    <string name="ble_remote_control_off_txt">Απενεργοπ.</string>
+    <string name="ble_remote_control_on_txt">Ενεργοποίηση</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Για έναρξη της αντιστοίχισης, αλληλεπιδράστε με το τηλεχειριστήριο.
+Θα λάβετε ειδοποιήσεις και παράθυρα διαλόγου δύο φορές. Επιλέξτε ΑΝΤΙΣΤΟΙΧΙΣΗ σε όλα και, στη συνέχεια, πιέστε οποιοδήποτε πλήκτρο στην αντιστοιχισμένη συσκευή για να ολοκληρώσετε την αντιστοίχιση."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Αντιστ. νέου χειριστηρίου</string>
+    <string name="ble_remote_control_title_txt">Απομ. έλεγχος Bluetooth</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Χρήση απομ. ελέγχου</string>
+    <string name="expand_button_title">Σύνθετες</string>
+    <string name="external_display_connected_description_txt">Μπορείτε να ελέγξετε το εικονοσκόπιο από την οθόνη Vlog</string>
+    <string name="external_display_connected_title_txt">Η οθόνη Vlog συνδέθηκε</string>
+    <string name="external_display_note_about_external_mic_txt">Σημείωση: Για να χρησιμοποιήσετε ένα εξωτερικό μικρόφωνο, συνδέστε το στην οθόνη Vlog πριν από την εγγραφή. Εάν το συνδέσετε μετά, πρέπει να επανασυνδέσετε την οθόνη Vlog.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Έχετε αποδεχτεί προηγουμένως την πολιτική απορρήτου, αλλά μπορείτε να αλλάξετε γνώμη ανά πάσα στιγμή.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Αριστερό βέλος</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Δεξί βέλος</string>
+    <string name="photopro_strings_accessibility_back_txt">Πίσω</string>
+    <string name="photopro_strings_accessibility_close_txt">Κλείσιμο</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Προσβασιμότητα: &lt;a href=\"%s\">Μερικώς συμβατή&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Διαβ. περισσ.</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Κουμπί φακού</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Μη διαμορφώσιμο</string>
+    <string name="photopro_strings_accessibility_previous_txt">Προηγούμενο</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Μια ομάδα πρόσφατων φωτογραφιών</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Έναρξη εγγραφής βίντεο</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Παύση εγγραφής βίντεο</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Συνέχιση εγγραφής βίντεο</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Λήψη στιγμιότυπου κατά την εγγραφή βίντεο</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Διακοπή εγγραφής βίντεο</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Διακοπή αντίστροφης μέτρησης</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Κλείστρο</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Εναλλαγή μεταξύ της κύριας και της εμπρός κάμερας</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Εναλλαγή μεταξύ φωτογραφίας και βίντεο</string>
+    <string name="photopro_strings_accessibility_title_txt">Προσβασιμότητα</string>
+    <string name="photopro_strings_addon_button_menu_txt">Περισσότερα</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Δημιουργικό εφέ</string>
+    <string name="photopro_strings_addon_panorama_txt">Πανοραμική λήψη</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Selfie πορτραίτου</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Αργή κίνηση</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Για να αποθηκεύσετε τοποθεσίες, πρέπει να ενεργοποιήσετε το GPS ή/και τα ασύρματα δίκτυα. Να ενεργοποιηθούν τώρα;</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Αποθήκευση τοποθεσίας</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Ανώνυμα αναλυτικά στοιχεία</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Μπροστινή φωτ.</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Μπρ. βιντεοκάμ.</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Βίντεο</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Επιλογή λόγου διαστάσεων για τις φωτογραφίες</string>
+    <string name="photopro_strings_aspect_ratio_txt">Λόγος διαστάσεων</string>
+    <string name="photopro_strings_audio_on_all_txt">Ενεργά: Όλα</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Ενεργά: Μόνο το κλείστρο</string>
+    <string name="photopro_strings_audio_signals_description_txt">Ρυθμίστε ποιοι ήχοι κάμερας θα αναπαράγονται, όπως κατά τη μέτρηση του χρονοδιακόπτη ή κατά την εστίαση. Μπορείτε επίσης να επιλέξετε την αναπαραγωγή μόνο του ήχου κλείστρου.</string>
+    <string name="photopro_strings_audio_signals_txt">Ηχητικά σήματα</string>
+    <string name="photopro_strings_auto_power_off_txt">Το Photo Pro θα κλείσει σε λίγο λόγω αδράνειας</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Πορτραίτο με οπίσθ. φωτ.</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Οπίσθιος φωτισμός</string>
+    <string name="photopro_strings_auto_scene_document_txt">Έγγραφο</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Φαγητά</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Νήπιο</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Τοπία</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Χαμηλό φως</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Μάκρο</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Πορτραίτο τη νύχτα</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Νυχτερινό σκηνικό</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Αυτόματη αναγνώριση σκηνής</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Απαλή λήψη</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Φως προβολέα</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Ο φακός να είναι καθαρός και το δάχτυλό σας όχι επάνω στο φακ.</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Πολύ φωτεινό</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Μετακινηθείτε πιο μακριά από το αντικείμενο</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Απαιτείται περισσότερο φως</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Μετακινηθείτε πιο κοντά στο αντικείμενο</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Το Μποκέ δεν είναι διαθέσιμο αυτή τη στιγμή</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Το Μποκέ είναι ενεργοποιημένο</string>
+    <string name="photopro_strings_bokeh_txt">Μποκέ</string>
+    <string name="photopro_strings_bt_remote_control_txt">Απομ. έλεγχος Bluetooth</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Οι φωτογρ. από τη Συνεχή λήψη αποθηκεύτ. στην εσωτερική μνήμη</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Αδυναμία χρήσης Συνεχούς λήψης με μικρή ταχύτητα κλείστρου</string>
+    <string name="photopro_strings_button_continue_txt">Συνέχεια</string>
+    <string name="photopro_strings_button_quit_txt">ΕΞΟΔΟΣ</string>
+    <string name="photopro_strings_cancel_txt">Άκυρο</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Αργή κίνηση</string>
+    <string name="photopro_strings_change_save_destination_title_txt">Βίντεο 4K</string>
+    <string name="photopro_strings_change_txt">Αλλαγή</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Διαγρ.</string>
+    <string name="photopro_strings_color_and_brightness_txt">Χρώμα και φωτεινότητα</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Η εσωτερική μνήμη είναι πλήρης. Να αποθηκευτούν τα δεδομένα στην κάρτα SD;</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Η εσωτερική μνήμη είναι κατεστραμμένη ή προστατεύεται από την εγγραφή. Να αποθηκευτούν τα δεδομένα στην κάρτα SD;</string>
+    <string name="photopro_strings_common_error_open_txt">Αδυν. ανοίγμ. %1$s</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">Η κάρτα SD είναι πλήρης. Να αποθηκευτούν τα δεδομένα στην εσωτερική μνήμη;</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">Αδυναμία χρήσης της κάρτας SD. Να αποθηκευτούν τα δεδομένα στην εσωτερική μνήμη;</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Σχόλια συνεχούς λήψης</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Οι ακόλουθες λειτουργίες είναι ανενεργές αυτή τη στιγμή.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Περιμένετε να κρυώσει η συσκευή σας και, στη συνέχεια, επανεκκινήστε την κάμερα.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Οι ακόλουθες λειτουργίες απενεργοποιήθηκαν</string>
+    <string name="photopro_strings_cooling_mode_txt">Κάποιες λειτουργίες απενεργοποιούνται για να μην αυξηθεί η θερμοκρασία της συσκευής</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Εκχώρηση άλλης λειτουργίας στο κουμπί AEL</string>
+    <string name="photopro_strings_custom_ael_txt">Προσαρμογή κουμπιού AEL</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Μπορείτε να εμφανίσετε/αποκρύψετε πληροφορίες στο εικονοσκόπιο, πατώντας το κουμπί DISP.
+Καταργήστε την επιλογή οποιουδήποτε στοιχείου σε αυτό το μενού αν δεν θέλετε να εμφανίζεται ποτέ όταν εμφανίζετε πληροφορίες με το κουμπί DISP."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Ιστόγραμμα</string>
+    <string name="photopro_strings_custom_disp_level_txt">Αλφάδι</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Πληροφορίες κεφαλίδας</string>
+    <string name="photopro_strings_custom_disp_txt">Προσαρμογή κουμπιού DISP</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Μπορείτε να εκχωρήσετε εκ νέου ή να ταξινομήσετε εκ νέου στοιχεία ρύθμισης στο μενού λειτουργιών.
+Πατήστε ένα από τα παρακάτω στοιχεία λειτουργιών για να εκχωρήσετε μια άλλη λειτουργία της επιλογής σας από τη λίστα στα αριστερά.
+Σύρετε και αποθέστε οποιοδήποτε από τα παρακάτω στοιχεία λειτουργίας για να ταξινομήσετε εκ νέου."</string>
+    <string name="photopro_strings_custom_fn_txt">Προσαρμογή μενού λειτουργιών</string>
+    <string name="photopro_strings_custom_none_txt">Χωρίς αντιστοίχιση</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Έχετε απορρίψει προηγουμένως την πολιτική απορρήτου.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Κλείδωμα αυτόματης έκθεσης</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Ρύθμιση του ISO σε \"Αυτόματα\"</string>
+    <string name="photopro_strings_description_custom_none_txt">Απενεργοποίηση του κουμπιού AEL</string>
+    <string name="photopro_strings_device_id_txt">Αναγνωριστικό συσκευής</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Η μπαταρία του τηλεφώνου δεν επαρκεί. Όταν το επίπεδο μπαταρίας είναι χαμηλό, η κάμερα κλείνει αυτόματα.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Η εγγραφή διακόπηκε λόγω χαμηλής στάθμης της μπαταρίας. Φορτίστε τη συσκευή σας και προσπαθήστε ξανά.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Η χρήση της κάμερας δεν είναι δυνατή λόγω χαμηλής στάθμης της μπαταρίας. Φορτίστε τη συσκευή σας και προσπαθήστε ξανά.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Η εφαρμογή απαιτεί τις ακόλουθες άδειες για την εκτέλεση αυτής της ενέργειας.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Δίκτυο
+Για σύνδεση με Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Η Λειτουργία πτήσης ενεργοποιήθηκε.
+Απενεργοποιήστε τη Λειτουργία πτήσης από τις ΡΥΘΜΙΣΕΙΣ."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Όνομα δικτύου: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Το Wi-Fi απενεργοποιήθηκε και η Λειτουργία πτήσης ενεργοποιήθηκε.
+Αλλάξτε αυτές τις ρυθμίσεις πατώντας το στοιχείο ΡΥΘΜΙΣΕΙΣ."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Το Wi-Fi απενεργοποιήθηκε.
+Ενεργοποιήστε το Wi-Fi από τις ΡΥΘΜΙΣΕΙΣ."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Ρυθμίσεις</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Να επιτραπεί</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Να απαγορευτεί</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Σημείωση</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Βαθμονόμ.</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Επαναφορά</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Ανεπαρκής εσωτερική μνήμη. Η Συνεχής λήψη διακόπηκε. Διαγράψτε κάποια αρχεία για να ελευθερωθεί αποθηκευτικός χώρος.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Εκχώρηση αδειών</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Σύνδεση...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Προστασία με κωδικό πρόσβασης: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Ασφάλεια: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Αδυναμία σύνδεσης με Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Αν συμφωνήσετε παρακάτω, η Sony θα συλλέγει τα &lt;b>&lt;a href=#personal-data>προσωπικά δεδομένα σας&lt;/a>&lt;/b> για την παροχή προσαρμοσμένης υποστήριξης και τη βελτίωση συσκευών και υπηρεσιών. Η Sony θα χειρίζεται τα δεδομένα σας σύμφωνα με την &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>Πολιτική απορρήτου&lt;/a>&lt;/b>.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Μπορείτε να εγγράψετε βίντεο ακόμα και σε σκηνή υψηλής αντίθεσης και να τα κάνετε πιο δραματικά, και πιο αληθοφανή. Χρησιμοποιήστε τις υποστηριζόμενες συσκευές/υπηρεσίες για να απολαύσετε το περιεχόμενο με το πρωτότυπο χρώμα και τη φωτεινότητά του.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Να μην εμφανιστεί ξανά</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">Συνεχής λήψη HDR: Υψηλή</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">Συνεχής λήψη HDR: Χαμηλή</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Συνεχής λήψη: Υψηλή</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Συνεχής λήψη: Χαμηλή</string>
+    <string name="photopro_strings_drive_continuous_txt">Συνεχής λήψη</string>
+    <string name="photopro_strings_drive_mode_txt">λειτουργία Οδήγησης</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Χρονοδιακόπτης: 10 δευτ.</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Χρονοδιακόπτης: 3 δευτ.</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Χρονοδιακόπτης: Απενεργοπ.</string>
+    <string name="photopro_strings_drive_single_txt">Μονή λήψη</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">Αυτόματο HDR</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Αυτή η ρύθμιση θα βελτιστοποιήσει το εύρος τιμών. Η επεξεργασία DRO χρησιμοποιεί μία εικόνα, ενώ το Αυτόματο HDR συνδυάζει πολλαπλές εκθέσεις για την επίτευξη του αποτελέσματος.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Βελτιστοποιητής εύρους D</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/Αυτόματο HDR</string>
+    <string name="photopro_strings_error_device_not_available_txt">Αδυναμία έναρξης της κάμερας. Επανεκκινήστε την κάμερα ή τη συσκευής.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Σφάλμα</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Η αποθήκευση φωτογραφιών δεν ήταν εφικτή. Μπορεί να υπάρχει πρόβλημα με την αποθήκευση δεδομένων. Εάν η αποθήκευση δεδομένων έχει ρυθμιστεί στην κάρτα SD, ελέγξτε την κάρτα SD.</string>
+    <string name="photopro_strings_error_fatal_txt">Άγνωστο σφάλμα.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Όχι</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Ναι</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Η κάμερα θα τερματίσει τώρα προσωρινά τη λειτουργία της για να κρυώσει. Η εγγραφή σας θα αποθηκευτεί. Επανεκκινήστε την εφαρμογή όταν κρυώσει η συσκευή.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Η μνήμη είναι πλήρης. Διαγράψτε ορισμένα αρχεία από την κάρτα SD ή την εσωτερική μνήμη.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Η μνήμη δεν είναι διαθέσιμη</string>
+    <string name="photopro_strings_error_memory_title_txt">Σφάλμα μνήμης</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">Η κάρτα SD δεν είναι διαθέσιμη</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Αντιστάθμιση έκθεσης</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Μπορείτε να τραβήξετε φωτογραφίες-πορτραίτα που εστιάζουν στα πρόσωπα ή τα μάτια ατόμων ή ζώων.
+Για να αλλάξετε τους στόχους εστίασης, πατήστε το πρόσωπο του θέματος στο οποίο θέλετε να εστιάσετε."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Μπορείτε να τραβήξετε βίντεο που εστιάζουν στα πρόσωπα ή τα μάτια ατόμων ή ζώων.
+Για να αλλάξετε τους στόχους εστίασης, πατήστε το πρόσωπο του θέματος στο οποίο θέλετε να εστιάσετε.
+Σημείωση: Όταν είναι ενεργοποιημένη αυτή η ρύθμιση, η διάρκεια εγγραφής μπορεί να μειωθεί λόγω αύξησης θερμοκρασίας της συσκευής."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Ανίχν. προσώπ./AF στο μάτι ενεργό</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">AF προσώπου/ματιών</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">AF προσώπου/ματιών: Απενεργοπ.</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">AF προσώπου/ματιών: Ενεργοπ.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Ξεκλειδώστε την οθόνη για να χρησιμοποιήσετε αυτήν τη λειτουργία</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Για να ανοίξετε τις ρυθμίσεις, ξεκλειδώστε την οθόνη.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Κλειδωμένη οθόνη</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Για να προσαρμόσετε το εφέ Μποκέ, πατήστε το εικονίδιο Μποκέ στο εικονοσκόπιο και μετακινήστε το ρυθμιστικό.
+Αυτή η λειτουργία υποστηρίζεται στη Βασική λειτουργία (φωτογραφία).
+Κάντε τα θέματα σας να εμφανίζονται με εντυπωσιακή αντίθεση θολώνοντας το φόντο."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Για λήψη φωτογραφ. με εφέ Μποκέ</string>
+    <string name="photopro_strings_feature_bokeh_txt">Εφέ Μποκέ</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Η λειτουργία οδήγησης μπορεί να αλλάξει για χρήση της μεμονωμένης ή συνεχούς λήψης ή του χρονοδιακόπτη.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">λειτουργία Οδήγησης</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Όταν τραβάτε φωτογραφίες με την εμπρός κάμερα, κοιτάτε το φακό της εμπρός κάμερας κοντά στο ακουστικό.
+Τα μάτια σας θα έχουν σωστή κατεύθυνση στη φωτογραφία."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Κατεύθυνση ματιού</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Μπορείτε να τραβήξετε φωτογραφίες-πορτραίτα που εστιάζουν στα πρόσωπα ή τα μάτια ατόμων ή ζώων.
+Για να αλλάξετε τους στόχους εστίασης, πατήστε το πρόσωπο του θέματος στο οποίο θέλετε να εστιάσετε. Αυτή η λειτουργία μπορεί να ενεργοποιηθεί ή να απενεργοποιηθεί επιλέγοντας ΜΕΝΟΥ > AF προσώπου/ματιών."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">AF προσώπου/ματιών</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Στρέψτε την παλάμη σας προς την κάμερα. Ο χρονοδιακόπτης θα ξεκινήσει τη μέτρηση μόλις αναγνωριστεί η παλάμη σας. Για να διευκολύνετε την ανίχνευση, εκτείνετε τα δάχτυλά σας προς τα πάνω.
+Για να ενεργοποιήσετε αυτήν τη λειτουργία, μεταβείτε στην εμπρός κάμερα ενώ βρίσκεστε στη Βασική λειτουργία (φωτογραφία) και ενεργοποιήστε το χειροκίνητο κλείστρο στο ΜΕΝΟΥ."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Χειροκίνητο κλείστρο</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Όταν χρησιμοποιείτε τον υπερευρυγώνιο φακό (0,7x), μπορείτε να επιλέξετε προτεραιότητα. Εάν επιλέξετε \"Προτεραιότητα στην ποιότητα εικόνας\", μπορείτε να αποτυπώσετε δυναμικές εικόνες υψηλής ποιότητας. Εάν επιλέξετε \"Προτεραιότητα στη διόρθωση παραμόρφωσης\", μπορείτε να μειώσετε την οπτική παραμόρφωση.
+Αυτή η λειτουργία είναι ενεργή όταν τραβάτε φωτογραφίες με τον υπερευρυγώνιο φακό. Αφού επιλέξετε τον υπερευρυγώνιο φακό, μπορείτε να διαμορφώσετε την προτεραιότητα από την περιοχή ΜΕΝΟΥ > Διόρθωση υπερευρυγώνιου φακού."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Διόρθωση φακού (φωτογραφία)</string>
+    <string name="photopro_strings_feature_list_title_txt">Εισαγωγή στις λειτουργίες</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Αποτυπώστε εύκολα μια καλλιτεχνική selfie χρησιμοποιώντας τα εφέ Μποκέ και ομορφιάς.
+Για να χρησιμοποιήσετε αυτήν τη λειτουργία, πατήστε Περισσότερα στο εικονοσκόπιο και επιλέξτε Selfie πορτραίτου.
+Δώστε στυλ στη selfie σας και απολαύστε δημιουργικά αποτελέσματα."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Selfie πορτραίτου</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Μπορείτε να αποκτήσετε γρήγορα πρόσβαση στο διαδίκτυο ή να συνδεθείτε σε δίκτυο Wi-Fi σαρώνοντας έναν κωδικό QR Code.
+Αυτή η λειτουργία είναι ενεργή στη Βασική λειτουργία (φωτογραφία). Αυτή η λειτουργία μπορεί να ενεργοποιηθεί ή να απενεργοποιηθεί επιλέγοντας ΜΕΝΟΥ > Ανάγνωση κωδικού QR Code."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">Ανάγνωση κωδικού QR Code</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">Ανάγνωση κωδικού QR Code</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Προσθέστε ετικέτες στις φωτογραφίες και τα βίντεο με τις τοποθεσίες στις οποίες λήφθηκαν. Μπορείτε να αλλάξετε αυτήν τη ρύθμιση αργότερα από το ΜΕΝΟΥ > Αποθήκευση τοποθεσίας.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Αποθήκευση τοποθεσίας;</string>
+    <string name="photopro_strings_feature_selfie_txt">Μπροστινή κάμερα</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Μπορείτε να εγγράψετε ένα βίντεο αργής κίνησης 120 fps σε HD</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Αργή κίνηση</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Μπορείτε εύκολα να κάνετε εναλλαγή μεταξύ φακών της κάμερας για να αποτυπώσετε οποιαδήποτε κατάσταση και να προκαλέσετε τη δημιουργικότητά σας.
+Πατήστε το κουμπί στο εικονοσκόπιο για αλλαγή μεταξύ 0,7x (υπερευρυγώνιου φακού), 1,0x (ευρυγώνιου φακού), 2,9x (τηλεφακού) και 4,4x (τηλεφακού).
+Μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία στη Βασική λειτουργία (φωτογραφία) και τη Βασική λειτουργία (βίντεο)."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Αλλαγή γωνίας με το κουμπί</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Μπορείτε εύκολα να κάνετε εναλλαγή μεταξύ φακών της κάμερας για να αποτυπώσετε οποιαδήποτε κατάσταση και να προκαλέσετε τη δημιουργικότητά σας.
+Πατήστε το κουμπί στο εικονοσκόπιο για αλλαγή μεταξύ 0,7x (υπερευρυγώνιου φακού), 1,0x (ευρυγώνιου φακού) και 2,1x (κανονικού).
+Μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία στη Βασική λειτουργία (φωτογραφία) και τη Βασική λειτουργία (βίντεο)."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Τριπλή κάμερα</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Πατώντας το κουμπί φακού θα εμφανιστεί ένα ρυθμιστικό που μπορείτε να χρησιμοποιήσετε για να ρυθμίσετε το επίπεδο ζουμ.
+Μπορείτε επίσης να τσιμπήσετε την οθόνη ή να χρησιμοποιήσετε τα κουμπιά έντασης ήχου για ζουμ."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Πώς να κάνετε μεγέθυνση/σμίκρυνση</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Διαγραφή</string>
+    <string name="photopro_strings_file_format_description_txt">"Επιλέξτε τη μορφή αρχείου για φωτογραφίες.
+
+RAW: Απαιτείται ειδικό λογισμικό για την μετεπεξεργασία των φωτογραφιών. Αυτό σάς επιτρέπει να κάνετε προσαρμογές, ενώ περιορίζει την υποβάθμιση της εικόνας. Μπορεί να εκτυπωθεί μετά από μετεπεξεργασία.
+RAW &amp; JPEG: Αποθηκεύει εικόνες RAW που απαιτούν μετεπεξεργασία και εικόνες JPEG.
+JPEG: Αποθηκεύει εικόνες JPEG.
+
+Σημειώσεις:
+Τα αρχεία με μορφή RAW θα αποθηκεύονται πάντα στην εσωτερική μνήμη με λόγο διαστάσεων οθόνης 4:3.
+Οι λειτουργίες Συνεχούς λήψης και Auto HDR δεν είναι διαθέσιμες αν έχετε επιλέξει RAW ή RAW &amp; JPEG."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW και JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Μορφή αρχείου</string>
+    <string name="photopro_strings_flash_auto_txt">Αυτόματα</string>
+    <string name="photopro_strings_flash_description_txt">Ρυθμίστε τη λειτουργία φλας σε Αυτόματο φλας, Φλας για γέμισμ. σκιών, κ.λπ.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Φλας για γέμισμ. σκιών</string>
+    <string name="photopro_strings_flash_off_txt">Απενεργοπ.</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Μείωση κόκκιν.ματιών</string>
+    <string name="photopro_strings_flash_torch_description_txt">Ενεργοποίηση του φακού</string>
+    <string name="photopro_strings_flash_torch_off_txt">Φακός: Απενεργοπ.</string>
+    <string name="photopro_strings_flash_torch_on_txt">Φακός: Ενεργοποιημένο</string>
+    <string name="photopro_strings_flash_torch_txt">Φακός</string>
+    <string name="photopro_strings_flash_txt">λειτουργία Φλας</string>
+    <string name="photopro_strings_focus_area_center_txt">Κέντρο</string>
+    <string name="photopro_strings_focus_area_txt">Περιοχή εστίασης</string>
+    <string name="photopro_strings_focus_area_wide_txt">Ευρεία</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Ρύθμιση του χρώματος της περιοχής πλαισίου εστίασης</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">"Κόκκινο "</string>
+    <string name="photopro_strings_focus_frame_color_txt">Χρώμα περιοχής εστίασης</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Λευκό</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">Συνεχές AF</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">AF μονής λήψης</string>
+    <string name="photopro_strings_focus_mode_description_txt">Επιλογή μεθόδου εστίασης</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Ανίχνευση προσώπου</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Μη αυτόματη εστίαση</string>
+    <string name="photopro_strings_focus_mode_txt">Λειτουργία εστίασης</string>
+    <string name="photopro_strings_geotagging_description_txt">Αποθηκεύστε τις φωτογραφίες και τα βίντεο με τις τοποθεσίες στις οποίες λήφθηκαν</string>
+    <string name="photopro_strings_geotagging_txt">Αποθήκευση τοποθεσίας</string>
+    <string name="photopro_strings_gridline_description_txt">Ρυθμίστε αν θα εμφανίζονται οι γραμμές πλέγματος για να σας βοηθήσουν στη σύνθεση των εικόνων</string>
+    <string name="photopro_strings_gridline_txt">Γραμμές πλέγματος</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Μπορείτε να ξεκινήσετε τη μέτρηση του χρονοδιακόπτη στρέφοντας την παλάμη σας προς την μπροστινή κάμερα. Για να διευκολύνετε την ανίχνευση, εκτείνετε τα δάχτυλά σας προς τα πάνω.</string>
+    <string name="photopro_strings_hand_shutter_txt">Χειροκίνητο κλείστρο</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Ρύθμιση εάν θα λαμβάνετε ή όχι σχόλια αφής κατά την αλληλεπίδραση με την οθόνη, π.χ. την κλήση λειτουργίας</string>
+    <string name="photopro_strings_haptic_feedback_txt">Σχόλια αφής</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Απενεργοπ.</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: Ενεργοποιημένο</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Έξυπνο φίλτρο ανέμου</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">Ευαισθησία ISO</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Μπορείτε να εκκινήσετε την εφαρμογή Photography Pro πατώντας παρατεταμένα το κουμπί κλείστρου της συσκευής. Αυτό λειτουργεί ακόμα και αν το τηλέφωνο βρίσκεται σε λειτουργία αναστολής ή είναι κλειδωμένο.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Εκκίνηση του Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Εκκίν. με κουμπί κλείστρου</string>
+    <string name="photopro_strings_lens_correction_description_txt">Όταν χρησιμοποιείτε τον υπερευρυγώνιο φακό, μπορείτε να επιλέξετε προτεραιότητα. Εάν επιλέξετε \"Προτεραιότητα στην ποιότητα εικόνας\", μπορείτε να αποτυπώσετε δυναμικές εικόνες υψηλής ποιότητας. Εάν επιλέξετε \"Προτεραιότητα στη διόρθωση παραμόρφωσης\", μπορείτε να μειώσετε την οπτική παραμόρφωση.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Προτεραιότ. στην ποιότητα εικόνας</string>
+    <string name="photopro_strings_lens_correction_on_txt">Προτερ. στη διόρθωση παραμόρφ.</string>
+    <string name="photopro_strings_lens_correction_txt">Διόρθωση υπερευρυγώνιου φακού</string>
+    <string name="photopro_strings_lens_txt">Φακός</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Βαθμονόμ.</string>
+    <string name="photopro_strings_level_calibration_description_txt">Αν χρειάζεται, μπορείτε να βαθμονομήσετε το Αλφάδι για να σταθεροποιήσετε τις αποκλίσεις στην κατεύθυνση κλίσης. Βεβαιωθείτε ότι η κάμερα είναι σε οριζόντια θέση και επιλέξτε Βαθμονόμηση.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Η βαθμονόμηση ολοκληρώθηκε</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Πραγματοποιήθηκε επαναφορά της ρύθμισης βαθμονόμησης</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Βαθμονόμηση αλφαδιού</string>
+    <string name="photopro_strings_lock_switch_txt">Κλείδ.</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Η εγγραφή διακόπηκε λόγω περιορισμού του μέγιστου μεγέθους αρχείου</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Η εγγραφή διακόπηκε λόγω περιορισμού του μέγιστου χρόνου εγγραφής</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Δεν ήταν δυνατή η αποθήκευση. Μνήμη πλήρης.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Εφαρ.</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Αποθήκευση</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Ρύθμιση</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Αποθήκευση του τρέχοντος συνδυασμού λειτουργιών και ρυθμίσεων;</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Οι ρυθμίσεις κάμερας αποθηκεύτηκαν.
+Μπορείτε να ανακαλέσετε εύκολα αυτές τις ρυθμίσεις με τη λειτουργία λήψης MR."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Μνήμη ρυθμίσεων κάμερας</string>
+    <string name="photopro_strings_memory_recall_txt">Ανάκλ. ρυθμ. κάμερας</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Φωτογραφία (εμπρός)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Φωτογραφία</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Αργή κίνηση</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Βίντεο (εμπρός)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Βίντεο</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Έκθεση/Χρώμα</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Εστίαση</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Ρύθμιση</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Λήψη</string>
+    <string name="photopro_strings_menu_title_txt">Μενού</string>
+    <string name="photopro_strings_metering_center_txt">Κεντρική</string>
+    <string name="photopro_strings_metering_multi_txt">Πολλαπλή</string>
+    <string name="photopro_strings_metering_spot_txt">Σημειακή</string>
+    <string name="photopro_strings_metering_txt">Λειτουργία φωτομέτρου</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Επιλέξτε ποιο μικρόφωνο θα χρησιμοποιείτε κατά την εγγραφή βίντεο:
+1. Μικρόφωνο LR: Κάνει εγγραφή στερεοφωνικού ήχου με τα μικρόφωνα αριστερά και δεξιά (πάνω και κάτω όταν είναι σε κατακόρυφο προσανατολισμό)
+2. Πίσω μικρόφωνο: Κάνει εγγραφή μονοφωνικού ήχου με το πίσω μικρόφωνο"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Εξωτερικό μικρόφωνο</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">Μικρόφωνο LR (στερεοφωνικό)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Πίσω μικρόφωνο (μονοφωνικό)</string>
+    <string name="photopro_strings_mic_setting_txt">Μικρόφωνο</string>
+    <string name="photopro_strings_mode_auto_description_txt">Η κάμερα θα ανιχνεύσει αυτόματα τον τύπο της σκηνής και θα τραβήξει φωτογραφίες με αυτόματες ρυθμίσεις, μειώνοντας παράλληλα τον θόρυβο και το κούνημα της κάμερας.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Αυτόματη λειτουργία</string>
+    <string name="photopro_strings_mode_basic_description_txt">"Σε αυτήν τη λειτουργία, μπορείτε να τραβήξετε φωτογραφίες χρησιμοποιώντας το κουμπί κλείστρου στην οθόνη, όπως θα τραβούσατε με τη συνήθη εμπειρία κάμερας smartphone.
+Χρησιμοποιήστε αυτήν τη λειτουργία για λήψη φωτογραφιών selfie, λήψη βίντεο και σάρωση κωδικών QR Code."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Βασική λειτουργία</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Θα εμφανίζει επεξήγηση για κάθε Λειτουργία λήψης όταν αλλάζετε λειτουργίες με την κλήση λειτουργίας</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Οδηγός κλήσης λειτουργίας</string>
+    <string name="photopro_strings_mode_m_description_txt">"Ελέγξτε μη αυτόματα την ταχύτητα κλείστρου και την ευαισθησία ISO.
+Με έκθεση για μεγαλύτερο διάστημα, είναι δυνατό να τραβήξετε φωτογραφίες που καταγράφουν τα ίχνη κίνησης των αντικειμένων χρησιμοποιώντας το θόλωμα κίνησης."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Μη αυτόματη έκθεση</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Ευφυές αυτόματο (Ανάκληση μνήμης)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Τραβήξτε φωτογραφίες χρησιμοποιώντας τις αποθηκευμένες ρυθμίσεις σας.
+Μπορείτε να καταχωρίσετε συνδυασμούς λειτουργιών και ρυθμίσεων που χρησιμοποιούνται συχνά."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Ανάκληση μνήμης</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Μη αυτόματη έκθεση (Ανάκληση μνήμης)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Αυτόματο πρόγραμμα (Ανάκληση μνήμης)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Προτεραιότητα ταχύτητας κλείστρου (Ανάκληση μνήμης)</string>
+    <string name="photopro_strings_mode_p_description_txt">Η κάμερα θα ελέγξει αυτόματα την ταχύτητα κλείστρου, ενώ οι υπόλοιπες ρυθμίσεις θα πρέπει να ρυθμιστούν από εσάς.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Αυτόματο πρόγραμμα</string>
+    <string name="photopro_strings_mode_s_description_txt">"Ελέγξτε μη αυτόματα την ταχύτητα κλείστρου για να αλλάξετε τον τρόπο λήψης κινούμενων αντικειμένων.
+Οι γρήγορες ταχύτητες κλείστρου φαίνεται να παγώνουν ένα αντικείμενο σε κίνηση, ενώ οι αργές ταχύτητες κλείστρου μπορούν να αποτυπώσουν καλύτερα το θόλωμα κίνησης."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Προτεραιότητα ταχύτητας κλείστρου</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Η λειτουργία οδήγησης έχει ρυθμιστεί αυτόματα σε Μονή λήψη επειδή η λειτουργία Transfer &amp; Tagging add-on είναι ενεργοποιημένη</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Η μορφή του αρχείου έχει ρυθμιστεί αυτόματα σε JPEG επειδή η λειτουργία Transfer &amp; Tagging add-on είναι ενεργοποιημένη</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Δεν είναι δυνατή η χρήση κάμερας σε πολλαπλά παράθυρα ή σε αναδυόμενο παράθυρο. Κλείστε το παράθυρο και προσπαθήστε ξανά. Αν χρησιμοποιείτε πολλαπλά παράθυρα, μπορείτε να σύρετε το κέντρο της γραμμής διαίρεσης για κάμερα σε πλήρη οθόνη.</string>
+    <string name="photopro_strings_multi_window_txt">Σύρετε το κέντρο της γραμμής διαίρεσης για αλλαγή σε πλήρη οθόνη, για χρήση με την εφαρμογή %1$s</string>
+    <string name="photopro_strings_ok_txt">OK</string>
+    <string name="photopro_strings_personal_data_txt">Προσωπικά δεδομένα</string>
+    <string name="photopro_strings_privacy_policy_txt">Πολιτική απορρήτου</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Γίνεται λήψη φωτογραφίας. Παρακαλώ περιμένετε.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Αυτός ο QR Code δεν υποστηρίζεται</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Πατήστε για άνοιγμα του \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Αδυναμία σύνδεσης σε αυτό το δίκτυο Wi-Fi</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Πατ. για σύνδ. με το δίκτυο Wi-Fi \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">Ανάγνωση κωδικού QR Code</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Μπορείτε να αποκτήσετε γρήγορα πρόσβαση στο διαδίκτυο ή να συνδεθείτε σε δίκτυο Wi-Fi σαρώνοντας έναν κωδικό QR.
+Αυτή η λειτουργία είναι ενεργή στη Βασική λειτουργία (φωτογραφία)."</string>
+    <string name="photopro_strings_qrcode_detection_txt">Ανάγνωση κωδικού QR Code</string>
+    <string name="photopro_strings_rec_txt">REC</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Επαναφορά του Photo Pro στις προεπιλεγμένες ρυθμίσεις;</string>
+    <string name="photopro_strings_reset_settings_txt">Επαναφορά ρυθμίσεων</string>
+    <string name="photopro_strings_reset_txt">Επαναφορά</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Δεν είναι δυνατή η αλλαγή του λόγου διαστάσεων όταν η μορφή αρχείου έχει ρυθμιστεί σε RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Δεν είναι δυνατή η επιλογή του αυτόματου HDR αν έχει επιλεγεί η Συνεχής λήψη</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Δεν είναι δυνατή η επιλογή αυτόματου HDR όταν είναι επιλεγμένη μια μορφή αρχείου εκτός της JPEG</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Το εφέ Μποκέ δεν είναι διαθέσιμο με τον τρέχοντα επιλεγμένο φακό</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Το εφέ Μποκέ δεν είναι διαθέσιμο όταν η λειτουργία Transfer &amp; Tagging add-on είναι ενεργοποιημένη</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Αδυναμία χρήσης της Συνεχούς λήψης: Υψηλή με τον τρέχοντα επιλεγμένο φακό</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Δεν είναι δυνατή η χρήση της επιλογής Συνεχής λήψη όταν το εφέ Μποκέ είναι ενεργό</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Η συνεχής λήψη δεν είναι διαθέσιμη όταν έχει επιλεγεί ζουμ σούπερ ανάλυσης AI</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Δεν είναι δυνατή η χρήση της Συνεχούς λήψης όταν έχει επιλεγεί κάποια μορφή αρχείου εκτός της JPEG</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Η συνεχής λήψη δεν είναι διαθέσιμη όταν το πρόσθετο Transfer &amp; Tagging add-on είναι ενεργοποιημένο</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Αδυναμία αλλαγής</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Αδυναμία χρήσης της Λειτουργίας φλας εάν έχει επιλεγεί Συνεχής λήψη</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Αδυναμία χρήσης Λειτουργίας φλας με τον τρέχοντα επιλεγμένο φακό</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Δεν είναι δυνατή η χρήση του Φακού με τον τρέχοντα επιλεγμένο φακό</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Δεν είναι δυνατή η αλλαγή της μορφής αρχείου σε άλλη εκτός της JPEG αν έχει επιλεγεί το αυτόματο HDR</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Δεν είναι δυνατή η αλλαγή της μορφής αρχείου σε άλλη εκτός της JPEG αν έχει επιλεγεί η Συνεχής λήψη</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Δεν είναι δυνατή η αλλαγή μορφής αρχείου σε άλλη εκτός από JPEG όταν η λειτουργία Transfer &amp; Tagging add-on είναι ενεργοποιημένη</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Δεν είναι δυνατή η αλλαγή αυτής της ρύθμισης όταν είναι συνδεδεμένο το εξωτερικό μικρόφωνο</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Αυτή η ρύθμιση δεν υποστηρίζει την τρέχουσα ταχύτητα κλείστρου. Για να διαμορφώσετε αυτή τη ρύθμιση, αλλάξτε την ταχύτητα κλείστρου σε 1 δευτερόλεπτο ή λιγότερο.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Δεν είναι δυνατή η επιλογή της μορφής RAW όταν έχει επιλεγεί ένας λόγος διαστάσεων εκτός του 4:3</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Δεν είναι δυνατή η αλλαγή του μεγέθους βίντεο κατά την εγγραφή σε αργή κίνηση. Για να αλλάξετε αυτήν τη ρύθμιση, πραγματοποιήστε έξοδο από τη λειτουργία αργής κίνησης.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Αυτή η ρύθμιση είναι διαθέσιμη μόνο όταν χρησιμοποιείτε τον υπερευρυγώνιο φακό</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Αυτή η ρύθμιση δεν είναι διαθέσιμη όταν είναι ενεργοποιημένο το HDR. Για να τη διαμορφώσετε, απενεργοποιήστε το HDR.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Αυτή η ρύθμιση δεν υποστηρίζεται για το τρέχον μέγεθος βίντεο. Για να διαμορφώσετε αυτή τη ρύθμιση, αλλάξτε το μέγεθος βίντεο.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Αδυναμία ζουμ όταν χρησιμοποιείται το εφέ Μποκέ</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">ΠΛΗΡ. ΕΦΑΡΜΟΓ.</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">Άδεια της εφαρμογής %1$s</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Η εφαρμογή απαιτεί τις ακόλουθες άδειες για την εκτέλεση αυτής της ενέργειας.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Για να εκχωρήσετε άδειες, μεταβείτε στη διαδρομή Πληροφορίες εφαρμογής > Άδειες.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Η συνέχεια δεν ήταν δυνατή</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Για λήψη φωτογραφιών</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Για λήψη φωτογραφιών και βίντεο</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Για ανάκτηση τοποθεσίας</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Για εγγραφή ήχου</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Για σύνδεση σε κοντινές συσκευές</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Για ανάγνωση και αποθήκευση φωτογραφιών και βίντεο</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Για αποθήκευση φωτογραφιών</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Για αποθήκευση φωτογραφιών και βίντεο</string>
+    <string name="photopro_strings_save_destination_description_txt">Επιλέξτε αν θα αποθηκεύετε φωτογραφίες και βίντεο στην εσωτερική μνήμη της συσκευής σας ή σε μια κάρτα SD</string>
+    <string name="photopro_strings_save_destination_internal_txt">Εσωτ. χώρος αποθήκ.</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">Κάρτα SD</string>
+    <string name="photopro_strings_save_destination_title_txt">Χώρος αποθήκευσης δεδομ.</string>
+    <string name="photopro_strings_save_destination_txt">Aποθήκ. χώρος δεδομ.</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">Η κάρτα SD δεν είναι διαθέσιμη</string>
+    <string name="photopro_strings_selftimer_10_txt">10 δευτ.</string>
+    <string name="photopro_strings_selftimer_3_txt">3 δευτ.</string>
+    <string name="photopro_strings_selftimer_description_txt">Ρυθμίστε έναν χρονοδιακόπτη να τραβήξει αυτόματα μια φωτογραφία αφού περάσουν ορισμένα δευτερόλεπτα</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Διατηρήστε το βλέμμα σας στην κάμερα</string>
+    <string name="photopro_strings_selftimer_txt">Χρονοδιακόπτης</string>
+    <string name="photopro_strings_settings_off_txt">Απενεργοπ.</string>
+    <string name="photopro_strings_settings_on_txt">Ενεργοποίηση</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Χρήση πάντα Βασικής λειτουργίας</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Επιλογή της προεπιλεγμένης λειτουργίας λήψης κατά την εκκίνηση της εφαρμογής Photography Pro</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Τελευταία λειτουργία που χρησιμοποιήθηκε</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Λειτουργία λήψης κατά την εκκίνηση</string>
+    <string name="photopro_strings_shooting_mode_txt">Λειτουργία λήψης</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Λειτουργία βίντεο</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Ταχύτητα κλείστρου</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Αδυναμία λήψης στιγμιότυπων όταν το HDR είναι ενεργοποιημένο</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Ενεργοποίηση εφέ που κάνει το δέρμα να φαίνεται πιο λείο</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Εφέ απαλού δέρματος</string>
+    <string name="photopro_strings_status_mic_external_txt">Εξωτερικό</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">LR (στερεοφωνικό)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Πίσω (μονοφωνικό)</string>
+    <string name="photopro_strings_store_fail_txt">Δεν είναι δυνατή η αποθήκευση</string>
+    <string name="photopro_strings_sw_license_txt">Άδεια χρήσης λογισμικού</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Αποδοχή</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Απόρριψη</string>
+    <string name="photopro_strings_tips_txt">Συμβουλές</string>
+    <string name="photopro_strings_title_permissions_txt">Άδεια Photo Pro</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Ακύρωση Εστίασης αφής</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Αυτόματη εστίαση</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Επιλέξτε τα στοιχεία που θα προσαρμόζονται όταν αγγίζετε το εικονοσκόπιο.
+
+Ανίχνευση αντικειμένου: Η καλύτερη λειτουργία για τη λήψη κινούμενων αντικειμένων. Διατηρεί την εστίαση κλειδωμένη στο αντικείμενο που πατήσατε στο εικονοσκόπιο, επιτρέποντάς σας να τραβάτε καθαρά κινούμενα αντικείμενα.
+Αυτόματη εστίαση: Πατήστε όπου θέλετε να εστιάσετε στο εικονοσκόπιο.
+Εστίαση και φωτεινότητα: Εστιάστε και ρυθμίστε τη φωτεινότητα της επιθυμητής θέσης πατώντας το εικονοσκόπιο."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Εστίαση και φωτεινότητα</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Ανίχνευση αντικειμένου</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Αγγίξτε για προσαρμογή</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Ακύρωση παρακολούθησης αντικειμένου</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Αν ενεργοποιηθεί η λειτουργία, θα επιτρέπεται στο Transfer &amp; Tagging add-on να εμφανίζει φωτογραφίες που λήφθηκαν με την κάμερα του Xperia. Οι φωτογραφίες θα αποθηκεύονται στον εσωτερική μνήμη.
+Αυτή η λειτουργία είναι συμβατή με φωτογραφίες που τραβήχτηκαν με Photography Pro.
+Αν ενεργοποιηθεί η λειτουργία, θα ορίζει αυτόματα τη μορφή αρχείου σε JPEG και τη Λειτουργία οδήγησης σε Μονή λήψη."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Λειτουργία Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Εντάξει</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Επόμενο</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Παράλειψη</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Η Sony είναι μια μάρκα που αγαπούν οι φωτογράφοι επειδή δημιουργεί προϊόντα που δίνουν ατελείωτη χαρά και προκαλούν το θαυμασμό για τη φωτογραφία.
+Η εμπειρία και η τεχνολογία μας εξακολουθεί να επιλέγεται από πελάτες σε όλο τον κόσμο.
+
+Στόχος του Photography Pro είναι να ξαναζωντανέψει την ευκολία χειρισμού και τις λειτουργίες των φωτογραφικών μηχανών πλήρους κλίμακας της Sony Imaging Products.
+Η Sony υποστηρίζει τη φωτογραφική σας δημιουργικότητα."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Επιλέξτε την ιδανική Λειτουργία λήψης ώστε να ταιριάζει με το θέμα σας.
+Μετά ρυθμίστε την ταχύτητα κλείστρου και την έκθεση.
+Κρατήστε σταθερή την κάμερα από τις πλευρές και τραβήξτε μια φωτογραφία.
+
+Οι λειτουργίες λήψης περιλαμβάνουν:
+P (Αυτόματο πρόγραμμα)
+S (Προτεραιότητα ταχύτητας κλείστρου)
+M (Μη αυτόματη έκθεση)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Επιλέξετε την προτιμώμενη λειτουργία λήψης χρησιμοποιώντας τον επιλογέα λειτουργίας επάνω δεξιά (επάνω αριστερά σε οριζόντιο προσανατολισμό).
+
+Με τη βασική λειτουργία, μπορείτε να τραβήξετε εύκολα φωτογραφίες και βίντεο με την μπροστινή κάμερα όπως θα τραβούσατε με την κάμερα ενός τυπικού smartphone.
+
+Με τις λειτουργίες Auto/P/S/M, μπορείτε να χρησιμοποιήσετε ακόμα πιο προηγμένες ρυθμίσεις για τη λήψη των καλύτερων φωτογραφιών σας."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Λειτουργία λήψης</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Τρόπος χρήσης</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Όταν χρησιμοποιείτε τις λειτουργίες Auto/P/S/M, κρατήστε σταθερά την κάμερα σε οριζόντιο προσανατολισμό και πατήστε το κουμπί κλείστρου στην επάνω δεξιά πλευρά της συσκευής για να τραβήξετε φωτογραφίες.
+
+Η επιλογή Auto θα ρυθμίσει αυτόματα λειτουργίες όπως την ταχύτητα κλείστρου και την έκθεση.
+
+Για να διαμορφώσετε τις ρυθμίσεις μη αυτόματα, επιλέξτε μία από τις παρακάτω λειτουργίες.
+P (Αυτόματο πρόγραμμα)
+S (Προτεραιότητα ταχύτητας κλείστρου)
+M (Μη αυτόματη έκθεση)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Πώς να χρησιμοποιήσετε τις λειτουργίες Auto/P/S/M</string>
+    <string name="photopro_strings_tutorial_txt">Οδηγός</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Δεν είναι δυνατή η χρήση του Photo Pro με τη συνδεδεμένη εξωτερική οθόνη. Για να χρησιμοποιήσετε το Photo Pro, κλείστε την εφαρμογή από την οθόνη των πρόσφατων εφαρμογών στο Xperia και, στη συνέχεια, επανεκκινήστε την.</string>
+    <string name="photopro_strings_unlock_button_txt">Ξεκλείδωμα</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Η χρήση της κάμερας απαγορεύεται για λόγους ασφάλειας</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Για σταθερή εγγραφή βίντεο 4K, δεν πρέπει να αλλάξετε αυτήν τη ρύθμιση παρά μόνο αν χρησιμοποιείτε κάρτα SD υψηλής ταχύτητας (συνιστάται UHS Ταχύτητας Κλάσης 1 ή ανώτερη ή Ταχύτητας Κλάσης 10).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Για σταθερή εγγραφή βίντεο αργής κίνησης, μην αλλάξετε αυτήν τη ρύθμιση παρά μόνο αν χρησιμοποιείτε κάρτα SD υψηλής ταχύτητας (συνιστάται UHS Ταχύτητας Κλάσης 1 ή ανώτερη ή Ταχύτητας Κλάσης 10).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Για σταθερή εγγραφή βίντεο, συνιστάται να αλλάξετε την αποθήκευση δεδομένων στην εσωτερική μνήμη. Θέλετε να την αλλάξετε τώρα;
+
+Αν συνεχίσετε να χρησιμοποιείτε την κάρτα SD για αποθήκευση δεδομένων, βεβαιωθείτε ότι χρησιμοποιείτε μια κάρτα SD υψηλής ταχύτητας (συνιστάται UHS Ταχύτητας Κλάσης 1 ή ανώτερη ή Ταχύτητας Κλάσης 10)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Μπορείτε να επιλέξετε έναν κωδικοποιητή για εγγραφές βίντεο 4K.
+
+H.264 (AVC): Τυπική μορφή για κωδικοποίηση που υποστηρίζεται από τις περισσότερες συσκευές και υπηρεσίες.
+H.265 (HEVC): Μορφή με αναλογία υψηλής συμπίεσης. Βεβαιωθείτε ότι οι συσκευές αναπαραγωγής ή οι υπηρεσίες υποστηρίζουν αυτήν τη μέθοδο."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Μορφή αρχείου (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Επιλέξτε μέγεθος βίντεο.
+Το HDR δεν είναι διαθέσιμο όταν έχουν επιλεγεί τα Full HD (60 fps) ή HD."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Επιλογή μεγέθους βίντεο</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 fps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">Full HD</string>
+    <string name="photopro_strings_video_size_txt">Μέγεθος βίντεο</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Το Xperia διαθέτει ένα μοναδικό υβριδικό σύστημα σταθεροποίησης που ονομάζεται Optical SteadyShot. Συνδυάζει ταυτόχρονα την οπτική σταθεροποίηση και την ηλεκτρονική σταθεροποίηση εικόνας. Προσφέρει ομαλά και χωρίς κούνημα βίντεο ακόμη και κατά την εγγραφή εν κινήσει.</string>
+    <string name="photopro_strings_video_stabilization_txt">Σταθεροποίηση βίντεο</string>
+    <string name="photopro_strings_volumekey_description_txt">Εκχώρηση άλλης λειτουργίας στα κουμπιά έντασης ήχου</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Κλείστρο</string>
+    <string name="photopro_strings_volumekey_txt">Χρήση κουμπιού έντασης ως</string>
+    <string name="photopro_strings_volumekey_volume_txt">Ένταση</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Ζουμ</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Προσαρμογή - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Αυτόματα</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Προσ.</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Ολοκλ</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Δοκιμάστε ξανά</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Εφ.</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Συννεφιά</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Προσαρμογή 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Προσαρμογή 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Προσαρμογή 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Η καθορισμένη ισορροπία λευκού βασίζεται στο κέντρο της προεπισκόπησης</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Η ρύθμιση απέτυχε</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Η ρύθμιση ολοκληρώθηκε</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Εφαρμογή - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Φως ημέρας</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Φωτ. φθορισμού</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Πυράκτωσης</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Σκιά</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Θερμ. 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Θερμ. 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Θερμ. 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Θερμ.:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Θερμοκρασία</string>
+    <string name="photopro_strings_whitebalance_txt">Ισορροπία λευκού</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Αδυναμία ζουμ με την εμπρός κάμερα</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">Ζουμ σούπερ ανάλυσης AI</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Επιλέξτε μια ρύθμιση ζουμ.
+
+Ψηφιακό ζουμ: Ζουμ με χρήση ψηφιακής επεξεργασίας βάσει των δεδομένων του αισθητήρα εικόνας.
+Ζουμ σούπερ ανάλυσης AI: Ζουμ με χρήση ψηφιακής επεξεργασίας που διατηρεί περισσότερο την ποιότητα της αρχικής εικόνας. Η αποθήκευση φωτογραφιών ενδέχεται να διαρκεί περισσότερο. Η λειτουργία αυτή θα χρησιμοποιείται αυτόματα ως Ψηφιακό ζουμ όταν είναι επιλεγμένη η Συνεχής λήψη."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Ψηφιακό ζουμ</string>
+    <string name="photopro_strings_zoom_type_txt">Ρυθμίσεις ζουμ</string>
+    <string name="search_menu_title">Αναζήτηση</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
+    <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
+</resources>

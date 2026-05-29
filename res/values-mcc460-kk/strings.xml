@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Желі
+WLAN желісіне қосылу үшін"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN өшірілген және Ұшақ режимі қосылған.
+ПАРАМЕТРЛЕР опциясын түртіп, осы параметрлерді өзгертіңіз."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN өшірілген.
+ПАРАМЕТРЛЕР ішінен WLAN қосыңыз."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">WLAN желісіне қосылу мүмкін емес</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"QR кодын сканерлеу арқылы Интернетке немесе WLAN желісіне жылдам қосыла аласыз.
+Бұл функция Негізгі (Фотосурет) режимде болғанда белсенді болады. MENU> QR Code оқу құралы тармағына өту арқылы бұл функцияны қосуға немесе өшіруге болады."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">WLAN желісіне қосылу үшін түрт: «%1$s»</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"QR кодын сканерлеу арқылы Интернетке немесе WLAN желісіне жылдам қосыла аласыз.
+Бұл функция Негізгі (Фотосурет) режимде болғанда белсенді болады."</string>
+</resources>

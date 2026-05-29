@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_activated="false">
+        <bitmap android:src="@drawable/photopro_capture_button_video_icn" android:tint="@color/photopro_alpha_multiplier_disabled" android:tintMode="multiply" />
+    </item>
+    <item android:state_pressed="true" android:drawable="@drawable/photopro_capture_button_video_press_icn" />
+    <item android:state_pressed="false" android:drawable="@drawable/photopro_capture_button_video_icn" />
+</selector>

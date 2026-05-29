@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Netzwerk
+Um WLAN-Verbindung herzustellen"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"WLAN ist ausgeschaltet und der Flugmodus ist an.
+Bitte auf EINSTELLUNGEN und diese Einstellungen ändern."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"WLAN ist ausgeschaltet
+Bitte WLAN in den EINSTELLUNGEN einschalten."</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Keine WLAN-Verbindung möglich</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Durch das Scannen eines QR Codes können Sie schnell aufs Internet zugreifen oder eine WLAN-Verbindung herstellen.
+Diese Funktion ist im Basismodus (Foto) aktiv. Diese Funktion kann über Menü > QR Code-Scanner aktiviert oder deaktiviert werden."</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Tippen zum Verbinden mit „%1$s“</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Durch das Scannen eines QR Codes können Sie schnell aufs Internet zugreifen oder eine WLAN-Verbindung herstellen.
+Diese Funktion ist im Basismodus (Foto) aktiv."</string>
+</resources>

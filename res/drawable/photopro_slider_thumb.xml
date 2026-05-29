@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false">
+        <bitmap android:src="@drawable/photopro_controls_slider_button_disable_icn" android:tint="@color/photopro_alpha_multiplier_disabled" android:tintMode="multiply" />
+    </item>
+    <item android:drawable="@drawable/photopro_controls_slider_button_icn" />
+</selector>

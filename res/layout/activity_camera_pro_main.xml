@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/default_focused_view" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="1.0px" android:layout_height="1.0px">
+        <requestFocus />
+    </View>
+    <FrameLayout android:id="@id/preview_frame" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.sonymobile.photopro.view.widget.SwapAxisFrameLayout android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/fragment_manual_operation_frame" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </com.sonymobile.photopro.view.widget.SwapAxisFrameLayout>
+    <FrameLayout android:id="@id/fragment_auto_operation_frame" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/fragment_common_operation_frame" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.sonymobile.photopro.view.widget.SwapAxisFrameLayout android:id="@id/cover_frame" android:visibility="gone" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/saving_cover_frame" />
+    </com.sonymobile.photopro.view.widget.SwapAxisFrameLayout>
+</FrameLayout>

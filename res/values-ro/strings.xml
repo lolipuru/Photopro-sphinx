@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigați la ecranul de pornire</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Gata</string>
+    <string name="abc_activity_chooser_view_see_all">Afișați tot</string>
+    <string name="abc_activitychooserview_choose_application">Alegeți o aplicație</string>
+    <string name="abc_capital_off">DEZACTIVAT</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Ștergeți interogarea</string>
+    <string name="abc_searchview_description_query">Termen de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți interogarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Trimiteți la</string>
+    <string name="abc_shareactionprovider_share_with_application">Trimiteți folosind %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="ble_remote_control_button_any_problem_txt">Depanare</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Asociere telecomandă nouă</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Puteți aloca o altă funcție butonului C1 de pe Ctrl. la dist. Bluetooth</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">Personalizare buton C1</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Mod focalizare</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Obiectiv</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Mod înregistrare</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Comutare aparat foto principal/frontal</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Comutare fotografie/clip video</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Obiectiv</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Comutare FA/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Comutare aparat foto principal/frontal</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Permitere</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Refuzare</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Permiteți aplicației să utilizeze Bluetooth pentru această funcție?</string>
+    <string name="ble_remote_control_description_txt">"Puteți asocia prin Bluetooth o telecomandă Sony pentru a utiliza funcții de la distanță în %1$s.
+Atingeți Asociere telecomandă nouă pentru a începe asocierea unui nou dispozitiv."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Asociat deja</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Dacă telecomanda nu a putut fi asociată cu dispozitivul, accesați Setări și verificați dacă telecomanda este deja înregistrată în lista de dispozitive Bluetooth. Dacă este deja înregistrată, eliminați telecomanda din listă și încercați să o asociați din nou.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Depanare</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Acceptați și porniți</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Respingere</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Ieşire</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Mergeţi la Setări</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">OK</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Asocierea a fost anulată deoarece Bluetooth a fost dezactivat</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Asocierea a eșuat din cauza duratei de expirare. Încercaţi mai târziu.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">Acest dispozitiv ar putea limita anumite funcții ca măsură de precauție în cazul utilizării intensive. Dacă activați Mod Anduranță aparat foto, va fi afișată o pictogramă pentru a indica faptul că aplicația va prelungi funcționarea dispozitivului la un nivel ridicat. Când este afișată această pictogramă, puteți utiliza aplicația pentru o perioadă mai lungă de timp.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Mod Anduranță aparat foto este disponibil doar când utilizați %1$s cu un control la distanță conectat prin Bluetooth. Închiderea %1$s va dezactiva această funcție.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">Temperatura dispozitivului poate crește peste cea obișnuită de funcționare. Când temperatura crește, veți fi alertat printr-o notificare și o pictogramă. În acest caz, nu țineți dispozitivul în mână. Asigurați-vă că este conectat prin Bluetooth controlul la distanță înainte de a continua.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Atenţie</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Temperatură dispozitiv prea ridicată. %1$s se va închide temporar pentru a se răci.
+Dacă conectați un control la distanță Bluetooth, puteți continua să utilizați %1$s cu Mod Anduranță aparat foto."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Temperatură dispozitiv prea ridicată. %1$s se va închide temporar pentru a se răci.
+Dacă conectați un control la distanță Bluetooth, puteți utiliza %1$s cu Mod Anduranță aparat foto."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Pentru a utiliza această funcție, activați [Utilizați controlul la distanță] după asocierea unui control la distanță prin Bluetooth.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Temperatură dispozitiv prea ridicată. %1$s se va închide temporar pentru a se răci.
+Dacă activați Mod Anduranță aparat foto, puteți utiliza %1$s cu un control la distanță Bluetooth."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Pentru a activa această funcție, interacționați cu controlul la distanță conectat.
+Pentru a anula, atingeți ușor IEȘIRE."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Mod Anduranță aparat foto activat</string>
+    <string name="ble_remote_control_endurance_mode_txt">Mod Anduranță aparat foto</string>
+    <string name="ble_remote_control_off_txt">Dezactivat</string>
+    <string name="ble_remote_control_on_txt">Activat</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Pentru a începe asocierea, interacționați cu telecomanda.
+Veți primi notificări și dialoguri de două ori. Selectați PAIR pe toate, apoi apăsați orice tastă de pe dispozitivul asociat pentru a finaliza asocierea."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Asociere telecomandă nouă</string>
+    <string name="ble_remote_control_title_txt">Ctrl. la dist. Bluetooth</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Utilizați controlul la distanță</string>
+    <string name="expand_button_title">Avansat</string>
+    <string name="external_display_connected_description_txt">Puteți verifica vizorul din Monitorul pentru vlogging</string>
+    <string name="external_display_connected_title_txt">Monitor pentru vlogging conectat</string>
+    <string name="external_display_note_about_external_mic_txt">Notă: pentru a utiliza un microfon extern, conectați-l la Monitorul pentru vlogging înainte de a înregistra. Dacă îl veți conecta ulterior, va trebui să reconectați Monitorul pentru vlogging.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Aţi acceptat Politica de confidenţialitate, dar puteţi oricând să vă răzgândiţi.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Săgeată stânga</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Săgeată dreapta</string>
+    <string name="photopro_strings_accessibility_back_txt">Înapoi</string>
+    <string name="photopro_strings_accessibility_close_txt">Închidere</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Accesibilitate: &lt;a href=\"%s\">Compatibilă parțial&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Citiţi mai multe</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Buton obiectiv</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">Nu se poate configura</string>
+    <string name="photopro_strings_accessibility_previous_txt">Anterior</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Un teanc cu cele mai recente fotografii</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Pornire înregistrare video</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Pauză înregistrare video</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Reluare înregistrare video</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Faceți o fotografie în timp ce înregistrați un clip video</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Oprire înregistrare video</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Oprire numărătoare inversă</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Declanșator</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Comutați între aparatul foto principal și aparatul foto frontal</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Comutați între fotografie și clip video</string>
+    <string name="photopro_strings_accessibility_title_txt">Accesibilitate</string>
+    <string name="photopro_strings_addon_button_menu_txt">Mai multe</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Efect creativ</string>
+    <string name="photopro_strings_addon_panorama_txt">Panoramă</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Portret selfie</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Rulare cu încetinitorul</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Pentru a salva locaţii, trebuie să activaţi funcţia GPS şi/sau reţelele wireless. Le activaţi acum?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Salvare locaţie</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Analize anonime</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Fotografie faţă</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Cam. vid. față</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Video</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Selectați raportul de aspect pentru fotografii</string>
+    <string name="photopro_strings_aspect_ratio_txt">Raport de aspect</string>
+    <string name="photopro_strings_audio_on_all_txt">Active: toate</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Activ: doar diafragmă</string>
+    <string name="photopro_strings_audio_signals_description_txt">Setați ce sunete ale aparatului foto sunt redate, cum ar fi atunci când declanșează temporizatorului sau când se face focalizarea. De asemenea, puteți alege să redați doar sunetul declanșatorului.</string>
+    <string name="photopro_strings_audio_signals_txt">Semnale sonore</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro se va închide în curând din cauza inactivităţii</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Portret contrejour</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Contrejour</string>
+    <string name="photopro_strings_auto_scene_document_txt">Document</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Specialităţi culinare</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Bebeluş</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Peisaj</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Lumină difuză</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Macro</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Portret nocturn</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Scenă nocturnă</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Recunoaştere automată scenă</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Instantaneu estompat</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Reflector</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">Asiguraţi-vă că lentila este curată şi că nu o acoperiţi cu degetul</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Luminozitate prea mare</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Depărtaţi-vă de obiect</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Este necesară mai multă lumină</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Apropiaţi-vă de obiect</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Efectul Bokeh este momentan indisponibil</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Bokeh activat</string>
+    <string name="photopro_strings_bokeh_txt">Bokeh</string>
+    <string name="photopro_strings_bt_remote_control_txt">Ctrl. la dist. Bluetooth</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Fotografii din Fotografiere continuă salvate în memoria internă</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Nu se poate utiliza fotografierea continuă cu o viteză declanșator lentă</string>
+    <string name="photopro_strings_button_continue_txt">Continuare</string>
+    <string name="photopro_strings_button_quit_txt">IEŞIŢI</string>
+    <string name="photopro_strings_cancel_txt">Revocare</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Rulare cu încetinitorul</string>
+    <string name="photopro_strings_change_save_destination_title_txt">Clip video 4K</string>
+    <string name="photopro_strings_change_txt">Schimbare</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Reini</string>
+    <string name="photopro_strings_color_and_brightness_txt">Culoare şi luminozitate</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Memoria internă este plină. Salvaţi datele pe cartela SD?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Memoria internă este deteriorată sau protejată împotriva scrierii. Salvaţi datele pe cartela SD?</string>
+    <string name="photopro_strings_common_error_open_txt">Impos. de desc. %1$s</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">Cartela SD este plină. Salvaţi datele în memoria internă?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">Cartela SD nu poate fi utilizată. Salvaţi datele în memoria internă?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Feedback fotografiere continuă</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Următoarele funcţii sunt dezactivate în acest moment.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Aşteptaţi să se răcească dispozitivul, apoi reporniţi aparatul foto.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Următoarele funcţii sunt dezactivate</string>
+    <string name="photopro_strings_cooling_mode_txt">Anumite funcții sunt dezactivate pentru a preveni creșterea temperaturii dispozitivului</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Atribuiți o altă funcție butonului AEL</string>
+    <string name="photopro_strings_custom_ael_txt">Personalizare buton AEL</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Atingând butonul DISP, puteți afișa/ascunde informațiile din vizor.
+Debifați orice element din acest meniu dacă doriți ca acesta să nu fie afișat niciodată atunci când afișați informații cu ajutorul butonului DISP."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histogramă</string>
+    <string name="photopro_strings_custom_disp_level_txt">Nivelă</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Informații antet</string>
+    <string name="photopro_strings_custom_disp_txt">Personalizare buton DISP</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Puteți reatribui sau reordona elementele de setare din meniul de funcții.
+Atingeți unul dintre elementele de funcție de mai jos pentru a atribui o altă funcție la alegere din lista din stânga.
+Trageți și fixați oricare dintre elementele funcțiilor de mai jos pentru a le rearanja."</string>
+    <string name="photopro_strings_custom_fn_txt">Personalizare meniu funcție</string>
+    <string name="photopro_strings_custom_none_txt">Neatribuită</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Aţi refuzat Politica de confidenţialitate.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Blocare expunere automată</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Setare ISO la Automat</string>
+    <string name="photopro_strings_description_custom_none_txt">Dezactivare buton AEL</string>
+    <string name="photopro_strings_device_id_txt">Identificare dispozitiv</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Baterie insuficientă a telefonului. Când nivelul bateriei este scăzut, aparatul foto se va închide automat.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Înregistrare oprită din cauza bateriei descărcate. Încărcaţi dispozitivul şi încercaţi din nou.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Aparatul foto nu poate fi utilizat din cauza bateriei descărcate. Încărcaţi dispozitivul şi încercaţi din nou.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Aplicaţia are nevoie de permisiunile următoare pentru a efectua această acţiune.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Reţea
+Pentru conectare la Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Modul pentru avion este activat.
+Dezactivaţi modul pentru avion din SETĂRI."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Nume reţea: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Funcţia Wi-Fi este dezactivată şi modul pentru avion este activat.
+Modificaţi aceste setări atingând SETĂRI."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Funcţia Wi-Fi este dezactivată.
+Activaţi funcţia Wi-Fi din SETĂRI."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Setări</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Permitere</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Refuzare</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Notă</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Calibraţi</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Resetaţi</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Memorie internă insuficientă. Fotografiere continuă a fost oprită. Ştergeţi fişiere pentru a elibera spaţiu de stocare.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Acordaţi permisiuni</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Se conectează...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Protecţie prin parolă: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Securitate: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Nu se poate conecta la Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">Dacă vă dați acordul mai jos, Sony va colecta &lt;b>&lt;a href=#personal-data>datele dvs. cu caracter personal&lt;/a>&lt;/b> pentru a vă oferi asistență personalizată și a îmbunătăți dispozitivele și serviciile. Sony va trata datele dvs. în conformitate cu &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>Politica noastră de confidențialitate&lt;/a>&lt;/b>.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">Puteţi înregistra clipuri video chiar şi în situaţii cu contrast ridicat şi să le sporiţi dramatismul şi realismul. Utilizaţi dispozitive/servicii acceptate pentru a vă bucura de culorile şi luminozitatea originale ale conţinutului.</string>
+    <string name="photopro_strings_do_not_show_again_txt">Nu se mai afişează</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">Fotogr. continuă HDR: intensă</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">Fotogr. continuă HDR: redusă</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Fotografiere continuă: intensă</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Fotografiere continuă: redusă</string>
+    <string name="photopro_strings_drive_continuous_txt">Fotografiere continuă</string>
+    <string name="photopro_strings_drive_mode_txt">Mod acţionare</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Temporizator: 10 sec.</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Temporizator: 3 sec.</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Temporizator automat: Dezactivat</string>
+    <string name="photopro_strings_drive_single_txt">Fotografiere unică</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">HDR automat</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Această setare va optimiza intervalul de valori. La procesarea DRO se utilizează o singură imagine, iar pentru HDR automat se combină mai multe expuneri pentru obţinerea rezultatului.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Optimizare interval dinamic</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/HDR automat</string>
+    <string name="photopro_strings_error_device_not_available_txt">Aparatul foto nu poate fi pornit. Reporniţi aparatul foto sau dispozitivul.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Eroare</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Imposibil de salvat fotografiile. Poate fi o problemă cu stocarea datelor. Dacă Stocare date s-a setat la Cartelă SD, verificaţi cartela SD.</string>
+    <string name="photopro_strings_error_fatal_txt">Eroarea este necunoscută.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Nu</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Da</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Acum, aparatul foto se va dezactiva temporar pentru a se răci. Înregistrarea va fi salvată. Reporniți aplicația după ce dispozitivul se răcește.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Memorie plină. Ştergeţi unele fişiere de pe cartela SD sau din memoria internă.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Memorie indisponibilă</string>
+    <string name="photopro_strings_error_memory_title_txt">Eroare memorie</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">Cartelă SD indisponibilă</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Compensare expunere</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Puteți face fotografii în modul Portret, în care sunt focalizate fața sau ochii oamenilor și animalelor.
+Pentru a schimba țintele de focalizare, atingeți fața subiectului care doriți să fie focalizat."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Puteți înregistra clipuri video în care sunt focalizate fața sau ochii oamenilor și animalelor.
+Pentru a schimba țintele de focalizare, atingeți fața subiectului care doriți să fie focalizat.
+Notă: Când această setare este activată, este posibil ca durata înregistrării să fie scurtată din cauza creșterii temperaturii dispozitivului."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Detectare feţe/FA pe ochi activată</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">FA pe faţă/ochi</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">FA pe față/ochi: Dezactivat</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">FA pe față/ochi: Activat</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Deblocați ecranul pentru a utiliza această funcție</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Pentru a deschide setările, deblocaţi ecranul.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Ecran blocat</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Pentru a ajusta efectul Bokeh, atingeți pictograma Bokeh în vizor și mutați glisorul.
+Această funcție este acceptată în Modul de bază (Fotografie).
+Faceți subiecții să iasă în evidență cu contrast impresionant prin estomparea fundalului."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Realizați fotografii cu efect bokeh</string>
+    <string name="photopro_strings_feature_bokeh_txt">Efect bokeh</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Modul acționare poate fi schimbat pentru a utiliza Fotografiere unică sau Fotografiere continuă sau temporizatorul.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Mod acţionare</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Când realizați fotografii cu aparatul foto frontal, priviți spre obiectivul aparatului foto principal de lângă cască.
+Ochii dvs. vor privi în direcția corectă în fotografie."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Direcţia ochilor</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Puteți face fotografii în modul Portret, în care sunt focalizate fața sau ochii oamenilor și animalelor.
+Pentru a schimba țintele de focalizare, atingeți fața subiectului care doriți să fie focalizat. Această funcție poate fi activată sau dezactivată din MENIU > FA pe față/ochi."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">FA pe faţă/ochi</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Întoarceți palma spre aparatul foto. Temporizatorul va fi pornit atunci când palma este recunoscută. Pentru a facilita detectarea, întindeți degetele în sus.
+Pentru a activa această funcție, comutați la aparatul foto frontal în Modul de bază (fotografie) și porniți Obturator mână în MENIU."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Declanșator manual</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Când utilizați obiectivul ultra-larg (0,7x), puteți selecta o prioritate. Selectând Calitatea imaginii are prioritate, puteţi captura imagini dinamice de înaltă calitate. Selectând Corectarea distorsiunilor are prioritate, puteţi reduce distorsiunile vizuale.
+Această funcție este activă când faceți poze utilizând obiectivul ultra-larg. După ce treceți la obiectivul ultra-larg, puteți configura prioritatea din MENIU > Corectare obiectiv ultra-larg."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Corectare obiectiv (fotografie)</string>
+    <string name="photopro_strings_feature_list_title_txt">Prezentarea funcţiilor</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Capturați ușor un selfie artistic prin folosirea efectelor Bokeh și de înfrumusețare.
+Pentru a utiliza această funcție, atingeți Mai multe în vizor și selectați Portret selfie.
+Dați stil selfie-ului și bucurați-vă de rezultate creative."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Portret selfie</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Puteți accesa rapid webul sau vă puteți conecta la Wi-Fi prin scanarea unui QR code.
+Această funcție este activă în Modul de bază (Fotografie). Această funcție poate fi activată sau dezactivată din MENIU > Cititor QR Code."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">Cititor QR Code</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">Cititor QR Code</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Etichetați-vă fotografiile și clipurile video cu locațiile unde au fost făcute. Puteți modifica această setare ulterior din MENIU > Salvare locație.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Salvaţi locaţia?</string>
+    <string name="photopro_strings_feature_selfie_txt">Aparat foto frontal</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Puteți înregistra un clip video la ralanti, cu 120 cadre/s în HD</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Rulare cu încetinitorul</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Puteți să comutați cu ușurință între obiectivele aparatului foto pentru a vă provoca creativitatea fotografiind în orice situație.
+Atingeți butonul de pe vizor pentru a comuta între obiectivele 0,7x (ultra-larg), 1,0x (larg), 2,9x (telefoto) și 4,4x (telefoto).
+Puteți folosi această funcție atât în modul Bază (Fotografie), cât și Bază (Clip video)."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Comutați unghiul folosind acest buton</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Puteți să comutați cu ușurință între obiectivele aparatului foto pentru a vă provoca creativitatea, fotografiind în orice situație.
+Atingeți butonul de pe vizor pentru a comuta între obiectivele 0,7x (ultra-larg), 1,0x (larg) și 2,1 (standard).
+Puteți folosi această funcție atât în modul Bază (Fotografie), cât și Bază (Video)."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Cameră triplă</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Atingerea butonului obiectivului va afișa un cursor pe care îl puteți utiliza pentru a regla nivelul de mărire/micșorare.
+De asemenea, puteți îndepărta/apropia două degete pe ecran sau utiliza butoanele de volum pentru mărire/micșorare."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Mărirea/micșorarea</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Ştergere</string>
+    <string name="photopro_strings_file_format_description_txt">"Selectaţi formatul de fişier pentru imagini statice.
+
+RAW: necesită un software special pentru postprocesarea fotografiilor. Acesta vă permite să faceţi modificări limitând deteriorarea imaginii. Se poate imprima după postprocesare.
+RAW şi JPEG: se salvează atât imagini RAW care necesită postprocesare, cât şi imagini JPEG.
+JPEG: se salvează imagini JPEG.
+
+Note:
+Fişierele în format RAW vor fi salvate întotdeauna în memoria internă cu raportul de aspect 4:3.
+Setările Fotografiere continuă şi HDR automat sunt indisponibile dacă este selectată opţiunea RAW sau RAW şi JPEG."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW şi JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Format fişier</string>
+    <string name="photopro_strings_flash_auto_txt">Automat</string>
+    <string name="photopro_strings_flash_description_txt">Setați mod bliț pe Bliț automat, Bliț de umplere etc.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Bliţ de umplere</string>
+    <string name="photopro_strings_flash_off_txt">Dezactivat</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Atenuare ochi roşii</string>
+    <string name="photopro_strings_flash_torch_description_txt">Porniți lanterna</string>
+    <string name="photopro_strings_flash_torch_off_txt">Lanternă: Dezactivat</string>
+    <string name="photopro_strings_flash_torch_on_txt">Lanternă: Activat</string>
+    <string name="photopro_strings_flash_torch_txt">Lanternă</string>
+    <string name="photopro_strings_flash_txt">Mod bliţ</string>
+    <string name="photopro_strings_focus_area_center_txt">Centru</string>
+    <string name="photopro_strings_focus_area_txt">Zonă focalizare</string>
+    <string name="photopro_strings_focus_area_wide_txt">Larg</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Setați culoarea chenarului zonei de focalizare</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">"Roşu "</string>
+    <string name="photopro_strings_focus_frame_color_txt">Culoare zonă de focalizare</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">Alb</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">FA continuă</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">FA cadru unic</string>
+    <string name="photopro_strings_focus_mode_description_txt">Selectați o metodă de focalizare</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Detectare faţă</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Focalizare manuală</string>
+    <string name="photopro_strings_focus_mode_txt">Mod focalizare</string>
+    <string name="photopro_strings_geotagging_description_txt">Salvați-vă fotografiile și clipurile video cu locațiile unde au fost făcute</string>
+    <string name="photopro_strings_geotagging_txt">Salvare locaţie</string>
+    <string name="photopro_strings_gridline_description_txt">Setați dacă doriți sau nu să afișați caroiajul pentru a vă ajuta la compunerea imaginilor</string>
+    <string name="photopro_strings_gridline_txt">Linii grilă</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Puteți începe numărătoarea inversă a temporizatorului întorcând palma spre aparatul foto frontal. Pentru a facilita detectarea, întindeți degetele în sus.</string>
+    <string name="photopro_strings_hand_shutter_txt">Declanșator manual</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Setați dacă veți primi sau nu feedback tactil la interacționarea cu afișajul, de exemplu, în cadranul de mod</string>
+    <string name="photopro_strings_haptic_feedback_txt">Feedback tactil</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Dezactivat</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: Activat</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Filtru inteligent pentru vânt</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">Sensibilitate ISO</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Puteți lansa Photography Pro apăsând și ținând apăsat butonul aparatului foto. Acest lucru funcționează chiar dacă telefonul este în modul de repaus sau blocat.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Lansaţi Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Lansare cu buton aparat foto</string>
+    <string name="photopro_strings_lens_correction_description_txt">Când utilizaţi obiectivul ultra-larg, puteţi selecta o prioritate. Selectând Calitatea imaginii are prioritate, puteţi captura imagini dinamice de înaltă calitate. Selectând Corectarea distorsiunilor are prioritate, puteţi reduce distorsiunile vizuale.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Calitatea imaginii are prioritate</string>
+    <string name="photopro_strings_lens_correction_on_txt">Corectarea distorsiunilor are prioritate</string>
+    <string name="photopro_strings_lens_correction_txt">Corectare obiectiv ultra-larg</string>
+    <string name="photopro_strings_lens_txt">Obiec.</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Calibraţi</string>
+    <string name="photopro_strings_level_calibration_description_txt">Dacă este necesar, puteţi calibra nivela pentru a remedia deviaţiile de la direcţia de înclinare. Asiguraţi-vă că aparatul foto este în poziţie orizontală şi selectaţi Calibraţi.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Calibrare finalizată</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Setarea de calibrare a fost resetată</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Calibrare nivelă</string>
+    <string name="photopro_strings_lock_switch_txt">Bloc.</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Înregistrarea s-a oprit din cauza limitei pentru dimensiunea maximă a fişierului</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Înregistrarea s-a oprit din cauza limitei pentru durata maximă de înregistrare</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Imposibil de salvat. Memorie plină.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Aplic.</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Salvare</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Setaţi</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Salvaţi combinaţia actuală de moduri şi setări?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Setările aparatului foto au fost salvate.
+Puteţi reapela uşor aceste setări utilizând modul de înregistrare MR."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Memorie setări cameră</string>
+    <string name="photopro_strings_memory_recall_txt">Reapelare setări cameră</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Fotografie (frontal)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Fotografie</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Ralanti</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Clip video (frontal)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Clip video</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Expunere/Culoare</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Focalizare</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Configurare</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Fotografiere</string>
+    <string name="photopro_strings_menu_title_txt">Meniu</string>
+    <string name="photopro_strings_metering_center_txt">Centru</string>
+    <string name="photopro_strings_metering_multi_txt">Multi</string>
+    <string name="photopro_strings_metering_spot_txt">Punct</string>
+    <string name="photopro_strings_metering_txt">Mod măsurare</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Selectați microfonul care va fi utilizat în timpul înregistrării video:
+1. Microfon SD: Înregistrează sunetul stereo cu microfoane stânga și dreapta (sus și jos în orientarea portret)
+2. Microfon spate: Înregistrează sunet mono cu microfon spate"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Microfon extern</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">Microfon SD (stereo)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Microfon spate (mono)</string>
+    <string name="photopro_strings_mic_setting_txt">Microfon</string>
+    <string name="photopro_strings_mode_auto_description_txt">Aparatul foto va detecta automat tipul de scenă și va face fotografii cu setări automate în timp ce reduce zgomotul și mișcarea aparatului foto.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Mod Automat</string>
+    <string name="photopro_strings_mode_basic_description_txt">"În acest mod puteți face fotografii utilizând butonul declanșatorului de pe ecran, similar cu experiența unui aparat foto de smartphone obișnuit.
+Utilizați acest mod pentru a face selfie-uri, a face clipuri video și a scana coduri QR."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Mod de bază</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">Aceasta va afișa o explicație a fiecărui Mod înregistrare când schimbați modurile cu cadranul mod</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Ghid cadran mod</string>
+    <string name="photopro_strings_mode_m_description_txt">"Controlați manual viteza de declanșare și sensibilitatea ISO.
+Prin expunere mai lungă, este posibil să faceți fotografii care capturează mișcările remanente ale obiectelor utilizând neclaritatea mișcării."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Expunere manuală</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Auto inteligent (Reapelare memorie)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Fotografiați utilizând setările salvate.
+Puteți înregistra combinațiile de moduri și setări utilizate frecvent."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Reapelare memorie</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Expunere manuală (Reapelare memorie)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Program automat (Reapelare memorie)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Prioritate viteză de declanşare (Reapelare memorie)</string>
+    <string name="photopro_strings_mode_p_description_txt">Aparatul foto va controla viteza declanșatorului automat, celelalte setări fiind lăsate la discreția dvs.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Program automat</string>
+    <string name="photopro_strings_mode_s_description_txt">"Controlați manual viteza de declanșare pentru a schimba modul în care capturați obiecte în mișcare.
+Vitezele de declanșare rapide vor părea că îngheață un obiect în mișcare, în timp ce vitezele de declanșare lente pot captura mai bine neclaritatea mișcării."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Prioritate viteză de declanşare</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Modul acționare a fost setat automat la Fotografiere unică, deoarece modul Transfer &amp; Tagging add-on este activat</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Formatul fișierului a fost setat automat la JPEG, deoarece modul Transfer &amp; Tagging add-on este activat</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Nu se poate utiliza aparatul foto în ferestre multiple sau într-o fereastră popup. Închideți fereastra și încercați din nou. Dacă utilizați ferestre multiple, puteți trage mijlocul barei divizate pentru a afișa aparatul foto pe tot ecranul.</string>
+    <string name="photopro_strings_multi_window_txt">Trageţi mijlocul barei de divizare pentru a utiliza %1$s pe ecran complet</string>
+    <string name="photopro_strings_ok_txt">OK</string>
+    <string name="photopro_strings_personal_data_txt">Date personale</string>
+    <string name="photopro_strings_privacy_policy_txt">Politică de confidenţialitate</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Se efectuează fotografia. Aşteptaţi.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Acest QR Code nu este acceptat</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Atingeţi pentru a deschide \"%1$s\"</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Nu se poate conecta la această rețea Wi-Fi</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">Atingeţi pt. a vă conec. la reţ. Wi-Fi „%1$s”</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">Cititor QR Code</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Puteți accesa rapid webul sau vă puteți conecta la Wi-Fi prin scanarea unui QR code.
+Această funcție este activă în Modul de bază (Fotografie)."</string>
+    <string name="photopro_strings_qrcode_detection_txt">Cititor QR Code</string>
+    <string name="photopro_strings_rec_txt">ÎNREG.</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Resetaţi Photo Pro la setările implicite?</string>
+    <string name="photopro_strings_reset_settings_txt">Reiniţializare setări</string>
+    <string name="photopro_strings_reset_txt">Resetare</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Nu se poate schimba raportul de aspect dacă formatul de fişier setat este RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">Funcţia HDR automat nu poate fi selectată când este selectată opţiunea Fotografiere continuă</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">Nu se poate selecta HDR automat când este selectat alt format de fișier decât JPEG.</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Efectul Bokeh nu este disponibil cu obiectivul selectat curent</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Efectul Bokeh nu este disponibil când modul Transfer &amp; Tagging add-on este activat</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Setarea „Fotografiere continuă: intensă” nu se poate utiliza cu obiectivul selectat acum</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Nu se poate utiliza Fotografiere continuă în timp efectul Bokeh este pornit</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Fotografierea continuă nu este disponibilă când este selectată mărirea/micșorarea cu super rezoluție AI</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Nu se poate utiliza Fotografiere continuă când este selectat un alt format de fișier decât JPEG</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Fotografiere continuă indisponibilă când modul Transfer &amp; Tagging add-on este activat</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Nu se poate modifica</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Modul Bliţ nu se poate utiliza dacă este selectată opţiunea Fotografiere continuă</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Modul Bliţ nu se poate utiliza cu obiectivul selectat acum</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Nu puteți utiliza Bliț cu obiectivul selectat acum</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Formatul fișierului poate fi doar JPEG atunci când este selectat HDR automat</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Formatul fișierului poate fi doar JPEG atunci când este selectată Fotografiere continuă</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Formatul fișierului poate fi doar JPEG atunci când modul Transfer &amp; Tagging add-on este activat</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Această setare nu poate fi modificată în timp ce un microfon extern este conectat</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Această setare nu acceptă viteza actuală a obturatorului. Pentru a configura această setare, schimbați viteza obturatorului la 1 secundă sau mai puțin.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Nu se poate selecta RAW când este selectat un alt raport de aspect decât 4:3</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Nu se poate schimba dimensiunea video când înregistrați la ralanti. Pentru a schimba această setare, ieșiți din modul ralanti.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Această setare este disponibilă doar când utilizați obiectivul ultra-larg</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Această setare nu este disponibilă dacă setarea HDR este activată. Pentru configurare, dezactivaţi setarea HDR.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Această setare nu este compatibilă cu dimensiunea video actuală. Pentru a o configura, schimbaţi dimensiunea video.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Nu se poate apropia/depărta când se utilizează efectul Bokeh</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">INFO APLICAŢIE</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">Permisiune %1$s</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Aplicaţia are nevoie de permisiunile următoare pentru a efectua această acţiune.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Pentru a acorda permisiuni, mergeţi la Informaţii aplicaţie > Permisiuni.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Nu s-a putut continua</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Pentru a realiza fotografii</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Pentru a realiza fotografii şi clipuri video</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Pentru a prelua locaţia</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Pentru a înregistra sunetul</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">Pentru conectarea la dispozitivele din apropiere</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Pentru a citi și salva fotografii și clipuri video</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Pentru a salva fotografii</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Pentru a salva fotografii şi clipuri video</string>
+    <string name="photopro_strings_save_destination_description_txt">Alegeți dacă doriți să stocați fotografiile și clipurile video în memoria internă a dispozitivului sau pe o cartelă SD</string>
+    <string name="photopro_strings_save_destination_internal_txt">Memorie internă</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">Cartelă SD</string>
+    <string name="photopro_strings_save_destination_title_txt">Stocare date</string>
+    <string name="photopro_strings_save_destination_txt">Stocare date</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">Cartelă SD indisponibilă</string>
+    <string name="photopro_strings_selftimer_10_txt">10 sec.</string>
+    <string name="photopro_strings_selftimer_3_txt">3 sec.</string>
+    <string name="photopro_strings_selftimer_description_txt">Setați un temporizator să facă automat o fotografie după ce a trecut un anumit număr de secunde</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Ţineţi ochii îndreptaţi spre aparatul foto</string>
+    <string name="photopro_strings_selftimer_txt">Temporizator automat</string>
+    <string name="photopro_strings_settings_off_txt">Dezactivat</string>
+    <string name="photopro_strings_settings_on_txt">Activat</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Utilizează întotdeauna Mod de bază</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Selectați Mod înregistrare implicit când lansați Photography Pro</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Ultimul mod utilizat</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Mod înregistrare la lansare</string>
+    <string name="photopro_strings_shooting_mode_txt">Mod înregistrare</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Cameră video</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Viteză de declanşare</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Nu se pot face fotografii când HDR este activat</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Activați un efect care face ca pielea să pară mai fină</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Efect piele fină</string>
+    <string name="photopro_strings_status_mic_external_txt">Extern</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">SD (stereo)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">Spate (mono)</string>
+    <string name="photopro_strings_store_fail_txt">Salvarea nu a putut fi efectuată</string>
+    <string name="photopro_strings_sw_license_txt">Licență software</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Acceptare</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Respingere</string>
+    <string name="photopro_strings_tips_txt">Sfaturi</string>
+    <string name="photopro_strings_title_permissions_txt">Permisiune Photo Pro</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Revocaţi focalizarea tactilă</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Focalizare automată</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Selectați ce doriți să reglați atunci când atingeți vizorul.
+
+Urmărire obiect: Cea mai bună funcție pentru fotografierea obiectelor în mișcare. Acesta menține focalizarea blocată pe obiectul pe care l-ați atins în vizor, permițându-vă să fotografiați clar obiecte în mișcare.
+Focalizare automată: Atingeți locul în care doriți să focalizați în vizor.
+Focalizare și luminozitate: Focalizați și reglați luminozitatea poziției dorite atingând vizorul."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Focalizare şi luminozitate</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Urmărire obiect</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Atingeţi pentru a regla</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Anulați Urmărire obiect</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Dacă activați această funcție, Transfer &amp; Tagging add-on va avea permisiunea să afișeze fotografiile făcute cu aparatul foto Xperia. Fotografiile vor fi salvate în memoria internă.
+Această funcție este compatibilă cu fotografii făcute cu Photography Pro.
+Activarea acestei funcții va seta automat formatul de fișier la JPEG, iar Modul acționare la Fotografiere unică."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Mod Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">Am înţeles</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Următorul</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Ignorare</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony este o marcă îndrăgită de fotografi deoarece oferă produse care intensifică bucuria şi minunăţia insuflate de fotografie.
+Experienţa şi tehnologiile noastre sunt în continuare alese de clienţi din întreaga lume.
+
+Photography Pro este o aplicaţie care caută să recreeze operabilitatea şi funcţiile aparatelor foto de dimensiuni standard produse de Sony Imaging Products.
+Sony vă susţine creativitatea fotografică."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Alegeţi modul de fotografiere ideal în funcţie de subiect.
+Apoi, setaţi viteza de declanşare şi expunerea.
+Ţineţi stabil aparatul foto ţinându-l de laturi şi fotografiaţi.
+
+Printre modurile de fotografiere se numără:
+P (Program automat);
+S (Prioritate viteză de declanşare);
+M (Expunere manuală)."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Selectați modul de de înregistrare preferat utilizând cadranul de mod din dreapta sus (stânga sus în orientarea peisaj).
+
+Cum modul Bază, puteți face ușor fotografii și clipuri video cu aparatul foto frontal într-un mod similar aparatului foto obișnuit al smartphone-ului.
+
+Cu modurile Auto (Automat)/P/S/M, puteți accesa setări și mai avansate pentru a face fotografii ideale."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Mod înregistrare</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Mod de utilizare</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Atunci când utilizați modurile Auto/P/S/M, țineți ferm aparatul foto în orientarea portret și apăsați butonul aparatului foto din partea dreaptă sus a dispozitivului pentru a face fotografii.
+
+Selectați Auto (Automat) pentru a seta automat funcții precum viteza declanșatorului și expunerea.
+
+Pentru a configura setările manual, selectați unul dintre modurile de mai jos.
+P (Program automat)
+S (Prioritate viteză de declanșare)
+M (Expunere manuală)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Utilizarea modurilor Auto (Automat)/P/S/M</string>
+    <string name="photopro_strings_tutorial_txt">Asistent de instruire</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Photo Pro nu se poate utiliza cu afișajul extern conectat. Pentru a utiliza Photo Pro, închideți aplicația din ecranul Aplicații recente de pe dispozitivul dvs. Xperia și apoi reporniți-o.</string>
+    <string name="photopro_strings_unlock_button_txt">Deblocare</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Utilizarea aparatului foto este restricţionată din motive de securitate</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Pentru o înregistrare video 4K stabilă, nu trebuie să modificaţi această setare decât dacă utilizaţi o cartelă SD de mare viteză (se recomandă UHS Speed Class 1 sau o clasă superioară ori Speed Class 10).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Pentru o înregistrare video cu încetinitorul stabilă, nu modificaţi această setare decât dacă utilizaţi o cartelă SD de mare viteză (se recomandă UHS Speed Class 1 sau o clasă superioară ori Speed Class 10).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Pentru o înregistrare video stabilă, vă recomandăm să alegeţi memoria internă pentru stocarea datelor. Doriţi să alegeţi acum?
+
+Dacă utilizaţi în continuare cartela SD ca spaţiu de stocare a datelor, asiguraţi-vă că folosiţi o cartelă SD de mare viteză (se recomandă UHS Speed Class 1 sau o clasă superioară ori Speed Class 10)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Puteți selecta alt codificator pentru înregistrări video 4K.
+
+H.264 (AVC): Format standard pentru codificare, compatibil cu majoritatea dispozitivelor și serviciilor.
+H.265 (HEVC): Format cu rată de compresie ridicată. Asigurați-vă că dispozitivele sau serviciile dvs. de redare acceptă această metodă."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Format fişier (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Selectați o dimensiune video.
+HDR este indisponibil când sunt selectate Full HD (60 fps) sau HD."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Selectați o dimensiune video</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">Full HD (60 cadre/s)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">HD complet</string>
+    <string name="photopro_strings_video_size_txt">Dimensiune video</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Xperia dispune de un sistem de stabilizare hibrid unic numit Optical SteadyShot - care combină stabilizarea optică a imaginii și stabilizarea electronică a imaginii simultan. Vă oferă videoclipuri fără tremurături și fluide chiar și atunci când înregistrați în mișcare.</string>
+    <string name="photopro_strings_video_stabilization_txt">Stabilizare video</string>
+    <string name="photopro_strings_volumekey_description_txt">Atribuiți o altă funcție butoanelor de volum</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Declanşare</string>
+    <string name="photopro_strings_volumekey_txt">Utilizare buton de volum ca</string>
+    <string name="photopro_strings_volumekey_volume_txt">Volum</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Zoom</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Ajustaţi - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Automat</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Regl.</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">Gata</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Reîncercare</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Setare</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Înnorat</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">Personalizat 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">Personalizat 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">Personalizat 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Setaţi balansul de alb în funcţie de centrul previzualizării</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Reglare eşuată</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Reglare finalizată</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Setare - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Zi</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Fluorescent</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Incandescent</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Umbră</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Temp 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Temp 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Temp 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Temp:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Temperatură</string>
+    <string name="photopro_strings_whitebalance_txt">Compensare alb</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Nu se poate face zoom cu aparatul foto frontal</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">Mărire/micșorare supe rezoluție AI</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Selectați o setare de mărire/micșorare.
+
+Mărire/micșorare digitală: măriți/micșorați utilizând procesarea digitală bazată pe datele senzorului de imagine.
+Mărire/micșorare super rezoluție AI: măriți/micșorați utilizând procesarea digitală care păstrează mai mult din calitatea imaginii originale. Salvarea fotografiilor poate dura mai mult. Aceasta va funcționa automat ca Mărire/micșorare digitală când este selectată Fotografiere continuă."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Mărire/micșorare digitală</string>
+    <string name="photopro_strings_zoom_type_txt">Setări mărire/micșorare</string>
+    <string name="search_menu_title">Căutați</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">DEZACTIVAT</string>
+    <string name="v7_preference_on">ACTIVAT</string>
+</resources>

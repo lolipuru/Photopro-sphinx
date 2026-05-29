@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:tag="layout/fragment_operation_thermal_notice_0" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:binding="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/scene_name" android:layout_width="fill_parent" android:layout_height="fill_parent" android:textDirection="ltr">
+        <FrameLayout android:id="@id/basic_notice_port" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include layout="@layout/fragment_basic_operation_thermal_notice_port" />
+        </FrameLayout>
+        <com.sonymobile.photopro.view.widget.SwapAxisFrameLayout android:id="@id/basic_notice_land" android:tag="binding_2" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include layout="@layout/fragment_basic_operation_thermal_notice_land" />
+        </com.sonymobile.photopro.view.widget.SwapAxisFrameLayout>
+        <FrameLayout android:id="@id/manual_notice" android:tag="binding_3" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include layout="@layout/fragment_manual_operation_thermal_notice" />
+        </FrameLayout>
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

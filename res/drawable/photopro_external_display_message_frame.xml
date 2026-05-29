@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/external_display_connected_background_color" />
+    <stroke android:width="@dimen/external_display_message_frame_stroke_width" android:color="@color/external_display_message_stroke_color" />
+</shape>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/icon_no_value" android:duplicateParentState="true" android:layout_width="@dimen/photopro_fn_button_icon_size" android:layout_height="@dimen/photopro_fn_button_icon_size" android:scaleType="centerInside" android:tint="@color/photopro_image_tint_stateful" android:contentDescription="@null" android:tintMode="multiply" />
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/container_with_value" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center" android:id="@id/icon_with_value" android:duplicateParentState="true" android:layout_width="@dimen/photopro_fn_button_icon_size_small" android:layout_height="@dimen/photopro_fn_button_icon_size_small" android:scaleType="centerInside" android:tint="@color/photopro_image_tint_stateful" android:contentDescription="@null" android:tintMode="multiply" />
+        <ViewStub android:id="@id/value_stub" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</merge>

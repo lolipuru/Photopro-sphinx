@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Orientohu për në shtëpi</string>
+    <string name="abc_action_bar_up_description">Ngjitu lart</string>
+    <string name="abc_action_menu_overflow_description">Opsione të tjera</string>
+    <string name="abc_action_mode_done">U krye</string>
+    <string name="abc_activity_chooser_view_see_all">Shfaq çdo gjë</string>
+    <string name="abc_activitychooserview_choose_application">Zgjidh një aplikacion</string>
+    <string name="abc_capital_off">JOAKTIV</string>
+    <string name="abc_capital_on">AKTIV</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funksioni+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">hapësirë</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menyja+</string>
+    <string name="abc_search_hint">Kërko…</string>
+    <string name="abc_searchview_description_clear">Pastro pyetjen</string>
+    <string name="abc_searchview_description_query">Kërko pyetjen</string>
+    <string name="abc_searchview_description_search">Kërko</string>
+    <string name="abc_searchview_description_submit">Dërgo pyetjen</string>
+    <string name="abc_searchview_description_voice">Kërkim me zë</string>
+    <string name="abc_shareactionprovider_share_with">Ndaje me</string>
+    <string name="abc_shareactionprovider_share_with_application">Ndaje me %s</string>
+    <string name="abc_toolbar_collapse_description">Palos</string>
+    <string name="ble_remote_control_button_any_problem_txt">Zgjidhja e problemeve</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">Çiftoni një kontrollues të ri</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">Mund të caktoni një funksion tjetër për butonin C1 në telekomandën me Bluetooth</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">Personalizimi i butonit C1</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">Regjimi i fokusimit</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">Objektivi</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">Regjimi i regjistrimit</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">Ndërroni mes kamerës krye./përp.</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">Ndërroni mes fotografisë/videos</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">Objektivi</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">Ndërroni mes AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">Ndërroni mes kamerës krye./përp.</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">Lejo</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">Refuzo</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">Do ta lejoni aplikacionin të përdorë Bluetooth për këtë tipar?</string>
+    <string name="ble_remote_control_description_txt">"Mund ta çiftoni një telekomandë Sony nëpërmjet Bluetooth për të përdorur në distancë funksionet te %1$s.
+Trokitni te Çiftoni kontrolluesin e ri për të nisur çiftimin e një pajisjeje të re."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">Çiftuar tashmë</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">Nëse telekomanda nuk mund të çiftohej me pajisjen, shkoni te Cilësimet dhe kontrolloni nëse telekomanda është regjistruar tashmë në listën e pajisjeve me Bluetooth. Nëse është regjistruar tashmë, hiqeni telekomandën nga lista dhe provoni ta çiftoni përsëri.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">Zgjidhja e problemeve</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">Pranoni dhe aktiv.</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">Refuzo</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">Dil</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">Shko te Cilësimet</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">OK</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">Çiftimi u anulua sepse Bluetooth ishte i çaktivizuar</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">Çiftimi dështoi për shkak të kalimit të afatit. Provojeni përsëri më vonë.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">"Kjo pajisje mund t'i kufizojë funksione të caktuara si një masë paraprake kur ajo është në përdorim intensiv. Nëse aktivizoni regjimin e rezistencës së kamerës, do të shfaqet një ikonë që tregon se aplikacioni do të vazhdojë të ketë një cilësi të lartë funksionimi. Kur shfaqet kjo ikonë, mund ta përdorni aplikacionin për një periudhë kohore më të gjatë."</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">Modaliteti i rezistencës i kamerës është i disponueshëm vetëm kur e përdorni %1$s me një telekomandë të lidhur me Bluetooth. Mbyllja e %1$s do ta çaktivizojë këtë funksion.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">"Temperatura e pajisjes mund të rritet mbi temperaturën normale të përdorimit. Kur rritet temperatura, një njoftim dhe një ikonë do t'ju sinjalizojë për këtë. Në një rast të tillë, shmangni mbajtjen e pajisjes në duar në vazhdimësi. Sigurohuni që telekomanda është e lidhur me Bluetooth para se të vazhdoni."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">Kujdes</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"Temperatura e pajisjes është shumë e lartë. %1$s do të fiket përkohësisht për t'u ftohur.
+Nëse lidhni një telekomandë me Bluetooth, mund të vazhdoni ta përdorni %1$s me regjimin e rezistencës së kamerës."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"Temperatura e pajisjes është shumë e lartë. %1$s do të fiket përkohësisht për t'u ftohur.
+Nëse lidhni një telekomandë me Bluetooth, mund ta përdorni %1$s me regjimin e rezistencës së kamerës."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">Për të përdorur këtë funksion, aktivizoni [Përdorni telekomandën] pas çiftimit të një telekomande me Bluetooth.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"Temperatura e pajisjes është shumë e lartë. %1$s do të fiket përkohësisht për t'u ftohur.
+Nëse aktivizoni regjimin e rezistencës së kamerës, mund ta përdorni %1$s me një telekomandë me Bluetooth."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"Për ta aktivizuar këtë funksion, ndërveproni me telekomandën e lidhur.
+Për ta anuluar, trokitni te DIL."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">Regjimi i rezistencës i kamerës është aktivizuar</string>
+    <string name="ble_remote_control_endurance_mode_txt">Regj. i rezist. së kamerës</string>
+    <string name="ble_remote_control_off_txt">Joaktiv</string>
+    <string name="ble_remote_control_on_txt">Aktiv</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"Për të nisur çiftimin, ndërveproni me telekomandën.
+Do të merrni njoftime dhe dialogje dy herë. Zgjidhni ÇIFTONI në të gjitha dhe më pas shtypni çdo buton në pajisjen e çiftuar për të përfunduar çiftimin."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">Çiftoni një kontrollues të ri</string>
+    <string name="ble_remote_control_title_txt">Kontr. dist. me Bluetooth</string>
+    <string name="ble_remote_control_use_remote_controller_txt">Përdorni telekomandën</string>
+    <string name="expand_button_title">Të përparuara</string>
+    <string name="external_display_connected_description_txt">Mund ta kontrolloni pamorin nga monitori i Vlog</string>
+    <string name="external_display_connected_title_txt">Monitori i Vlog është lidhur</string>
+    <string name="external_display_note_about_external_mic_txt">Shënim: Për të përdorur një mikrofon të jashtëm, lidheni atë me monitorin e Vlog para se të regjistroni. Nëse e lidhni më pas, duhet të rilidhni monitorin e Vlog.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">Keni pranuar më parë politikën e privatësisë, por mund ta ndryshoni gjithmonë mendjen.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">Shigjeta majtas</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">Shigjeta djathtas</string>
+    <string name="photopro_strings_accessibility_back_txt">Prapa</string>
+    <string name="photopro_strings_accessibility_close_txt">Mbyll</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">Qasshmëria: &lt;a href=\"%s\">Pjesërisht në përputhje&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">Më shumë</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">Butoni i objektivit</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">I pakonfigurueshëm</string>
+    <string name="photopro_strings_accessibility_previous_txt">I mëparshëm</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">Një tufë fotosh të reja</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">Nisni regjistrimin e videos</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">Ndërpritni regjistrimin e videos</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">Vazhdoni regjistrimin e videos</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">Nxirrni një fotografi të shpejtë kur regjistroni video</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">Ndaloni regjistrimin e videos</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">Ndaloni numërimin mbrapsht</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">Obturatori</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">Ndërroni mes kamerës kryesore dhe të përparme</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">Ndërroni mes fotografisë dhe videos</string>
+    <string name="photopro_strings_accessibility_title_txt">Qasshmëria</string>
+    <string name="photopro_strings_addon_button_menu_txt">Të tjera</string>
+    <string name="photopro_strings_addon_creative_effect_txt">Efekti krijues</string>
+    <string name="photopro_strings_addon_panorama_txt">Panoramat</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">Selfie portreti</string>
+    <string name="photopro_strings_addon_slow_motion_txt">Lëvizja e ngadaltë</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">Për të ruajtur vendndodhjet, duhet të aktivizoni GPS-në dhe/ose rrjetet pa tel. Aktivizojini tani?</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">Ruani vendndodhjen</string>
+    <string name="photopro_strings_anonymous_analytics_txt">Analitika anonime</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">Foto. përpara</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">Vid. e përparme</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">Videoja</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">Zgjidhni raportin e pamjes për fotografitë</string>
+    <string name="photopro_strings_aspect_ratio_txt">Raporti i pamjes</string>
+    <string name="photopro_strings_audio_on_all_txt">Aktiv: Të gjithë</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">Aktiv: Vetëm obturatori</string>
+    <string name="photopro_strings_audio_signals_description_txt">Caktoni tingujt që luan kamera, si p.sh. kur kohëmatësi automatik është në numërimin mbrapsht ose kur është duke fokusuar. Mund të zgjidhni po ashtu të luani vetëm tingullin e obturatorit.</string>
+    <string name="photopro_strings_audio_signals_txt">Sinjalet audio</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro do të mbyllet së shpejti për shkak të mungesës së aktivitetit</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">Portret me dritë sfondi</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">Ndriçim i kundërt</string>
+    <string name="photopro_strings_auto_scene_document_txt">Dokument</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">Gatime</string>
+    <string name="photopro_strings_auto_scene_infant_txt">Foshnje</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">Peizazh</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">Dritë e ulët</string>
+    <string name="photopro_strings_auto_scene_macro_txt">Makro</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">Portret natën</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">Skenë natën</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">Njohja automatike e skenës</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">Marrje artistike</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">Projektor</string>
+    <string name="photopro_strings_bokeh_button_txt">Bokeh</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">"Sigurohuni që objektivi është i pastër dhe s'e keni gishtin mbi të"</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">Shumë e ndritshme</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">Largohuni më shumë nga objekti</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">Kërkohet më shumë dritë</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">Afrohuni më shumë tek objekti</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">Efekti bokeh nuk është i disponueshëm aktualisht</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">Bokeh aktiv</string>
+    <string name="photopro_strings_bokeh_txt">Bokeh</string>
+    <string name="photopro_strings_bt_remote_control_txt">Kontr. dist. me Bluetooth</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">Fotografitë nga Regjistrimi i vazhd. ruhen në hap. ruajtëse të brendshme</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">Regj. i vazhd. nuk mund të përd. me shpejt. të ulët të obturatorit</string>
+    <string name="photopro_strings_button_continue_txt">Vazhdo</string>
+    <string name="photopro_strings_button_quit_txt">DILNI</string>
+    <string name="photopro_strings_cancel_txt">Anulo</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">Me lëvizje të ngadalta</string>
+    <string name="photopro_strings_change_save_destination_title_txt">Video 4K</string>
+    <string name="photopro_strings_change_txt">Ndrysho</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">Ricil.</string>
+    <string name="photopro_strings_color_and_brightness_txt">Ngjyra dhe ndriçimi</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">Hapësira ruajtëse e brendshme plot. Të ruhen të dhënat në kartën SD më mirë?</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">Hapësira ruajtëse e brendshme është e dëmtuar ose e mbrojtur nga shkrimi. Të ruhen të dhënat në kartën SD më mirë?</string>
+    <string name="photopro_strings_common_error_open_txt">%1$s nuk hapet</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">Karta SD plot. Të ruhen të dhënat në hapësirën ruajtëse të brendshme më mirë?</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">Karta SD nuk mund të përdoret. Të ruhen të dhënat në hapësirën ruajtëse të brendshme më mirë?</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">Reagimi për regjistrimin e vazhdueshëm</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">Funksionet e mëposhtme janë aktualisht të çaktivizuara.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">Prisni që pajisja juaj të ftohet dhe më pas riniseni kamerën.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">Funksionet e mëposhtme janë çaktivizuar</string>
+    <string name="photopro_strings_cooling_mode_txt">Disa veçori janë çaktivizuar për të parandaluar rritjen e temperaturës së pajisjes</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">Caktoni një funksion tjetër për butonin AEL</string>
+    <string name="photopro_strings_custom_ael_txt">Personalizimi i butonit AEL</string>
+    <string name="photopro_strings_custom_disp_description_txt">"Duke trokitur te butoni DISP, mund të shfaqni/fshihni informacionet në pamor.
+Anuloni zgjedhjen për çdo artikull në këtë meny nëse nuk dëshironi të shfaqen asnjëherë kur shfaqni informacionet me butonin DISP."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">Histogrami</string>
+    <string name="photopro_strings_custom_disp_level_txt">Niveli</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">Informacionet e kokës</string>
+    <string name="photopro_strings_custom_disp_txt">Personalizimi i butonit DISP</string>
+    <string name="photopro_strings_custom_fn_description_txt">"Mund t'i ricaktoni ose t'i rirenditni artikujt e cilësimeve në menynë e funksioneve.
+Trokitni te një nga artikujt e funksioneve më poshtë për të caktuar një funksion tjetër, sipas dëshirës suaj, nga lista në të majtë.
+Zvarritni dhe lëshoni një nga artikujt e funksioneve më poshtë për ta rirenditur."</string>
+    <string name="photopro_strings_custom_fn_txt">Personalizimi i menysë së funksioneve</string>
+    <string name="photopro_strings_custom_none_txt">Nuk është caktuar</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">Keni refuzuar më parë politikën e privatësisë.</string>
+    <string name="photopro_strings_description_custom_ael_txt">Kyçni vetekspozimin</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">Caktoni ISO në Automatik</string>
+    <string name="photopro_strings_description_custom_none_txt">Çaktivizoni butonin AEL</string>
+    <string name="photopro_strings_device_id_txt">ID-ja e pajisjes</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">Bateria e pamjaftueshme në telefon. Kur niveli i baterisë është i ulët, kamera do të mbyllet automatikisht.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">Regjistrimi ndaloi për shkak të nivelit të ulët të baterisë. Ngarkojeni pajisjen dhe provoni përsëri.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">Kamera nuk mund të përdoret për shkak të nivelit të ulët të baterisë. Ngarkojeni pajisjen dhe provoni përsëri.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">Aplikacioni kërkon lejen(t) e mëposhtme për të kryer këtë veprim.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"Rrjeti
+Për t'u lidhur me Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"Regjimi i aeroplanit është aktiv.
+Çaktivizoni Regjimin e aeroplanit nga CILËSIMET."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"Emri i rrjetit: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi është çaktivizuar dhe Regjimi i aeroplanit është aktivizuar.
+Ndryshojini këto cilësime duke trokitur lehtë te CILËSIMET."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi është çaktivizuar.
+Aktivizoni Wi-Fi nga CILËSIMET."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">Cilësimet</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">Lejo</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">Refuzo</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">Shënim</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">Kalibroni</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">Ricilësoni</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">Hapësira ruajtëse e brendshme e pamjaftueshme. Regjistrimi i vazhdueshëm ka ndaluar. Fshini disa skedarë për të liruar hapësirën ruajtëse.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">Jepni lejet</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">Duke u lidhur...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+Mbrojtja me fjalëkalim: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+Siguria: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">Nuk mund të lidheni me Wi-Fi</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">"Nëse pranoni sa më poshtë, Sony do të mbledhë &lt;b>&lt;a href=#personal-data>të dhënat tuaja personale&lt;/a>&lt;/b> për të ofruar mbështetje të personalizuar dhe për të përmirësuar pajisjet dhe shërbimet. Sony do t'i administrojë të dhënat tuaja sipas &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>Politikës sonë të privatësisë&lt;/a>&lt;/b>."</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">"Mund të regjistroni video edhe me skenën me kontrast të lartë dhe t'i bëni ato më emocionuese dhe më afër nga sa i shikoni në jetë reale. Përdorni pajisje/shërbime të mbështetura për t'i shijuar përmbajtjet me ngjyrën dhe ndriçimin e tyre origjinal."</string>
+    <string name="photopro_strings_do_not_show_again_txt">Mos e afisho përsëri</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">Regj. i vazhd. HDR:I lartë</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">Regj. i vazhd. HDR: I ulët</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">Regjistrimi i vazhd.: I lartë</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">Regjistrimi i vazhd.: I ulët</string>
+    <string name="photopro_strings_drive_continuous_txt">Regjistrimi i vazhdueshëm</string>
+    <string name="photopro_strings_drive_mode_txt">Regjimi i motorit</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">Kohëmatësi automatik: 10 sek</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">Kohëmatësi automatik: 3 sek</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">Kohëmatësi i vetëfotografim: Joaktiv</string>
+    <string name="photopro_strings_drive_single_txt">Regjistrimi njësh</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">HDR automatike</string>
+    <string name="photopro_strings_dro_hdr_description_txt">Ky cilësim do të optimizojë gamën e vlerave. Përpunimi DRO përdor një imazh të vetëm, ndërsa HDR automatike ndërthur shumë ekspozime për të siguruar rezultatin.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">Optimizuesi i gamës D</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/HDR automatike</string>
+    <string name="photopro_strings_error_device_not_available_txt">Kamera nuk mund të niset. Rinisni kamerën ose pajisjen.</string>
+    <string name="photopro_strings_error_dialog_title_txt">Gabim</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">Fotografitë nuk mund të ruheshin. Mund të ketë një problem me ruajtjen e të dhënave. Nëse Ruajtja e të dhënave është cilësuar te karta SD, kontrolloni kartën SD.</string>
+    <string name="photopro_strings_error_fatal_txt">Gabim i panjohur.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">Jo</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">Po</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">Tani kamera do të çaktivizohet përkohësisht që të ftohet. Regjistrimi juaj do të ruhet. Riniseni aplikacionin kur pajisja të jetë ftohur.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">Kujtesa plot. Fshini disa skedarë nga karta SD ose nga hapësira ruajtëse e brendshme.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">Kujtesa e padisponueshme</string>
+    <string name="photopro_strings_error_memory_title_txt">Gabim i kujtesës</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">Karta SD e padisponueshme</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">Kompensimi i ekspozimit</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"Mund të nxirrni fotografi portreti që fokusohen te fytyra ose sytë e njerëzve dhe kafshëve.
+Për të ndryshuar objektivat e fokusit, trokitni te fytyra e subjektit që dëshironi të fokusoni."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"Mund të nxirrni video që fokusohen te fytyra ose sytë e njerëzve dhe kafshëve.
+Për të ndryshuar objektivat e fokusit, trokitni te fytyra e subjektit që dëshironi të fokusoni.
+Shënim: Kur ky cilësim është i aktivizuar, kohëzgjatja e regjistrimit mund të shkurtohet për shkak të rritjes së temperaturës së pajisjes."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">Zbulimi i fytyrës/AF e syrit aktive</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">AF e syrit/fytyrës</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">AF e syrit/fytyrës: Joaktiv</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">AF e syrit/fytyrës: Aktiv</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">Shkyçni ekranin për të përdorur këtë funksion</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">Për të hapur cilësimet, shkyçni ekranin.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">Ekrani i kyçur</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"Për të rregulluar efektin bokeh, trokitni lehtë tek ikona e efektit bokeh në pamor dhe zhvendosni rrëshqitësin.
+Ky funksion mbështetet në regjimin bazë (fotografi).
+Bëni që subjektet tuaja të dallohen me kontrastin mbresëlënës duke e mjegulluar sfondin."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">Nxirrni fotografi me efektin bokeh</string>
+    <string name="photopro_strings_feature_bokeh_txt">Efekti bokeh</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">Regjimi i motorit mund të ndryshohet për të përdorur Regjistrimin njësh ose Regjistrimin e vazhdueshëm, ose kohëmatësin automatik.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">Regjimi i motorit</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"Kur nxirrni fotografi me kamerën e përparme, mbajini sytë tek objektivi i kamerës së përparme afër altoparlantit të veshit.
+Sytë tuaj do të shikojnë në drejtimin e duhur në fotografi."</string>
+    <string name="photopro_strings_feature_eye_position_txt">Drejtimi i syve</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"Mund të nxirrni fotografi portreti që fokusohen te fytyra ose sytë e njerëzve dhe kafshëve.
+Për të ndryshuar objektivat e fokusit, trokitni te fytyra e subjektit që dëshironi të fokusoni. Ky funksion mund të aktivizohet ose çaktivizohet nga MENYJA > AF e syrit/fytyrës."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">AF e syrit/fytyrës</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"Kthejeni pëllëmbën e dorës nga kamera. Kohëmatësi automatik do të fillojë numërimin mbrapsht kur të dallohet pëllëmba. Për ta bërë më të lehtë zbulimin e saj, zgjatini gishtat lart.
+Për ta aktivizuar këtë funksion, kaloni te kamera e përparme kur jeni në regjimin bazë (fotografia) dhe aktivizoni Obturatorin e dorës te MENYJA."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">Obturatori i dorës</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"Kur përdorni një objektiv ultra të gjerë (0,7x), mund të zgjidhni një përparësi. Duke përzgjedhur Jepini përparësi cilësisë së imazhit, mund të regjistroni imazhe dinamike me cilësi të lartë. Nëse përzgjidhni Jepini përparësi korrigjimit për shformime, mund ta zvogëloni shformimin vizual.
+Ky funksion është aktiv kur nxirrni fotografi duke përdorur objektivin ultra të gjerë. Pas kalimit tek objektivi ultra i gjerë, mund ta konfiguroni përparësinë nga MENYJA > Korrigjimi i objektivit ultra të gjerë."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">Korrigjimi i lentes (fotografi)</string>
+    <string name="photopro_strings_feature_list_title_txt">Prezantimi me tiparet</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"Regjistroni me lehtësi një selfi artistike duke përdorur efektin bokeh dhe efektet e bukurisë.
+Për të përdorur këtë funksion, trokitni lehtë te Të tjera në pamor dhe zgjidhni Selfie portreti.
+Vendosni stilin për një selfi dhe shijoni rezultatet krijuese."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">Selfie portreti</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"Mund të qaseni me shpejtësi në ueb ose të lidheni me Wi-Fi duke skanuar një kod QR.
+Ky funksion është aktive kur jeni në Regjimin bazë (fotografi). Ky funksion mund të aktivizohet ose të çaktivizohet nga MENYJA > Lexuesi i QR Code."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">Lexuesi i QR Code</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">Lexuesi i QR Code</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">Etiketoni fotografitë dhe videot tuaja me vendndodhjen ku janë bërë. Mund ta ndryshoni këtë cilësim më vonë nga MENYJA > Ruani vendndodhjen.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">Ruani vendndodhjen?</string>
+    <string name="photopro_strings_feature_selfie_txt">Kamera e përparme</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">Mund të regjistroni një video me lëvizje të ngadaltë me 120 fps në HD</string>
+    <string name="photopro_strings_feature_slow_motion_txt">Lëvizja e ngadaltë</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"Mund të ndërroni me lehtësi objektivat e kamerës për të regjistruar çdo situatë dhe për të sfiduar krijimtarinë tuaj.
+Trokitni te butoni në pamor për të ndërruar mes objektivave 0,7x (ultra i gjerë), 1,0x (i gjerë), 2,9x (telefoto) dhe 4,4x (telefoto).
+Mund ta përdorni këtë funksion në regjimin bazë (Fotografi) dhe bazë (video)."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">Ndryshoni këndin me butonin</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"Mund të ndërroni me lehtësi objektivat e kamerës për të regjistruar çdo situatë dhe për të sfiduar krijimtarinë tuaj.
+Trokitni te butoni në pamor për të ndërruar mes objektivave 0,7x (ultra i gjerë), 1,0x (i gjerë) dhe 2,1x (standard).
+Mund ta përdorni këtë funksion në regjimin bazë (Fotografi) dhe bazë (video)."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">Kamera e trefishtë</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"Trokitja te butoni i objektivit do të shfaqë një rrëshqitës që mund ta përdorni për të rregulluar nivelin e zmadhimit.
+Mund të afroni gishtat në ekran ose të përdorni butonat e volumit për zmadhimin."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">Si të zmadhoni/zvogëloni</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">Fshi</string>
+    <string name="photopro_strings_file_format_description_txt">"Zgjidhni formatin e skedarit për imazhet statike.
+
+RAW: Kërkon një softuer të veçantë për përpunimin e mëtejshëm të fotografive. Kjo ju lejon të bëni rregullime ndërkohë që kufizoni përkeqësimin e imazhit. Mund të printohet pas procesit të përpunimit të mëtejshëm.
+RAW dhe JPEG: Ruan imazhet RAW që kërkojnë procesin e përpunimit të mëtejshëm dhe imazhet JPEG.
+JPEG: Ruan imazhet JPEG.
+
+Shënime:
+Skedarët e formatit RAW do të ruhen gjithmonë në hapësirën ruajtëse të brendshme me raportin e pamjes 4:3.
+Regjistrimi i vazhdueshëm dhe HDR automatike nuk janë të disponueshme kur zgjidhet formati RAW ose RAW dhe JPEG."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW dhe JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">Formati i skedarit</string>
+    <string name="photopro_strings_flash_auto_txt">Automatik</string>
+    <string name="photopro_strings_flash_description_txt">Caktoni modalitetin e blicit te Blici automatik, Blici mbushës etj.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">Mbush flashin</string>
+    <string name="photopro_strings_flash_off_txt">Joaktiv</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">Reduktimi i syrit të kuq</string>
+    <string name="photopro_strings_flash_torch_description_txt">Aktivizoni blicin</string>
+    <string name="photopro_strings_flash_torch_off_txt">Projektori: Joaktive</string>
+    <string name="photopro_strings_flash_torch_on_txt">Projektori: Aktive</string>
+    <string name="photopro_strings_flash_torch_txt">Projektori</string>
+    <string name="photopro_strings_flash_txt">Regjimi i blicit</string>
+    <string name="photopro_strings_focus_area_center_txt">Qendra</string>
+    <string name="photopro_strings_focus_area_txt">Zona e fokusit</string>
+    <string name="photopro_strings_focus_area_wide_txt">E gjerë</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">Caktoni ngjyrën e kuadrit të zonës së fokusit</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">E kuqe</string>
+    <string name="photopro_strings_focus_frame_color_txt">Ngjyra e zonës së fokusit</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">E bardhë</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">AF e vazhdueshme</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">AF me një shkrepje</string>
+    <string name="photopro_strings_focus_mode_description_txt">Zgjidh një mënyrë fokusi</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">Dallimi i fytyrave</string>
+    <string name="photopro_strings_focus_mode_mf_txt">Fokusi manual</string>
+    <string name="photopro_strings_focus_mode_txt">Mënyra e fokusimit</string>
+    <string name="photopro_strings_geotagging_description_txt">Ruani fotografitë dhe videot tuaja me vendndodhjet ku janë bërë</string>
+    <string name="photopro_strings_geotagging_txt">Ruani vendndodhjen</string>
+    <string name="photopro_strings_gridline_description_txt">"Caktoni nëse do të shfaqni apo jo vijat e rrjetës për t'ju ndihmuar me kompozimin e imazheve"</string>
+    <string name="photopro_strings_gridline_txt">Vijat e rrjetës</string>
+    <string name="photopro_strings_hand_shutter_description_txt">Mund të nisni kohëmatësin automatik me numërim mbrapsht duke kthyer pëllëmbën e dorës drejt kamerës së përparme. Për ta bërë më të lehtë zbulimin e saj, zgjatini gishtat lart.</string>
+    <string name="photopro_strings_hand_shutter_txt">Obturatori i dorës</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">Caktoni nëse do të merrni apo jo reagimin me prekje kur ndërveproni me ekranin, p.sh. regjimi i formimit të numrit</string>
+    <string name="photopro_strings_haptic_feedback_txt">Reagimi me prekje</string>
+    <string name="photopro_strings_hdr_off_txt">HDR: Joaktiv</string>
+    <string name="photopro_strings_hdr_on_txt">HDR: Aktiv</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">Filtri inteligjent i erës</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">Ndjeshmëria e ISO-s</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">Mund ta hapni aplikacionin Photography Pro duke mbajtur të shtypur butonin e obturatorit të pajisjes. Kjo funksionon edhe nëse telefoni është në regjimin e gjumit ose është i kyçur.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">Hapni Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">Hapni me but. e obturatorit</string>
+    <string name="photopro_strings_lens_correction_description_txt">Kur përdorni një objektiv ultra të gjerë, mund të përzgjidhni një përparësi. Duke përzgjedhur Jepini përparësi cilësisë së imazhit, mund të regjistroni imazhe dinamike me cilësi të lartë. Nëse përzgjidhni Jepini përparësi korrigjimit për shformime, mund ta zvogëloni shformimin vizual.</string>
+    <string name="photopro_strings_lens_correction_off_txt">Jepini përparësi cilësisë së imazhit</string>
+    <string name="photopro_strings_lens_correction_on_txt">Jepi përparësi korrigj. për shformimin</string>
+    <string name="photopro_strings_lens_correction_txt">Korrigjimi i objektivit ultra të gjerë</string>
+    <string name="photopro_strings_lens_txt">Objek.</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">Kalibroni</string>
+    <string name="photopro_strings_level_calibration_description_txt">Nëse është e nevojshme, mund ta kalibroni Nivelin për të rregulluar shmangiet në drejtimin e animit. Sigurohuni që kamera të jetë horizontale dhe më pas përzgjidhni Kalibroni.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">Kalibrimi përfundoi</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">Cilësimi i kalibrimit është ricilësuar</string>
+    <string name="photopro_strings_level_meter_calibration_txt">Kalibrimi i nivelit</string>
+    <string name="photopro_strings_lock_switch_txt">Kyçeni</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">Regjistrimi ndaloi për shkak të kufizimit të madhësisë maksimale të skedarit</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">Regjistrimi ndaloi për shkak të kufizimit të kohës maksimale të regjistrimit</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">Nuk mund të ruhej. Kujtesa plot.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">Zbato</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">Ruaj</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">Caktoni</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">Do ta ruani kombinimin aktual të regjimeve dhe cilësimeve?</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"Cilësimet e kamerës u ruajtën.
+Mund t'i rithirrni me lehtësi këto cilësimeve duke përdorur regjimin e regjistrimit MR."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">Kujtesa e cilësimeve të kamerës</string>
+    <string name="photopro_strings_memory_recall_txt">Rithirrni cilës. e kamerës</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">Fotografi (përpara)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">Fotografi</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">Me lëvizje të ngadalta</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">Video (përpara)</string>
+    <string name="photopro_strings_menu_sub_video_txt">Video</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">Ekspozimi/ngjyra</string>
+    <string name="photopro_strings_menu_tab_focus_txt">Fokus</string>
+    <string name="photopro_strings_menu_tab_setup_txt">Konfigurimi</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">Regjistrimi</string>
+    <string name="photopro_strings_menu_title_txt">Menyja</string>
+    <string name="photopro_strings_metering_center_txt">Në qendër</string>
+    <string name="photopro_strings_metering_multi_txt">Shumëfish</string>
+    <string name="photopro_strings_metering_spot_txt">Selektive</string>
+    <string name="photopro_strings_metering_txt">Regjimi i matjes</string>
+    <string name="photopro_strings_mic_setting_description_txt">"Zgjidhni se cilin mikrofon do të përdorni gjatë regjistrimit të videos:
+1. Mikrofoni majtas/djathtas: Regjistron një tingull stereo me mikrofonat e majtë dhe të djathtë (lart dhe poshtë kur jeni në orientimin e portretit)
+2. Mikrofoni i pasmë: Regjistron një tingull mono me mikrofonin e pasmë"</string>
+    <string name="photopro_strings_mic_setting_external_txt">Mikrofoni i jashtëm</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">Mikrofoni majtas/djathtas (stereo)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">Mikrofoni i pasmë (mono)</string>
+    <string name="photopro_strings_mic_setting_txt">Mikrofoni</string>
+    <string name="photopro_strings_mode_auto_description_txt">Kamera do të zbulojë automatikisht llojin e skenës dhe do të nxjerrë fotografi me cilësimet automatike ndërkohë që zvogëlon zhurmën dhe dridhjet e kamerës.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">Regjimi automatik</string>
+    <string name="photopro_strings_mode_basic_description_txt">"Në këtë regjim mund të nxirrni fotografi duke përdorur butonin e obturatorit në ekran, në mënyrë të ngjashme me eksperiencën e zakonshme me kamerën e telefonit inteligjent.
+Përdorni këtë regjim për të nxjerrë selfi, për të regjistruar video dhe për të skanuar kode QR."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">Regjimi bazë</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">"Kjo do të shfaqë një shpjegim për çdo Regjim regjistrimi kur t'i ndryshoni regjimet me butonin e regjimit"</string>
+    <string name="photopro_strings_mode_dial_guide_txt">Udhëzuesi për butonin e regjimit</string>
+    <string name="photopro_strings_mode_m_description_txt">"Kontrolloni në mënyrë manuale shpejtësinë e shkrepjes dhe ndjeshmërinë e cilësimit ISO.
+Duke përdorur një ekspozim më të gjatë, mund të nxirrni fotografi që kapin gjurmët e lëvizjes duke përdorur turbullimin e lëvizjes."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">Ekspozimi manual</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">Inteligjent automatik (Rithirrja e kujtesës)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"Nxirrni fotografi duke përdorur cilësimet e ruajtura.
+Mund të regjistroni kombinimet e përdorura shpesh të regjimeve dhe cilësimeve."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">Rithirrja e kujtesës</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">Ekspozimi manual (Rithirrja e kujtesës)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">Programi automatik (Rithirrja e kujtesës)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">Përparësia e shpejtësisë së obturatorit (Rithirrja e kujtesës)</string>
+    <string name="photopro_strings_mode_p_description_txt">Kamera do të kontrollojë automatikisht shpejtësinë e shkrepjes kurse cilësimet e tjera do të mund të caktohen nga ju.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">Programi automatik</string>
+    <string name="photopro_strings_mode_s_description_txt">"Kontrolloni në mënyrë manuale shpejtësinë e shkrepjes për të ndryshuar mënyrën se si i regjistroni objektet në lëvizje.
+Shpejtësitë e larta të shkrepjes do të duket sikur e ngrijnë një objekt në lëvizje, ndërsa shpejtësitë e ulëta të shkrepjes mund të kapin më mirë turbullimin e lëvizjes."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">Përparësia e shpejtësisë së obturatorit</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">Regjimi i motorit është caktuar automatikisht në Regjistrimin njësh sepse është aktivizuar regjimi Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">Formati i skedarit është caktuar automatikisht në JPEG sepse është aktivizuar regjimi Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">Kamera nuk mund të përdoret në regjimin Me shumë dritare ose në një dritare kërcyese. Mbyllni dritaren dhe provoni përsëri. Nëse po përdorni regjimin Me shumë dritare, mund ta zvarritni mesin e shirit të ndarjes për ta kaluar kamerën në ekranin e plotë.</string>
+    <string name="photopro_strings_multi_window_txt">Zvarritni mesin e shiritit të ndarjes për të kaluar te përdorimi i %1$s në ekranin e plotë</string>
+    <string name="photopro_strings_ok_txt">OK</string>
+    <string name="photopro_strings_personal_data_txt">Të dhënat personale</string>
+    <string name="photopro_strings_privacy_policy_txt">Politika e privatësisë</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">Po nxjerr një fotografi. Prisni.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">Ky kod QR Code nuk mbështetet</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">Trok. për të hapur \"%1$s\" në shfletues</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">Nuk mund të lidhet me këtë rrjet Wi-Fi</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">"Trok. për t'u lidhur me rrjetin Wi-Fi \"%1$s\""</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">Lexuesi i QR Code</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"Mund të qaseni me shpejtësi në ueb ose të lidheni me Wi-Fi duke skanuar një kod QR.
+Ky funksion është aktive kur jeni në Regjimin bazë (fotografi)."</string>
+    <string name="photopro_strings_qrcode_detection_txt">Lexuesi i QR Code</string>
+    <string name="photopro_strings_rec_txt">REC</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Do ta rivendosni Photo Pro te cilësimet e paracaktuara?</string>
+    <string name="photopro_strings_reset_settings_txt">Ricilëso cilësimet</string>
+    <string name="photopro_strings_reset_txt">Ricilëso</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">Raporti i pamjes nuk mund të ndryshohet kur formati i skedarit është caktuar si RAW</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">HDR-ja automatike nuk mund të zgjidhet kur është zgjedhur Regjistrimi i vazhdueshëm</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">HDR automatike nuk mund të zgjidhet kur është zgjedhur një format i ndryshëm nga JPEG</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">Efekti bokeh nuk është i disponueshëm me objektivin e zgjedhur aktualisht</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">Efekti Bokeh nuk është i disponueshëm kur regjimi i Transfer &amp; Tagging add-on është i aktivizuar.</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">Regjistrimi i vazhdueshëm: i lartë nuk mund të përdoret me objektivin e zgjedhur aktualisht</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">Nuk mund të përdoret Regjistrimi i vazhdueshëm kur efekti bokeh është aktiv</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">Regjistrimi i vazhdueshëm nuk është i disponueshëm kur zgjidhet zmadhimi i superrezolucionit AI</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">Nuk mund të përdoret Regjistrimi i vazhdueshëm kur është zgjedhur një format skedari i ndryshëm nga JPEG</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">Regjistrimi i vazhdueshëm nuk është i disponueshëm kur Transfer &amp; Tagging add-on është i aktivizuar</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">Nuk mund të ndryshohet</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">Regjimi i blicit nuk mund të përdoret kur është përzgjedhur Regjistrimi i vazhdueshëm</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">Regjimi i blicit nuk mund të përdoret me objektivin e zgjedhur aktualisht</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">Projektori nuk mund të përdoret me objektivin e zgjedhur aktualisht</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">Formati i skedarit nuk mund të ndryshohet në një format të ndryshëm nga JPEG kur është zgjedhur HDR automatike</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">Formati i skedarit nuk mund të ndryshohet në një format të ndryshëm nga JPEG kur është zgjedhur Regjistrimi i vazhdueshëm</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">Formati i skedarit nuk mund të ndryshohet në një format të ndryshëm nga JPEG kur është aktivizuar regjimi Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">Ky cilësim nuk mund të ndryshohet kur keni lidhur një mikrofon të jashtëm</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">Ky cilësim nuk e mbështet shpejtësinë aktuale të obturatorit. Për të konfiguruar këtë cilësim, ndryshoni shpejtësinë e obturatorit në 1 sekondë ose më pak.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">Nuk mund të zgjidhet RAW kur është zgjedhur një raport pamjeje i ndryshëm nga 4:3</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">Nuk mund të ndryshohet madhësia e videos kur regjistroni me lëvizje të ngadalta. Për të ndryshuar këtë cilësim, dilni nga regjimi me lëvizje të ngadalta.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">Ky cilësim është i disponueshëm vetëm kur përdorni objektivin ultra të gjerë</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">Ky cilësim nuk është i disponueshëm kur cilësimi HDR është aktiv. Për ta konfiguruar këtë, çaktivizoni cilësimin HDR.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">Ky cilësim nuk mbështetet për madhësinë aktuale të videos. Për ta konfiguruar këtë cilësim, ndryshoni madhësinë e videos.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">Nuk mund të zmadhoni kur përdorni efektin bokeh</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">INFO. E APLIKAC.</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">Leja për %1$s</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">Aplikacioni kërkon lejen(t) e mëposhtme për të kryer këtë veprim.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">Për të dhënë lejet, shkoni tek Informacionet e aplikacionit > Lejet.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">Nuk mund të vazhdojë</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">Për të nxjerrë fotografi</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">Për të nxjerrë fotografi dhe video</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">Për të përnxjerrë vendndodhjen</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">Për të regjistruar tingullin</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">"Për t'u lidhur me pajisjet në afërsi"</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">Për të lexuar dhe ruajtur fotografitë dhe videot</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">Për të ruajtur fotografitë</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">Për të ruajtur fotografitë dhe videot</string>
+    <string name="photopro_strings_save_destination_description_txt">"Zgjidhni nëse do t'i ruani fotografitë dhe videot në hapësirën e brendshme të pajisjes apo në një kartë SD"</string>
+    <string name="photopro_strings_save_destination_internal_txt">Hap. ruaj. e brendshme</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">Karta SD</string>
+    <string name="photopro_strings_save_destination_title_txt">Arkivi i të dhënave</string>
+    <string name="photopro_strings_save_destination_txt">Hap. ruaj. e të dhënave</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">Karta SD e padisponueshme</string>
+    <string name="photopro_strings_selftimer_10_txt">10 sek.</string>
+    <string name="photopro_strings_selftimer_3_txt">3 sek.</string>
+    <string name="photopro_strings_selftimer_description_txt">Caktoni një kohëmatës automatik për të nxjerrë automatikisht një fotografi pasi të ketë kaluar një numër i përcaktuar sekondash</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">Mbajini sytë drejt kamerës</string>
+    <string name="photopro_strings_selftimer_txt">Kohëvonuesi</string>
+    <string name="photopro_strings_settings_off_txt">Joaktiv</string>
+    <string name="photopro_strings_settings_on_txt">Aktiv</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">Përdorni gjithmonë regjimin bazë</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">Zgjidhni Regjimin e paracaktuar të regjistrimit kur hapni Photography Pro</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">Regjimi i fundit i përdorur</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">Regjimi i regjistrimit në momentin e hapjes</string>
+    <string name="photopro_strings_shooting_mode_txt">Regjimi i regjistrimit</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">Videokamera</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">Shpejtësia e shkrepjes</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">Nuk mund të nxirren pamje çasti kur rezolucioni HDR është aktiv</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">Aktivizoni një efekt që e bën lëkurën të duket më e butë</string>
+    <string name="photopro_strings_soft_skin_effect_txt">Efekti i lëkurës së butë</string>
+    <string name="photopro_strings_status_mic_external_txt">I jashtëm</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">Majtas-djathtas (stereo)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">I pasmë (mono)</string>
+    <string name="photopro_strings_store_fail_txt">Nuk mundi të ruhet</string>
+    <string name="photopro_strings_sw_license_txt">Licenca e softuerit</string>
+    <string name="photopro_strings_term_of_use_accept_txt">Prano</string>
+    <string name="photopro_strings_term_of_use_decline_txt">Refuzo</string>
+    <string name="photopro_strings_tips_txt">Këshilla</string>
+    <string name="photopro_strings_title_permissions_txt">Leja e Photo Pro</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">Anuloni Fokusin me prekje</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">Fokusi automatik</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"Zgjidhni se çfarë do të rregulloni kur prekni pamorin.
+
+Ndjekja e objektit: Funksioni më i mirë për regjistrimin e objekteve në lëvizje. Ai e mban fokusin të kyçur tek objekti që keni trokitur në pamor, duke ju lejuar të regjistroni më qartë objektet në lëvizje.
+Fokusi automatik: Trokitni aty ku dëshironi të fokusoni në pamor.
+Fokusi dhe ndriçimi: Fokusoni dhe rregulloni ndriçimin e pozicionit të dëshiruar duke trokitur te pamori."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">Fokusi dhe ndriçimi</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">Ndjekja e objektit</string>
+    <string name="photopro_strings_touch_to_adjust_txt">Prekni për të rregulluar</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">Anulo Gjurmimin e objektit</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"Aktivizimi i këtij funksioni do të lejojë që Transfer &amp; Tagging add-on të shfaqë fotografitë e nxjerra me kamerën e Xperia. Fotografitë do të ruhen në hapësirën ruajtëse të brendshme.
+Ky funksion është i përputhshëm me fotografitë e nxjerra me Photography Pro.
+Aktivizimi i këtij funksioni do ta caktojë automatikisht formatin e skedarit në JPEG dhe Regjimin e motorit te Regjistrimi njësh."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">Regjimi i Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">E kuptova</string>
+    <string name="photopro_strings_tutorial_button_next_txt">Përpara</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">Kapërce</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony është një markë e admiruar nga fotografët për krijimin e produkteve që shpërndajnë gëzimin dhe magjinë e pafundme të fotografisë.
+Eksperienca dhe teknologjia jonë vazhdojnë të zgjidhen nga klientët në të gjithë botën.
+
+Photography Pro kërkon të rikrijojë mundësinë e përdorimit dhe funksionet e kamerave të shkallës së plotë nga Sony Imaging Products.
+Sony mbështet krijimtarinë tuaj në fotografi."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"Zgjidhni Regjimin ideal të regjistrimit për ta përshtatur me subjektin tuaj.
+Më pas caktoni shpejtësinë e obturatorit dhe ekspozimin.
+Mbajeni kamerën të palëvizur nga anët dhe nxirrni një fotografi.
+
+Regjimet e regjistrimit përfshijnë:
+P (Programi automatik)
+S (Përparësia e shpejtësisë së obturatorit)
+M (Ekspozimi manual)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"Zgjidhni regjimin e preferuar të regjistrimit duke përdorur butonin e regjimit në pjesën e sipërme djathtas (lart majtas kur jeni në orientimin e peizazhit).
+
+Me Regjimin bazë, mund të nxirrni me lehtësi fotografi dhe video me kamerën e përparme në një mënyrë të ngjashme me kamerën e zakonshme të telefonit tuaj inteligjent.
+
+Me regjimet Auto/P/S/M, mund të qaseni te edhe më shumë cilësime të përparuara për të nxjerrë fotografitë tuaja ideale."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">Regjimi i regjistrimit</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">Si ta përdorni</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"Kur përdorni regjimet Auto/P/S/M, mbajeni fort kamerën në orientimin e peizazhit dhe shtypni butonin e obturatorit në anën e sipërme djathtas të pajisjes për të nxjerrë fotografi.
+
+Zgjedhja e regjimit Auto dhe të caktojë automatikisht funksionet si shpejtësia e shkrepjes dhe ekspozimi.
+
+Për t'i konfiguruar cilësimet në mënyrë manuale, zgjidhni një nga regjimet më poshtë.
+P (Programi automatik)
+S (Përparësia e shpejtësisë së shkrepjes)
+M (Ekspozimi manual)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">Si të përdorni regjimet Auto/P/S/M</string>
+    <string name="photopro_strings_tutorial_txt">Udhëzuesi</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">Photo Pro nuk mund të përdoret me ekranin e jashtëm të lidhur. Për të përdorur Photo Pro, mbyllni aplikacionin nga ekrani Aplikacionet e fundit në pajisjen tuaj Xperia dhe më pas riniseni atë.</string>
+    <string name="photopro_strings_unlock_button_txt">Shkyç</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">Përdorimi i kamerës është kufizuar për arsye sigurie</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">Nuk duhet ta ndryshoni këtë cilësim për një regjistrim të qëndrueshëm të videos në 4K, përveçse nëse përdorni një kartë SD me shpejtësi të lartë (rekomandohet klasa e shpejtësisë UHS 1 ose më e lartë ose klasa e shpejtësisë 10).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">Mos e ndryshoni këtë cilësim për një regjistrim të qëndrueshëm të videos me lëvizje të ngadaltë, përveçse nëse përdorni një kartë SD me shpejtësi të lartë (rekomandohet klasa e shpejtësisë UHS 1 ose më e lartë ose klasa e shpejtësisë 10).</string>
+    <string name="photopro_strings_video_explanatory_txt">"Për një regjistrim të qëndrueshëm të videos, rekomandojmë që të ndryshoni ruajtjen e të dhënave te hapësira ruajtëse e brendshme. Dëshironi që ta ndryshoni tani?
+
+Nëse vazhdoni të përdorni kartën SD për ruajtjen e të dhënave, sigurohuni që të përdorni një kartë SD me shpejtësi të lartë (rekomandohet klasa e shpejtësisë UHS 1 ose më e lartë ose klasa e shpejtësisë 10)."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"Mund të zgjidhni një kodues për regjistrimet e videove në 4K.
+
+H.264 (AVC): Formati standard për kodimin që mbështetet nga shumica e pajisjeve dhe shërbimeve.
+H.265 (HEVC): Formati me një raport të lartë të ngjeshjes. Sigurohuni që shërbimet ose pajisjet e riprodhimit të regjistrimit e mbështesin këtë metodë."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">Formati i skedarit (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"Zgjidhni një madhësi të videos.
+HDR nuk është e disponueshme kur zgjidhet HD e plotë (60 fps) ose HD."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">Zgjidhni një madhësi të videos</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">HD e plotë (60 fps)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">HD e plotë</string>
+    <string name="photopro_strings_video_size_txt">Madhësia e videos</string>
+    <string name="photopro_strings_video_stabilization_description_txt">Xperia ka një sistem unik hibrid të stabilizimit që quhet Optical SteadyShot - i cili ndërthur stabilizimin e imazhit dhe stabilizimin elektronik të imazhit në të njëjtën kohë. Ai ju siguron video pa dridhje dhe të qëndrueshme edhe kur regjistroni ndërkohë që jeni në lëvizje.</string>
+    <string name="photopro_strings_video_stabilization_txt">Stabilizimi i videos</string>
+    <string name="photopro_strings_volumekey_description_txt">Caktoni një funksion tjetër për butonat e volumit</string>
+    <string name="photopro_strings_volumekey_shutter_txt">Obturator</string>
+    <string name="photopro_strings_volumekey_txt">Përdorni butonin e volumit si</string>
+    <string name="photopro_strings_volumekey_volume_txt">Volum</string>
+    <string name="photopro_strings_volumekey_zoom_txt">Zoom</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">Rregulloni - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">Automatike</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">Rreg.</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">U krye</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">Riprovo</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">Apliko</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">Me re</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">E përshtatur 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">E përshtatur 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">E përshtatur 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">Aplikoni balancën e së bardhës në qendër të pamjes paraprake</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">Rregullimi dështoi</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">Rregullimi përfundoi</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">Aplikoni - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">Dritë dite</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">Fluoreshente</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">Inkandeshente</string>
+    <string name="photopro_strings_whitebalance_shade_txt">Hije</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">Temp. 1</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">Temp. 2</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">Temp. 3</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">Temp.:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">Temperatura</string>
+    <string name="photopro_strings_whitebalance_txt">Balanca e dritës</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">Nuk mund të zmadhoni me kamerën e përparme</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">Zmadhimi i superrezolucionit AI</string>
+    <string name="photopro_strings_zoom_type_description_txt">"Zgjidhni një cilësim të zmadhimit.
+
+Zmadhimi dixhital: Zmadhoni duke përdorur përpunimin dixhital në bazë të të dhënave të sensorëve të imazhit.
+Zmadhimi i superrezolucionit AI: Zmadhoni duke përdorur përpunimin dixhital që ruan më shumë nga cilësia origjinale e imazhit. Ruajtja e fotografive mund të zgjasë më shumë. Kjo do të funksionojë automatikisht si Zmadhimi dixhital kur zgjidhet Regjistrimi i vazhdueshëm."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">Zmadhimi dixhital</string>
+    <string name="photopro_strings_zoom_type_txt">Cilësimet e zmadhimit</string>
+    <string name="search_menu_title">Kërko</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">JOAKTIV</string>
+    <string name="v7_preference_on">AKTIV</string>
+</resources>

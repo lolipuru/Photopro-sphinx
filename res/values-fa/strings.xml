@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
+    <string name="abc_action_bar_up_description">رفتن به بالا</string>
+    <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
+    <string name="abc_action_mode_done">تمام</string>
+    <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+    <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
+    <string name="abc_capital_off">خاموش</string>
+    <string name="abc_capital_on">روشن</string>
+    <string name="abc_menu_alt_shortcut_label">‎Alt+‎</string>
+    <string name="abc_menu_ctrl_shortcut_label">‎Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">‎Function+‎</string>
+    <string name="abc_menu_meta_shortcut_label">‎Meta+‎</string>
+    <string name="abc_menu_shift_shortcut_label">‎Shift+‎</string>
+    <string name="abc_menu_space_shortcut_label">فاصله</string>
+    <string name="abc_menu_sym_shortcut_label">‎Sym+‎</string>
+    <string name="abc_prepend_shortcut_label">منو+</string>
+    <string name="abc_search_hint">جستجو…‏</string>
+    <string name="abc_searchview_description_clear">پاک کردن پُرسمان</string>
+    <string name="abc_searchview_description_query">درخواست جستجو</string>
+    <string name="abc_searchview_description_search">جستجو</string>
+    <string name="abc_searchview_description_submit">ارسال پُرسمان</string>
+    <string name="abc_searchview_description_voice">جستجوی گفتاری</string>
+    <string name="abc_shareactionprovider_share_with">هم‌رسانی با</string>
+    <string name="abc_shareactionprovider_share_with_application">هم‌رسانی با %s</string>
+    <string name="abc_toolbar_collapse_description">کوچک کردن</string>
+    <string name="ble_remote_control_button_any_problem_txt">عیب یابی</string>
+    <string name="ble_remote_control_button_pair_new_controller_txt">جفت‌سازی کنترل‌کننده جدید</string>
+    <string name="ble_remote_control_c1_button_custom_description_txt">می‌توانید عملکرد دیگری را به دکمه C1 کنترل از راه دور بلوتوث اختصاص دهید</string>
+    <string name="ble_remote_control_c1_button_custom_title_txt">سفارشی‌سازی دکمه C1</string>
+    <string name="ble_remote_control_c1_photopro_focus_mode_txt">حالت تمرکز</string>
+    <string name="ble_remote_control_c1_photopro_lens_txt">لنز</string>
+    <string name="ble_remote_control_c1_photopro_shooting_mode_txt">حالت تصویربرداری</string>
+    <string name="ble_remote_control_c1_photopro_switch_main_front_txt">جابه‌جایی بین دوربین اصلی/دوربین جلو</string>
+    <string name="ble_remote_control_c1_photopro_switch_photo_video_txt">جابه‌جایی بین عکس/فیلم</string>
+    <string name="ble_remote_control_c1_videopro_lens_txt">لنز</string>
+    <string name="ble_remote_control_c1_videopro_switch_af_mf_txt">جابه‌جایی بین AF/MF</string>
+    <string name="ble_remote_control_c1_videopro_switch_main_front_txt">جابه‌جایی بین دوربین اصلی/دوربین جلو</string>
+    <string name="ble_remote_control_cta_dialog_button_allow_txt">اجازه</string>
+    <string name="ble_remote_control_cta_dialog_button_deny_txt">رد کردن</string>
+    <string name="ble_remote_control_cta_dialog_text_txt">به برنامه اجازه می‌دهید برای این ویژگی از Bluetooth استفاده کند؟</string>
+    <string name="ble_remote_control_description_txt">"به‌منظور استفاده از عملکردها از راه دور، می‌توانید در %1$s یک کنترل از راه دور Sony را از طریق Bluetooth جفت کنید.
+برای شروع جفت‌سازی دستگاه جدید، روی «جفت‌سازی کنترل‌کننده جدید» ضربه بزنید."</string>
+    <string name="ble_remote_control_dialog_already_paired_txt">از قبل جفت شده است</string>
+    <string name="ble_remote_control_dialog_any_problem_text_txt">اگر کنترل از را دور با دستگاه جفت نشد، به «تنظیمات» بروید و بررسی کنید که کنترل از راه دور از قبل در لیست دستگاه‌های بلوتوثی ثبت شده است یا خیر. اگر از قبل ثبت شده است، کنترل از را دور را از لیست حذف کنید و مجدداً برای جفت‌سازی آن اقدام کنید.</string>
+    <string name="ble_remote_control_dialog_any_problem_title_txt">عیب یابی</string>
+    <string name="ble_remote_control_dialog_button_agree_and_turn_on_txt">موافقت و روشن کردن</string>
+    <string name="ble_remote_control_dialog_button_decline_txt">رد کردن</string>
+    <string name="ble_remote_control_dialog_button_exit_txt">خروج</string>
+    <string name="ble_remote_control_dialog_button_go_to_settings_txt">رفتن به تنظیمات</string>
+    <string name="ble_remote_control_dialog_button_ok_txt">تأیید</string>
+    <string name="ble_remote_control_dialog_error_bluetooth_off_txt">به دلیل خاموش بودن Bluetooth، جفت‌سازی لغو شد</string>
+    <string name="ble_remote_control_dialog_error_timeout_txt">به دلیل پايان زمان فعال بودن، جفت‌سازی انجام نشد. بعداً دوباره امتحان کنید.</string>
+    <string name="ble_remote_control_endurance_mode_description_1_txt">ممکن است دستگاه هنگام استفاده شدید از آن، به‌عنوان اقدامی احتیاطی، برخی عملکردها را محدود کند. اگر «حالت پایداری دوربین» را روشن کنید، نمادی نمایش داده می‌شود که نشان می‌دهد برنامه عملکرد بالا را حفظ می‌کند. هنگامی که این نماد نمایش داده می‌شود، می‌توانید زمان طولانی‌تری از برنامه استفاده کنید.</string>
+    <string name="ble_remote_control_endurance_mode_description_2_txt">‏«حالت پایداری دوربین» فقط زمانی در دسترس است که از %1$s توسط کنترل از راه دور متصل‌شده از طریق Bluetooth استفاده می‌شود. با بسته شدن %1$s، این عملکرد غیرفعال خواهد شد.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_main_message_txt">دمای دستگاه ممکن است از دمای عملیاتی معمول بالاتر برود. هنگام افزایش دما، اعلان و نمادی به شما هشدار می‌دهد. در این حالت، دستگاه را در دست خود نگه ندارید. لطفاً پیش از ادامه، اطمینان حاصل کنید که کنترل از راه دور از طریق Bluetooth متصل شده باشد.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_title_attention_txt">توجه</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_to_continue_txt">"دمای دستگاه خیلی بالا است. به‌منظور کاهش دمای آن، %1$s خاموش خواهد شد.
+اگر یک کنترل از راه دور Bluetooth را متصل کنید، می‌توانید به استفاده از %1$s به همراه «حالت پایداری دوربین» ادامه دهید."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_connect_remote_txt">"دمای دستگاه خیلی بالا است. به‌منظور کاهش دمای آن، %1$s خاموش خواهد شد.
+اگر یک کنترل از راه دور Bluetooth را متصل کنید، می‌توانید از %1$s به همراه «حالت پایداری دوربین» استفاده کنید."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_enable_remote_txt">برای استفاده از این عملکرد، پس از جفت کردن یک کنترل از راه دور از طریق Bluetooth، [استفاده از کنترل از راه دور] را فعال کنید.</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_turn_on_endurance_txt">"دمای دستگاه خیلی بالا است. به‌منظور کاهش دمای آن، %1$s خاموش خواهد شد.
+اگر «حالت پایداری دوربین» را فعال کنید، می‌توانید از %1$s توسط کنترل از راه دور Bluetooth استفاده کنید."</string>
+    <string name="ble_remote_control_endurance_mode_dialog_to_use_remote_txt">"برای فعال کردن این عملکرد، با کنترل از راه دور متصل‌شده در تعامل باشید.
+برای لغو، روی «خروج» ضربه بزنید."</string>
+    <string name="ble_remote_control_endurance_mode_enabled_txt">‏«حالت پایداری دوربین» فعال شد</string>
+    <string name="ble_remote_control_endurance_mode_txt">حالت پایداری دوربین</string>
+    <string name="ble_remote_control_off_txt">خاموش</string>
+    <string name="ble_remote_control_on_txt">روشن</string>
+    <string name="ble_remote_control_pair_new_controller_description_txt">"برای شروع جفت‌سازی، با کنترل‌کننده راه دور در تعامل باشید.
+دو بار اعلان و کادر محاوره‌ای دریافت خواهید کرد. در همۀ آنها «جفت‌سازی» را انتخاب کنید، سپس برای تکمیل جفت‌سازی یکی از کلیدهای دستگاه جفت‌شده را فشار دهید."</string>
+    <string name="ble_remote_control_pair_new_controller_txt">جفت‌سازی کنترل‌کننده جدید</string>
+    <string name="ble_remote_control_title_txt">کنترل از راه دور بلوتوث</string>
+    <string name="ble_remote_control_use_remote_controller_txt">استفاده از کنترل از راه دور</string>
+    <string name="expand_button_title">پیشرفته</string>
+    <string name="external_display_connected_description_txt">نمایاب را می‌توانید از Vlog Monitor بررسی کنید</string>
+    <string name="external_display_connected_title_txt">‏Vlog Monitor متصل شد</string>
+    <string name="external_display_note_about_external_mic_txt">توجه: لطفاً قبل از شروع ضبط با استفاده از میکروفون خارجی، آن را به Vlog Monitor متصل کنید. اگر بعداً آن را متصل کنید، باید Vlog Monitor را مجدداً متصل نمایید.</string>
+    <string name="photopro_strings_accept_privacy_policy_txt">قبلاً خط مشی حریم خصوصی را پذیرفته‌اید اما همواره می‌توانید نظرتان را تغییر دهید.</string>
+    <string name="photopro_strings_accessibility_arrow_left_button_txt">پیکان چپ</string>
+    <string name="photopro_strings_accessibility_arrow_right_button_txt">پیکان راست</string>
+    <string name="photopro_strings_accessibility_back_txt">بازگشت</string>
+    <string name="photopro_strings_accessibility_close_txt">بستن</string>
+    <string name="photopro_strings_accessibility_compliance_message_txt">قابلیت دسترسی: &lt;a href=\"%s\">تا حدی سازگار&lt;/a></string>
+    <string name="photopro_strings_accessibility_learn_more_txt">اطلاعات بیشتر</string>
+    <string name="photopro_strings_accessibility_lens_button_txt">دکمه لنز</string>
+    <string name="photopro_strings_accessibility_not_configurable_txt">قابل پيكربندي نيست</string>
+    <string name="photopro_strings_accessibility_previous_txt">قبلی</string>
+    <string name="photopro_strings_accessibility_recent_photos_txt">مجموعه عکسهای جدید</string>
+    <string name="photopro_strings_accessibility_record_video_button_txt">شروع ضبط ویدیو</string>
+    <string name="photopro_strings_accessibility_record_video_pause_button_txt">مکث ضبط ویدیو</string>
+    <string name="photopro_strings_accessibility_record_video_resume_button_txt">از سرگیری ضبط ویدیو</string>
+    <string name="photopro_strings_accessibility_record_video_snapshot_button_txt">در حین ضبط فیلم، عکس بگیرید</string>
+    <string name="photopro_strings_accessibility_record_video_stop_button_txt">توقف ضبط ویدیو</string>
+    <string name="photopro_strings_accessibility_selftimer_stop_button_txt">توقف شمارش معکوس</string>
+    <string name="photopro_strings_accessibility_shutter_button_txt">شاتر</string>
+    <string name="photopro_strings_accessibility_switch_main_and_front_button_txt">جابه‌جایی بین دوربین اصلی و دوربین جلو</string>
+    <string name="photopro_strings_accessibility_switch_photo_and_video_button_txt">جابه‌جایی بین عکس و فیلم</string>
+    <string name="photopro_strings_accessibility_title_txt">قابلیت دسترسی</string>
+    <string name="photopro_strings_addon_button_menu_txt">بیشتر</string>
+    <string name="photopro_strings_addon_creative_effect_txt">جلوه خلاقانه</string>
+    <string name="photopro_strings_addon_panorama_txt">پانوراما</string>
+    <string name="photopro_strings_addon_portrait_selfie_txt">سلفی پرتره</string>
+    <string name="photopro_strings_addon_slow_motion_txt">حرکت آهسته</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_both_off_txt">برای ذخیره مکان‌ها، باید GPS و/یا شبکه‌های بی‌سیم را فعال کنید. اکنون فعال کنید؟</string>
+    <string name="photopro_strings_advanced_setting_geo_tag_title_txt">ذخیره مکان</string>
+    <string name="photopro_strings_anonymous_analytics_txt">تجزیه و تحلیل به‌صورت ناشناس</string>
+    <string name="photopro_strings_app_shortcut_photo_front_txt">عکس جلو</string>
+    <string name="photopro_strings_app_shortcut_video_front_txt">ویدیوی جلو</string>
+    <string name="photopro_strings_app_shortcut_video_main_txt">ویدیو</string>
+    <string name="photopro_strings_application_fullname_txt">Photography Pro</string>
+    <string name="photopro_strings_application_name_google_lens_txt">Google Lens</string>
+    <string name="photopro_strings_application_name_txt">Photo Pro</string>
+    <string name="photopro_strings_aspect_ratio_description_txt">نسبت ابعادی عکس‌ها را انتخاب کنید</string>
+    <string name="photopro_strings_aspect_ratio_txt">نسبت ابعادی</string>
+    <string name="photopro_strings_audio_on_all_txt">روشن: همه</string>
+    <string name="photopro_strings_audio_on_shutter_only_txt">روشن: فقط شاتر</string>
+    <string name="photopro_strings_audio_signals_description_txt">تنظیم کنید که صدای کدام دوربین پخش شود، به‌عنوان مثال در زمان شمارش معکوس تایمر خودکار یا هنگام انجام فوکوس. همچنین می‌توانید انتخاب کنید که فقط صدای دیافراگم پخش شود.</string>
+    <string name="photopro_strings_audio_signals_txt">سیگنال‌های صوتی</string>
+    <string name="photopro_strings_auto_power_off_txt">Photo Pro به‌دلیل عدم فعال بودن به‌زودی بسته می‌شود</string>
+    <string name="photopro_strings_auto_scene_backlight_portrait_txt">عکسبرداری با نور زمینه</string>
+    <string name="photopro_strings_auto_scene_backlight_txt">نور زمینه</string>
+    <string name="photopro_strings_auto_scene_document_txt">سند</string>
+    <string name="photopro_strings_auto_scene_gourmet_txt">تشخیص خوراکیها</string>
+    <string name="photopro_strings_auto_scene_infant_txt">خردسال</string>
+    <string name="photopro_strings_auto_scene_landscape_txt">منظره</string>
+    <string name="photopro_strings_auto_scene_low_light_txt">نور کم</string>
+    <string name="photopro_strings_auto_scene_macro_txt">ماکرو</string>
+    <string name="photopro_strings_auto_scene_night_portrait_txt">پرتره در شب</string>
+    <string name="photopro_strings_auto_scene_night_scene_txt">صحنه شب</string>
+    <string name="photopro_strings_auto_scene_recognition_txt">تشخیص خودکار صحنه</string>
+    <string name="photopro_strings_auto_scene_soft_snap_txt">عکسبرداری نرم</string>
+    <string name="photopro_strings_auto_scene_spotlight_txt">نورافکن</string>
+    <string name="photopro_strings_bokeh_button_txt">بوکه</string>
+    <string name="photopro_strings_bokeh_error_covering_lens_txt">مطمئن شوید که لنز تمیز است و انگشتتان روی لنز قرار ندارد</string>
+    <string name="photopro_strings_bokeh_error_over_light_txt">بیش از حد روشن است</string>
+    <string name="photopro_strings_bokeh_error_too_close_txt">کمی بیشتر از شیء فاصله بگیرید</string>
+    <string name="photopro_strings_bokeh_error_too_dark_txt">نیاز به نور بیشتر</string>
+    <string name="photopro_strings_bokeh_error_too_far_away_txt">به شیء نزدیک‌تر شوید</string>
+    <string name="photopro_strings_bokeh_error_unknown_txt">بوکه اکنون موجود نیست</string>
+    <string name="photopro_strings_bokeh_on_guide_txt">بوکه روشن است</string>
+    <string name="photopro_strings_bokeh_txt">بوکه</string>
+    <string name="photopro_strings_bt_remote_control_txt">کنترل از راه دور بلوتوث</string>
+    <string name="photopro_strings_burst_saved_internal_storage_txt">عکس‌های «تصویربرداری پیوسته» در حافظه داخلی ذخیره شدند</string>
+    <string name="photopro_strings_burst_unavailable_when_longer_ss_txt">با سرعت شاتر پایین، نمی‌توان از تصویربرداری پیوسته استفاده کرد</string>
+    <string name="photopro_strings_button_continue_txt">ادامه</string>
+    <string name="photopro_strings_button_quit_txt">ترک کردن</string>
+    <string name="photopro_strings_cancel_txt">لغو</string>
+    <string name="photopro_strings_change_save_destination_slowmotion_title_txt">حرکت آهسته</string>
+    <string name="photopro_strings_change_save_destination_title_txt">ویدیوی 4K</string>
+    <string name="photopro_strings_change_txt">تغییر</string>
+    <string name="photopro_strings_color_and_brightness_reset_button_txt">‏Reset</string>
+    <string name="photopro_strings_color_and_brightness_txt">رنگ و روشنایی</string>
+    <string name="photopro_strings_common_error_internal_memory_full_txt">فضای ذخیره‌سازی داخلی پر است. داده‌ها در کارت SD ذخیره شوند؟</string>
+    <string name="photopro_strings_common_error_internal_memory_unavailable_txt">فضای ذخیره‌سازی خراب است یا نسبت به نوشتن محافظت شده است. داده‌ها در کارت SD ذخیره شوند؟</string>
+    <string name="photopro_strings_common_error_open_txt">باز کردن %1$s انجام نشد</string>
+    <string name="photopro_strings_common_error_sdcard_full_txt">کارت SD پر است. داده‌ها در فضای ذخیره‌سازی داخلی ذخیره شوند؟</string>
+    <string name="photopro_strings_common_error_sdcard_unavailable_txt">نمی‌توان از کارت SD استفاده کرد. داده‌ها در فضای ذخیره‌سازی داخلی ذخیره شوند؟</string>
+    <string name="photopro_strings_continuous_shooting_feedback_txt">بازخورد تصویربرداری پیوسته</string>
+    <string name="photopro_strings_cooling_mode_message1_txt">عملکردهای زیر در حال حاضر غیرفعال هستند.</string>
+    <string name="photopro_strings_cooling_mode_message2_txt">لطفاً صبر کنید دمای دستگاه پایین بیاید و دوباره دوربین را راه‌اندازی کنید.</string>
+    <string name="photopro_strings_cooling_mode_title_txt">این عملکردها غیرفعال هستند</string>
+    <string name="photopro_strings_cooling_mode_txt">برای جلوگیری از افزایش دمای دستگاه، برخی از ویژگی‌ها غیرفعال شده‌اند</string>
+    <string name="photopro_strings_custom_ael_assign_iso_auto_txt">ISO AUTO</string>
+    <string name="photopro_strings_custom_ael_description_txt">عملکرد دیگری را به دکمه AEL اختصاص دهید</string>
+    <string name="photopro_strings_custom_ael_txt">سفارشی‌سازی دکمه قفل نوردهی خودکار ‏(AEL)</string>
+    <string name="photopro_strings_custom_disp_description_txt">"با ضربه زدن روی دکمه DISP، می‌توانید اطلاعات را در نمایاب نمایش/پنهان کنید.
+علامت مواردی از این منو را که نمی‌خواهید هنگام نمایش اطلاعات با دکمه DISP نشان داده شود بردارید."</string>
+    <string name="photopro_strings_custom_disp_histogram_txt">هیستوگرام</string>
+    <string name="photopro_strings_custom_disp_level_txt">تراز</string>
+    <string name="photopro_strings_custom_disp_preview_header_txt">اطلاعات سرصفحه</string>
+    <string name="photopro_strings_custom_disp_txt">سفارشی‌سازی دکمه DISP</string>
+    <string name="photopro_strings_custom_fn_description_txt">"از طریق منوی عملکرد می‌توانید موارد قابل تنظیم را مجدداً تعیین یا مرتب‌سازی کنید.
+روی یکی از موارد عملکرد زیر ضربه بزنید.تا عملکرد دیگری را به انتخاب خود از منوی سمت راست به آن اختصاص دهید.
+جهت مرتب‌سازی مجدد، هر یک از موارد عملکرد زیر را بکشید و رها کنید."</string>
+    <string name="photopro_strings_custom_fn_txt">سفارشی‌سازی منوی عملکرد</string>
+    <string name="photopro_strings_custom_none_txt">تخصیص داده‌نشده</string>
+    <string name="photopro_strings_decline_privacy_policy_txt">قبلاً خط مشی حریم خصوصی را نپذیرفته‌اید.</string>
+    <string name="photopro_strings_description_custom_ael_txt">قفل نوردهی خودکار</string>
+    <string name="photopro_strings_description_custom_iso_auto_txt">تنظیم ISO بر روی خودکار</string>
+    <string name="photopro_strings_description_custom_none_txt">غیرفعال کردن دکمه AEL</string>
+    <string name="photopro_strings_device_id_txt">شناسه دستگاه</string>
+    <string name="photopro_strings_dialog_battery_level_low_info_txt">باتری تلفن شارژ کافی ندارد. هنگامی که باتری ضعیف باشد دوربین به طور خودکار بسته می‌شود.</string>
+    <string name="photopro_strings_dialog_battery_level_low_recording_txt">ضبط به علت باتری ضعیف متوقف شد. دستگاه را شارژ کرده و دوباره امتحان کنید.</string>
+    <string name="photopro_strings_dialog_battery_level_low_using_txt">به علت باتری ضعیف نمی‌توانید از باتری استفاده کنید. دستگاه را شارژ کرده و دوباره امتحان کنید.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_1_txt">برنامه برای انجام این فعالیت، به مجوز(های) زیر نیاز دارد.</string>
+    <string name="photopro_strings_dialog_body_applicationnotification_network_txt">"شبکه
+برای اتصال به Wi-Fi"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_airplane_on_txt">"حالت «هواپیما» روشن است.
+لطفاً حالت «هواپیما» را از «تنظیمات» خاموش کنید."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_details_name_txt">"نام شبکه: 
+"</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_airplane_on_txt">"Wi-Fi خاموش و حالت «هواپیما» روشن است.
+لطفاً با ضربه زدن روی «تنظیمات»، این تنظیمات را تغییر دهید."</string>
+    <string name="photopro_strings_dialog_body_qrcode_wifi_ready_wifi_off_txt">"Wi-Fi خاموش است.
+لطفاً Wi-Fi را از «تنظیمات» روشن کنید."</string>
+    <string name="photopro_strings_dialog_btn_settings_txt">تنظیمات</string>
+    <string name="photopro_strings_dialog_cta_allow_txt">اجازه</string>
+    <string name="photopro_strings_dialog_cta_deny_txt">رد کردن</string>
+    <string name="photopro_strings_dialog_high_temp_title_txt">توجه</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_calibrate_txt">واسنجی</string>
+    <string name="photopro_strings_dialog_level_calibration_reset_title_txt">بازنشانی</string>
+    <string name="photopro_strings_dialog_storage_full_burst_txt">حافظه داخلی کافی نیست. «تصویربرداری پیوسته» متوقف شد. برخی از فایل‌ها را حذف کنید تا فضای ذخیره‌سازی آزاد شود.</string>
+    <string name="photopro_strings_dialog_title_applicationnotification_txt">اعطای مجوزها</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_connecting_txt">در حال اتصال...</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_password_txt">"
+محافظت با رمز عبور: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_details_security_txt">"
+امنیت: 
+"</string>
+    <string name="photopro_strings_dialog_title_qrcode_wifi_ready_error_txt">اتصال به Wi-Fi امکان‌پذیر نیست</string>
+    <string name="photopro_strings_dialog_user_data_collection_txt">اگر موافقت خود را با موارد زیر اعلام کنید، Sony اقدام به جمع‌آوری &lt;b>&lt;a href=#personal-data>داده‌های شخصی&lt;/a>&lt;/b> شما برای ارائه پشتیبانی سفارشی و بهبود دستگاه‌ها و خدمات خود خواهد کرد. Sony مطابق &lt;b>&lt;a href=https://www.sonymobile.com/privacy/>خط‌مشی حریم خصوصی&lt;/a>&lt;/b> خود از داده‌های شما استفاده می‌کند.</string>
+    <string name="photopro_strings_dialog_video_hdr_hlg_supported_txt">حتی در صفحه دارای کنتراست بالا می‌توانید ویدیو ضبط کنید و آن را مهیج‌تر کرده به چیزی که در واقعیت می‌بینید نزدیک‌تر کنید.</string>
+    <string name="photopro_strings_do_not_show_again_txt">دوباره نمایش داده نشود</string>
+    <string name="photopro_strings_drive_continuous_hdr_hi_txt">تصویربرداری پیوسته HDR: زیاد</string>
+    <string name="photopro_strings_drive_continuous_hdr_lo_txt">تصویربرداری پیوسته HDR: کم</string>
+    <string name="photopro_strings_drive_continuous_hi_txt">تصویربرداری پیوسته: زیاد</string>
+    <string name="photopro_strings_drive_continuous_lo_txt">تصویربرداری پیوسته: کم</string>
+    <string name="photopro_strings_drive_continuous_txt">تصویربرداری پیوسته</string>
+    <string name="photopro_strings_drive_mode_txt">حالت رانندگی</string>
+    <string name="photopro_strings_drive_selftimer_10_txt">زمان‌سنج خودکار: 10 ثانیه</string>
+    <string name="photopro_strings_drive_selftimer_3_txt">زمان‌سنج خودکار: 3 ثانیه</string>
+    <string name="photopro_strings_drive_selftimer_off_txt">تایمر دوربین: خاموش</string>
+    <string name="photopro_strings_drive_single_txt">تصویربرداری تکی</string>
+    <string name="photopro_strings_dro_hdr_auto_hdr_txt">HDR خودکار</string>
+    <string name="photopro_strings_dro_hdr_description_txt">این تنظیم محدوده مقادیر را بهینه‌سازی می‌کند. پردازش DRO از یک تصویر استفاده می‌کند، در حالی که «HDR خودکار» برای رسیدن به نتیجه، چندین نوردهی را ترکیب می‌کند.</string>
+    <string name="photopro_strings_dro_hdr_dro_txt">بهینه‌ساز محدوده D</string>
+    <string name="photopro_strings_dro_hdr_txt">DRO/‏HDR خودکار</string>
+    <string name="photopro_strings_error_device_not_available_txt">نمی‌توان دوربین را راه‌اندازی کرد. دوربین یا دستگاه را راه‌اندازی مجدد کنید.</string>
+    <string name="photopro_strings_error_dialog_title_txt">خطا</string>
+    <string name="photopro_strings_error_fatal_sd_photo_txt">عکس ها ذخیره نشد. ممکن است مشکلی در ذخیره سازی داده وجود داشته باشد. اگر ذخیره سازی داده روی کارت SD تنظیم شده است، کارت SD را بررسی کنید.</string>
+    <string name="photopro_strings_error_fatal_txt">خطای نامعلوم.</string>
+    <string name="photopro_strings_error_high_temp_shut_down_no_txt">خیر</string>
+    <string name="photopro_strings_error_high_temp_shut_down_yes_txt">بله</string>
+    <string name="photopro_strings_error_high_temp_shutting_down_txt">دوربین موقتاً خاموش می‌شود تا خنک شود. آنچه ضبط کرده‌اید ذخیره خواهند شد. به محض خنک شدن دستگاه، آن را مجدداً راه‌اندازی کنید.</string>
+    <string name="photopro_strings_error_internal_sd_full_txt">حافظه پر است. برخی فایل ها را از کارت SD یا حافظه داخلی حذف کنید.</string>
+    <string name="photopro_strings_error_memory_ims_unavailable_txt">حافظه در دسترس نیست</string>
+    <string name="photopro_strings_error_memory_title_txt">خطای حافظه</string>
+    <string name="photopro_strings_error_memory_unavailable_txt">کارت SD در دسترس نیست</string>
+    <string name="photopro_strings_exposure_compensation_fullname_txt">جبران نوردهی</string>
+    <string name="photopro_strings_face_eye_af_description_txt">"می توانید عکس‌های چهره را به گونه‌ای بگیرید که فوکوس آن بر روی صورت یا چشم اشخاص و یا حیوانات باشد.
+برای تغییر هدف فوکوس، روی نمای سوژه‌ای که مایل به فوکوس بر روی آن هستید، ضربه بزنید."</string>
+    <string name="photopro_strings_face_eye_af_for_video_description_txt">"می‌توانید ویدیوها را به گونه‌ای ضبط کنید که تمرکز آنها بر روی صورت یا چشم اشخاص و یا حیوانات باشد.
+برای تغییر هدف تمرکز، روی نمای سوژه‌ای که مایل به تمرکز بر روی آن هستید، ضربه بزنید.
+توجه: زمانی که این تنظیم فعال شده باشد، مدت زمان ضبط ممکن است در نتیجه افزایش دمای دستگاه کوتاه‌تر شود."</string>
+    <string name="photopro_strings_face_eye_af_settings_on_txt">تشخیص چهره/AF چشم روشن</string>
+    <string name="photopro_strings_face_eye_af_settings_txt">چهره/AF چشم</string>
+    <string name="photopro_strings_face_eye_af_shortcut_off_txt">چهره/AF چشم: خاموش</string>
+    <string name="photopro_strings_face_eye_af_shortcut_on_txt">چهره/AF چشم: روشن</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_apps_list_txt">برای استفاده از این عملکرد صفحه نمایش را قفل‌گشایی کنید</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_settings_txt">برای باز کردن تنظیمات، قفل صفحه را باز کنید.</string>
+    <string name="photopro_strings_fast_capturing_screen_locked_title_txt">صفحه قفل شد</string>
+    <string name="photopro_strings_feature_bokeh_description_txt">"برای تنظیم «جلوه بوکه»، روی نماد «بوکه» در منظره‌یاب ضربه بزنید و نوار لغزنده را حرکت دهید.
+این عملکرد در حالت پایه (عکس‌برداری) پشتیبانی می‌شود.
+سوژه‌های خود را از طریق تار کردن زمینه و ایجاد کنتراست قابل توجه برجسته کنید."</string>
+    <string name="photopro_strings_feature_bokeh_subtitle_txt">عکس‌هایی را با جلوه بوکه بگیرید</string>
+    <string name="photopro_strings_feature_bokeh_txt">جلوه بوکه</string>
+    <string name="photopro_strings_feature_drive_mode_description_txt">حالت درایو را می‌توان برای استفاده از تصویربرداری «تکی» یا «پیوسته» یا تایمر خودکار تغییر داد.</string>
+    <string name="photopro_strings_feature_drive_mode_txt">حالت رانندگی</string>
+    <string name="photopro_strings_feature_eye_position_description_txt">"در زمان عکس‌برداری با استفاده از دوربین جلو، به لنز دوربین جلو در کنار بلندگوی مکالمه خیره شوید.
+در عکس، چشم‌های شما در جهت واقعی خود به نظر می‌رسند."</string>
+    <string name="photopro_strings_feature_eye_position_txt">جهت چشم</string>
+    <string name="photopro_strings_feature_face_eye_af_description_txt">"می توانید عکس‌های چهره را به گونه‌ای بگیرید که فوکوس آن بر روی صورت یا چشم اشخاص و یا حیوانات باشد.
+برای تغییر هدف فوکوس، روی نمای سوژه‌ای که مایل به فوکوس بر روی آن هستید، ضربه بزنید. این عملکرد را می‌توانید از طریق مراجعه به «منو > چهره/AF چشم» فعال یا غیرفعال کنید."</string>
+    <string name="photopro_strings_feature_face_eye_af_txt">چهره/AF چشم</string>
+    <string name="photopro_strings_feature_hand_shutter_description_txt">"کف دستتان را به سمت دوربین بگیرید. به محض تشخیص دست شما، تایمر خودکار شروع به شمارش معکوس می‌کند. برای تسهیل تشخیص آن، انگشتان دست خود را باز کنید.
+برای فعال کردن این عملکرد، در حالت پایه (عکس‌برداری) به دوربین جلو جابه‌جا شوید و سپس از «منو»، «شاتر دستی» را انتخاب کنید."</string>
+    <string name="photopro_strings_feature_hand_shutter_txt">شاتر دستی</string>
+    <string name="photopro_strings_feature_lens_correction_description_txt">"هنگام استفاده از لنز بسیار عریض (0.7x)، می‌توانید یکی از اولویت‌ها را انتخاب کنید. با انتخاب «اولویت‌بخشی به کیفیت تصویر»، می‌توانید عکس‌های پویای باکیفیت بالا بگیرید. اگر «اولویت‌بخشی به اصلاح واپیچش» را انتخاب کنید، می‌توانید واپیچش تصویری را کاهش دهید.
+این عملکرد در هنگام عکس‌برداری با استفاده از لنز بسیار عریض فعال است. پس از تغییر به لنز بسیار عریض، می‌توانید با مراجعه به «منو > اصلاح لنز بسیار عریض» اولویت‌بندی را تنظیم کنید."</string>
+    <string name="photopro_strings_feature_lens_correction_for_photo_txt">اصلاح لنز (عکس)</string>
+    <string name="photopro_strings_feature_list_title_txt">معرفی قابلیت‌ها</string>
+    <string name="photopro_strings_feature_portrait_selfie_description_txt">"با استفاده از «جلوه‌ بوکه» و جلوه زیبایی، به راحتی یک سلفی هنری ثبت کنید.
+برای استفاده از این عملکرد، در منظره‌یاب بر روی «بیشتر» ضربه بزنید و «سلفی پرتره» را انتخاب کنید.
+یک سلفی شیک بگیرید و از نتایج خلاقانه آن لذت ببرید."</string>
+    <string name="photopro_strings_feature_portrait_selfie_txt">سلفی پرتره</string>
+    <string name="photopro_strings_feature_qrcode_detection_description_txt">"از طریق اسکن یک QR Code می‌توانید به سرعت به وب دسترسی پیدا کنید یا به Wi-Fi متصل شوید.
+این عملکرد در حالت پایه(عکس‌برداری) فعال است. این عملکرد را می‌توانید از طریق مراجعه به «منو > QR Code خوان» فعال یا غیرفعال کنید."</string>
+    <string name="photopro_strings_feature_qrcode_detection_txt">QR Code خوان</string>
+    <string name="photopro_strings_feature_qrcode_notification_channel_txt">QR Code خوان</string>
+    <string name="photopro_strings_feature_remember_geotag_description_txt">به عکس‌ها و ویدیوهای خود برچسب مکان ثبت و ضبط آنها را اضافه کنید. این تنظیم را بعداً می‌توانید با مراجعه به «منو > ذخیره مکان» تغییر دهید.</string>
+    <string name="photopro_strings_feature_remember_geotag_txt">ذخیره مکان؟</string>
+    <string name="photopro_strings_feature_selfie_txt">دوربین جلو</string>
+    <string name="photopro_strings_feature_slow_motion_description_txt">می‌توانید ویدیوی حرکت آهسته 120 fps با کیفیت HD ضبط کنید</string>
+    <string name="photopro_strings_feature_slow_motion_txt">حرکت آهسته</string>
+    <string name="photopro_strings_feature_triple_camera_switch_description_txt">"می‌توانید به‌آسانی بین لنزهای دوربین جابه‌جا شوید تا تمام موقعیت‌ها را ثبت کنید و خلاقیتتان را به چالش بکشید.
+برای جابه‌جا شدن بین لنزهای 0.7x (بسیار عریض)، 1.0x (عریض)، 2.9x (تله‌فوتو) و 4.4x (تله فوتو)، روی دکمه موجود در نمایاب ضربه بزنید.
+از این عملکرد می‌توانید هم در حالت پایه (عکس‌برداری) و هم در حالت پایه (فیلمبرداری) استفاده کنید."</string>
+    <string name="photopro_strings_feature_triple_camera_switch_txt">تغییر زاویه با استفاده از دکمه</string>
+    <string name="photopro_strings_feature_triple_camera_switch_with_3_lenses_description_txt">"می‌توانید به‌آسانی بین لنزهای دوربین جابه‌جا شوید تا تمام موقعیت‌ها را ثبت کنید و خلاقیت خود را به چالش بکشید.
+برای جابه‌جا شدن بین لنزهای 0.7x (بسیار عریض)، 1.0x (عریض)، 2.1x (استاندارد)، روی دکمه واقع در نماياب ضربه بزنید.
+از این عملکرد می‌توانید هم در حالت پایه (عکس‌برداری) و هم در حالت پایه (فیلمبرداری) استفاده کنید."</string>
+    <string name="photopro_strings_feature_triple_camera_txt">دوربین سه‌گانه</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_description_txt">"با ضربه زدن بر روی دکمه لنز، یک نوار لغزنده ظاهر می‌شود که از آن می‌توانید برای تنظیم سطح بزرگ‌نمایی/کوچک‌نمایی استفاده کنید.
+همچنین می‌توانید برای بزرگ‌نمایی انگشتان خود را بر روی صفحه به هم نزدیک کنید یا از دکمه‌های میزان صدا استفاده کنید."</string>
+    <string name="photopro_strings_feature_triple_camera_zoom_txt">نحوه انجام نزدیک‌نمایی/دورنمایی</string>
+    <string name="photopro_strings_file_delete_confirm_title_txt">حذف</string>
+    <string name="photopro_strings_file_format_description_txt">"قالب فایل را برای تصاویر ساکن انتخاب کنید.
+
+RAW: نرم‌افزار خاصی برای پس‌پردازش عکس‌ها لازم است. این قالب به شما امکان می‌دهد در عین محدود کردن افت تصویر، تغییرات انجام دهید. بعد از پس‌پردازش قابل چاپ است.
+RAW &amp; JPEG: تصاویر JPEG و تصاویر RAW را که نیاز به پس‌پردازش دارند، هم‌زمان ذخیره می‌کند
+JPEG: تصاویر را در قالب JPEG ذخیره می‌کند.
+
+توجه:
+فایل‌هایی با قالب RAW همواره با نسبت تصویر 4:3 در حافظه داخلی ذخیره می‌شوند.
+وقتی RAW یا RAW &amp; JPEG انتخاب می‌شود، «تصویربرداری پیوسته» و «HDR خودکار» در دسترس نیست."</string>
+    <string name="photopro_strings_file_format_jpeg_txt">JPEG</string>
+    <string name="photopro_strings_file_format_raw_and_jpeg_txt">RAW &amp; JPEG</string>
+    <string name="photopro_strings_file_format_raw_txt">RAW</string>
+    <string name="photopro_strings_file_format_txt">قالب فایل</string>
+    <string name="photopro_strings_flash_auto_txt">خودکار</string>
+    <string name="photopro_strings_flash_description_txt">حالت فلاش را بر روی فلاش خودکار، فلاش روشن و غیره تنظیم کنید.</string>
+    <string name="photopro_strings_flash_fill_flash_txt">فلاش روشن</string>
+    <string name="photopro_strings_flash_off_txt">خاموش</string>
+    <string name="photopro_strings_flash_red_eye_reduc_txt">كاهش قرمزی چشم</string>
+    <string name="photopro_strings_flash_torch_description_txt">روشن کردن چراغ قوه</string>
+    <string name="photopro_strings_flash_torch_off_txt">چراغ قوه: خاموش</string>
+    <string name="photopro_strings_flash_torch_on_txt">چراغ قوه: روشن</string>
+    <string name="photopro_strings_flash_torch_txt">چراغ قوه</string>
+    <string name="photopro_strings_flash_txt">حالت فلاش</string>
+    <string name="photopro_strings_focus_area_center_txt">مرکز</string>
+    <string name="photopro_strings_focus_area_txt">ناحیه فوکوس</string>
+    <string name="photopro_strings_focus_area_wide_txt">وسیع</string>
+    <string name="photopro_strings_focus_frame_color_description_txt">رنگ چارچوب ناحیه فوکوس را تنظیم کنید</string>
+    <string name="photopro_strings_focus_frame_color_red_txt">قرمز</string>
+    <string name="photopro_strings_focus_frame_color_txt">رنگ ناحیه فوکوس</string>
+    <string name="photopro_strings_focus_frame_color_white_txt">سفید</string>
+    <string name="photopro_strings_focus_mode_af_c_txt">AF پیوسته</string>
+    <string name="photopro_strings_focus_mode_af_s_txt">AF تک عکس</string>
+    <string name="photopro_strings_focus_mode_description_txt">روش فوکوس را انتخاب کنید</string>
+    <string name="photopro_strings_focus_mode_face_detection_txt">چهره یاب</string>
+    <string name="photopro_strings_focus_mode_mf_txt">فوکوس دستی</string>
+    <string name="photopro_strings_focus_mode_txt">حالت تمرکز</string>
+    <string name="photopro_strings_geotagging_description_txt">عکس‌ها و ویدیوهای خود را به همراه مکان ثبت و ضبط آنها ذخیره کنید</string>
+    <string name="photopro_strings_geotagging_txt">ذخیره مکان</string>
+    <string name="photopro_strings_gridline_description_txt">نمایش یا عدم نمایش خطوط شبکه‌ای را برای کمک به شما در ترکیب‌بندی تصاویر تنظیم کنید</string>
+    <string name="photopro_strings_gridline_txt">خطوط شبکه‌ای</string>
+    <string name="photopro_strings_hand_shutter_description_txt">با چرخاندن کف دست خود به سمت دوربین جلو می‌توانید شمارش معکوس تایمر خودکار را تنظیم کنید. برای تسهیل تشخیص آن، انگشتان دست خود را رو به بالا باز کنید.</string>
+    <string name="photopro_strings_hand_shutter_txt">شاتر دستی</string>
+    <string name="photopro_strings_haptic_feedback_description_txt">مشخص کنید که هنگام داشتن تعامل با نمایشگر، مانند هنگام استفاده از کلید چرخان، بازخورد لمسی دریافت کنید یا خیر</string>
+    <string name="photopro_strings_haptic_feedback_txt">بازخورد لمسی</string>
+    <string name="photopro_strings_hdr_off_txt">‏‏HDR: خاموش</string>
+    <string name="photopro_strings_hdr_on_txt">‏‏HDR: روشن</string>
+    <string name="photopro_strings_hdr_txt">HDR</string>
+    <string name="photopro_strings_intelligent_wind_filter_txt">فیلتر هوشمند باد</string>
+    <string name="photopro_strings_iso_sensitivity_fullname_txt">حساسیت ISO</string>
+    <string name="photopro_strings_launch_with_camera_key_description_txt">با فشار دادن و نگه داشتن دکمه شاتر دستگاه، می‌توانید برنامه Photography Pro را راه‌اندازی کنید. این عمل حتی اگر تلفن در حالت خواب یا قفل باشد نیز کار می‌کند.</string>
+    <string name="photopro_strings_launch_with_camera_key_launch_photo_pro_txt">راه‌اندازی Photography Pro</string>
+    <string name="photopro_strings_launch_with_camera_key_txt">راه‌اندازی با دکمه شاتر</string>
+    <string name="photopro_strings_lens_correction_description_txt">هنگام استفاده از لنز بسیار عریض، می‌توانید یکی از اولویت‌ها را انتخاب کنید. با انتخاب «اولویت‌بخشی به کیفیت تصویر»، می‌توانید عکس‌های پویای باکیفیت بالا بگیرید. اگر «اولویت‌بخشی به اصلاح واپیچش» را انتخاب کنید، می‌توانید واپیچش تصویری را کاهش دهید.</string>
+    <string name="photopro_strings_lens_correction_off_txt">اولویت‌بخشی به کیفیت تصویر</string>
+    <string name="photopro_strings_lens_correction_on_txt">اولویت‌بخشی به اصلاح واپیچش</string>
+    <string name="photopro_strings_lens_correction_txt">اصلاح لنز بسیار عریض</string>
+    <string name="photopro_strings_lens_txt">لنز</string>
+    <string name="photopro_strings_level_calibration_button_calibrate_txt">واسنجی</string>
+    <string name="photopro_strings_level_calibration_description_txt">در صورت لزوم، می‌توانید «تراز» را واسنجی کنید تا موارد انحراف در جهت کج را برطرف کنید. مطمئن شوید که دوربین افقی است، سپس «واسنجی» را انتخاب کنید.</string>
+    <string name="photopro_strings_level_calibration_feedback_complete_txt">واسنجی انجام شد</string>
+    <string name="photopro_strings_level_calibration_feedback_reset_txt">تنظیم واسنجی بازنشانی شده است</string>
+    <string name="photopro_strings_level_meter_calibration_txt">واسنجی تراز</string>
+    <string name="photopro_strings_lock_switch_txt">قفل</string>
+    <string name="photopro_strings_max_file_size_save_failed_txt">ضبط به دلیل حداکثر اندازه مجاز فایل متوقف شد</string>
+    <string name="photopro_strings_max_recording_time_save_failed_txt">به دلیل رسیدن به محدودیت حداکثر زمان ضبط، ضبط کردن متوقف شد</string>
+    <string name="photopro_strings_memory_full_save_failed_txt">نمی تواند ذخیره کند. حافظه پر است.</string>
+    <string name="photopro_strings_memory_recall_button_apply_txt">اعمال</string>
+    <string name="photopro_strings_memory_recall_button_save_txt">ذخیره</string>
+    <string name="photopro_strings_memory_recall_button_set_txt">تنظیم کردن</string>
+    <string name="photopro_strings_memory_recall_dialog_save_to_mr_txt">ترکیب فعلی حالت‌ها و تنظیمات ذخیره شود؟</string>
+    <string name="photopro_strings_memory_recall_dialog_saved_txt">"تنظیمات دوربین ذخیره شد.
+به‌راحتی می‌توانید با استفاده از حالت تصویربرداری MR این تنظیمات را فراخوانی کنید."</string>
+    <string name="photopro_strings_memory_recall_save_to_mr_txt">حافظه تنظیمات دوربین</string>
+    <string name="photopro_strings_memory_recall_txt">فراخوانی تنظیمات دوربین</string>
+    <string name="photopro_strings_menu_sub_photo_front_txt">عکس (جلو)</string>
+    <string name="photopro_strings_menu_sub_photo_txt">عکس</string>
+    <string name="photopro_strings_menu_sub_slow_motion_txt">حرکت آهسته</string>
+    <string name="photopro_strings_menu_sub_video_front_txt">ویدیو (جلو)</string>
+    <string name="photopro_strings_menu_sub_video_txt">ویدیو</string>
+    <string name="photopro_strings_menu_tab_exposure_color_txt">نوردهی/رنگ</string>
+    <string name="photopro_strings_menu_tab_focus_txt">تمرکز</string>
+    <string name="photopro_strings_menu_tab_setup_txt">تنظیم</string>
+    <string name="photopro_strings_menu_tab_shooting_txt">عکس‌برداری</string>
+    <string name="photopro_strings_menu_title_txt">منو</string>
+    <string name="photopro_strings_metering_center_txt">مرکزی</string>
+    <string name="photopro_strings_metering_multi_txt">چندگانه</string>
+    <string name="photopro_strings_metering_spot_txt">نقطه ای</string>
+    <string name="photopro_strings_metering_txt">حالت نورسنجی</string>
+    <string name="photopro_strings_mic_setting_description_txt">"انتخاب کنید که کدام میکروفون برای ضبط مورد استفاده قرار گیرد:
+۱. میکروفون‌های راست و چپ: صدای استریو را با استفاده از میکروفون‌های راست و چپ (در حالت عمودی، بالا و پایین) ضبط می‌کند.
+میکرون پشتی: صدای مونو را با استفاده از میکروفون پشتی ضبط می‌کند."</string>
+    <string name="photopro_strings_mic_setting_external_txt">میکروفون خارجی</string>
+    <string name="photopro_strings_mic_setting_left_right_stereo_txt">میکروفون‌های راست و چپ (استریو)</string>
+    <string name="photopro_strings_mic_setting_rear_mono_txt">میکروفون پشتی (مونو)</string>
+    <string name="photopro_strings_mic_setting_txt">میکروفون</string>
+    <string name="photopro_strings_mode_auto_description_txt">دوربین به طور خودکار نوع صحنه را تشخیص می‌دهد و ضمن کاهش نویز و لرزش دوربین، با استفاده از تنظیمات خودکار عکس می‌گیرد.</string>
+    <string name="photopro_strings_mode_auto_fullname_txt">حالت خودکار</string>
+    <string name="photopro_strings_mode_basic_description_txt">"در این حالت می‌توانید به آسانی همچون یک دوربین تلفن هوشمند عادی، با استفاده از دکمه شاتر روی صفحه نمایش اقدام به عکس‌برداری کنید.
+از این حالت برای گرفتن سلفی، فیلمبرداری و اسکن QR Code استفاده کنید."</string>
+    <string name="photopro_strings_mode_basic_fullname_txt">حالت پایه</string>
+    <string name="photopro_strings_mode_dial_guide_description_txt">با این کار در زمان تغییر حالت‌ تصویربرداری به وسیله کلید چرخان حالت، توضیحی درباره هر یک از حالت‌ها ظاهر می‌شود</string>
+    <string name="photopro_strings_mode_dial_guide_txt">راهنمای کلید چرخان حالت</string>
+    <string name="photopro_strings_mode_m_description_txt">"‏«سرعت شاتر» و «حساسیت ISO» را به صورت دستی کنترل کنید.
+سرعت پایین‌تر شاتر، گرفتن عکس‌ از اشیا و نمایش حرکت دنباله‌دار آنها، با استفاده از تاری حرکت را امکان‌پذیر می‌کند."</string>
+    <string name="photopro_strings_mode_m_fullname_txt">نوردهی دستی</string>
+    <string name="photopro_strings_mode_mr_auto_fullname_txt">خودکار هوشمند (فراخوانی حافظه)</string>
+    <string name="photopro_strings_mode_mr_description_txt">"با استفاده از تنظیمات ذخیره‌شده خود عکس‌برداری کنید.
+می توانید ترکیباتی از حالت‌ها و تنظیماتی را که اغلب استفاده می‌کنید ثبت نمایید."</string>
+    <string name="photopro_strings_mode_mr_fullname_txt">فراخوانی حافظه</string>
+    <string name="photopro_strings_mode_mr_m_fullname_txt">نوردهی دستی (فراخوانی حافظه)</string>
+    <string name="photopro_strings_mode_mr_p_fullname_txt">خودکار برنامه (فراخوانی حافظه)</string>
+    <string name="photopro_strings_mode_mr_s_fullname_txt">اولویت سرعت شاتر (فراخوانی حافظه)</string>
+    <string name="photopro_strings_mode_p_description_txt">دوربین به صورت خودکار سرعت شاتر را کنترل می‌کند و سایر تنظیمات را شما باید انجام دهید.</string>
+    <string name="photopro_strings_mode_p_fullname_txt">خودکار برنامه</string>
+    <string name="photopro_strings_mode_s_description_txt">"برای تغییر نحوه عکس‌برداری از اشیای در حال حرکت، سرعت شاتر را به صورت دستی کنترل کنید.
+سرعت شاتر بالا به شکل ثابت شدن یک شیء در حال حرکت در تصویر ظاهر می‌شود، در حالیکه سرعت شاتر پایین باعث ثبت بهتر تاری ناشی از حرکت شیء می‌شود."</string>
+    <string name="photopro_strings_mode_s_fullname_txt">اولویت سرعت شاتر</string>
+    <string name="photopro_strings_mr_mode_continuous_to_single_for_t_and_t_mode_txt">به دلیل اینکه حالت «Transfer &amp; Tagging add-on» روشن است، حالت درایو به‌صورت خودکار بر روی «تصویربرداری تکی» تنظیم شده است</string>
+    <string name="photopro_strings_mr_mode_raw_to_jpeg_for_t_and_t_mode_txt">به دلیل اینکه حالت «Transfer &amp; Tagging add-on» روشن است، فرمت فایل به‌صورت خودکار بر روی JPEG تنظیم شده است</string>
+    <string name="photopro_strings_multi_or_popup_window_txt">در زمان باز بودن پنجره بازشو یا چندپنجره، نمی‌توان از دوربین استفاده کرد. پنجره را ببندید و دوباره امتحان کنید. اگر در حال استفاده از «چندپنجره» هستید، می‌توانید وسط نوار تقسیم را بکشید تا دوربین به حالت تمام صفحه درآید.</string>
+    <string name="photopro_strings_multi_window_txt">وسط نوار تقسیم را برای رفتن به حالت تمام صفحه %1$s جهت استفاده بکشید</string>
+    <string name="photopro_strings_ok_txt">تأیید</string>
+    <string name="photopro_strings_personal_data_txt">اطلاعات شخصی</string>
+    <string name="photopro_strings_privacy_policy_txt">سیاست حریم خصوصی</string>
+    <string name="photopro_strings_processing_capturing_photo_txt">در حال گرفتن عکس. لطفاً صبر کنید.</string>
+    <string name="photopro_strings_qrcode_detect_text_notsupported_txt">این QR Code پشتیبانی نمی‌شود</string>
+    <string name="photopro_strings_qrcode_detect_text_url_txt">برای باز کردن \"%1$s\" در مرورگر، ضربه بزنید</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_notsupported_txt">اتصال به این شبکه Wi-Fi امکان‌پذیر نیست</string>
+    <string name="photopro_strings_qrcode_detect_text_wifi_txt">برای اتصال به این شبکه Wi-Fi ضربه بزنید‏: %1$s</string>
+    <string name="photopro_strings_qrcode_detect_title_txt">QR Code خوان</string>
+    <string name="photopro_strings_qrcode_detection_description_txt">"از طریق اسکن یک QR Code می‌توانید به سرعت به وب دسترسی پیدا کنید یا به Wi-Fi متصل شوید.
+این عملکرد در حالت پایه(عکس‌برداری) فعال است."</string>
+    <string name="photopro_strings_qrcode_detection_txt">QR Code خوان</string>
+    <string name="photopro_strings_rec_txt">ضبط</string>
+    <string name="photopro_strings_reset_settings_confirm_title_txt">Photo Pro به تنظیمات پیش‌فرض بازنشانی شود؟</string>
+    <string name="photopro_strings_reset_settings_txt">بازنشانی تنظیمات</string>
+    <string name="photopro_strings_reset_txt">بازنشانی</string>
+    <string name="photopro_strings_restricted_setting_aspect_ratio_unavailable_for_raw_format_txt">وقتی قالب فایل روی RAW تنظیم شده است، تغییر نسبت ابعاد تصویر امکان‌پذیر نیست</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_continuous_txt">وقتی «تصویربرداری پیوسته» انتخاب شده است، انتخاب HDR خودکار امکان‌پذیر نیست</string>
+    <string name="photopro_strings_restricted_setting_auto_hdr_unavailable_for_current_file_format_txt">زمانی که فرمتی غیر از JPEG انتخاب شده باشد، نمی‌توان «HDR خودکار» را انتخاب کرد.</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_current_lens_txt">با لنزهای انتخاب‌شده فعلی، «جلوه بوکه» در دسترس نیست</string>
+    <string name="photopro_strings_restricted_setting_bokeh_unavailable_for_t_and_t_mode_txt">زمانی که حالت «Transfer &amp; Tagging add-on» روشن باشد، «جلوه بوکه» در دسترس نیست</string>
+    <string name="photopro_strings_restricted_setting_continuous_hi_unavailable_for_current_lens_txt">با لنز انتخاب‌شده فعلی استفاده از «تصویربرداری پیوسته: زیاد» امکان‌پذیر نیست</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_bokeh_effect_txt">در زمان روشن بودن «جلوه بوکه»، نمی‌توان از «تصویربرداری پیوسته» استفاده کرد</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_clear_image_zoom_txt">زمانی که بزرگ‌نمایی با وضوح فوق‌العاده AI انتخاب شده باشد، تصویربرداری پیوسته در دسترس نیست</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_current_file_format_txt">زمانی که فرمتی غیر از JPEG انتخاب شده باشد، استفاده از تصویربرداری پیوسته امکان‌پذیر نیست</string>
+    <string name="photopro_strings_restricted_setting_continuous_unavailable_for_t_and_t_mode_txt">زمانی که حالت «Transfer &amp; Tagging add-on» روشن باشد، «تصویربرداری پیوسته» در دسترس نیست</string>
+    <string name="photopro_strings_restricted_setting_dialog_title_txt">قابل تغییر نیست</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_continuous_txt">وقتی «تصویربرداری پیوسته» انتخاب می‌شود، استفاده از حالت «فلاش» امکان‌پذیر نیست</string>
+    <string name="photopro_strings_restricted_setting_flash_unavailable_for_current_lens_txt">با لنز انتخاب‌شده فعلی استفاده از حالت «فلاش» امکان‌پذیر نیست</string>
+    <string name="photopro_strings_restricted_setting_flashlight_unavailable_for_current_lens_txt">با لنز انتخاب‌شده فعلی استفاده از «چراغ قوه» امکان‌پذیر نیست</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_auto_hdr_txt">زمانی که «HDR خودکار» انتخاب شده باشد، فرمت فایل را نمی‌توان به فرمتی غیر از JPEG تغییر داد.</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_continuous_txt">زمانی که تصویربردای پیوسته انتخاب شده باشد، تغییر فرمت فایل به فرمتی غیر از JPEG امکان‌پذیر نیست</string>
+    <string name="photopro_strings_restricted_setting_jpeg_only_for_t_and_t_mode_txt">زمانی که حالت «Transfer &amp; Tagging add-on» روشن باشد، فرمت فایل را نمی‌توان به فرمتی غیر از JPEG تغییر داد.</string>
+    <string name="photopro_strings_restricted_setting_mic_unavailable_while_3rd_mic_connected_txt">در حین اتصال میکروفون خارجی، تغییر این تنظیم امکان‌پذیر نیست</string>
+    <string name="photopro_strings_restricted_setting_photo_long_shutter_speed_txt">این تنظیمات از سرعت فعلی شاتر پشتیبانی نمی‌کند. برای پیکربندی این تنظیمات، سرعت شاتر را به 1 ثانیه یا کمتر تغییر دهید.</string>
+    <string name="photopro_strings_restricted_setting_raw_unavailable_for_current_aspect_ratio_txt">زمانی که نسبت ابعادی غیر از 4:3 انتخاب شده باشد، نمی‌توان RAW را انتخاب کرد</string>
+    <string name="photopro_strings_restricted_setting_slow_motion_txt">در حین ضبط با حرکت آهسته نمی‌توان اندازه فیلم را تغییر داد. برای تغییر این تنظیم از حالت حرکت آهسته خارج شوید.</string>
+    <string name="photopro_strings_restricted_setting_super_wide_lens_correction_txt">این تنظیم فقط در صورت استفاده از لنز بسیار عریض در دسترس است</string>
+    <string name="photopro_strings_restricted_setting_video_hdr_hlg_txt">این تنظیم با حالت HDR روشن موجود نیست. برای پیکربندی آن، HDR را خاموش کنید.</string>
+    <string name="photopro_strings_restricted_setting_video_resolution_txt">این تنظیم برای حجم ویدیوی فعلی پشتیبانی نمی‌شود. برای پیکربندی این تنظیمات، حجم ویدیو را تغییر دهید.</string>
+    <string name="photopro_strings_restricted_setting_zoom_not_supported_in_bokeh_effect_txt">هنگام استفاده از جلوه «بوکه»، بزرگنمایی ممکن نیست</string>
+    <string name="photopro_strings_runtime_permission_continue_button_txt">اطلاعات برنامه</string>
+    <string name="photopro_strings_runtime_permission_dialog1_title_txt">مجوز %1$s</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message1_txt">برنامه برای انجام این فعالیت، به مجوز(های) زیر نیاز دارد.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_message2_txt">برای اعطای مجوزها، به اطلاعات برنامه‌ها > مجوزها بروید.</string>
+    <string name="photopro_strings_runtime_permission_dialog2_title_txt">ادامه امکان‌پذیر نیست</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_photo_only_txt">برای گرفتن عکس‌</string>
+    <string name="photopro_strings_runtime_permission_rationale_camera_txt">برای عکس‌برداری و فیلم‌برداری</string>
+    <string name="photopro_strings_runtime_permission_rationale_location_txt">برای بازیابی مکان</string>
+    <string name="photopro_strings_runtime_permission_rationale_microphone_txt">برای ضبط صدا</string>
+    <string name="photopro_strings_runtime_permission_rationale_nearby_devices_txt">برای اتصال به دستگاه‌های نزدیک</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_cta_txt">برای بازخوانی و ذخیره عکس‌ها و ویدیوها</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_photo_only_txt">برای ذخیره عکس‌</string>
+    <string name="photopro_strings_runtime_permission_rationale_storage_txt">برای ذخیره عکس و ویدیو</string>
+    <string name="photopro_strings_save_destination_description_txt">انتخاب کنید که عکس‌ها و ویدیوها بر روی حافظه داخلی دستگاه ذخیره شوند یا روی کارت SD</string>
+    <string name="photopro_strings_save_destination_internal_txt">حافظه داخلی</string>
+    <string name="photopro_strings_save_destination_sdcard_txt">کارت SD</string>
+    <string name="photopro_strings_save_destination_title_txt">ذخیره داده ها</string>
+    <string name="photopro_strings_save_destination_txt">حافظه ذخیره داده</string>
+    <string name="photopro_strings_sd_permission_dialog_title_txt">کارت SD در دسترس نیست</string>
+    <string name="photopro_strings_selftimer_10_txt">10 ثانیه</string>
+    <string name="photopro_strings_selftimer_3_txt">3 ثانیه</string>
+    <string name="photopro_strings_selftimer_description_txt">یک تایمر خودکار تنظیم کنید تا بعد از گذشت تعداد ثانیه‌های تعیین‌شده، به‌طور خودکار عکس گرفته شود</string>
+    <string name="photopro_strings_selftimer_hint_countdown_txt">به دوربین نگاه کنید</string>
+    <string name="photopro_strings_selftimer_txt">تایمر دوربین</string>
+    <string name="photopro_strings_settings_off_txt">خاموش</string>
+    <string name="photopro_strings_settings_on_txt">روشن</string>
+    <string name="photopro_strings_shooting_mode_at_launch_always_default_mode_txt">همیشه از «حالت پایه» استفاده شود</string>
+    <string name="photopro_strings_shooting_mode_at_launch_description_txt">حالت تصویربرداری پیش‌فرض در زمان راه‌اندازی Photography Pro را انتخاب کنید</string>
+    <string name="photopro_strings_shooting_mode_at_launch_last_used_mode_txt">آخرین حالت استفاده‌شده</string>
+    <string name="photopro_strings_shooting_mode_at_launch_txt">راه‌اندازی در حالت تصویربرداری</string>
+    <string name="photopro_strings_shooting_mode_txt">حالت تصویربرداری</string>
+    <string name="photopro_strings_shortcut_video_camera_txt">دوربین فیلمبرداری</string>
+    <string name="photopro_strings_shutter_speed_fullname_txt">سرعت شاتر</string>
+    <string name="photopro_strings_snapshot_unavailable_while_hdr_recording">در زمان روشن بودن HDR، گرفتن عکس فوری امکان‌پذیر نیست</string>
+    <string name="photopro_strings_soft_skin_effect_description_txt">جلوه‌ای را که باعث صاف‌تر به نظر رسیدن پوست می‌شود روشن کنید</string>
+    <string name="photopro_strings_soft_skin_effect_txt">جلوه پوست ملایم</string>
+    <string name="photopro_strings_status_mic_external_txt">خارجی</string>
+    <string name="photopro_strings_status_mic_left_right_stereo_txt">راست و چپ (استریو)</string>
+    <string name="photopro_strings_status_mic_rear_mono_txt">پشتی (مونو)</string>
+    <string name="photopro_strings_store_fail_txt">ذخیره نمی شود</string>
+    <string name="photopro_strings_sw_license_txt">مجوز نرم افزار</string>
+    <string name="photopro_strings_term_of_use_accept_txt">پذیرش</string>
+    <string name="photopro_strings_term_of_use_decline_txt">رد کردن</string>
+    <string name="photopro_strings_tips_txt">راهنمایی‌ها</string>
+    <string name="photopro_strings_title_permissions_txt">مجوز Photo Pro</string>
+    <string name="photopro_strings_touch_focus_cancel_txt">لغو فوکوس لمسی</string>
+    <string name="photopro_strings_touch_to_adjust_auto_focus_txt">فوکوس خودکار</string>
+    <string name="photopro_strings_touch_to_adjust_description_txt">"انتخاب کنید که هنگام لمس نمایاب، چه موردی را تنظیم نمایید.
+
+ردگیری شیء: بهترین عملکرد برای عکس‌برداری از اشیاء متحرک. این ویژگی، فوکوس را بر روی شیئی که در نمایاب بر روی آن ضربه زده‌اید قفل می‌کند و امکان گرفتن عکس‌هایی واضح از اشیاء متحرک را برایتان فراهم می‌کند.
+فوکوس خودکار: روی مکانی از نمایاب که می‌خواهید روی آن فوکوس کنید ضربه بزنید.
+فوکوس و روشنایی: با ضربه زدن روی نمایاب، بر روی موقعیت موردنظر خود فوکوس کنید و روشنایی آن را تنظیم نمایید."</string>
+    <string name="photopro_strings_touch_to_adjust_focus_and_exposure_txt">فوکوس و روشنایی</string>
+    <string name="photopro_strings_touch_to_adjust_object_tracking_txt">ردیابی شیء</string>
+    <string name="photopro_strings_touch_to_adjust_txt">برای تنظیم لمس کنید</string>
+    <string name="photopro_strings_touch_tracking_cancel_txt">لغو ردگیری شیء</string>
+    <string name="photopro_strings_transfer_and_tagging_description_txt">"روشن کردن این عملکرد به Transfer &amp; Tagging add-on امکان می‌دهد عکس‌های گرفته‌شده با دوربین Xperia را نمایش دهد. عکس‌ها در حافظه داخلی ذخیره خواهند شد.
+این عملکرد با عکس‌های گرفته‌شده توسط Photography Pro سازگار است.
+با روشن کردن این عملکرد، فرمت فایل به‌صورت خودکار بر روی JPEG، و حالت درایو به‌صورت خودکار بر روی «تصویربرداری تکی» تنظیم خواهد شد."</string>
+    <string name="photopro_strings_transfer_and_tagging_txt">حالت Transfer &amp; Tagging add-on</string>
+    <string name="photopro_strings_tutorial_button_got_it_txt">فهمیدم</string>
+    <string name="photopro_strings_tutorial_button_next_txt">بعدی</string>
+    <string name="photopro_strings_tutorial_button_skip_txt">رد شدن</string>
+    <string name="photopro_strings_tutorial_page1_description_txt">"Sony برند محبوب عکاسان برای خلق آثاری است که لذت بی‌پایان و شگفتی عکاسی را گسترش می‌دهند.
+تجربه و فناوری ما همچنان انتخاب مشتریان در سراسر جهان است.
+
+هدف Photography Pro بازآفرینی قابلیت استفاده و عملکردهای دوربین‌های تمام‌عیار Sony Imaging Products است.
+Sony پشتیبان خلاقیت عکاسی شما است."</string>
+    <string name="photopro_strings_tutorial_page1_title_txt">Photography Pro</string>
+    <string name="photopro_strings_tutorial_page2_description_txt">"مطابق با سوژه خود، حالت ایده‌آل عکس‌برداری را انتخاب کنید.
+سپس، سرعت شاتر و نوردهی را تنظیم کنید.
+دوربین را از کناره‌ها ثابت نگه دارید و عکسی بگیرید.
+
+حالت‌های عکس‌برداری شامل موارد زیر است:
+P (خودکار برنامه)
+S (اولویت سرعت شاتر)
+M (نوردهی دستی)"</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_description_txt">"حالت تصویربرداری مورد نظر خود را با استفاده از کلید چرخان حالت در سمت راست بالا انتخاب کنید (وقتی صفحه به صورت افقی باشد این کلید در سمت چپ بالا قرار دارد)
+
+با استفاده از «حالت پایه»، می‌توانید به آسانی همچون یک دوربین تلفن هوشمند عادی، با استفاده از دوربین جلو اقدام به عکس‌برداری یا فیلمبرداری کنید.
+
+با استفاده از حالت‌های «Auto/P/S/M»، می توانید به تنظیمات پیشرفته‌تری نیز دست پیدا کنید تا عکس‌های ایده آل خود را بگیرید."</string>
+    <string name="photopro_strings_tutorial_page2_shooting_mode_title_txt">حالت تصویربرداری</string>
+    <string name="photopro_strings_tutorial_page2_title_txt">نحوه استفاده</string>
+    <string name="photopro_strings_tutorial_page3_description_txt">"در حین استفاده از حالت‌های «Auto/P/S/M»، دوربین را کاملاً در جهت افقی نگه دارید و دکمه شاتر را در سمت راست بالای دستگاه فشار دهید تا عکس بگیرید.
+
+با انتخاب حالت Auto (خودکار)، عملکردهایی از قبیل سرعت شاتر و نوردهی به صورت خودکار تنظیم خواهد شد.
+
+برای انجام تنظیمات به صورت دستی، یکی از حالت‌های زیر را انتخاب کنید.
+‏P (خودکار برنامه)
+S (اولویت سرعت شاتر)
+M (نوردهی دستی)"</string>
+    <string name="photopro_strings_tutorial_page3_title_txt">نحوه استفاده از حالت‌های Auto/P/S/M</string>
+    <string name="photopro_strings_tutorial_txt">بخش آموزشی</string>
+    <string name="photopro_strings_unavailable_on_2nd_display_txt">در حین اتصال به دستگاه خارجی نمی‌توان از Photo Pro استفاده کرد. برای استفاده از Photo Pro، برنامه را از طریق صفحه «برنامه‌های اخیر» در Xperia ببندید و سپس مجدداً آن را راه‌اندازی کنید.</string>
+    <string name="photopro_strings_unlock_button_txt">بازکردن قفل</string>
+    <string name="photopro_strings_use_of_camera_not_authorized_txt">کار کردن با دوربین به دلایل امنیتی ممنوع است</string>
+    <string name="photopro_strings_video_explanatory_4k2k_setting_txt">برای ضبط ویدیوی ‎4K‎ نباید تنظیمات را تغییر دهید، مگر آنکه از کارت SD سرعت بالا استفاده کنید ( کلاس سرعت UHS ۱ یا بالاتر یا کلاس سرعت ۱۰ توصیه می‌شود).</string>
+    <string name="photopro_strings_video_explanatory_slowmotion_setting_txt">برای ضبط ویدیوی حرکت آهسته ثابت، تنظیمات را تغییر ندهید، مگر آنکه از کارت SD سرعت بالا استفاده کنید ( کلاس سرعت UHS ۱ یا بالاتر یا کلاس سرعت ۱۰ توصیه می‌شود).</string>
+    <string name="photopro_strings_video_explanatory_txt">"برای ضبط ثابت ویدیو، توصیه می‌کنیم محل ذخیره داده‌ها را به حافظه داخلی تغییر دهید. آیا مایلید هم اکنون آن را تغییر بدهید؟
+
+اگر به استفاده از کارت SD به عنوان حافظه ذخیره داده‌ها ادامه می‌دهید، اطمینان پیدا کنید که از کارت SD سرعت بالا (UHS کلاس سرعت ۱ یا بالاتر، یا کلاس سرعت ۱۰ توصیه می‌شود) استفاده می‌شود."</string>
+    <string name="photopro_strings_video_file_format_4k_description_txt">"برای ضبط ویدیو با کیفیت 4K می‌توانید یک رمزگذار انتخاب کنید.
+
+‏H.264 (AVC): فرمت استاندارد برای رمزگذاری توسط اکثر دستگاه‌ها و خدمات پشتیبانی می‌شود.
+‏H.265 (HEVC): قالب دارای نرخ فشرده‌سازی بالاتر. دقت کنید سرویس‌ها یا دستگاه‌های پخش شما از این روش پشتیبانی کنند."</string>
+    <string name="photopro_strings_video_file_format_4k_txt">فرمت فایل (4K)</string>
+    <string name="photopro_strings_video_size_description_txt">"اندازه ویدیو را انتخاب کنید.
+زمانی که حالت HD کامل (60 fps) یا HD انتخاب شده باشد HDR در دسترس نیست."</string>
+    <string name="photopro_strings_video_size_for_front_video_description_txt">اندازه ویدئو را انتخاب کنید</string>
+    <string name="photopro_strings_video_size_full_hd_60fps_txt">‏Full HD ‏(‎۶۰ کادر بر ثانیه)</string>
+    <string name="photopro_strings_video_size_full_hd_txt">HD کامل</string>
+    <string name="photopro_strings_video_size_txt">اندازه ویدئو</string>
+    <string name="photopro_strings_video_stabilization_description_txt">‏Xperia دارای یک سیستم لرزش‌گیری ترکیبی منحصربه‌فرد است که Optical SteadyShot نامیده می‌شود و به‌طور همزمان از ترکیب لرزش‌گیر تصویر نوری و لرزش‌گیر تصویر الکترونیکی بهره می‌برد. این ویژگی امکان ضبط ویدیوهایی روان و بدون لرزش را حتی در حال حرکت برای شما فراهم می‌کند.</string>
+    <string name="photopro_strings_video_stabilization_txt">لرزشگیری ویدیو</string>
+    <string name="photopro_strings_volumekey_description_txt">عملکرد دیگری را به دکمه‌های میزان صدا اختصاص دهید</string>
+    <string name="photopro_strings_volumekey_shutter_txt">شاتر</string>
+    <string name="photopro_strings_volumekey_txt">استفاده از دکمه میزان صدا به‌عنوان</string>
+    <string name="photopro_strings_volumekey_volume_txt">تنظیم میزان صدا</string>
+    <string name="photopro_strings_volumekey_zoom_txt">بزرگنمایی</string>
+    <string name="photopro_strings_whitebalance_adjust_abgm_title_txt">میزان کردن - %1$s</string>
+    <string name="photopro_strings_whitebalance_auto_txt">خودکار</string>
+    <string name="photopro_strings_whitebalance_button_adjust_txt">تنظیم</string>
+    <string name="photopro_strings_whitebalance_button_done_txt">تمام شد</string>
+    <string name="photopro_strings_whitebalance_button_retry_txt">سعي مجدد</string>
+    <string name="photopro_strings_whitebalance_button_set_txt">تنظیم</string>
+    <string name="photopro_strings_whitebalance_cloudy_txt">ابری</string>
+    <string name="photopro_strings_whitebalance_custom1_txt">سفارشی 1</string>
+    <string name="photopro_strings_whitebalance_custom2_txt">سفارشی 2</string>
+    <string name="photopro_strings_whitebalance_custom3_txt">سفارشی 3</string>
+    <string name="photopro_strings_whitebalance_cwb_description_txt">توازن سفیدی را براساس مرکز پیش‌نمایش تنظیم کنید</string>
+    <string name="photopro_strings_whitebalance_cwb_failed_txt">تنظیم انجام نشد</string>
+    <string name="photopro_strings_whitebalance_cwb_successful_txt">تنظیم انجام شد</string>
+    <string name="photopro_strings_whitebalance_cwb_title_txt">تنظیم - %1$s</string>
+    <string name="photopro_strings_whitebalance_daylight_txt">نور روز</string>
+    <string name="photopro_strings_whitebalance_fluorescent_txt">فلورسنت</string>
+    <string name="photopro_strings_whitebalance_incandescent_txt">نور سفید</string>
+    <string name="photopro_strings_whitebalance_shade_txt">سایه</string>
+    <string name="photopro_strings_whitebalance_temperature1_txt">دما ۱</string>
+    <string name="photopro_strings_whitebalance_temperature2_txt">دما ۲</string>
+    <string name="photopro_strings_whitebalance_temperature3_txt">دما ۳</string>
+    <string name="photopro_strings_whitebalance_temperature_colon_txt">دما:</string>
+    <string name="photopro_strings_whitebalance_temperature_title_txt">دما</string>
+    <string name="photopro_strings_whitebalance_txt">تعادل سفیدی</string>
+    <string name="photopro_strings_zoom_not_supported_in_front_txt">نزدیک‌نمایی با دوربین جلو مقدور نیست</string>
+    <string name="photopro_strings_zoom_type_clear_image_zoom_txt">بزرگ‌نمایی با وضوح فوق‌العاده AI</string>
+    <string name="photopro_strings_zoom_type_description_txt">"بزرگ‌نمایی مورد نظر خود را انتخاب کنید.
+
+‏ بزرگ‌نمایی دیجیتال: بزرگ‌نمایی با استفاده از پردازش دیجیتال داده‌های حسگر تصویر صورت می‌گیرد.
+بزرگ‌نمایی با وضوح فوق‌العاده AI: بزرگ‌نمایی با استفاده از پردازش دیجیتال صورت می‌گیرد تا کیفیت تصویر اصلی هر چه بیشتر حفظ شود. در این حالت ذخیره عکس‌ها ممکن است زمان بیشتری طول بکشد. در صورت انتخاب تصویربرداری پیوسته، به صورت خودکار از بزرگ‌نمایی دیجیتال استفاده خواهد شد."</string>
+    <string name="photopro_strings_zoom_type_digital_zoom_txt">بزرگ‌نمایی دیجیتال</string>
+    <string name="photopro_strings_zoom_type_txt">تنظیمات بزرگ‌نمایی</string>
+    <string name="search_menu_title">جستجو</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
+    <string name="v7_preference_off">خاموش</string>
+    <string name="v7_preference_on">روشن</string>
+</resources>

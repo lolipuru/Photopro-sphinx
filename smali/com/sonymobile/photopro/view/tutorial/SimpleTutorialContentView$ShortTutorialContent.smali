@@ -1,0 +1,51 @@
+.class abstract Lcom/sonymobile/photopro/view/tutorial/SimpleTutorialContentView$ShortTutorialContent;
+.super Lcom/sonymobile/photopro/view/tutorial/SimpleTutorialContentView$SimpleTutorialContent;
+.source "SimpleTutorialContentView.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/sonymobile/photopro/view/tutorial/SimpleTutorialContentView;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x40a
+    name = "ShortTutorialContent"
+.end annotation
+
+
+# direct methods
+.method public constructor <init>(I)V
+    .locals 0
+
+    .line 153
+    invoke-direct {p0, p1}, Lcom/sonymobile/photopro/view/tutorial/SimpleTutorialContentView$SimpleTutorialContent;-><init>(I)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method protected setupResource()V
+    .locals 1
+
+    .line 158
+    invoke-virtual {p0}, Lcom/sonymobile/photopro/view/tutorial/SimpleTutorialContentView$ShortTutorialContent;->isPortrait()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_0
+
+    const v0, 0x7f0c00fa
+
+    goto :goto_0
+
+    :cond_0
+    const v0, 0x7f0c00f9
+
+    .line 160
+    :goto_0
+    iput v0, p0, Lcom/sonymobile/photopro/view/tutorial/SimpleTutorialContentView$ShortTutorialContent;->mLayoutId:I
+
+    return-void
+.end method
